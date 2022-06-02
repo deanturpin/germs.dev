@@ -1,0 +1,10 @@
+# Pluralsight evaluations (2019)
+- C++ - 244
+- Using the Scrum Framework - 216
+- Networking Fundamentals (N10-007) - 200
+- Git - 196
+- GitHub - 187
+- Linux Fundamentals - 172
+- Ethical Hacking - 162
+- AWS Cloud Compute - 158
+- HTML5 - 108
