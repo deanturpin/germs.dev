@@ -7,8 +7,7 @@ pages:
     - mkdir -p public
     - cp style.css public/
     - date >> README.md
-    - pandoc --css=style.css --standalone --highlight-style tango posts/house.md -o public/index.html
-    - pandoc --standalone --highlight-style tango posts/house.md -o public/index2.html
+    - pandoc --css=style.css --standalone --highlight-style tango posts/tools.md -o public/index.html
 
   artifacts:
     paths:

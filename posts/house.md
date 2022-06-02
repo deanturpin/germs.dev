@@ -1,12 +1,3 @@
----
-title: UK house price data
-date: 2020-08-25
-tags:
-- finance
-- house
-- invest
----
-
 # UK house price data
 ## Independent
 - [rightmove](https://www.rightmove.co.uk/news/house-price-index/)
