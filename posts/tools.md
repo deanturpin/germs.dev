@@ -4,14 +4,15 @@ I bought a kit to get started but I've upgraded much of it.
 
 I've mostly been working on 1960-80s manuals and automatics with a central seconds hand. And I'm a leather strap kind of person so not much work with bracelets.
 
+# Inspection
+- Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
+- Selvyt Medium (PR) Cloth, White
+
 ## Maintenance
 - Spring bar tool (kit)
 - Polywatch (cleaning acrylic crystals)
 - Pin pusher (adjusting bracelets)
-- Loupe and headband
 - Bergeon 2290 Polishing Buff
-- Selvyt Medium (PR) Cloth, White
-- Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
 
 ## Exploratory
 - Squishy ball case back remover
@@ -24,9 +25,9 @@ I've mostly been working on 1960-80s manuals and automatics with a central secon
 ## Repair
 - Materials box
 - Movement holder
-- Bergeon 30080 - Individual Screwdrivers with Blades (white 0.6mm)
-- Bergeon 30080 - Individual Screwdrivers with Blades (yellow 0.8mm)
-- Bergeon 30080 - Individual Screwdrivers with Blades (red 1.2mm) 
+- Bergeon 30080 screwdriver with blades (white 0.6mm)
+- Bergeon 30080 screwdrivers with Blades (yellow 0.8mm)
+- Bergeon 30080 Screwdrivers with Blades (red 1.2mm) 
 - Dial protector
 - Hand levers
 - Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2)
