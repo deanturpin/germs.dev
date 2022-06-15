@@ -1,1 +1,3 @@
-This is my online logbook and general place to dump ideas. See [posts](posts). It's also used to generate my website and verious other things.
+Senior C++ developer, Linux advocate, amateur horolgist and cycle commuter.
+
+This repo is also my online logbook and general place to dump ideas: see [posts](posts). It's used to generate my website and various other things.
