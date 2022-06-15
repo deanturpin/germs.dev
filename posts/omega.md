@@ -5,7 +5,7 @@ title: Omega watches
 # Omega watches
 
 ## Serial numbers by year
-1895 1M, 1902 2M, 1908 3M, 1912 4M, 1916 5M, 1923 6M, 1929 7M, 1935 8M, 1939 9M, 1944 1M0, 1947 11M, 1950 12M, 1952 13500000, 1954 14M, 1956 15M, 1958 16M, 1960 17M, 1961 18M, 1962 19M, 1963 2M0, 1964 21M, 1965 22M, 1966 23M, 1967 25M, 1968 26M, 1969 28M, 1970 29M, 1970 32M, 1971 33M, 1972 34M, 1973 36M, 1974 38M, 1975 39M, 1977 4M0, 1978 41M, 1979 42M, 1980 44M, 1982 45M, 1984 46M, 1985 48M, 1986 49M, 1986 5M0, 1989 51M, not used 52M, 1991 53M, 1993 54M, 1995 55M, 1998 56M
+1895 1M, 1902 2M, 1908 3M, 1912 4M, 1916 5M, 1923 6M, 1929 7M, 1935 8M, 1939 9M, 1944 1M0, 1947 11M, 1950 12M, 1952 13500000, 1954 14M, 1956 15M, 1958 16M, 1960 17M, 1961 18M, 1962 19M, 1963 20M, 1964 21M, 1965 22M, 1966 23M, 1967 25M, 1968 26M, 1969 28M, 1970 29M, 1970 32M, 1971 33M, 1972 34M, 1973 36M, 1974 38M, 1975 39M, 1977 4M0, 1978 41M, 1979 42M, 1980 44M, 1982 45M, 1984 46M, 1985 48M, 1986 49M, 1986 5M0, 1989 51M, not used 52M, 1991 53M, 1993 54M, 1995 55M, 1998 56M
 
 ## Reference decode
 | Number | 1st Digit | 2nd Digit | 3rd Digit |
@@ -39,7 +39,6 @@ See https://www.bobswatches.com/omega/serial-numbers
 | 136.070  | day-date G20 GC | |
 | 145.029  | 1982 Seamaster manual chronograph | 861 |
 | 145.012  | 1967 Speedmaster Pre Moon ||
-| 161.009  | 1965 automatic dress watch | 522 |
 | 162.009  | 1965 automatic dress watch | 565 |
 | 162.009  | 1965 Solid 18k Gold Geneve Automatic | 562 |
 | 165.003  | Seamaster | 552 |
@@ -53,10 +52,11 @@ See https://www.bobswatches.com/omega/serial-numbers
 | 166.0163 | 1972 | |
 | 166.0169 | | 1022 | 
 | | | |
-| 131.019    | Genève | 601 |
-| 136.0049   | 1972 | (613) |
-| 135.070    | - | (552) |
-| -          | 1965 | 601 |
+| 161.009  | 1965 automatic dress watch | 522 |
+| 131.019  | Genève | 601   |
+| 136.0049 | 1972   | (613) |
+| 165.070  |        | (552) |
+| 131.009  | 1965   | 601   |
 
 ## Reference codes
 ```
