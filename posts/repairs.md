@@ -10,11 +10,7 @@
 | Longines 12.92 | Hands a little fragile, no case | Service, replace hands, clean dial, lume, find case |
 | Accurist Shockmaster | Hand winder G10, keeps great time, 34-hour power reserve | Polywatch crystal, buff case, add colour-matched gold-coloured bracelet |
 | Litronix RED LED | Pusher a little sticky | Fix pusher, ensure batteries are secure, replace strap |
-| Borgel trench watch | No glass | Replace crystal, find strap, maybe move lugs? |
-
-<!--
-| Omega (1972) | 136.0049 cal 613, case only | Crystal needs replacing, find a movement |
--->
+| Borgel trench watch | No glass | Replace crystal, service, find strap, maybe move lugs? |
 
 <!--
 ## Sold
