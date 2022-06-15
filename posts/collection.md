@@ -8,17 +8,18 @@ title: Watch collection
 | Make | Description | Repair |
 | --- | --- | --- |
 | Omega (1965 - 22M serial) | Ref 161.009 cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging | Service, consider replacing leather strap |
-| Omega (1970 - 30M serial) | 131.019 (SP?) cal 601, worn crown, low amplitude, 43-hour power reserver, case back is a mess! | Replace (polish?) case back, service, replace crown |
-| Omega (1972) | 136.0049 cal 613, case only | Crystal needs replacing, find a movement |
+| Omega (1970 - 30M serial) | 131.019 (SP?) cal 601, worn crown, low amplitude, 43-hour power reserve, case back is a mess! | Replace case back, service, replace crown |
+| Timex | Keeps great time, 40-hour power reserve, 180&deg; amplitude | Review/replace hands, clean and oil |
 | HMT Rajat | Hindi/English day/date, keeps good time, very small movement | Can't move date |
-
-## For sale
-| Make/model | Description | Repair |
-| --- | --- | --- |
+| Citizen 2800A | Keeps OK time, 180&deg; amplitude | Present on mesh strap, service, Polywatch check keyless works |
+| Longines 12.92 | Hands a little fragile, no case | Service, replace hands, clean dial, lume, find case |
 | Accurist Shockmaster | Hand winder G10, keeps great time, 34-hour power reserve | Polywatch crystal, buff case, add colour-matched gold-coloured bracelet |
-| Citizen 8200A | English/Japanese daydate, very crisp date change, keeps good time | Remove glue around case, clean and verify, regulate, -30s |
-| Citizen 8200A | English/Arabic daydate, very clean crystal and dial, date a little stiff | Regulate |
 
+<!--
+| Omega (1972) | 136.0049 cal 613, case only | Crystal needs replacing, find a movement |
+-->
+
+<!--
 ## Sold
 | Make/model | Description | Repair | Price |
 | --- | --- | --- | --- |
@@ -28,3 +29,4 @@ title: Watch collection
 | Seiko 6309 | English/Hindi day-date, Keeps good time, very clean crystal/dial | Verify working, clean, add new leather strap | £45 |
 | Ingersoll | Pocket watch, slow beat (sounds like a tractor) | Clean and verify | £15 |
 | Casio A100WE-1AEF | Reissue of Vintage Casio | Polish | £30 |
+-->
