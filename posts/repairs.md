@@ -1,10 +1,5 @@
----
-title: Watch collection
----
+# Watch repairs
 
-# Watch collection
-
-## In the workshop
 | Make | Description | Repair |
 | --- | --- | --- |
 | Omega (1965 - 22M serial) | Ref 161.009 cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging | Service, consider replacing leather strap |
