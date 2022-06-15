@@ -10,6 +10,7 @@ approach to programming offered by template metaprogramming and languages such
 as Haskell.
 
 - Online logbook: https://gitlab.com/deanturpin/deanturpin
+- Just enough \<insert topic\> to get by -- quick start guides: https://gitlab.com/deanturpin/just
 - Text-based command-line graph plotter: https://gitlab.com/deanturpin/xy
 - Companies House plotter: https://gitlab.com/deanturpin/companies-house-plotter 
 - UK COVID-19 reports: https://gitlab.com/deanturpin/covid
