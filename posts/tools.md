@@ -31,7 +31,7 @@ There are endless tools that can streamline your workflow, so I've listed them i
 - Bergeon hand levers
 - Bergeon 7404-2 hand pusher (red 0.8mm / grey 1.5mm)
 - Crown pinion remover (can be very expensive for such a specific tool)
-- #2 tweazers
+- \#2 tweezers
 - Plastic pointy stick / peg wood
 
 ## Servicing
