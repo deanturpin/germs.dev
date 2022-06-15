@@ -37,7 +37,11 @@ There are endless tools that can streamline your workflow, so I've listed them i
 ## Servicing
 Servicing usually goes hand-in-hand with the strip-down and repair but it can also start to become quite expensive; not only in the machines but consumables that you probably can't sell on quite as easily.
 
+- Mainspring winder
+
 ### Degreaser
+- Lighter fluid
+
 ### Oil
 A very complicated business but basically you need a light oil for the quick moving parts (jewels) and a heavier oil for the metal-on-metal parts. You can even go for a grease on the heavy friction components (keyless works).
 
