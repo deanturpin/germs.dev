@@ -1,4 +1,1 @@
-Logbook entries live in the [posts/](directory).
-
-Websites are generated from these markdown pages using `pandoc`.
-
+This is my online logbook and general place to dump ideas. See [posts](posts). It's also used to generate my website and verious other things.
