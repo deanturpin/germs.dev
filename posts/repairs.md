@@ -11,6 +11,7 @@
 | Accurist Shockmaster | Hand winder G10, keeps great time, 34-hour power reserve | Polywatch crystal, buff case, add colour-matched gold-coloured bracelet |
 | Litronix RED LED | Pusher a little sticky | Fix pusher, ensure batteries are secure, replace strap |
 | Borgel trench watch | No glass | Replace crystal, service, find strap, maybe move lugs? |
+| Molnija 3602 | Pocket watch 998652 | Replace crystal, service, new fourth wheel, replace ratched wheel screw |
 
 <!--
 ## Sold
