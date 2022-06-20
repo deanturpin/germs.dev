@@ -1,5 +1,77 @@
 # Watch repairs
 
+All pieces are serviced:
+- Clean with renata
+- Oil jewels
+- Grease keyless works
+- Clean dial
+- Polywatch crystal
+
+---
+
+## Omega 161.009
+1965 - 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
+
+- [ ] Service (external)
+- [ ] New leather strap
+- [ ] Gold-plated Omega buckle
+
+##  Omega 131.019 (gold-plated)
+1970 - 30M serial, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
+
+- [x] Replace case back
+- [ ] Refit crystal
+- [ ] Replace crown
+- [ ] Gold-plated Omega buckle
+
+##  Omega 131.019 (steel)
+26M serial
+
+- [x] NOS case
+- [ ] New crystal crystal
+- [ ] Replace crown
+- [ ] Steel Omega buckle
+
+## Timex
+Keeps great time, 40-hour power reserve, 180&deg; amplitude
+
+- [ ] Review/replace hands
+
+## Citizen 2800A
+Keeps OK time, 180&deg; amplitude
+
+- [ ] Check keyless works
+- [ ] Replace main spring
+- [ ] Present on mesh strap
+
+## Longines 12.92
+Hands a little fragile, no case
+
+- [ ] Find new case
+- [ ] Rplace hands
+- [ ] lume
+
+## Accurist Shockmaster
+Hand winder G10, keeps great time, 34-hour power reserve
+
+- [x] buff case
+- [x] add crocodile leather strap
+
+## Borgel trench watch
+
+- [ ] Replace crystal
+- [ ] find strap, maybe move lugs?
+
+## Molnija 3602
+Pocket watch 998652
+
+- [ ] New crystal
+- [ ] Replace fourth wheel
+- [ ] Fit ratchet wheel screw
+
+
+<!--
+
 | Make | Description | Repair |
 | --- | --- | --- |
 | Omega (1965 - 22M serial) | Ref 161.009 cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging | Service, consider replacing leather strap |
@@ -12,6 +84,7 @@
 | Litronix RED LED | Pusher a little sticky | Fix pusher, ensure batteries are secure, replace strap |
 | Borgel trench watch | No glass | Replace crystal, service, find strap, maybe move lugs? |
 | Molnija 3602 | Pocket watch 998652 | Replace crystal, service, new fourth wheel, replace ratched wheel screw |
+-->
 
 <!--
 ## Sold
