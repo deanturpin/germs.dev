@@ -57,6 +57,12 @@ See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/defa
 ### Cleaning machines
 - Ultrasonic cleaner
 
+
+## Stores
+- Gleave London
+- https://www.eternaltools.com/moebius-8300-classic-grease-for-watchmakers
+- H&S Walash
+
 ---
 
 ## Bought but not really used
