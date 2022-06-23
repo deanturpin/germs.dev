@@ -19,15 +19,15 @@ Pocket watch 998652
 - [ ] Replace fourth wheel
 - [ ] Fit ratchet wheel screw
 
-## Omega 161.009
-1965 - 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
+## Omega 161.009 -- 1965
+22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
 
 - [ ] Service (external)
 - [x] New leather strap
 - [ ] Add gold-plated Omega buckle
 
-##  Omega 131.019 (gold-plated)
-1970 - 30M serial, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
+## Omega 131.019 gold-plated -- 1970 
+30463681, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
 ~270&deg; amplitude.
 
@@ -38,7 +38,7 @@ Pocket watch 998652
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
 
-##  Omega 131.019 (steel)
+##  Omega 131.019 (steel) -- 1968
 26M serial
 
 - [x] NOS case
