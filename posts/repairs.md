@@ -11,6 +11,8 @@ All pieces are serviced:
 ---
 -->
 
+Seamaster case - trial pressing crystal
+
 ## Omega 161.009
 1965 - 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
 
@@ -21,8 +23,11 @@ All pieces are serviced:
 ##  Omega 131.019 (gold-plated)
 1970 - 30M serial, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
+~270&deg; amplitude.
+
 - [x] Replace case back
-- [ ] Refit crystal
+- [x] Trial refitting old crystal, order new
+- [ ] Refit crystal (31.1?)
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
 
@@ -30,14 +35,11 @@ All pieces are serviced:
 26M serial
 
 - [x] NOS case
-- [ ] New crystal
+- [x] new mainspring  
+- [ ] Order new crystal (check 31.1)
 - [ ] Replace crown
 - [ ] Add steel Omega buckle
-
-## Timex
-Keeps great time, 40-hour power reserve, 180&deg; amplitude
-
-- [ ] Review/replace hands
+- [ ] new (old) seconds hand
 
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
@@ -46,10 +48,14 @@ Keeps OK time, 180&deg; amplitude
 - [ ] Replace main spring
 - [x] Present on mesh strap
 - [ ] Bezel has a gap
+- [ ] Grease gasket
 
 ## Longines 12.92
 Hands a little fragile, no case
 
+- [ ] Extract stem
+- [ ] Wind and test running OK
+- [ ] order new stem and crown
 - [ ] Find new case
 - [ ] Replace hands
 - [ ] Lume
@@ -62,7 +68,8 @@ Hands a little fragile, no case
 ## Molnija 3602
 Pocket watch 998652
 
-- [ ] New crystal
+- [x] Measure crystal - 42.6mm 
+- [ ] Source new crystal
 - [ ] Replace fourth wheel
 - [ ] Fit ratchet wheel screw
 
@@ -73,6 +80,11 @@ Hand winder G10, keeps great time, 34-hour power reserve
 - [x] Add crocodile leather strap
 
 <!--
+
+## Timex
+Keeps great time, 40-hour power reserve, 180&deg; amplitude
+
+- [ ] Review/replace hands
 
 | Make | Description | Repair |
 | --- | --- | --- |
