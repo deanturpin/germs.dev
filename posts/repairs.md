@@ -17,7 +17,7 @@ Seamaster case - trial pressing crystal
 1965 - 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
 
 - [ ] Service (external)
-- [ ] New leather strap
+- [x] New leather strap
 - [ ] Add gold-plated Omega buckle
 
 ##  Omega 131.019 (gold-plated)
@@ -27,6 +27,7 @@ Seamaster case - trial pressing crystal
 
 - [x] Replace case back
 - [x] Trial refitting old crystal, order new
+- [x] New leather strap
 - [ ] Refit crystal (31.1?)
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
