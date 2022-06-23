@@ -11,7 +11,13 @@ All pieces are serviced:
 ---
 -->
 
-Seamaster case - trial pressing crystal
+## Molnija 3602
+Pocket watch 998652
+
+- [x] Measure crystal - 42.6mm 
+- [ ] Source new crystal
+- [ ] Replace fourth wheel
+- [ ] Fit ratchet wheel screw
 
 ## Omega 161.009
 1965 - 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
@@ -66,21 +72,12 @@ Hands a little fragile, no case
 - [ ] Replace crystal
 - [ ] Find strap
 
-## Molnija 3602
-Pocket watch 998652
-
-- [x] Measure crystal - 42.6mm 
-- [ ] Source new crystal
-- [ ] Replace fourth wheel
-- [ ] Fit ratchet wheel screw
-
+<!--
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve
 
 - [x] Buff case
 - [x] Add crocodile leather strap
-
-<!--
 
 ## Timex
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
