@@ -52,6 +52,8 @@ A very complicated business but basically you need a light oil for the quick mov
 - 9501 low - grease
 - D5 for the barrel
 
+See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/default/themes/moebius/extras/pdf/tableEN.pdf).
+
 ### Cleaning machines
 - Ultrasonic cleaner
 
