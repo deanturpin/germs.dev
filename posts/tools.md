@@ -29,7 +29,7 @@ There are endless tools that can streamline your workflow, so I've listed them i
 - Bergeon 30080 Screwdrivers with Blades (red 1.2mm) 
 - Dial protector
 - Bergeon hand levers
-- Bergeon 7404-2 hand pusher (red 0.8mm / grey 1.5mm)
+- Bergeon 7404-2 hand pusher (red 0.8mm / grey 1.5mm) -- haven't needed any other size so far!
 - Crown pinion remover (can be very expensive for such a specific tool)
 - \#2 tweezers
 - Plastic pointy stick / peg wood
