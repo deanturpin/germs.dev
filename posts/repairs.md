@@ -58,7 +58,7 @@ Keeps OK time, 180&deg; amplitude
 - [ ] Grease gasket
 
 ## Longines 12.92
-Hands a little fragile, no case
+Hands a little fragile, no case, 27.8mm.
 
 - [ ] Extract stem
 - [ ] Wind and test running OK
@@ -67,7 +67,9 @@ Hands a little fragile, no case
 - [ ] Replace hands
 - [ ] Lume
 
-## Borgel trench watch
+## Borgel trench watch 24 9
+
+29.5mm
 
 - [ ] Replace crystal
 - [ ] Find strap
