@@ -69,7 +69,7 @@ Hands a little fragile, no case, 27.8mm.
 
 ## Borgel trench watch 24 9
 
-29.5mm
+ Marvin 362, 29.5mm 
 
 - [ ] Replace crystal
 - [ ] Find strap
