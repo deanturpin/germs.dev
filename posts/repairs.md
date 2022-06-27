@@ -1,15 +1,15 @@
 # Watch repairs
 
-<!--
-All pieces are serviced:
-- Clean with renata
-- Oil jewels
+## Servicing
+All watches are serviced, which means:
+- Dismantle
+- Clean with Renata essence
+- Oil jewels with 9019
 - Grease keyless works
-- Clean dial
-- Polywatch crystal
+- Clean dial with water
+- Polywatch or replace crystal
 
 ---
--->
 
 ## Molnija 3602
 Pocket watch 998652
@@ -18,6 +18,14 @@ Pocket watch 998652
 - [ ] Source new crystal
 - [ ] Replace fourth wheel
 - [ ] Fit ratchet wheel screw
+
+## Rone Countryman
+34mm manual, ~200&deg; ammplitude.
+
+- [x] Polywatch
+- [x] New strap -- black Milanese bracelet
+- [ ] New gasket
+- [ ] Service
 
 ## Omega 161.009 -- 1965
 22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
@@ -73,15 +81,6 @@ Hands a little fragile, no case, 27.8mm.
 
 - [ ] Replace crystal
 - [ ] Find strap
-
-## Rone Countryman
-34mm manual, ~200&deg; ammplitude.
-
-- [ ] Polywatch
-- [ ] New strap
-- [ ] Fit case clamps/screws
-- [ ] New gasket
-- [ ] Service
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve
