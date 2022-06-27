@@ -74,7 +74,15 @@ Hands a little fragile, no case, 27.8mm.
 - [ ] Replace crystal
 - [ ] Find strap
 
-<!--
+## Rone Countryman
+34mm manual, ~200&deg; ammplitude.
+
+- [ ] Polywatch
+- [ ] New strap
+- [ ] Fit case clamps/screws
+- [ ] New gasket
+- [ ] Service
+
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve
 
@@ -85,6 +93,8 @@ Hand winder G10, keeps great time, 34-hour power reserve
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [ ] Review/replace hands
+
+<!--
 
 | Make | Description | Repair |
 | --- | --- | --- |
