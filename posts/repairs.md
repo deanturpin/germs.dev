@@ -3,9 +3,9 @@
 ## Servicing
 All watches are serviced, which means:
 - Dismantle
-- Clean with Renata essence
-- Oil jewels with 9019
-- Grease keyless works
+- Clean parts with Renata essence
+- Oil jewels with Synt-A-Lube Moebius 9010
+- Grease keyless works with Moebius 8300
 - Clean dial with water
 - Polywatch or replace crystal
 
