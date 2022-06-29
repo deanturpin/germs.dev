@@ -85,6 +85,12 @@ specifier: `public:` for `struct` and `private:` for `class`.
 ## Linkage
 See [post/static](/post/static).
 
+## Godbolt
+
+<div>
+<iframe width="800px" height="200px" src="https://godbolt.org/e#g:!((g:!((g:!((h:codeEditor,i:(filename:'1',fontScale:14,fontUsePx:'0',j:1,lang:c%2B%2B,selection:(endColumn:1,endLineNumber:14,positionColumn:1,positionLineNumber:14,selectionStartColumn:1,selectionStartLineNumber:14,startColumn:1,startLineNumber:14),source:'%23include+%3Calgorithm%3E%0A%23include+%3Ccassert%3E%0A%23include+%3Citerator%3E%0A%23include+%3Cvector%3E%0A%0Aint+main()+%7B%0A%0A++const+std::vector%3Cint%3E+vec%7B1,+2,+3,+4,+5,+6%7D%3B%0A++const+auto+count+%3D+count_if(std::cbegin(vec),+std::cend(vec),%0A++++++++++++++++++++++++++++++%5B%5D(const+auto+%26a)+%7B+return+a+%3C+3%3B+%7D)%3B%0A%0A++assert(count+%3D%3D+2)%3B%0A%7D%0A'),l:'5',n:'0',o:'C%2B%2B+source+%231',t:'0')),k:34.02964959568733,l:'4',n:'0',o:'',s:0,t:'0'),(g:!((h:compiler,i:(compiler:clang_trunk,filters:(b:'1',binary:'1',commentOnly:'0',demangle:'0',directives:'0',execute:'0',intel:'0',libraryCode:'1',trim:'1'),flagsViewOpen:'1',fontScale:14,fontUsePx:'0',j:1,lang:c%2B%2B,libs:!((name:googletest,ver:trunk),(name:rangesv3,ver:trunk)),options:'-std%3Dc%2B%2B2a+-Wall+-Wextra+-Werror+-pedantic',selection:(endColumn:6,endLineNumber:9,positionColumn:5,positionLineNumber:4,selectionStartColumn:6,selectionStartLineNumber:9,startColumn:5,startLineNumber:4),source:1,tree:'1'),l:'5',n:'0',o:'x86-64+clang+(trunk)+(C%2B%2B,+Editor+%231,+Compiler+%231)',t:'0')),k:32.63701707097934,l:'4',n:'0',o:'',s:0,t:'0'),(g:!((h:output,i:(editorid:1,fontScale:14,fontUsePx:'0',j:1,wrap:'1'),l:'5',n:'0',o:'Output+of+x86-64+clang+(trunk)+(Compiler+%231)',t:'0')),k:33.33333333333333,l:'4',n:'0',o:'',s:0,t:'0')),l:'2',n:'0',o:'',t:'0')),version:4"></iframe>
+</div>
+
 ## References
 - https://llvm.org/docs/CodingStandards.html
 - https://google.github.io/styleguide/cppguide.html
