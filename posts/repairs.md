@@ -24,6 +24,7 @@ Pocket watch 998652
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
+- [ ] New mainspring (slipping, suspect broken)
 - [ ] New gasket
 - [ ] Service
 
@@ -56,7 +57,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height
 - [ ] Order new crystal (check 31.1)
 - [ ] Replace crown
 - [ ] Add steel Omega buckle
-- [ ] new (old) seconds hand
+- [ ] New (old) seconds hand
 
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
@@ -72,7 +73,7 @@ Hands a little fragile, no case, 27.8mm.
 
 - [ ] Extract stem
 - [ ] Wind and test running OK
-- [ ] order new stem and crown
+- [ ] Order new stem and crown
 - [ ] Find new case
 - [ ] Replace hands
 - [ ] Lume
@@ -80,7 +81,6 @@ Hands a little fragile, no case, 27.8mm.
 ## Borgel trench watch 24 9
 
  Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
-
 
 - [ ] Replace crystal
 - [ ] Find strap
