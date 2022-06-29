@@ -37,6 +37,8 @@ Pocket watch 998652
 ## Omega 131.019 gold-plated -- 1970 
 30463681, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
+Crystal size: &#x2300; 30.8mm, 3.5mm height
+
 ~270&deg; amplitude.
 
 - [x] Replace case back
@@ -77,7 +79,8 @@ Hands a little fragile, no case, 27.8mm.
 
 ## Borgel trench watch 24 9
 
- Marvin 362, 29.5mm 
+ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
+
 
 - [ ] Replace crystal
 - [ ] Find strap
