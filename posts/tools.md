@@ -43,20 +43,24 @@ Servicing usually goes hand-in-hand with the strip-down and repair but it can al
 
 ### Degreaser
 - Lighter fluid
+- Renata essence
 
-### Oil
+### Lubrication
 A very complicated business but basically you need a light oil for the quick moving parts (jewels) and a heavier oil for the metal-on-metal parts. You can even go for a grease on the heavy friction components (keyless works).
 
-- 9010 high delicate
-- HP 1300 mid
-- 9501 low - grease
+- Moebius 9010 for jewels
+- Moebius 9501 grease for high friction parts
+
+<!--
+- Moebius 9501
 - D5 for the barrel
+- HP 1300 mid
+-->
 
 See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/default/themes/moebius/extras/pdf/tableEN.pdf).
 
 ### Cleaning machines
 - Ultrasonic cleaner
-
 
 ## Stores
 - Gleave London
