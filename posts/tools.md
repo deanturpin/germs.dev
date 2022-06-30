@@ -26,48 +26,56 @@ There are endless tools that can streamline your workflow, so I've listed them i
 - Movement holder
 - Bergeon 30080 screwdriver with blades (white 0.6mm)
 - Bergeon 30080 screwdrivers with Blades (yellow 0.8mm)
-- Bergeon 30080 Screwdrivers with Blades (red 1.2mm) 
+- Bergeon 30080 Screwdrivers with Blades (red 1.2mm)
+- Screwdriver Ø1.60mm Bergeon 30080-H - HS1416 (HS1416) 
 - Dial protector
-- Bergeon hand levers
+- Bergeon hand levers (£40!)
 - Hand levers (cheap eBay)
 - Bergeon 7404-2 hand pusher (red 0.8mm / grey 1.5mm) -- haven't needed any other size so far!
 - Crown pinion remover (can be very expensive for such a specific tool)
 - \#2 tweezers
 - Plastic pointy stick / peg wood
-- Barrel press (cheap)
+- Barrel press (cheap) £5
+- Case Cushion Watch Black Gel Ø75mm Bergeon 5395-75-N - HC5395-75-N (HC5395-75-N) 
 
 ## Servicing
 Servicing usually goes hand-in-hand with the strip-down and repair but it can also start to become quite expensive; not only in the machines but consumables that you probably can't sell on quite as easily.
 
-- Mainspring winder
-
 ### Degreaser
-- Lighter fluid
-- Renata essence
+- Lighter fluid (readily available from a newsagent £2.99)
+- Renata essence £8
 
 ### Lubrication
 A very complicated business but basically you need a light oil for the quick moving parts (jewels) and a heavier oil for the metal-on-metal parts. You can even go for a grease on the heavy friction components (keyless works).
 
 - Moebius 9010 for jewels
+- Dropper red (fine)
 - Moebius 9501 grease for high friction parts
+- Dropper green (large)
+
+See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/default/themes/moebius/extras/pdf/tableEN.pdf).
 
 <!--
 - Moebius 9501
 - D5 for the barrel
 - HP 1300 mid
--->
 
-See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/default/themes/moebius/extras/pdf/tableEN.pdf).
+- Mainspring winder
 
 ### Cleaning machines
 - Ultrasonic cleaner
+-->
+
+## Tutorials
+- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
 
 ## Stores
 - Gleave London
 - https://www.eternaltools.com/moebius-8300-classic-grease-for-watchmakers
-- H&S Walash
+- H&S Walsh
 
 ---
 
 ## Bought but not really used
 - Bergeon crystal pen
+- Bergeon case knife -- slightly unwhelmed by this!
