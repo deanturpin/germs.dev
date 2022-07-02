@@ -15,9 +15,9 @@ All watches are serviced, which means:
 Pocket watch 998652
 
 - [x] Measure crystal - 42.6mm 
-- [ ] Source new crystal
-- [ ] Replace fourth wheel
-- [ ] Fit ratchet wheel screw
+- [x] Replace fourth wheel
+- [x] Fit ratchet wheel screw
+- [ ] Fit new 42.8mm crystal 
 
 ## Rone Countryman
 34mm manual, ~200&deg; ammplitude.
@@ -62,25 +62,25 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
 
+- [x] Present on mesh strap
 - [ ] Check keyless works
 - [ ] Replace main spring
-- [x] Present on mesh strap
 - [ ] Bezel has a gap
 - [ ] Grease gasket
 
-## Longines 12.92
-Hands a little fragile, no case, 27.8mm.
+## Longines 15 jewel 12.92
+Hands a little fragile, no case, 27.8mm. I found a 16 jewel with a wobbly balance to use as a donor.
 
 - [ ] Extract stem
 - [ ] Wind and test running OK
-- [ ] Order new stem and crown
+- [x] Order new stem and crown
+- [ ] Fit ratchet wheel
 - [ ] Find new case
 - [ ] Replace hands
 - [ ] Lume
 
 ## Borgel trench watch 24 9
-
- Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
+Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
 
 - [ ] Replace crystal
 - [ ] Find strap
