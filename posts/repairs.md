@@ -17,10 +17,10 @@ Pocket watch 998652
 - [x] Measure crystal - 42.6mm 
 - [x] Replace fourth wheel
 - [x] Fit ratchet wheel screw
-- [ ] Fit new 42.8mm crystal 
+- [ ] Fit new 42.8mm crystal
 
 ## Rone Countryman
-34mm manual, ~200&deg; ammplitude.
+34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date.
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
@@ -43,9 +43,9 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height
 ~270&deg; amplitude.
 
 - [x] Replace case back
-- [x] Trial refitting old crystal, order new
+- [x] Trial refitting old crystal -- cracked it
 - [x] New leather strap
-- [ ] Refit crystal (31.1?)
+- [ ] Fit new 30.8mm crystal
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
 
@@ -54,7 +54,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height
 
 - [x] NOS case
 - [x] new mainspring  
-- [ ] Order new crystal (check 31.1)
+- [ ] Order new crystal (check 30.8)
 - [ ] Replace crown
 - [ ] Add steel Omega buckle
 - [ ] New (old) seconds hand
@@ -69,12 +69,16 @@ Keeps OK time, 180&deg; amplitude
 - [ ] Grease gasket
 
 ## Longines 15 jewel 12.92
-Hands a little fragile, no case, 27.8mm. I found a 16 jewel with a wobbly balance to use as a donor.
+Hands a little fragile, no case, 27.8mm. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel.
 
-- [ ] Extract stem
-- [ ] Wind and test running OK
-- [x] Order new stem and crown
-- [ ] Fit ratchet wheel
+### Issues
+#### 15-jewel
+- Broken stem
+- Missing ratchet wheel
+
+#### 16-jewel
+- Broken balance
+
 - [ ] Find new case
 - [ ] Replace hands
 - [ ] Lume
@@ -82,8 +86,13 @@ Hands a little fragile, no case, 27.8mm. I found a 16 jewel with a wobbly balanc
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
 
+Bezel measured thrice: 30.17, 30.21, 30.24. So I'm going to try a 30.4mm crystal.
+
+- [ ] Rachet wheel is missing a tooth
+- [ ] Service
 - [ ] Replace crystal
-- [ ] Find strap
+- [ ] Repair original strap
+
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve
