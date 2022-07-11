@@ -38,7 +38,7 @@ Pocket watch 998652
 ## Omega 131.019 gold-plated -- 1970 
 30463681, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
-Crystal size: &#x2300; 30.8mm, 3.5mm height
+Crystal size: &#x2300; 30.8mm, 3.5mm height.
 
 ~270&deg; amplitude.
 
@@ -62,7 +62,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
 
-- [x] Present on mesh strap
+- [x] Present on stainless steel sharkskin strap
 - [ ] Check keyless works
 - [ ] Replace main spring
 - [ ] Bezel has a gap
