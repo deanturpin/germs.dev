@@ -38,7 +38,7 @@ Pocket watch 998652
 ## Omega 131.019 gold-plated -- 1970 
 30463681, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
-Crystal size: &#x2300; 30.8mm, 3.5mm height.
+Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not service it.
 
 ~270&deg; amplitude.
 
@@ -58,6 +58,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height.
 - [ ] Replace crown
 - [ ] Add steel Omega buckle
 - [ ] New (old) seconds hand
+- [ ] Service
 
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
@@ -68,20 +69,22 @@ Keeps OK time, 180&deg; amplitude
 - [ ] Bezel has a gap
 - [ ] Grease gasket
 
-## Longines 15 jewel 12.92
+## Longines 12.92
 Hands a little fragile, no case, 27.8mm. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel.
 
 ### Issues
-#### 15-jewel
+#### 15-jewel (serial 4,929,243 -- 1930)
 - Broken stem
 - Missing ratchet wheel
 
-#### 16-jewel
+#### 16-jewel (serial 5,107,778 -- 1932)
 - Broken balance
 
 - [ ] Find new case
 - [ ] Replace hands
 - [ ] Lume
+
+https://millenarywatches.com/longines-serial-number/
 
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
