@@ -1,32 +1,33 @@
 # Watch servicing
 
 ## Procedure
+### Strip down
 - Time with Android app
-- Estimate amplitude 
 - Remove caseback
+- Estimate amplitude 
 - Let down mainspring 
 - Remove case clamps 
 - Remove stem/crown
 - Decase
 - Reinsert stem/crown
-- Remove:
-- balance  wheel
-- Hands
-- Dial
-- Dial washer
-- Hour wheel
-- Cannon pinion
+- Remove
+    - Balance wheel
+    - Hands
+    - Dial
+    - Hour wheel and dial washer
+    - Cannon pinion
 - Put in movement holder 
 - Cleaning 
-- Soak large components in Renata
-- Dip small components in Renata 
-- Oiling
+    - Soak large components in Renata
+    - Dip small components in Renata 
+
+### Oiling
 - Oil jewels with 9010
-- Grease
-- Clean dial 
-- Blow dust
+- Grease high friction components with 8300
+- Clean dial with water
 - Fit hands 
-- Put in case
+- Blow dust
+- Put back in case
 - Time with Android app
 - Regulate 
 - Estimate amplitude using slow motion mode on phone
