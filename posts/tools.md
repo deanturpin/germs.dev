@@ -3,6 +3,8 @@ I bought a kit to get started but I've upgraded much of it. I've mostly been wor
 
 There are endless tools that can streamline your workflow, so I've listed them in order so you can add as you progress. And tools can be resold quite easily if you've gone far enough to scratch the itch. The rabbit hole goes _deep_!
 
+Always try to use the correct size screwdrive. You just risk chewing up the blades, screw head or both.
+
 ## Inspection
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
 - Selvyt Medium (PR) Cloth, White
