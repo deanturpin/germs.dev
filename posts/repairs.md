@@ -1,16 +1,5 @@
 # Watch repairs
 
-## Servicing
-All watches are serviced, which means:
-- Dismantle
-- Clean parts with Renata essence
-- Oil jewels with Synt-A-Lube Moebius 9010
-- Grease keyless works with Moebius 8300
-- Clean dial with water
-- Polywatch or replace crystal
-
----
-
 ## Molnija 3602
 Pocket watch 998652
 

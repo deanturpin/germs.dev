@@ -29,8 +29,10 @@
 - Blow dust
 - Put back in case
 - Time with Android app
-- Regulate 
+- Regulat
 - Estimate amplitude using slow motion mode on phone
+- Clean crystal with Polywatch
+- Buff caseback
 
 ## Exercises
 - Remove balance 
