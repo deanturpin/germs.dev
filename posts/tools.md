@@ -48,7 +48,10 @@ Servicing usually goes hand-in-hand with the strip-down and repair but it can al
 - Renata essence £8
 
 ### Lubrication
-A very complicated business but basically you need a light oil for the quick moving parts (jewels) and a heavier oil for the metal-on-metal parts. You can even go for a grease on the heavy friction components (keyless works).
+A very complicated business, but basically you need:
+- A light oil for the quickest moving parts (jewels)
+- A slightly heavier oil for the metal-on-metal parts
+- And a grease on the high-friction components (e.g., keyless works).
 
 - Moebius 9010 for jewels
 - Dropper red (fine)
@@ -57,27 +60,22 @@ A very complicated business but basically you need a light oil for the quick mov
 
 See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/default/themes/moebius/extras/pdf/tableEN.pdf).
 
-<!--
+## Tutorials
+- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
+
+## Bought but not really used
+- Bergeon crystal pen
+- Bergeon case knife -- slightly unwhelmed by this!
+
+## Might like to buy...
 - Moebius 9501
 - D5 for the barrel
 - HP 1300 mid
-
 - Mainspring winder
-
-### Cleaning machines
 - Ultrasonic cleaner
--->
-
-## Tutorials
-- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
 
 ## Stores
 - Gleave London
 - https://www.eternaltools.com/moebius-8300-classic-grease-for-watchmakers
 - H&S Walsh
-
----
-
-## Bought but not really used
-- Bergeon crystal pen
-- Bergeon case knife -- slightly unwhelmed by this!
+- https://shop.diywatch.club/collections/watchmaking-tools
