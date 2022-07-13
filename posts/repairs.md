@@ -1,12 +1,26 @@
 # Watch repairs
 
 ## Molnija 3602
-Pocket watch 998652
+Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition.
 
-- [x] Measure crystal - 42.6mm 
+### Serial 998652
+- [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
 - [x] Fit ratchet wheel screw
-- [ ] Fit new 42.8mm crystal
+- [x] Order new 42.8mm crystal (next largest I could find)
+- [ ] Fit working balance
+- [ ] New hands
+- [ ] New dial
+- [ ] Fit new crystal -- crystal press not large enough!
+
+### Serial 594243
+- Broken balance
+- Good hands
+- Case much newer but not as nice as the other one
+
+### References
+- http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602
+- http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/
 
 ## Rone Countryman
 34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date.
