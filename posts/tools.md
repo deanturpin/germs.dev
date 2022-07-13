@@ -72,7 +72,8 @@ See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/defa
 - D5 for the barrel
 - HP 1300 mid
 - Mainspring winder
-- Ultrasonic cleaner
+- Ultrasonic cleaner, like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/)
+- USB beer foamer (for cleaning like an ultrasonic)
 
 ## Stores
 - Gleave London
