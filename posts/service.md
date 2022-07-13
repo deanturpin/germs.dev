@@ -40,3 +40,4 @@
 - Remove and rewind a mainspring by hand
 - Remove and refit hands
 - Get a box of old movements that you can destroy 
+- I've found it very useful to have two of the same movement so you can use one as a reference and/or donor
