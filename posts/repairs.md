@@ -24,11 +24,20 @@ Consolidating two pocket watches. Could just put the good balance in the second 
 - http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/
 
 ## Rone Countryman
-34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date.
+34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider a new mainspring for the second if it's looking OK after a clean.
+
+### Date version
+- Extremely dirty and smells of rabbits (been in a loft)
+- Looks like it's been dipped in grease
+- Chipped dial
+- Cracked crystal
+
+### No date version
+Runs for a couple of hours but the mainspring seems to be broken.
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
-- [ ] New mainspring (slipping, suspect broken)
+- [ ] New mainspring (slips after a few winds)
 - [ ] New gasket
 - [ ] Service
 
@@ -39,8 +48,8 @@ Consolidating two pocket watches. Could just put the good balance in the second 
 - [x] New leather strap
 - [ ] Add gold-plated Omega buckle
 
-## Omega 131.019 gold-plated -- 1970 
-30463681, cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
+## Omega 131.019 gold-plated
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
 
 Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not service it.
 
@@ -48,18 +57,19 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
-- [x] New leather strap
-- [ ] Fit new 30.8mm crystal
+- [ ] New leather strap
+- [x] Order new 30.8mm crystal
+- [ ] Fit new crystal
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
 
-##  Omega 131.019 (steel) -- 1968
-26M serial
+##  Omega 131.019 (steel)
+26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one.
 
 - [x] NOS case
-- [x] new mainspring  
+- [x] New mainspring  
 - [x] Order new 30.8mm crystal
-- [x] Fit new crystal
+- [ ] Fit new crystal
 - [ ] Replace worn crown
 - [ ] Add steel Omega buckle
 - [ ] New (old) seconds hand
