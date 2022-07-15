@@ -1,17 +1,6 @@
----
-title: Profiling resources
-date: 2020-12-20
-tags:
-- profiling
-- compiler
-- cpp
-- c++
-- cache
----
-
 # Profiling resources
 
-# Tools
+## Tools
 - valgrind
 - perf
 - `/usr/bin/time --verbose`
@@ -20,10 +9,10 @@ tags:
 - Google Benchmark
 - gprof
 
-# Graph tools
+## Graph tools
 - [GNU Octave](https://octave.org/doc/v4.0.0/Two_002dDimensional-Plots.html)
 
-# Compiler options
+## Compiler options
 - https://docs.microsoft.com/en-us/visualstudio/profiling/beginners-guide-to-performance-profiling?view=vs-2019
 - https://docs.microsoft.com/en-us/cpp/build/reference/o-options-optimize-code?view=msvc-160
 - https://docs.microsoft.com/en-us/visualstudio/debugger/how-to-debug-optimized-code?view=vs-2019
@@ -31,10 +20,5 @@ tags:
 - https://www.youtube.com/watch?v=THE14sSDT6A&feature=youtu.be
 - https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
 
-# Enabling in gcc
+## Enabling in gcc
 Use `-p` for `prof` and `-pg` for `gprof`. But it will take longer to run.
-
-## References
-- [Caches](/post/cache)
-- [Online compilers](/post/compilers)
-
