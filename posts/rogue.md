@@ -1,14 +1,3 @@
----
-title: Creating a rogue Wi-Fi access point
-subtitle: Using a Kali Linux bootable USB drive
-date: 2019-11-03
-tags:
-- security
-- linux
-- kali
-- hacking
----
-
 # Creating a rogue Wi-Fi access point
 
 > Disclaimer: I think it goes without saying that you should only be doing this sort of caper on networks you own. But if nothing else it should disuade you from using public Wi-Fi networks.
@@ -21,7 +10,7 @@ _Settings > Wi-Fi > options > Turn On Wi-Fi Hotspot..._
 
 Run `nmtui` and edit the hotspot credentials to match your home network.
 
-# Capturing packets
+## Capturing packets
 Capturing packets really is as simple as running Wireshark on the Wi-Fi network interface. Try adding a Wireshark filter and visit https://turpin.dev on your compromised device just so you have some known text to search for.
 
 ```
@@ -30,7 +19,7 @@ frame contains "turpin"
 
 And now we wait for a new device to connect... actually, even established connections re-negotiated periodically but we can make it happen on demand.
 
-# Forcing a reconnection
+## Forcing a reconnection
 We _could_ wait but we can also kick out existing sessions by sending a malformed message to the genuine access point.
 
 You'll need two Wi-Fi connections for this: one for the hotspot, one to send malformed packets. So procure a USB-to-Wi-Fi adapter.
@@ -67,7 +56,7 @@ aireplay-ng -0 1 -a 00:14:6C:7E:40:80 -c 00:0F:B5:34:30:30 wlan1
 
 See the [aircrack documentation](https://www.aircrack-ng.org/doku.php?id=deauthentication).
 
-# Tidying up after yourself
+## Tidying up after yourself
 When you're done take the network interface out of monitor mode and restart your network. But you can just turn off if you don't care. Should the Kali screensaver kick in the default root password is "toor" (root backwards).
 
 airmon-ng stop wlan1mon

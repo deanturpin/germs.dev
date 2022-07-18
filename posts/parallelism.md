@@ -10,7 +10,7 @@ tags:
 
 # Parallelism
 
-# Kinds of parallelism
+## Kinds of parallelism
 - bit level
 - instruction level (ILP)
 - data (DLP/SIMD)
@@ -18,7 +18,7 @@ tags:
 
 See [YouTube/MIT - parallel processing](https://www.youtube.com/watch?v=aZqPLM0wrlY).
 
-# Examples
+## Examples
 - Distributed processing over networks
 - Multiple CPUs
 - Multiple cores
@@ -41,10 +41,9 @@ See [YouTube/MIT - parallel processing](https://www.youtube.com/watch?v=aZqPLM0w
 - GPGPU
 - Advance Vector Extensions AVX - xmm ymm zmm
 
-# Amdahl's law
+## Amdahl's law
 Amdahl's law shows the maximum speed up that can be achieved by parallelising a pipeline is related to the proportion that can be done in parallel. If you can only do 10% in parallel, the best that can be achieved if that now takes zero time is 90% for the overall process.
 
 Extra cores are great but making use of them is difficult.
 
 See [wiki/Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law).
-

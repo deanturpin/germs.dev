@@ -1,14 +1,3 @@
----
-title: Growing mangos
-subtitle: In the UK
-date: 2020-08-19
-tags:
-- gardening
-- plants
-- botany
-- fruit
----
-
 # Growing mangos
 
 Mangos are notoriously difficult to grow in non-tropical climates -- Kew

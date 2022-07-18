@@ -1,17 +1,3 @@
----
-title: Parsing WAV files
-subtitle: In alternative languages
-date: 2017-10-05
-tags:
-  - wav
-  - pcm
-  - audio
-  - javascript
-  - bash
-  - linux
-  - cli
----
-
 # What does a WAV header look like?
 Inspect the hex with `xxd`, a WAV header is 42 bytes and is then followed by
 the sample data.
@@ -32,7 +18,7 @@ xxd example.wav | head -10
 00000090: 0000 4582 e2d0 126c 9e57 c4b4 308c d41f  ..E....l.W..0...
 ```
 
-# Bash
+## Bash
 ```bash
 #!/bin/bash
 
@@ -55,7 +41,7 @@ for s in ${samples[*]}; do
 done | graph -T png
 ```
 
-# javascript
+## JavaScript
 ```js
 <input type="file" id="pcm" /><br>
 <p id="status"></p>
@@ -124,7 +110,7 @@ onload = function() {
 </script>
 ```
 
-# References
+## References
 - http://wiki.bash-hackers.org/
 - http://www.tldp.org/LDP/abs/html/arithexp.html
 - http://shop.oreilly.com/product/0636920010166.do
