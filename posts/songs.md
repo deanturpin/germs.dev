@@ -1,11 +1,3 @@
----
-title: Dean Turpin songs
-date: 2019-05-06
-tags:
-- music
-- guitar
----
-
 # Dean Turpin songs
 
 ## Infectious diseases
