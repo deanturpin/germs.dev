@@ -39,4 +39,3 @@ One should "depend upon abstractions, not concretions."
 ## References
 - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 - [GRASP: General Responsibility Assignment Software Principles](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-

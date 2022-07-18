@@ -8,19 +8,19 @@ tags:
 
 # Dean Turpin songs
 
-# Infectious diseases
+## Infectious diseases
 ```
 Dbsus2 C#m Dbsus2 C#m
 B A Am E
 ```
 
-# Over shoes
+## Over shoes
 ```
 D Dm A F
 Bm E A E
 ```
 
-# Isolation station
+## Isolation station
 ```
 Verse
 C Em Am G
@@ -31,12 +31,12 @@ F G Em E7 Am
 G# G# G13 G13
 ```
 
-# Trousers
+## Trousers
 ```
 Bb6 Em Bb6 Em
 ```
 
-# Lemon drizzle
+## Lemon drizzle
 ```
 C C C C
 G6 G6 G6 G6
@@ -44,7 +44,7 @@ Am Am
 E E E E
 ```
 
-# Hopes
+## Hopes
 ```
 # Verse
 C C C C
@@ -62,7 +62,7 @@ E7 E7 Am Am
 Dm Dm G G
 ```
 
-# Once more with skanking
+## Once more with skanking
 ```
 G F C C
 G F C C7
@@ -70,18 +70,18 @@ E E7 Am Am
 G# G# G G
 ```
 
-# Riverine
+## Riverine
 ```
 Cmaj7 A7sus2 Cmaj7 A7sus2
 Em Em G G
 ```
 
-# Hallo 5/4
+## Hallo 5/4
 ```
 Am Dm C Baug E
 ```
 
-# Goats
+## Goats
 ```
 Verse
 E E E F#m9
@@ -94,7 +94,7 @@ G7 G7 C C
 B7 B7 B7 B7
 ```
 
-# Driving licence
+## Driving licence
 Asus2 is Asus2#11.
 ```
 E E E F#m9
@@ -102,12 +102,12 @@ G6 G6 Cmaj7 Cmaj7
 B7 B7
 ```
 
-# Untitled
+## Untitled
 ```
 Eadd9 Am6 Baug Em(add9)
 ```
 
-# Pag
+## Pag
 ```
 Verse
 Am Am C C F F E E
@@ -120,7 +120,7 @@ Dm Dm Am Am E E Am Am
 Fmaj7 Fmaj7 C C E E E E
 ```
 
-# Goodnight
+## Goodnight
 
 Goodnight good night good night
 
@@ -139,7 +139,7 @@ D Dm E F#m F#m
 A E A A
 ```
 
-# You know, you know?
+## You know, you know?
 ```
 Verse
 A Amaj7 A7 D
@@ -156,14 +156,14 @@ D D Dm Dm
 A A E E
 ```
 
-# Pink shorts and red wine
+## Pink shorts and red wine
 ```
 Dmaj7 A E A
 Dmaj7 A F#m E
 Dmaj7 A E
 ```
 
-# Origin Unbeknownst
+## Origin Unbeknownst
 
 ```
 Chorus
@@ -173,25 +173,25 @@ Fmaj7 Fmaj7 Em Em
 Fmaj7 Fmaj7 Baug E7 E7
 ```
 
-# Slow song
+## Slow song
 Picked.
 ```
 Em C Am Baug
 ```
 
-# A choice of fabrics
+## A choice of fabrics
 ```
 E D C B
 ```
 
-# Careful now (down with this sort of thing)
-
+## Careful now (down with this sort of thing)
 ```
 E7 Fmaj7 F#m7 G6
 G#dim A7 D7 G
 ```
 
-# Ahoy! Ahoy! I'm captain of the ship... (working title)
+## Ahoy! Ahoy! I'm captain of the ship... (working title)
+
 |string|Cadd9|G13|
 |---|---|---|
 |E| |0|
@@ -207,7 +207,7 @@ Cadd9 G13 Cadd9 G13
 Dm C Dm G7
 ```
 
-# Wintersun
+## Wintersun
 ```
 Verse
 C B Am Am
@@ -219,7 +219,8 @@ Interlude
 Am
 ```
 
-# Made in Black
+## Made in Black
+
 |string|Bm|C#|
 |---|---|---|
 |E| | |
@@ -235,7 +236,7 @@ Bm C# F Em G
 D A F F7
 ```
 
-# Gayatri Mantra (version)
+## Gayatri Mantra (version)
 See [Wikipedia](https://en.wikipedia.org/wiki/Gayatri_Mantra).
 
 ```
@@ -243,7 +244,7 @@ D D D A A A
 Em Em Em A A A
 ```
 
-# Zivjeli
+## Zivjeli
 A Croatian drinking song.
 
 ```

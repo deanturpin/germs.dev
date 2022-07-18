@@ -9,7 +9,7 @@ tags:
 
 # Software acronyms
 
-# Acronyms
+## Acronyms
 - RAII: Resource Acquisition Is Initialisation: `std::unique_ptr`, `std::vector`
 - RTTI: Run Time Type Inspection, e.g., `dynamic_cast<>`
 - RVO: return value optimisation
@@ -34,12 +34,12 @@ update information than the model you use to read information. For some
 situations, this separation can be valuable, but beware that for most systems
 CQRS adds risky complexity.
 
-# Testing
+## Testing
 - Black box testing: examines the functionality of an application without peering into its internal structures or workings.
 - White box testing: tests internal structures or workings of an application
 - Unit, integration and system level testing
 
-# Functional languages
+## Functional languages
 If you can detect a function has been run then it's not pure.
 
 ## Memoization
@@ -48,4 +48,3 @@ See [wiki/Memoization](https://en.wikipedia.org/wiki/Memoization).
 - Caching the results of expensive functions
 - On first call of function store the results, if the function is called again with the same input then just return the cache
 - Redux selector pattern
-
