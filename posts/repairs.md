@@ -57,7 +57,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
-- [ ] Present on new leather strap
+- [x] Present on new leather strap
 - [x] Order new 30.8mm crystal
 - [x] Fit new crystal
 - [ ] Replace crown
