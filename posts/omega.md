@@ -75,35 +75,20 @@ See https://www.bobswatches.com/omega/serial-numbers
 
 ## Reference codes
 ```
-BA
-BC
-BG
-BT
-DA
-DD
-DG
-DL
-MD
-SP
-ST
-TA
-TI
-TL
-
-Yellow gold
-White gold
-Pink gold
-Platinum
-Yellow gold combination
-Gold combination
-Pink gold combination
-Gold combination
-Gold plated
-Strap
-Stainless steel
-Titanium and yellow gold combination
-Titanium
-Titanium and pink gold combination
+BA Yellow gold
+BC White gold
+BG Pink gold
+BT Platinum
+DA Yellow gold combination
+DD Gold combination
+DG Pink gold combination
+DL Gold combination
+MD Gold plated
+SP Strap
+ST Stainless steel
+TA Titanium and yellow gold combination
+TI Titanium
+TL Titanium and pink gold combination
 ```
 
 ## Appoximate eBay prices
