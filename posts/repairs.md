@@ -60,8 +60,9 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [x] Present on new leather strap
 - [x] Order new 30.8mm crystal
 - [x] Fit new crystal
-- [ ] Replace crown
+- [ ] Measure buckle end of strap
 - [ ] Add gold-plated Omega buckle
+- [ ] Replace crown
 
 ##  Omega 131.019 (steel)
 26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one.
