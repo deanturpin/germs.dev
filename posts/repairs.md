@@ -41,8 +41,8 @@ Runs for a couple of hours but the mainspring seems to be broken.
 - [ ] New gasket
 - [ ] Service
 
-## Omega 161.009 -- 1965
-22M serial, cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
+## Omega 161.009
+22M serial (1965), cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
 
 - [ ] Service (external)
 - [x] New leather strap
@@ -57,9 +57,9 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
-- [ ] New leather strap
+- [ ] Present on new leather strap
 - [x] Order new 30.8mm crystal
-- [ ] Fit new crystal
+- [x] Fit new crystal
 - [ ] Replace crown
 - [ ] Add gold-plated Omega buckle
 
@@ -71,7 +71,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [x] Order new 30.8mm crystal
 - [ ] Fit new crystal
 - [ ] Replace worn crown
-- [ ] Add steel Omega buckle
+- [x] Present on steel sharkskin mesh bracelet
 - [ ] New (old) seconds hand
 - [ ] Service
 
@@ -107,7 +107,7 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I'm going to try a 30.4mm crystal
 
 - [x] Order 30.4mm crystal
 - [x] Polish silver
-- [ ] Replace crystal
+- [x] Replace crystal
 - [ ] Rachet wheel is missing a tooth: does it matter?
 - [ ] Service
 - [ ] Repair original strap
@@ -122,7 +122,8 @@ Hand winder G10, keeps great time, 34-hour power reserve.
 ## Timex
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
-- [ ] Review/replace hands
+- [ ] Attempt to bend bend hour hand back
+- [ ] Minor service
 
 <!--
 ## Sold
