@@ -1,17 +1,17 @@
 # Watch repairs
 
 ## Molnija 3602
-Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition.
+Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition. Actually the second runs well just after swapping in the good balance -- approx. 270&deg; amplitude -- perhaps it's worth just putting this movement into the wolf case?
 
 ### Serial 998652
 - [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
 - [x] Fit ratchet wheel screw
 - [x] Order new 42.8mm crystal (next largest I could find)
+- [ ] Fit new crystal -- crystal press not large enough!
 - [ ] Fit working balance
 - [ ] New hands
 - [ ] New dial
-- [ ] Fit new crystal -- crystal press not large enough!
 
 ### Serial 594243
 - Broken balance
@@ -27,16 +27,19 @@ Consolidating two pocket watches. Could just put the good balance in the second 
 34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider a new mainspring for the second if it's looking OK after a clean.
 
 ### Date version
-- Extremely dirty and smells of rabbits (been in a loft)
-- Looks like it's been dipped in grease
-- Chipped dial
-- Cracked crystal
+Extremely dirty and smells of rabbits (been in a loft). Appears to have been dipped in grease.
+
+- [x] Clean dial
+- [ ] Clean and service
+- [ ] Measure crystal
+- [ ] Replace crystal
 
 ### No date version
 Runs for a couple of hours but the mainspring seems to be broken.
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
+- [ ] New cannon pinion
 - [ ] New mainspring (slips after a few winds)
 - [ ] New gasket
 - [ ] Service
@@ -60,9 +63,9 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [x] Present on new leather strap
 - [x] Order new 30.8mm crystal
 - [x] Fit new crystal
-- [ ] Measure buckle end of strap
-- [ ] Add gold-plated Omega buckle
-- [ ] Replace crown
+- [x] Measure buckle end of strap -- 16mm
+- [ ] Add gold-plated 16mm Omega buckle
+- [ ] Replace worn crown
 
 ##  Omega 131.019 (steel)
 26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one.
@@ -70,10 +73,10 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [x] NOS case
 - [x] New mainspring  
 - [x] Order new 30.8mm crystal
+- [x] Present on steel sharkskin mesh bracelet
 - [ ] Fit new crystal
 - [ ] Replace worn crown
-- [x] Present on steel sharkskin mesh bracelet
-- [ ] New (old) seconds hand
+- [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 - [ ] Service
 
 ## Citizen 2800A
@@ -81,6 +84,7 @@ Keeps OK time, 180&deg; amplitude
 
 - [x] Present on stainless steel sharkskin strap
 - [ ] Check keyless works
+- [ ] Service
 - [ ] Replace main spring
 - [ ] Bezel has a gap
 - [ ] Grease gasket
@@ -89,13 +93,17 @@ Keeps OK time, 180&deg; amplitude
 Hands a little fragile, no case, 27.8mm. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel.
 
 ### Issues
-#### 15-jewel (serial 4,929,243 -- 1930)
-- Broken stem
-- Missing ratchet wheel
+#### 15-jewel
+Serial 4,929,243 (1930).
 
-#### 16-jewel (serial 5,107,778 -- 1932)
-- Broken balance
+- [x] Clean dial
+- [ ] Remove broken stem
+- [ ] Fit missing ratchet wheel
 
+#### 16-jewel
+Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
+
+- [x] Clean dial -- not very effective
 - [x] Find new case -- from SR
 - [ ] Replace hands?
 
@@ -112,7 +120,6 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I'm going to try a 30.4mm crystal
 - [ ] Rachet wheel is missing a tooth: does it matter?
 - [ ] Service
 - [ ] Repair original strap
-
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
