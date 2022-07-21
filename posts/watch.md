@@ -22,26 +22,6 @@ tags:
 - Patek Philippe
 - Vacheron Constantin
 
-<!--
-## Watches I've worked on
-- Swissam 17 jewels 
-- Sekonda jewels
-- Ingersoll (wrist and pocket)
-- Lucerne (wrist and pocket)
-- Prestige 
-- Bentima
-- Smiths 17 jewels
-- Meda 7 jewels 
-- Oriosa 17 jewels 
-- Citizen quartz 
-- Ardan 15 jewels
-- George Stockwell trench style
-- Seiko 6309
-- Citizen 8200A
-- HMT Rajat
-- Omega 161.009
--->
-
 ## Escapements
 - [Lever](https://en.wikipedia.org/wiki/Lever_escapement) - modern watches
 - [Anchor](https://en.wikipedia.org/wiki/Anchor_escapement) - pendulum clocks
@@ -139,6 +119,7 @@ https://en.wikipedia.org/wiki/Trench_watch
 
 ## References
 - [Ranfft calibre library](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Omega_601)
+- [Types of pocket watch](https://www.pocketwatch.co.uk/types-of-pocket-watch)
 - https://swisstimeservices.co.uk/glossary/
 - https://deployant.com/watches-101-the-wheel-train-assembly-of-a-movement-at-the-lange-akademie/
 - https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction

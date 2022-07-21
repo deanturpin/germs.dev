@@ -14,41 +14,40 @@ Consolidating two pocket watches. Could just put the good balance in the second 
 - [ ] New dial
 
 ### Serial 594243
-- Broken balance
-- Good hands
-- Case much newer but not as nice as the other one
-- Click needed reseating
+Broken balance and good hands. Case much newer but not as nice as the wolf one. Full hunter.
+
+- [x] Reseat click
 
 ### References
 - http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602
 - http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/
 
 ## Rone Countryman
-34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider a new mainspring for the second if it's looking OK after a clean.
-
-### Date version
-Extremely dirty and smells of rabbits (been in a loft). Appears to have been dipped in grease.
-
-- [x] Clean dial
-- [ ] Clean and service
-- [ ] Measure crystal
-- [ ] Replace crystal
+34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
 
 ### No date version
 Runs for a couple of hours but the mainspring seems to be broken.
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
-- [ ] New cannon pinion
-- [ ] New mainspring (slips after a few winds)
+- [ ] New cannon pinion -- evaporated during tear down
+- [ ] New mainspring -- slips after a few winds
 - [ ] New gasket
 - [ ] Service
 
-## Omega 161.009
-22M serial (1965), cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging
+### Date version
+Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
 
-- [ ] Service (external)
+- [x] Clean dial
+- [ ] Clean and service
+- [ ] Measure crystal
+- [ ] Replace crystal
+
+## Omega 161.009
+22M serial (1965), cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging.
+
 - [x] New leather strap
+- [ ] Service (external)
 - [ ] Add gold-plated Omega buckle
 
 ## Omega 131.019 gold-plated
@@ -132,15 +131,3 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [ ] Attempt to bend bend hour hand back
 - [ ] Minor service
-
-<!--
-## Sold
-| Make/model | Description | Repair | Price |
-| --- | --- | --- | --- |
-| Seiko 6309 | English/French day-date, classic 4 o'clock crown, 19mm bracelet, excellent crystal, case polished | Dial needs attention, polish bracelet, 2 mins fast, date a little sticky... in fact it doesn't change! Sold as spares and repairs | £10 |
-| Citizen 8200A | Arabic numbers on the dial, English/Arabic day-date, 4 o'clock crown, spares and repairs | Runs very fast, diffcult to spin date, day 31 is hand-drawn! | £10 |
-| Casio A100WEG-9AEF | Reissue of Vintage Casio | Polish | £31 |
-| Seiko 6309 | English/Hindi day-date, Keeps good time, very clean crystal/dial | Verify working, clean, add new leather strap | £45 |
-| Ingersoll | Pocket watch, slow beat (sounds like a tractor) | Clean and verify | £15 |
-| Casio A100WE-1AEF | Reissue of Vintage Casio | Polish | £30 |
--->
