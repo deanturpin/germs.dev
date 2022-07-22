@@ -26,7 +26,6 @@ cd compiler-explorer
 make dev
 ```
 
-
 ## References
 - https://computingforgeeks.com/install-node-js-14-on-ubuntu-debian-linux/
 - https://gist.github.com/jniemann66/e666d0c0a3751f9be0361b860d985dbe

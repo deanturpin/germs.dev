@@ -1,14 +1,3 @@
----
-
-title: Yogr
-subtitle: Asana sequence of the day
-date: 2019-07-06
-tags:
-- r
-- yoga
-- sanskrit
----
-
 # Yogr
 
 <iframe style="width: 100%; height: 2000px; border:none;" src="https://deanturpin.gitlab.io/yogr/"></iframe>

@@ -1,13 +1,3 @@
----
-title: Terminology
-date: 2020-06-18
-tags:
-- terminology
-- grammar
-- language
-draft: true
----
-
 # Terminology
 
 ## Replacing legacy master/slave terminology
