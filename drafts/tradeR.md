@@ -1,14 +1,3 @@
----
-title: tradeR
-subtitle: Currency price analysis in R
-date: 2019-06-15
-tags:
-- currency
-- statistics
-- r
-- forex
----
-
 # tradeR
 
 Market data via the [CryptoCompare API](https://min-api.cryptocompare.com/) and prices fetched in parallel using `make`. See the [source](https://gitlab.com/deanturpin/tradeR).

@@ -1,7 +1,3 @@
----
-title: stroke
----
-
 # stroke
 
 ## Week 1
