@@ -1,5 +1,11 @@
 # Watch repairs
 
+## Raketa 2609.HA
+From 1975, in very good condition and running well. Will probably just give the dial some love and check the power reserve.
+
+- [ ] Check power reserve
+- [ ] Clean dial
+
 ## Molnija 3602
 Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition. Actually the second runs well just after swapping in the good balance -- approx. 270&deg; amplitude -- perhaps it's worth just putting this movement into the wolf case?
 
