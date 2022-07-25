@@ -4,7 +4,7 @@
 From 1975, in very good condition and running well. Will probably just give the dial some love and check the power reserve.
 
 - [ ] Check power reserve
-- [ ] Clean dial
+- [x] Clean dial -- brightened up a little with water and cottonbud, removed some of the gunk on the chapter ring
 
 ## Molnija 3602
 Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition. Actually the second runs well just after swapping in the good balance -- approx. 270&deg; amplitude -- perhaps it's worth just putting this movement into the wolf case?
@@ -15,6 +15,7 @@ Consolidating two pocket watches. Could just put the good balance in the second 
 - [x] Fit ratchet wheel screw
 - [x] Order new 42.8mm crystal (next largest I could find)
 - [ ] Fit new crystal -- crystal press not large enough!
+- [ ] Clean pallet fork before fitting new balance
 - [ ] Fit working balance
 - [ ] New hands
 - [ ] New dial
@@ -73,13 +74,14 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [ ] Replace worn crown
 
 ##  Omega 131.019 (steel)
-26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one.
+26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one. Fitted new crystal but the dial doesn't fit through the back of the case! Perhaps this is a front loader?
 
 - [x] NOS case
 - [x] New mainspring  
 - [x] Order new 30.8mm crystal
 - [x] Present on steel sharkskin mesh bracelet
-- [ ] Fit new crystal
+- [x] Fit new crystal
+- [ ] Remove movement from gold-plated one and measure dial
 - [ ] Replace worn crown
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 - [ ] Service
@@ -87,10 +89,10 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 ## Citizen 2800A
 Keeps OK time, 180&deg; amplitude
 
-- [x] Present on stainless steel sharkskin strap
-- [ ] Check keyless works
+- [ ] Present on new strap (stainless steel sharkskin?)
+- [ ] Review keyless works
 - [ ] Service
-- [ ] Replace main spring
+- [ ] Replace main spring (gets very low amplitude on a low wind)
 - [ ] Bezel has a gap
 - [ ] Grease gasket
 
@@ -117,14 +119,16 @@ https://millenarywatches.com/longines-serial-number/
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
 
-Bezel measured thrice: 30.17, 30.21, 30.24. So I'm going to try a 30.4mm crystal.
+Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
 
 - [x] Order 30.4mm crystal
 - [x] Polish silver
 - [x] Replace crystal
 - [ ] Rachet wheel is missing a tooth: does it matter?
+    - If so, replace ratchet wheel from donor
+- [ ] Pusher has come loose during cleaning
 - [ ] Service
-- [ ] Repair original strap
+- [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
