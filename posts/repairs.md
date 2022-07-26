@@ -1,33 +1,31 @@
 # Watch repairs
 
-## Raketa 2609.HA
-From 1975, in very good condition and running well. Will probably just give the dial some love and check the power reserve.
-
-- [ ] Check power reserve
-- [x] Clean dial -- brightened up a little with water and cottonbud, removed some of the gunk on the chapter ring
-
 ## Molnija 3602
-Consolidating two pocket watches. Could just put the good balance in the second but the first has the cool wolf case, the second is a bit smaller but the dial and hands are in good condition. Actually the second runs well just after swapping in the good balance -- approx. 270&deg; amplitude -- perhaps it's worth just putting this movement into the wolf case?
+Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
 
 ### Serial 998652
+- Awesome forest scene case
+- Non-runner (broken fourth wheel)
+
 - [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
 - [x] Fit ratchet wheel screw
 - [x] Order new 42.8mm crystal (next largest I could find)
 - [ ] Fit new crystal -- crystal press not large enough!
 - [ ] Clean pallet fork before fitting new balance
-- [ ] Fit working balance
+- [x] Fit working balance
 - [ ] New hands
 - [ ] New dial
 
 ### Serial 594243
-Broken balance and good hands. Case much newer but not as nice as the wolf one. Full hunter.
+- Non-runner (broken balance)
+- Good hands
+- Case much newer but not as nice as the wolf one
+- Full hunter
+- Pallet bridge has crazy big screws in it!
+- Ran overnight after swapping in a good balance (but only in face down position)
 
 - [x] Reseat click
-
-### References
-- http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602
-- http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/
 
 ## Rone Countryman
 34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
@@ -58,9 +56,7 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Add gold-plated Omega buckle
 
 ## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess!
-
-Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not service it.
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess! Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not service it.
 
 ~270&deg; amplitude.
 
@@ -70,6 +66,7 @@ Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not se
 - [x] Order new 30.8mm crystal
 - [x] Fit new crystal
 - [x] Measure buckle end of strap -- 16mm
+- [x] Display box
 - [ ] Add gold-plated 16mm Omega buckle
 - [ ] Replace worn crown
 
@@ -130,14 +127,22 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and i
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
+## Timex
+Keeps great time, 40-hour power reserve, 180&deg; amplitude
+
+- [ ] Attempt to bend bend hour hand back
+- [ ] Minor service
+
+---
+
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
 
 - [x] Buff case
 - [x] Add crocodile leather strap
 
-## Timex
-Keeps great time, 40-hour power reserve, 180&deg; amplitude
+## Raketa 2609.HA
+From 1975, in very good condition and running well. Will probably just give the dial some love and check the power reserve. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the chapter ring
 
-- [ ] Attempt to bend bend hour hand back
-- [ ] Minor service
+- [x] Check power reserve
+- [x] Clean dial
