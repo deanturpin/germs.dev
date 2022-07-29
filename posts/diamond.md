@@ -10,8 +10,8 @@ Hardness is rated using the [Mohs scale](https://en.wikipedia.org/wiki/Mohs_scal
 
 > Because of its low cost, durability, and close visual likeness to diamond, synthetic cubic zirconia has remained the most gemologically and economically important competitor for diamonds since commercial production began in 1976. Its main competitor as a synthetic gemstone is a more recently cultivated material, synthetic moissanite.
 
-## diamond-quality-factor
-https://www.gia.edu/diamond-quality-factor
+## Diamond quality factor
+- https://www.gia.edu/diamond-quality-factor
 
 ### Colour
 ### Clarity
@@ -22,7 +22,8 @@ The term “cut” also can describe a fashioned diamond’s shape. Shapes other
 ### Carat weight
 > Diamond weights are stated in metric carats, abbreviated “ct.” One metric carat is two-tenths (0.2) of a gram... The metric carat is divided into 100 points. A point is one hundredth of a carat. Diamonds are weighed to a thousandth (0.001) of a carat and then rounded to the nearest hundredth, or point. Fractions of a carat can mean price differences of hundreds—even thousands—of dollars, depending on diamond quality.
 
-## Kimberley Process Certification Scheme
+### Certificate
+#### Kimberley Process Certification Scheme
 > The Kimberley Process Certification Scheme (KPCS) is the process established in 2003 to prevent "conflict diamonds" from entering the mainstream rough diamond market by United Nations General Assembly Resolution 55/56 following recommendations in the Fowler Report. The process was set up "to ensure that diamond purchases were not financing violence by rebel movements and their allies seeking to undermine legitimate governments."
 
 - https://en.wikipedia.org/wiki/Kimberley_Process_Certification_Scheme
