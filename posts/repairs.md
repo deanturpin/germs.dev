@@ -123,7 +123,7 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and i
 - [x] Replace crystal
 - [ ] Rachet wheel is missing a tooth: does it matter?
     - If so, replace ratchet wheel from donor
-- [ ] Pusher has come loose during cleaning
+- [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
