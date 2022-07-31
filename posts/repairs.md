@@ -101,7 +101,7 @@ Hands a little fragile, no case, 27.8mm. I found a 16-jewel version with a wobbl
 Serial 4,929,243 (1930).
 
 - [x] Clean dial
-- [ ] Remove broken stem
+- [x] Remove broken stem
 - [ ] Fit missing ratchet wheel
 
 #### 16-jewel
