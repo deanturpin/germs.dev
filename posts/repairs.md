@@ -28,7 +28,7 @@ Consolidating two pocket watches. After swapping various bits it seems both bala
 - [x] Reseat click
 
 ## Rone Countryman
-34mm manual, ~200&deg; ammplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
+34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
 
 ### No date version
 Runs for a couple of hours but the mainspring seems to be broken.
@@ -52,7 +52,7 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 22M serial (1965), cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging.
 
 - [x] New leather strap
-- [ ] Service (external)
+- [ ] Service (external) -- ask for it back!
 - [ ] Add gold-plated Omega buckle
 
 ## Omega 131.019 gold-plated
