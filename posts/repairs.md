@@ -56,7 +56,12 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Add gold-plated Omega buckle
 
 ## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess! Crystal size: &#x2300; 30.8mm, 3.5mm height. Very strong running so might not service it.
+- 30463681 (1970), cal 601
+- Worn crown
+- 43-hour power reserve
+- Crystal is loose, &#x2300; 30.8mm, 3.5mm height
+- Case back is a mess!
+- Very strong running so might not service it.
 
 ~270&deg; amplitude.
 
@@ -71,20 +76,20 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Replace worn crown
 
 ##  Omega 131.019 (steel)
-26M serial (1968). Cal 601 arrived in an automatic case, so I bought a brand new correct one. Fitted new crystal but the dial doesn't fit through the back of the case! Perhaps this is a front loader?
+- 26M serial (1968), cal 601
+- Arrived in an automatic case
 
-- [x] NOS case
+- [x] Procure correct NOS case for movement
 - [x] New mainspring  
 - [x] Order new 30.8mm crystal
 - [x] Present on steel sharkskin mesh bracelet
 - [x] Fit new crystal
-- [ ] Remove movement from gold-plated one and measure dial
-- [ ] Replace worn crown
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 - [ ] Service
 
 ## Citizen 2800A
-Keeps OK time, 180&deg; amplitude
+- Keeps OK time
+- 180&deg; amplitude
 
 - [ ] Present on new strap (stainless steel sharkskin?)
 - [ ] Review keyless works
@@ -121,8 +126,7 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and i
 - [x] Order 30.4mm crystal
 - [x] Polish silver
 - [x] Replace crystal
-- [ ] Rachet wheel is missing a tooth: does it matter?
-    - If so, replace ratchet wheel from donor
+- [ ] Rachet wheel is missing a tooth: does it matter? If so, replace ratchet wheel from donor
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
