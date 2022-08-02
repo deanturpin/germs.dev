@@ -31,7 +31,7 @@ Consolidating two pocket watches. After swapping various bits it seems both bala
 34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
 
 ### No date version
-Runs for a couple of hours but the mainspring seems to be broken.
+Runs for a couple of hours but the mainspring seems to be broken. And it's not going back together nicely: train wheel feels scratch when the bridge is tightened down.
 
 - [x] Polywatch
 - [x] New strap -- black Milanese bracelet
@@ -72,7 +72,6 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [x] Fit new crystal
 - [x] Measure buckle end of strap -- 16mm
 - [x] Display box
-- [ ] Add gold-plated 16mm Omega buckle
 - [ ] Replace worn crown
 
 ##  Omega 131.019 (steel)
@@ -84,8 +83,8 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [x] Order new 30.8mm crystal
 - [x] Present on steel sharkskin mesh bracelet
 - [x] Fit new crystal
+- [ ] Service -- paying particular attention to keyless works (very stiff)
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
-- [ ] Service
 
 ## Citizen 2800A
 - Keeps OK time
@@ -110,13 +109,10 @@ Serial 4,929,243 (1930).
 - [ ] Fit missing ratchet wheel
 
 #### 16-jewel
-Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
+Serial 5,107,778 (1932), broken balance but otherwise movement is OK. See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
 - [x] Clean dial -- not very effective
 - [x] Find new case -- from SR
-- [ ] Replace hands?
-
-https://millenarywatches.com/longines-serial-number/
 
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
@@ -126,7 +122,7 @@ Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and i
 - [x] Order 30.4mm crystal
 - [x] Polish silver
 - [x] Replace crystal
-- [ ] Rachet wheel is missing a tooth: does it matter? If so, replace ratchet wheel from donor
+- [ ] Rachet wheel is missing a tooth, still works but might replace from donor for completeness
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
@@ -146,7 +142,7 @@ Hand winder G10, keeps great time, 34-hour power reserve.
 - [x] Add crocodile leather strap
 
 ## Raketa 2609.HA
-From 1975, in very good condition and running well. Will probably just give the dial some love and check the power reserve. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the chapter ring
+From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
 
 - [x] Check power reserve
 - [x] Clean dial
