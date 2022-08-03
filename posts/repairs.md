@@ -49,10 +49,14 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Replace crystal
 
 ## Omega 161.009
-22M serial (1965), cal 552, crown very worn, after-market gold-plated bracelet, crown/stem not engaging.
+- 22190717 (1965), cal 552
+- Crown very worn, can _just_ see the Omega logo
+- After-market gold-plated bracelet
+- Stem not engaging
+- Rotor a tlittle worn
 
+- [x] Service (external)
 - [x] New leather strap
-- [ ] Service (external) -- ask for it back!
 - [ ] Add gold-plated Omega buckle
 
 ## Omega 131.019 gold-plated
