@@ -1,0 +1,4 @@
+terminal:
+  image: ubuntu:devel
+  before_script:
+    - apt update
