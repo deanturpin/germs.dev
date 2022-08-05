@@ -1,0 +1,5 @@
+Example build:
+    image: ubuntu:devel
+    script:
+        - cat /etc/os-release
+        
