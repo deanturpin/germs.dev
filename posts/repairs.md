@@ -59,25 +59,6 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [x] New leather strap
 - [ ] Add gold-plated Omega buckle
 
-## Omega 131.019 gold-plated
-- 30463681 (1970), cal 601
-- Worn crown
-- 43-hour power reserve
-- Crystal is loose, &#x2300; 30.8mm, 3.5mm height
-- Case back is a mess!
-- Very strong running so might not service it.
-
-~270&deg; amplitude.
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new 30.8mm crystal
-- [x] Fit new crystal
-- [x] Measure buckle end of strap -- 16mm
-- [x] Display box
-- [ ] Replace worn crown
-
 ##  Omega 131.019 (steel)
 - 26M serial (1968), cal 601
 - Arrived in an automatic case
@@ -102,7 +83,7 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Grease gasket
 
 ## Longines 12.92
-Hands a little fragile, no case, 27.8mm. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel.
+Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel. See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
 ### Issues
 #### 15-jewel
@@ -110,10 +91,12 @@ Serial 4,929,243 (1930).
 
 - [x] Clean dial
 - [x] Remove broken stem
-- [ ] Fit missing ratchet wheel
+- [x] Fit missing ratchet wheel -- took wheel and barrel (with mainspring) from the other one
+- [ ] Refit good balance
+- [ ] Service
 
 #### 16-jewel
-Serial 5,107,778 (1932), broken balance but otherwise movement is OK. See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
+Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
 
 - [x] Clean dial -- not very effective
 - [x] Find new case -- from SR
@@ -138,6 +121,24 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - [ ] Minor service
 
 ---
+
+## Omega 131.019 gold-plated
+- 30463681 (1970), cal 601
+- Worn crown
+- 43-hour power reserve
+- Crystal is loose, &#x2300; 30.8mm, 3.5mm height
+- Case back is a mess!
+- Very strong running so might not service it.
+
+~270&deg; amplitude.
+
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Present on new leather strap
+- [x] Order new 30.8mm crystal
+- [x] Fit new crystal
+- [x] Measure buckle end of strap -- 16mm
+- [x] Display box
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
