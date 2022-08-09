@@ -1,5 +1,17 @@
 # Watch repairs
 
+## Borgel trench watch 24 9
+Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
+
+- [x] Order 30.4mm crystal
+- [x] Polish silver
+- [x] Replace crystal
+- [ ] Rachet wheel is missing a tooth, still works but might replace from donor for completeness
+- [x] Pusher has come loose during cleaning -- fits in OK anyway
+- [ ] Service
+- [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
+
+
 ## Molnija 3602
 Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
 
@@ -13,7 +25,7 @@ Consolidating two pocket watches. After swapping various bits it seems both bala
 - [x] Order new 42.8mm crystal (next largest I could find)
 - [ ] Fit new crystal -- crystal press not large enough!
 - [ ] Clean pallet fork before fitting new balance
-- [x] Fit working balance
+- [ ] Fit working balance
 - [ ] New hands
 - [ ] New dial
 
@@ -28,17 +40,7 @@ Consolidating two pocket watches. After swapping various bits it seems both bala
 - [x] Reseat click
 
 ## Rone Countryman
-34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Thinking I'll just initially take the barrel from the second one. Might consider using the second with the date as the donee if it's looking OK after a clean.
-
-### No date version
-Runs for a couple of hours but the mainspring seems to be broken. And it's not going back together nicely: train wheel feels scratch when the bridge is tightened down.
-
-- [x] Polywatch
-- [x] New strap -- black Milanese bracelet
-- [ ] New cannon pinion -- evaporated during tear down
-- [ ] New mainspring -- slips after a few winds
-- [ ] New gasket
-- [ ] Service
+34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Was originally just going to take the barrel from the second one, but now considering using the second with the date as the donee if it's looking OK after a clean.
 
 ### Date version
 Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
@@ -48,18 +50,17 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Measure crystal
 - [ ] Replace crystal
 
-## Omega 161.009
-- 22190717 (1965), cal 552
-- Crown very worn, can _just_ see the Omega logo
-- After-market gold-plated bracelet
-- Stem not engaging
-- Rotor a tlittle worn
+### No date version
+Runs for a couple of hours but the mainspring appears to be broken. And it's not going back together nicely: train wheel feels scratchy when the bridge is tightened down.
 
-- [x] Service (external)
-- [x] New leather strap
-- [ ] Add gold-plated Omega buckle
+- [x] Polywatch
+- [x] New strap -- black Milanese bracelet
+- [ ] New cannon pinion -- evaporated during tear down
+- [ ] New mainspring -- suspect broken spring, slips after a few winds
+- [ ] New gasket
+- [ ] Service
 
-##  Omega 131.019 (steel)
+## Omega 131.019 (steel)
 - 26M serial (1968), cal 601
 - Arrived in an automatic case
 
@@ -83,7 +84,9 @@ Extremely dirty and smells of rabbits (apparently been in a loft). Appears to ha
 - [ ] Grease gasket
 
 ## Longines 12.92
-Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might be easier just to stick the good balance in the 16-jewel. See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
+Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might've been easier to just to stick the good balance in the 16-jewel, but it seems both balances are a little wobbly. Will service and try again.
+
+See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
 ### Issues
 #### 15-jewel
@@ -92,27 +95,14 @@ Serial 4,929,243 (1930).
 - [x] Clean dial
 - [x] Remove broken stem
 - [x] Fit missing ratchet wheel -- took wheel and barrel (with mainspring) from the other one
-- [ ] Refit good balance
 - [ ] Service
+- [ ] Refit good balance
 
 #### 16-jewel
 Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
 
 - [x] Clean dial -- not very effective
-- [x] Find new case -- from SR
-
-## Borgel trench watch 24 9
-Marvin 362, 29.5mm; bezel &#x2300; 30.2mm.
-
-Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
-
-- [x] Order 30.4mm crystal
-- [x] Polish silver
-- [x] Replace crystal
-- [ ] Rachet wheel is missing a tooth, still works but might replace from donor for completeness
-- [x] Pusher has come loose during cleaning -- fits in OK anyway
-- [ ] Service
-- [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
+- [ ] Find new case
 
 ## Timex
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
@@ -121,6 +111,16 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - [ ] Minor service
 
 ---
+
+## Omega 161.009
+- 22190717 (1965), cal 552
+- Crown very worn, can _just_ see the Omega logo
+- After-market gold-plated bracelet
+- Stem not engaging
+- Rotor a little worn
+
+- [x] Service (external)
+- [x] New leather strap
 
 ## Omega 131.019 gold-plated
 - 30463681 (1970), cal 601
