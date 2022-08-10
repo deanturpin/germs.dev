@@ -1,3 +1,6 @@
+# Also requires runner config changes
+# https://docs.gitlab.com/ee/ci/interactive_web_terminal/
+
 terminal:
   image: ubuntu:devel
   before_script:
