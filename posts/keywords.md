@@ -13,7 +13,6 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Cloud__: Google Cloud, Cloudflare
 - __Graphics__: Qt, JUCE, MFC
 - __Design__: Data structures, algorithms, multithreading
-- __Documentation__: Doxygen, Mermaid, Jupyter, Hugo, GitBook, Confluence
-- __Protocols__: XMPP, SIP, gSOAP
-- __Audio__: PCM, SIP
+- __Documentation__: Doxygen, Mermaid, Hugo, GitBook, Confluence
+- __Protocols__: XMPP, SIP, gSOAP, PCM
 
