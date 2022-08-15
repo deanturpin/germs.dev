@@ -11,3 +11,9 @@ The Bergeon are, of course, finished very well; but they are just plastic sticks
 - eBay £20
 
 Haven't actually used a Bergeon but the cheap one has been fine so far. I actually built up a felt dome on the bottom half of the press with decreasing sizes of felt furniture pads.
+
+## Barrel press
+- Bergeon £££
+- eBay £5
+
+Very simple bit of plastic. Does a simple job well and difficult to justify the Bergeon.
