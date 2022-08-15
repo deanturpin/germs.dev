@@ -1,0 +1,13 @@
+# Cheap tool comparison
+
+## Hand levers
+- Bergeon £40
+- eBay £4
+
+The Bergeon are, of course, finished very well; but they are just plastic sticks at the end of the day. Also you always use dial protector so the tool itself doesn't touch the dial.
+
+## Crystal press
+- Bergeon £££
+- eBay £20
+
+Haven't actually used a Bergeon but the cheap one has been fine so far. I actually built up a felt dome on the bottom half of the press with decreasing sizes of felt furniture pads.
