@@ -5,6 +5,7 @@
 - Non-runer
 - Balance OK
 - Stem very difficult to get out
+- Rolled gold bracelet
 
 - [ ] Remove from case
 - [ ] Clean dial
