@@ -1,5 +1,14 @@
 # Watch repairs
 
+## Cauny dress watch
+- Non-runer
+- Balance OK
+- Stem very difficult to get out
+
+- [ ] Remove from case
+- [ ] Clean dial
+- [ ] Service
+
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
 
