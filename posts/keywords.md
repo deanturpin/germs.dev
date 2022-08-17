@@ -1,5 +1,7 @@
 # Dean Turpin &mdash; Senior Software Engineer
 
+<!-- Note "years" is calculated programatically by build pipe -->
+
 Senior software engineer with {YEARS} years of commercial experience. Motivated
 self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
