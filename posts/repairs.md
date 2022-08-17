@@ -1,12 +1,14 @@
 # Watch repairs
 
 ## Cauny dress watch
+
 - Non-runer
 - Balance OK
 - Stem very difficult to get out
 
 - [ ] Remove from case
 - [ ] Clean dial
+- [ ] Check if it runs by turning barrel
 - [ ] Service
 
 ## Borgel trench watch 24 9
