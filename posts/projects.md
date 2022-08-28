@@ -13,9 +13,9 @@ as Haskell.
 
 ## Example projects
 
-- Exploring C++/gtest: [turpin.dev](https://turpin.dev)
-- Online logbook (this website): [turpin.one](https://gitlab.com/germs-dev/turpin-one/-/blob/main/.gitlab-ci.yml)
-- Companies House plotter: [bank.germs.dev](https://bank.germs.dev/) [Python script](https://gitlab.com/germs-dev/companies-house-plotter/-/blob/main/bin/search.py)
+- ![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg) Exploring C++/gtest: [turpin.dev](https://turpin.dev)
+- ![](https://gitlab.com/germs-dev/turpin-one/badges/main/pipeline.svg) Online logbook (this website): [turpin.one](https://gitlab.com/germs-dev/turpin-one/-/blob/main/.gitlab-ci.yml)
+- ![](https://gitlab.com/germs-dev/companies-house-plotter/badges/main/pipeline.svg) Companies House plotter: [bank.germs.dev](https://bank.germs.dev/) [Python script](https://gitlab.com/germs-dev/companies-house-plotter/-/blob/main/bin/search.py)
 - Architectural Blender renders: [renderghost](https://deanturpin.gitlab.io/renderghost/)
 - Tone generator: [deanturpin/tony](https://gitlab.com/deanturpin/tony)
 - Skills timeline generator (see SVG below): [deanturpin/skills](https://gitlab.com/deanturpin/skills)
