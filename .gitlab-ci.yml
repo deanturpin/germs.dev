@@ -1,3 +1,8 @@
-Trigger dependent projects:
-    stage: .post 
+Build:
+    image: ubuntu:devel
+    stage: build
+    script: [cat /etc/os-release]
+
+Trigger:
+    stage: deploy
     trigger: germs-dev/turpin-one
