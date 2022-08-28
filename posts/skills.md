@@ -1,4 +1,4 @@
 # Skills timeline
 
-![](https://deanturpin.gitlab.io/skills/skills.png)
+![](https://germs-dev.gitlab.io/skills/skills.png)
 
