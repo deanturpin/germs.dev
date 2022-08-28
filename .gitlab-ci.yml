@@ -6,3 +6,4 @@ Build:
 Trigger:
     stage: deploy
     trigger: germs-dev/turpin-one
+    trigger: germs-dev/cv
