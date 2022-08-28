@@ -3,7 +3,10 @@ Build:
     stage: build
     script: [cat /etc/os-release]
 
-Trigger:
+Website:
     stage: deploy
     trigger: germs-dev/turpin-one
+
+CV:
+    stage: deploy
     trigger: germs-dev/cv
