@@ -1,3 +1,4 @@
 # Websites
-![](https://deanturpin.gitlab.io/tracehost/hosts.svg)
+
+![](https://ping.germs.dev/hosts.svg)
 
