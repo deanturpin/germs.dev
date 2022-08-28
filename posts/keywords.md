@@ -1,6 +1,6 @@
 # Dean Turpin &mdash; Senior Software Engineer
 
-<!-- Note "years" is calculated programatically by build pipe -->
+<!-- Note "years" is inserted dynamically by the build pipe -->
 
 Senior software engineer with {YEARS} years of commercial experience. Motivated
 self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
@@ -14,7 +14,10 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Platforms__: Linux, ARM, Windows 11
 - __Cloud__: Google Cloud, Cloudflare
 - __Graphics__: Qt, JUCE, MFC
-- __Design__: Data structures, algorithms, multithreading
 - __Documentation__: Doxygen, Mermaid, Hugo, GitBook, Confluence
 - __Protocols__: XMPP, SIP, gSOAP, PCM
+
+<!--
+- __Design__: Data structures, algorithms, multithreading
+-->
 
