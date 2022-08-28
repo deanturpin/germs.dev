@@ -1,6 +1,7 @@
 # C++ experience and side-projects
+
 Commercially I develop using C++14/17, therefore I maintain various
-side-projects on GitLab to explore C++20/23 features. These projects cover
+side-projects on GitLab to explore new C++ features. These projects cover
 topics such as audio processing, trading strategy back-testing and Companies
 House analysis.
 
@@ -11,10 +12,11 @@ approach to programming offered by template metaprogramming and languages such
 as Haskell.
 
 ## Example projects
+
 - Exploring C++/gtest: [turpin.dev](https://turpin.dev)
-- Online logbook: [turpin.one](https://turpin.one)
-- Companies House plotter: https://gitlab.com/deanturpin/companies-house-plotter 
-- Architectural Blender renders: https://gitlab.com/deanturpin/renderghost
-- Tone generator: https://gitlab.com/deanturpin/tony
-- Skills timeline generator: https://gitlab.com/deanturpin/skills
+- Online logbook (this website): [turpin.one](https://gitlab.com/germs-dev/turpin-one/-/blob/main/.gitlab-ci.yml)
+- Companies House plotter: [bank.germs.dev](https://bank.germs.dev/) [Python script](https://gitlab.com/germs-dev/companies-house-plotter/-/blob/main/bin/search.py)
+- Architectural Blender renders: [renderghost](https://deanturpin.gitlab.io/renderghost/)
+- Tone generator: [deanturpin/tony](https://gitlab.com/deanturpin/tony)
+- Skills timeline generator (see SVG below): [deanturpin/skills](https://gitlab.com/deanturpin/skills)
 
