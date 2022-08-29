@@ -1,4 +1,4 @@
-# Dean Turpin (Senior Software Engineer)
+# Dean Turpin &mdash; Senior Software Engineer
 
 <!-- Note "years" is inserted dynamically by the build pipe -->
 
