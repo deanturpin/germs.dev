@@ -17,3 +17,9 @@ Haven't actually used a Bergeon but the cheap one has been fine so far. I actual
 - eBay £5
 
 Very simple bit of plastic. Does a simple job well and difficult to justify the Bergeon.
+
+## Movement holder
+The cheapie is OK, but Bergeon's is actually pretty reasonable and much better made.
+
+- Bergeon £20
+- Economy (H&S Walsh) £5
