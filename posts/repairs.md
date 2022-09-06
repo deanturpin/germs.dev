@@ -1,12 +1,10 @@
 # Watch repairs
 
 ## Cauny dress watch
-
 - Non-runer
 - Balance OK
 - Stem very difficult to get out
 - Rolled gold bracelet
-
 - [ ] Remove from case
 - [ ] Clean dial
 - [ ] Check if it runs by turning barrel
@@ -23,9 +21,10 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
-
 ## Molnija 3602
 Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
+
+I've actually ordered a new wristwatch case to fit it in now.
 
 ### Serial 998652
 - Awesome forest scene case
@@ -85,7 +84,7 @@ Runs for a couple of hours but the mainspring appears to be broken. And it's not
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 
 ## Citizen 2800A
-- Keeps OK time
+- Time drifts, quite erratic
 - 180&deg; amplitude
 
 - [ ] Present on new strap (stainless steel sharkskin?)
