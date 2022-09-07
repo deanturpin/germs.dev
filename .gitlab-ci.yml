@@ -1,7 +1,7 @@
 Build:
     image: ubuntu:devel
     stage: build
-    script: [cat /etc/os-release]
+    script: cat /etc/os-release
 
 Website:
     stage: deploy
