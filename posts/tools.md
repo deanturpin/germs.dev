@@ -5,6 +5,8 @@ There are endless tools that can streamline your workflow, so I've listed them i
 
 Always try to use the correct size screwdrive. You just risk chewing up the blades, screw head or both.
 
+Very short tweezers are good for manipulating screws, can be flipped around with one hand.
+
 ## Inspection
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
 - Selvyt Medium (PR) Cloth, White
