@@ -1,8 +1,3 @@
----
-title: property
-draft: true
----
-
 # Property
 
 - Rental income – passive/residual income: make money whilst you sleep

@@ -5,6 +5,7 @@ the sample data.
 ```bash
 xxd example.wav | head -10
 ```
+
 ```bash
 00000000: 5249 4646 2400 0080 5741 5645 666d 7420  RIFF$...WAVEfmt
 00000010: 1000 0000 0100 0100 d007 0000 a00f 0000  ................
@@ -115,4 +116,3 @@ onload = function() {
 - http://www.tldp.org/LDP/abs/html/arithexp.html
 - http://shop.oreilly.com/product/0636920010166.do
 - http://mywiki.wooledge.org/
-

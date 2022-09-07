@@ -1,12 +1,3 @@
----
-title: Taking photos of groups of people
-date: 2021-08-21
-draft: true
-tags:
-- photography
-- essay
----
-
 # Taking photos of groups of people
 
 People are drawn to walls when lining up for a photo. But while the "firing
