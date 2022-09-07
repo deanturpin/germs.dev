@@ -13,10 +13,10 @@ as Haskell.
 
 ## Example projects
 
-- Exploring C++/gtest: [turpin.dev](https://turpin.dev)
-- Online logbook: [turpin.one](https://gitlab.com/germs-dev/turpin-one/-/blob/main/.gitlab-ci.yml)
-- Companies House plotter: [bank.germs.dev](https://bank.germs.dev/)
-- Architectural Blender renders: [deanturpin/renderghost](https://deanturpin.gitlab.io/renderghost/)
-- Tone generator: [deanturpin/tony](https://gitlab.com/deanturpin/tony)
-- Skills timeline generator (see SVG below): [deanturpin/skills](https://gitlab.com/deanturpin/skills)
+- Exploring C++/gtest: [https://turpin.dev](https://turpin.dev)
+- Online logbook: [https://turpin.one](https://gitlab.com/germs-dev/turpin-one/-/blob/main/.gitlab-ci.yml)
+- Companies House plotter: [https://bank.germs.dev](https://bank.germs.dev/)
+- Architectural Blender renders: [https://deanturpin.gitlab.io/renderghost/](https://deanturpin.gitlab.io/renderghost/)
+- Tone generator: [https://gitlab.com/deanturpin/tony](https://gitlab.com/deanturpin/tony)
+- Skills timeline generator (see SVG below): [https://gitlab.com/deanturpin/skills](https://gitlab.com/deanturpin/skills)
 
