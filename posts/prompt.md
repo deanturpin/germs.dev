@@ -1,25 +1,16 @@
----
-
-title: Turbo charge your bash prompt
-date: 2019-06-12
-tags:
-- linux
-- bash
-- cli
----
-
 # Turbo charge your bash prompt
 
-![](/img/bash-prompt.png)
+## Bash prompt variables
 
-# Bash prompt variables
 The escape characters that can appear in the bash prompt are
 [well-documented](https://www.gnu.org/software/bash/manual/bash.html#Controlling-the-Prompt)
 so let’s not cover that in any detail. But a good starting point is the
 “user@host:dir” combo, which conveniently is also the _scp_ syntax.
 
+```
 PS1="u@h:w $ "
 root@kali:/tmp $
+```
 
 Variables described in the bash documentation:
 
@@ -29,7 +20,8 @@ Variables described in the bash documentation:
 
 > PROMPT_COMMAND - If set, the value is interpreted as a command to execute before the printing of each primary prompt ($PS1).
 
-# Sequence of evaluation
+## Sequence of evaluation
+
 1. Read user command
 1. Evaluate `PS0`
 1. Execute user command
@@ -40,44 +32,58 @@ Variables described in the bash documentation:
 
 Let's ping a host of interest each time we hit return.
 
+```
 PS1='$(ping -c 1 -w 1 github.com >& /dev/null && echo OK || echo FAIL) u@h:w $ '
+```
 
 Great! When it succeeds. But if it fails and takes even a second to return the prompt becomes unusable.
 
-# Using color
+## Using color
+
 You _can_ use the ANSI `e[33m` codes in your bash scripts but I think `tput` is a far friendlier interface. (You'll still need to know the codes for your compiled code.)
 
 Find out how many colours your system supports and print them.
 
+```
 tput colors
 for c in {0..255}; do echo $(tput setab $c) $(tput sgr0)$c; done | column
+```
 
 # Ignoring control characters
 If you're using non-printable control characters like setting the colour you must tell the shell not to count them lest it misbehaves. Cursoring through history doesn't work in this example:
 
+```
 PS1="$(tput setaf 44)$(date)$(tput sgr0) $ "
+```
 
 But we simply need to tell bash to ignore the control characters by enclosing them in square brackets thus:
 
+```
 PS1="[$(tput setaf 44)]$(date)[$(tput sgr0)] $ "
+```
 
 # What can we do at the prompt?
 How about checking your crypto prices?
 
+```
 PS1='$(
 curl --silent "https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD" | grep -o [0-9.]*
 ) u@h:w $ '
 
 9080.52 root@kali:/tmp $
+```
 
 Or displaying the location of your public IP?
 
+```
 PS1='$(
 curl --silent ifconfig.co/country
 ) u@h:w $ '
 
 United Kingdom root@kali:~/cpp $
+```
 
 # Further examples
+```
 <script src="https://gist.github.com/deanturpin/2fc1bec5dfc7015e2be2b133713a91c0.js"></script>
-
+```
