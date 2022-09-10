@@ -7,7 +7,7 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
 ---
 
-- __Languages__: C++20, STL, Bash, Python, OOP, Functional
+- __Languages__: C++23, STL, Bash, Python, OOP, Functional
 - __Build__: QtCreator, Visual Studio, GNU Make, CMake, Ninja, clang-format
 - __Dev__: Agile, Jira, Slack, security clearance
 - __CI__: GitLab, Jenkins, unit testing
