@@ -7,19 +7,16 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
 ---
 
-- __Languages__: C++23, STL, Bash, Python, OOP, Functional
+- __Languages__: C++23, STL, Bash, Python; object-oriented, functional
 - __Build__: QtCreator, Visual Studio, GNU Make, CMake, Ninja, clang-format
-- __Dev__: Agile, Jira, Slack, security clearance
-- __CI__: GitLab, Jenkins, unit testing
-- __Config control__: Git, Gerrit, Subversion
-- __Networking__: TCP/UDP, OSI, Wireshark, tcpdump
+- __Source control__: Git, Gerrit, Subversion
+- __CI/CD__: GitLab, Jenkins, unit testing
+- __Networking__: TCP/UDP, OSI, Wireshark
 - __Platforms__: Linux, ARM, Windows 11
 - __Cloud__: Google Cloud, Cloudflare
-- __Graphics__: Qt, JUCE, MFC
-- __Documentation__: Doxygen, Mermaid, Hugo, GitBook, Confluence
+- __Database__: PostgreSQL, MariaDB (columnar), Tableau, DBeaver
+- __UI__: Qt, JUCE, MFC
+- __Documentation__: Doxygen, Mermaid, Confluence
 - __Protocols__: XMPP, SIP, gSOAP, PCM
-
-<!--
-- __Design__: Data structures, algorithms, multithreading
--->
+- __Dev__: Agile, Jira, Slack, security clearance
 

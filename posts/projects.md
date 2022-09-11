@@ -1,6 +1,6 @@
 # C++ experience and side-projects
 
-Commercially I develop using C++14/17, therefore I maintain various
+Commercially I develop using C++17, therefore I maintain various
 side-projects on GitLab to explore new C++ features. These projects cover
 topics such as audio processing, trading strategy back-testing and Companies
 House analysis.
