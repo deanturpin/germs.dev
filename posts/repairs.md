@@ -5,7 +5,7 @@
 - Balance OK
 - Stem very difficult to get out
 - Rolled gold bracelet
-- [ ] Remove from case
+- [ ] Remove from case -- pop the front
 - [ ] Clean dial
 - [ ] Check if it runs by turning barrel
 - [ ] Service
@@ -47,7 +47,6 @@ I've actually ordered a new wristwatch case to fit it in now.
 - Full hunter
 - Pallet bridge has crazy big screws in it!
 - Ran overnight after swapping in a good balance (but only in face down position)
-
 - [x] Reseat click
 
 ## Rone Countryman
@@ -121,6 +120,24 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - [ ] Attempt to bend bend hour hand back
 - [ ] Minor service
 
+## Omega 131.019 gold-plated
+- 30463681 (1970), cal 601
+- Worn crown
+- 43-hour power reserve
+- Crystal is loose, &#x2300; 30.8mm, 3.5mm height
+- Case back is a mess!
+- Very strong running so might not service it.
+
+~220&deg; amplitude.
+
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Present on new leather strap
+- [x] Order new 30.8mm crystal
+- [x] Fit new crystal
+- [x] Measure buckle end of strap -- 16mm
+- [ ] Partial service of keyless works
+
 ---
 
 ## Omega 161.009
@@ -132,24 +149,6 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [x] Service (external)
 - [x] New leather strap
-
-## Omega 131.019 gold-plated
-- 30463681 (1970), cal 601
-- Worn crown
-- 43-hour power reserve
-- Crystal is loose, &#x2300; 30.8mm, 3.5mm height
-- Case back is a mess!
-- Very strong running so might not service it.
-
-~270&deg; amplitude.
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new 30.8mm crystal
-- [x] Fit new crystal
-- [x] Measure buckle end of strap -- 16mm
-- [x] Display box
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
