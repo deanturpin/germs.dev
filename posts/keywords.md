@@ -15,7 +15,8 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Networking__: TCP/UDP, OSI, Wireshark, tcpdump
 - __Platforms__: Linux, ARM, Windows 11
 - __Cloud__: Google Cloud, Cloudflare
-- __Graphics__: Qt, JUCE, MFC
+- __Database__: PostgreSQL, MariaDB (columnar), Tableau, DBeaver
+- __UI__: Qt, JUCE, MFC
 - __Documentation__: Doxygen, Mermaid, Hugo, GitBook, Confluence
 - __Protocols__: XMPP, SIP, gSOAP, PCM
 
