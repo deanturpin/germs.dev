@@ -14,7 +14,7 @@ as Haskell.
 ## Example projects
 
 - Exploring C++/gtest: `https://turpin.dev`
-- Online logbook: `https://turpin.dev`
+- Online logbook: `https://turpin.one`
 - Companies House plotter: `https://bank.germs.dev`
 - Architectural Blender renders: `https://deanturpin.gitlab.io/renderghost`
 - Tone generator: `https://gitlab.com/deanturpin/tony`
