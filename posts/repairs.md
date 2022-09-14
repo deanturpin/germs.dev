@@ -13,7 +13,9 @@
 - [ ] Service
 
 ## Mr Jones "The Accurate"
-Quartz repair!
+An actual quartz repair!
+
+£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) -- which is quite surprising given I bought a whole new movement _with_ battery for £9.
 
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
