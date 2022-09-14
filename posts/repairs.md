@@ -5,10 +5,20 @@
 - Balance OK
 - Stem very difficult to get out
 - Rolled gold bracelet
-- [ ] Remove from case -- pop the front
+- Broken mainspring
+- [x] Remove from case -- pop the front
 - [ ] Clean dial
-- [ ] Check if it runs by turning barrel
+- [x] Check if it runs by turning barrel
+- [ ] Replace mainspring Zf1187 ([Unitas 630](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_630) family)
 - [ ] Service
+
+## Mr Jones "The Accurate"
+Quartz repair!
+
+- [x] Replace battery -- still not running
+- [x] Ordered new Ronda 513
+- [ ] Replace movement
+- [ ] Is it worth oiling?
 
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
