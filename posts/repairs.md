@@ -6,10 +6,11 @@
 - Stem very difficult to get out
 - Rolled gold bracelet
 - Broken mainspring
+- Movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63)
 - [x] Remove from case -- pop the front
 - [ ] Clean dial
 - [x] Check if it runs by turning barrel
-- [ ] Replace mainspring Zf1187 ([Unitas 630](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_630) family)
+- [ ] Replace mainspring
 - [ ] Service
 
 ## Mr Jones "The Accurate"
