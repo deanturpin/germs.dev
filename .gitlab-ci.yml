@@ -1,8 +1,9 @@
 Build:
-    image: ubuntu:devel
-    stage: build
-    script: cat /etc/os-release
+  image: ubuntu:devel
+  stage: build
+  script: cat /etc/os-release
 
 CV:
-    stage: deploy
-    trigger: germs-dev/cv
+  stage: deploy
+  trigger: germs-dev/cv
+  only: [main]
