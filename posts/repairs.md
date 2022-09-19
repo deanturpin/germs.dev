@@ -8,20 +8,10 @@
 - Broken mainspring
 - Movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63)
 - [x] Remove from case -- pop the front
-- [ ] Clean dial
+- [x] Clean dial -- didn't make much difference
 - [x] Check if it runs by turning barrel
-- [ ] Replace mainspring
+- [ ] Replace mainspring -- ordered another movement
 - [ ] Service
-
-## Mr Jones "The Accurate"
-An actual quartz repair!
-
-£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) -- which is quite surprising given I bought a whole new movement _with_ battery for £9.
-
-- [x] Replace battery -- still not running
-- [x] Ordered new Ronda 513
-- [ ] Replace movement
-- [ ] Is it worth oiling?
 
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
@@ -174,3 +164,13 @@ From 1975, in good condition and running well. Measured 47h power reserve (nomin
 
 - [x] Check power reserve
 - [x] Clean dial
+
+## Mr. Jones "The Accurate"
+An actual quartz repair!
+
+£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) -- which is quite surprising given I bought a whole new movement _with_ battery for £9.
+
+- [x] Replace battery -- still not running
+- [x] Ordered new Ronda 513
+- [x] Replace coil, hands very difficult to remove
+
