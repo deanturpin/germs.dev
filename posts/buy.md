@@ -5,3 +5,5 @@
 - Oyster Perpetual 41mm
 - Speedmaster
 - DOXA Sub 200 
+- A. Lange & Söhne
+- Jaeger LeCoultre
