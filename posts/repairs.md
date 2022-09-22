@@ -19,15 +19,18 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [x] Order 30.4mm crystal
 - [x] Polish silver
 - [x] Replace crystal
+- [x] Order donor movement for practice/spares
 - [ ] Rachet wheel is missing a tooth, still works but might replace from donor for completeness
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
 ## Molnija 3602
-Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
+Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits.
 
-I've actually ordered a new wristwatch case to fit it in now.
+OK, scratch that... it's quite expensive to buy a new balance so I've bought another working movement and a NOS marriage case. Gonna be sweet!
+
+See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
 
 ### Serial 998652
 - Awesome forest scene case
@@ -52,8 +55,10 @@ I've actually ordered a new wristwatch case to fit it in now.
 - Ran overnight after swapping in a good balance (but only in face down position)
 - [x] Reseat click
 
-## Rone Countryman
+## Rone Countryman -- FHF ST96
 34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Was originally just going to take the barrel from the second one, but now considering using the second with the date as the donee if it's looking OK after a clean.
+
+OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
 
 ### Date version
 Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
@@ -82,14 +87,13 @@ Runs for a couple of hours but the mainspring appears to be broken. And it's not
 - [x] Order new 30.8mm crystal
 - [x] Present on steel sharkskin mesh bracelet
 - [x] Fit new crystal
-- [ ] Service -- paying particular attention to keyless works (very stiff)
+- [ ] Service, paying particular attention to keyless works (very stiff) -- check orientation of castle wheel
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 
 ## Citizen 2800A
 - Time drifts, quite erratic
 - 180&deg; amplitude
 
-- [ ] Present on new strap (stainless steel sharkskin?)
 - [ ] Review keyless works
 - [ ] Service
 - [ ] Replace main spring (gets very low amplitude on a low wind)
@@ -173,4 +177,3 @@ An actual quartz repair!
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
 - [x] Replace coil, hands very difficult to remove
-
