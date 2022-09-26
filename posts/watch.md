@@ -1,11 +1,3 @@
----
-title: Watches
-date: 2021-12-20
-tags:
-- engineering
-- watch
----
-
 # Automatic watches
 ## Brands that appreciate in value
 - Rolex
@@ -23,7 +15,7 @@ tags:
 - Vacheron Constantin
 
 ## Escapements
-- [Lever](https://en.wikipedia.org/wiki/Lever_escapement) - modern watches
+- [Lever](https://en.wikipedia.org/wiki/Lever_escapement) - most modern watches
 - [Anchor](https://en.wikipedia.org/wiki/Anchor_escapement) - pendulum clocks
 - [Coaxial](https://en.wikipedia.org/wiki/Coaxial_escapement) - recent Omegas
 - [Detent](https://www.timeandwatches.com/p/the-detent-escapement-from-marine.html)
@@ -32,7 +24,6 @@ tags:
 - https://gleave.london/
 - https://www.polywatch.de/en/
 - https://www.hswalsh.com/
-
 
 ## Timing
 |Beats per second | Vibrations per hour |
@@ -68,7 +59,7 @@ https://en.wikipedia.org/wiki/Trench_watch
 - Vostok Amphibia
 - Bulova
 - Orient Bambino
-- lunar pilot
+- Lunar pilot
 
 ## Skeleton watches
 - Sturling Anatol
@@ -88,9 +79,6 @@ https://en.wikipedia.org/wiki/Trench_watch
 
 ## How to spot a fake
 - https://www.truefacet.com/guide/spot-fake-hublot-watch/amp/
-
-## Tips
-- Don't fiddle with the date wheel between 9pm and 4am. If it has a [phantom date](https://calibercorner.com/phantom-date/) then good luck.
 
 ## Stores
 - https://www.chrono24.co.uk
