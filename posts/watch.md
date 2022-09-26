@@ -118,6 +118,7 @@ https://en.wikipedia.org/wiki/Trench_watch
 - https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs
 
 ## References
+- [Swiss watch schematics](https://oldswisswatches.com/watch-parts-branded/omega-calibre-movement-and-spare-parts/omega-601/)
 - [Ranfft calibre library](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Omega_601)
 - [Types of pocket watch](https://www.pocketwatch.co.uk/types-of-pocket-watch)
 - https://swisstimeservices.co.uk/glossary/
