@@ -55,7 +55,7 @@ See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia
 - Ran overnight after swapping in a good balance (but only in face down position)
 - [x] Reseat click
 
-## Rone Countryman
+## Rone Countryman (11.5''')
 34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Was originally just going to take the barrel from the second one, but now considering using the second with the date as the donee if it's looking OK after a clean.
 
 OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
