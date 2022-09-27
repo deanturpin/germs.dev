@@ -60,6 +60,8 @@ See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia
 
 OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
 
+Just to get something wearable, let's just got a running ST96 in the original Rone case. 
+
 ### FHF ST 96-4 (date) -- 1970
 Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
 
@@ -87,7 +89,7 @@ Runs for a couple of hours but the mainspring appears to be broken. And it's not
 - [x] Order new 30.8mm crystal
 - [x] Present on steel sharkskin mesh bracelet
 - [x] Fit new crystal
-- [ ] Service, paying particular attention to keyless works (very stiff) -- check orientation of castle wheel
+- [ ] Ultrasonic clean of keyless works
 - [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 
 ## Citizen 2800A
@@ -133,7 +135,7 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - 43-hour power reserve
 - Crystal is loose, &#x2300; 30.8mm, 3.5mm height
 - Case back is a mess!
-- Very strong running so might not service it.
+- Very strong running so might not do a full service
 
 ~220&deg; amplitude.
 
@@ -145,35 +147,10 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - [x] Measure buckle end of strap -- 16mm
 - [ ] Partial service of keyless works
 
----
-
-## Omega 161.009
-- 22190717 (1965), cal 552
-- Crown very worn, can _just_ see the Omega logo
-- After-market gold-plated bracelet
-- Stem not engaging
-- Rotor a little worn
-
-- [x] Service (external)
-- [x] New leather strap
-
-## Accurist Shockmaster
-Hand winder G10, keeps great time, 34-hour power reserve.
-
-- [x] Buff case
-- [x] Add crocodile leather strap
-
 ## Raketa 2609.HA
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
 
 - [x] Check power reserve
 - [x] Clean dial
-
-## Mr. Jones "The Accurate"
-An actual quartz repair!
-
-£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) -- which is quite surprising given I bought a whole new movement _with_ battery for £9.
-
-- [x] Replace battery -- still not running
-- [x] Ordered new Ronda 513
-- [x] Replace coil, hands very difficult to remove
+- [ ] Ultrasonic clean
+- [ ] Lubricate
