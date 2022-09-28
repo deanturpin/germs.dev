@@ -1,11 +1,3 @@
----
-title: Banks
-date: 2021-04-12
-tags:
-- finance
-- bank
----
-
 # Banks
 
 Challenger banks are small, recently created retail banks that compete directly

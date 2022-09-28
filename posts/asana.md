@@ -1,12 +1,3 @@
----
-title: A curated list of yoga poses
-date: 2021-09-22
-draft: true
-tags:
-- yoga
-- sanskrit
----
-
 # A curated list of yoga poses
 
 ```csv

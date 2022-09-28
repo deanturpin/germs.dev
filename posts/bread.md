@@ -1,17 +1,6 @@
----
-title: Miso-seaweed bread
-subtitle: Quantities and general technique
-date: 2020-09-20
-tags:
-- recipe
-- bread
-- miso
-- seaweed
----
-
 # Miso-seaweed bread
 
-# Ingredients
+## Ingredients
 | Proportion | Ingredient | grammes |
 | --- | --- | --- |
 | 100% | Shipton Mill white organic bread flour | 500 |
@@ -25,7 +14,7 @@ tags:
 
 You can replace the miso with 2% Pro Fusion Himalayan Rose Pink salt. Also, you don't *need* to use Evian, but if you are using tap water you can boil it and let it cool to remove some of the chlorine: give the yeast a leg up.
 
-# Method
+## Method
 - Make a miso solution with the water, poppy seeds and oil
 - 30 minute rest
 - Combine 60% of the flour
@@ -37,10 +26,10 @@ You can replace the miso with 2% Pro Fusion Himalayan Rose Pink salt. Also, you 
 - 40 minute prove at 35°C
 - 35 minutes in oven at 225°C
 
-# Lazy baker knead
+## Lazy baker knead
 I got this technique from a [Dan Lepard](https://www.danlepard.com/) book. Traditionally you go at your bread for 10 minutes solid but alternatively you can keep poking it periodically over the course of an hour. Bascially you just give it 10 kneads, cover it and leave it for 10 minutes. And you repeat that for an hour or so whilst the gluten develops.
 
-# Autolyse
+## Autolyse
 The 8-hour rest isn't absolutely necessary but a pre-ferment stage breaks down
 some of the anti-nutrients in the flour husks. See
 [poolish](https://en.wikipedia.org/wiki/Pre-ferment).

@@ -1,14 +1,3 @@
----
-title: The cost of heavily refurbishing a flat in Brighton in 2020
-subtitle: A rough order of magnitude
-date: 2020-04-10
-tags:
-- house
-- build
-- construction
-- invest
----
-
 # The cost of heavily refurbishing a flat in Brighton in 2020
 
 Build was converting an open plan shop into residential (two bedroom flat).

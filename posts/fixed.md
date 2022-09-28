@@ -1,11 +1,7 @@
-# Repaired watches
+# Fixed watches
 
 ## Omega 161.009
-- 22190717 (1965), cal 552
-- Crown very worn, can _just_ see the Omega logo
-- After-market gold-plated bracelet
-- Stem not engaging
-- Rotor a little worn
+22190717 (1965), cal 552, rown very worn, can _just_ see the Omega logo, stem not engaging, rotor a little worn.
 
 - [x] Service (external)
 - [x] New leather strap

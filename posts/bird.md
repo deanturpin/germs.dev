@@ -1,18 +1,8 @@
----
-title: Bird in a bird
-subtitle: How many times is the destructor called?
-date: 2019-06-27
-tags:
-- cpp
-- oop
-- graduate
----
-
 # Bird in a bird
 
 ```cpp
 struct bird {
-~bird() { std::puts("in a bird"); }
+  ~bird() { std::puts("in a bird"); }
 };
 
 bird in = bird(bird(bird(bird(bird()))));
@@ -28,4 +18,3 @@ can't let copy constructors cause side-effects, lest the compiler doesn't
 bother calling them?
 
 See [copy elision](https://en.cppreference.com/w/cpp/language/copy_elision).
-

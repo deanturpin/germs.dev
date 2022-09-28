@@ -1,9 +1,9 @@
 # Agile
 
 ## Roles
-- `dev team`
-- `product owner`
-- `scrum master`
+- Dev team
+- Product owner
+- Scrum master
 
 ## Sprint zero
 Trial run.
