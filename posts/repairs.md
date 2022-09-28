@@ -8,11 +8,13 @@
 - [x] Order new 30.8mm crystal
 - [x] Fit new crystal
 - [x] Ultrasonic clean of keyless works
-- [ ] Only achieving approx. 170&deg; amplitude, try oiling the jewels
-- [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
+- [x] Trial fit brand new seconds hand (could be too shiny compared to old hands) -- looks fine
+- [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
+- [ ] Stem doesn't engage properly, decase and investigate
+- [ ] Order new case clamps
 
 ## Cauny dress watch
-Non-runner, balance OK, stem very difficult to get remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
+Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
 
 - [x] Remove from case -- pop the front
 - [x] Clean dial -- didn't make much difference
