@@ -1,5 +1,18 @@
 # Watch repairs
 
+## Omega 131.019 (steel)
+- 26M serial (1968), cal 601
+- Arrived in an automatic case
+
+- [x] Procure correct NOS case for movement
+- [x] New mainspring  
+- [x] Order new 30.8mm crystal
+- [x] Present on steel sharkskin mesh bracelet
+- [x] Fit new crystal
+- [x] Ultrasonic clean of keyless works
+- [ ] Only achieving approx. 170&deg; amplitude, try oiling the jewels
+- [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
+
 ## Cauny dress watch
 - Non-runer
 - Balance OK
@@ -79,18 +92,6 @@ Runs for a couple of hours but the mainspring appears to be broken. And it's not
 - [ ] New mainspring -- suspect broken spring, slips after a few winds
 - [ ] New gasket
 - [ ] Service
-
-## Omega 131.019 (steel)
-- 26M serial (1968), cal 601
-- Arrived in an automatic case
-
-- [x] Procure correct NOS case for movement
-- [x] New mainspring  
-- [x] Order new 30.8mm crystal
-- [x] Present on steel sharkskin mesh bracelet
-- [x] Fit new crystal
-- [ ] Ultrasonic clean of keyless works
-- [ ] Trial fit brand new seconds hand (could be too shiny compared to old hands)
 
 ## Citizen 2800A
 - Time drifts, quite erratic
