@@ -1,21 +1,9 @@
----
-title: Imagine you're a browser...
-subtitle: Technologies and protocols
-date: 2019-09-15T12:51:45+01:00
-tags:
-- revision
-- networks
-- web browser
-- tcp
-- security
----
-
 # Imagine you're a browser...
 
 An example of technologies encountered when a browser requests a page from a
 server. In this case the browser is running on a laptop connected by Wi-Fi.
 
-# Forming a request
+## Forming a request
 - User types a URL into the browser: github.com
 - Host performs DNS resolution to convert the URL into an IP address (the web
 server)
@@ -37,7 +25,7 @@ can be forwarded to the next gateway
 - The browser will probably be running from a private network so the router
 must translate the local to the WAN network (NAT)
 
-# Reaching the server
+## Reaching the server
 - Upon reaching the destination the server will probably send a redirect to the
 HTTPS version of the website (.dev domains are HSTS preload whitelisted)
 - This is vulnerable to a man-in-the-middle attack so browser have a whitelist
@@ -48,16 +36,16 @@ of domains that internally redirect to the HTTPS site (port 443)
 authority
 - For public websites the browser has a predefined set of authorities
 
-# Reading the page
+## Reading the page
 The browser might receive static HTML but more commonly dynamic code will run
 on the host and make further requests in the background: REST, web sockets.
 
-# Back end
+## Back end
 - Virtual machines
 - AWS, Azure, Google Cloud
 - Load balancing
 
-# What's the client running?
+## What's the client running?
 - Public Key Infrastructure (PKI)
 - Including public/private keys
 - Digital certificates
@@ -66,7 +54,7 @@ on the host and make further requests in the background: REST, web sockets.
 - SSL/TLS
 - Key length
 
-# Browser considerations
+## Browser considerations
 - Cross platform
 - Static page or dynamic HTML5?
 - Rest

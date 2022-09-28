@@ -1,12 +1,3 @@
----
-title: Blender
-date: 2020-11-22
-tags:
-- blender
-- 3d
-- cgi
----
-
 # Blender
 - See https://deanturpin.gitlab.io/renderghost (my projects)
 - Stairs addon: https://github.com/blackears/blenderStairs

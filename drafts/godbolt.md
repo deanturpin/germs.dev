@@ -1,7 +1,3 @@
----
-title: Compiler explorer installation
----
-
 # Compiler explorer installation
 
 - Create GCP Linux VM with 8GB RAM

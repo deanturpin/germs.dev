@@ -1,13 +1,3 @@
----
-title: GAN
-subtitle: Generative Adversarial Networks
-date: 2019-09-15
-tags:
-- revision
-- ai
-- machine learning
----
-
 # GAN
 
 ## Forger and expert analogy

@@ -1,14 +1,3 @@
----
-title: Big data
-subtitle: A consolidated list of sources
-date: 2021-01-26
-tags:
-- big data
-- web scraping
----
-
-# Big data
-
 # Sources of big data
 
 ## Big data communities and platforms
@@ -78,7 +67,7 @@ tags:
 ## Travel
 1. https://www.ustravel.org/research
 
-# Current affairs
+## Current affairs
 1. [Five Thirty Eight](https://data.fivethirtyeight.com/)
 
 ## Entertainment
@@ -109,7 +98,7 @@ tags:
 1. http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 1. https://github.com/rfordatascience/tidytuesday
 
-# Tools
+## Tools
 - https://oxylabs.io
 - https://scrapinghub.com
 - https://import.io
@@ -130,4 +119,3 @@ tags:
 - https://www.kdnuggets.com/2017/12/big-data-free-sources.html
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/sindresorhus/awesome
-

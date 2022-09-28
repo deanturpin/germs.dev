@@ -1,14 +1,4 @@
----
-title: Bandwidth
-date: 2019-07-19
-tags:
-- bandwidth
-- graduate
----
-
 # Bandwidth
-
-![](/img/bandwidth.png)
 
 See the [complete list](https://gist.github.com/deanturpin/4197baff46c894d5f12f9ada69e09183#file-bandwidth-csv), [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf) and [Grace Hopper explaining the nanosecond](https://www.youtube.com/embed/9eyFDBPk4Yw).
 

@@ -1,12 +1,3 @@
----
-title: Algorithms
-date: 2019-09-15
-tags:
-- revision
-- algorithms
-- complexity
----
-
 # Algorithms
 
 The conventional wisdom for when to use a linked list over contiguous storage
