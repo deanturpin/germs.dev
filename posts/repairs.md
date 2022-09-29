@@ -9,9 +9,60 @@
 - [x] Fit new crystal
 - [x] Ultrasonic clean of keyless works
 - [x] Trial fit brand new seconds hand (could be too shiny compared to old hands) -- looks fine
-- [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
-- [ ] Stem doesn't engage properly, decase and investigate
+- [x] Stem doesn't engage properly, decase and investigate -- it's the wrong crown for the case!
+- [x] Try correct stem/crown -- winding very stiff, hmmm
+- [ ] Trial with correct stem outside of the case -- does it just need a spot of grease?
 - [ ] Order new case clamps
+- [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
+
+## Rone Countryman (11.5''')
+34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. I qas originally just going to take the barrel from the second one but it turned into quite the journey!
+
+So, I've ended up with a few variations of FHF ST96 movements, and I intend to make one good one and rehome it in the original Rone case with the nice white dial.
+
+- [x] Polywatch
+- [ ] Fit consolidated ST96
+- [ ] New gasket
+- [ ] Wear for a couple of days
+- [ ] Service
+
+<!--
+now considering using the second with the date as the donee if it's looking OK after a clean.
+
+OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
+
+Just to get something wearable, let's just got a running ST96 in the original Rone case. 
+
+
+### FHF ST 96-4 (date) -- 1970
+Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
+
+- [x] Clean dial
+- [ ] Clean and service
+- [ ] Measure crystal
+- [ ] Replace crystal
+
+### FHF ST 96 (no date) -- 1965
+Runs for a couple of hours but the mainspring appears to be broken. And it's not going back together nicely: train wheel feels scratchy when the bridge is tightened down.
+
+- [x] Polywatch
+- [x] New strap -- black Milanese bracelet
+- [ ] New cannon pinion -- evaporated during tear down
+- [ ] New mainspring -- suspect broken spring, slips after a few winds
+- [ ] New gasket
+- [ ] Service
+-->
+
+## Omega 131.019 gold-plated
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
+
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Present on new leather strap
+- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
+- [x] Fit new crystal
+- [ ] Measure amplitude 
+- [ ] Partial service of keyless works
 
 ## Cauny dress watch
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
@@ -46,31 +97,6 @@ Awesome forest scene case, broken fourth wheel.
 Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in face down position)
 
 - [x] Reseat click
-
-## Rone Countryman (11.5''')
-34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. Was originally just going to take the barrel from the second one, but now considering using the second with the date as the donee if it's looking OK after a clean.
-
-OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
-
-Just to get something wearable, let's just got a running ST96 in the original Rone case. 
-
-### FHF ST 96-4 (date) -- 1970
-Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
-
-- [x] Clean dial
-- [ ] Clean and service
-- [ ] Measure crystal
-- [ ] Replace crystal
-
-### FHF ST 96 (no date) -- 1965
-Runs for a couple of hours but the mainspring appears to be broken. And it's not going back together nicely: train wheel feels scratchy when the bridge is tightened down.
-
-- [x] Polywatch
-- [x] New strap -- black Milanese bracelet
-- [ ] New cannon pinion -- evaporated during tear down
-- [ ] New mainspring -- suspect broken spring, slips after a few winds
-- [ ] New gasket
-- [ ] Service
 
 ## Citizen 2800A
 - Time drifts, quite erratic
@@ -120,17 +146,6 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
-
-## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
-- [x] Fit new crystal
-- [ ] Measure amplitude 
-- [ ] Partial service of keyless works
 
 ## Raketa 2609.HA
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
