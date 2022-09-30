@@ -16,9 +16,9 @@
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
 ## Rone Countryman (11.5''')
-34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. I qas originally just going to take the barrel from the second one but it turned into quite the journey!
+34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. I qas originally just going to take the barrel from the second one but it turned into quite the journey! I've ended up with a few variations of FHF ST96 movements, and I intend to make one good one and rehome it in the original Rone case with the nice white dial.
 
-So, I've ended up with a few variations of FHF ST96 movements, and I intend to make one good one and rehome it in the original Rone case with the nice white dial.
+So... went for the path of least resistance, dial back on, hands fitted, stem doesn't engage! Think I'm back to swapping out the escape and mainspring on the original one.
 
 - [x] Polywatch
 - [ ] Fit consolidated ST96
