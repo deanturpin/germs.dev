@@ -87,6 +87,7 @@ https://en.wikipedia.org/wiki/Trench_watch
 - https://prideandpinion.com
 - https://delraywatch.com
 - https://thetimetellershop.com/
+- https://www.cousinsuk.com
 
 ## Tools
 ### Bergeon
