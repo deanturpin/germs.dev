@@ -13,10 +13,10 @@ as Haskell.
 
 ## Example projects
 
-- Exploring C++/gtest: `https://turpin.dev`
-- Online logbook: `https://turpin.one`
-- Companies House plotter: `https://bank.germs.dev`
-- Architectural Blender renders: `https://deanturpin.gitlab.io/renderghost`
-- Tone generator: `https://gitlab.com/deanturpin/tony`
-- Skills timeline generator (see SVG below): `https://gitlab.com/deanturpin/skills`
+- __Exploring C++/gtest__: `https://turpin.dev`
+- __Online logbook__: `https://turpin.one`
+- __Companies House plotter__: `https://bank.germs.dev`
+- __Architectural Blender renders__: `https://deanturpin.gitlab.io/renderghost`
+- __Tone generator__: `https://gitlab.com/deanturpin/tony`
+- __Skills timeline generator (see SVG below)__: `https://gitlab.com/deanturpin/skills`
 
