@@ -18,7 +18,7 @@
 ## Rone Countryman (11.5''')
 34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. I qas originally just going to take the barrel from the second one but it turned into quite the journey! I've ended up with a few variations of FHF ST96 movements, and I intend to make one good one and rehome it in the original Rone case with the nice white dial.
 
-So... went for the path of least resistance, dial back on, hands fitted, stem doesn't engage! Think I'm back to swapping out the escape and mainspring on the original one.
+So... went for the path of least resistance, dial back on, hands fitted, stem doesn't engage! Think I'm back to swapping out the escape and mainspring on the original one. Turns out there are quite a few variations on an ST96! With slightly different setting levers, but the escape pivots on one of the recent donors don't look remarkably different to the two I thought I'd broken. And I sucessfully took apart the wheel train and refitted it for practice. So potentially the original one is still good, I just need to be a little more accomplished at teasing pivots into jewels. (Excerting a little downward pressure on the wheel train bridge did seem to help the cause today.)
 
 - [x] Polywatch
 - [ ] Fit consolidated ST96
