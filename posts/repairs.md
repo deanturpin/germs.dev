@@ -15,44 +15,6 @@
 - [ ] Order new case clamps
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
-## Rone Countryman (11.5''')
-34mm manual, ~200&deg; amplitude. Consolidate with a similar Rone with a date. I qas originally just going to take the barrel from the second one but it turned into quite the journey! I've ended up with a few variations of FHF ST96 movements, and I intend to make one good one and rehome it in the original Rone case with the nice white dial.
-
-So... went for the path of least resistance, dial back on, hands fitted, stem doesn't engage! Think I'm back to swapping out the escape and mainspring on the original one. Turns out there are quite a few variations on an ST96! With slightly different setting levers, but the escape pivots on one of the recent donors don't look remarkably different to the two I thought I'd broken. And I sucessfully took apart the wheel train and refitted it for practice. So potentially the original one is still good, I just need to be a little more accomplished at teasing pivots into jewels. (Excerting a little downward pressure on the wheel train bridge did seem to help the cause today.)
-
-- [x] Polywatch
-- [ ] Fit consolidated ST96
-- [ ] New gasket
-- [ ] Wear for a couple of days
-- [ ] Service
-
-<!--
-now considering using the second with the date as the donee if it's looking OK after a clean.
-
-OK, swapped the good barrel into the original no date version but I couldn't get the wheel train bridge back on and _maybe_ broke the pivot on two escape wheels. Sadness. However, fortunately the ST96 is a very common movement so I have another couple of spares and repairs ones on the way.
-
-Just to get something wearable, let's just got a running ST96 in the original Rone case. 
-
-
-### FHF ST 96-4 (date) -- 1970
-Extremely dirty and smells of rabbits (apparently been in a loft). Appears to have been dipped in grease.
-
-- [x] Clean dial
-- [ ] Clean and service
-- [ ] Measure crystal
-- [ ] Replace crystal
-
-### FHF ST 96 (no date) -- 1965
-Runs for a couple of hours but the mainspring appears to be broken. And it's not going back together nicely: train wheel feels scratchy when the bridge is tightened down.
-
-- [x] Polywatch
-- [x] New strap -- black Milanese bracelet
-- [ ] New cannon pinion -- evaporated during tear down
-- [ ] New mainspring -- suspect broken spring, slips after a few winds
-- [ ] New gasket
-- [ ] Service
--->
-
 ## Omega 131.019 gold-plated
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
 
