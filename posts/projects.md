@@ -16,7 +16,7 @@ as Haskell.
 - __Exploring C++/gtest__: `https://turpin.dev`
 - __Online logbook__: `https://turpin.one`
 - __Companies House plotter__: `https://bank.germs.dev`
-- __Architectural Blender renders__: `https://deanturpin.gitlab.io/renderghost`
+- __Architectural Blender renders__: `https://render.germs.dev`
 - __Tone generator__: `https://gitlab.com/deanturpin/tony`
 - __Skills timeline generator (see SVG below)__: `https://gitlab.com/deanturpin/skills`
 
