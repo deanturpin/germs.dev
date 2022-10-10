@@ -1,11 +1,13 @@
 # Watch repairs
 
 ## Molnija 3602 marriage watch
-Consolidating two pocket watches. After swapping various bits it seems both balances are wobbly. So perhaps a dirty balance bridge has broken the good balance? Might be a case of cleaning both and building a new one out of the best bits.
-
-OK, scratch that... it's quite expensive to buy a new balance so I've bought another working movement and a NOS marriage case. 
-
 See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
+
+I started out just trying to fix a pocket watch using another as a donor, but I managed to break both balances so I bought a third one to build the marriage watch. The others I'll sell or use as spares.
+
+### Serial xxxxxx
+- [x] Order NOS watch case
+- [ ] Fit movement
 
 ### Serial 998652
 Awesome forest scene case, broken fourth wheel.
@@ -15,15 +17,15 @@ Awesome forest scene case, broken fourth wheel.
 - [x] Fit ratchet wheel screw
 - [x] Order new 42.8mm crystal (next largest I could find)
 - [ ] Fit new crystal -- crystal press not large enough!
-- [ ] Clean pallet fork before fitting new balance
 - [ ] Fit working balance
 - [ ] New hands
 - [ ] New dial
 
 ### Serial 594243
-Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in face down position)
+Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
 
 - [x] Reseat click
+- [ ] Find correct pallet fork bridge screws
 
 ## Omega 131.019 (steel)
 22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has some homemade case clamps.
