@@ -64,8 +64,7 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [ ] Service
 
 ## Citizen 2800A
-- Time drifts, quite erratic
-- 180&deg; amplitude
+Time drifts, quite erratic 180&deg; amplitude.
 
 - [ ] Review keyless works
 - [ ] Service
@@ -76,7 +75,7 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 ## Longines 12.92
 Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might've been easier to just to stick the good balance in the 16-jewel, but it seems both balances are a little wobbly. Will service and try again.
 
-See (Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
+See [Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
 ### Issues
 #### 15-jewel
