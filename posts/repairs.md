@@ -7,8 +7,13 @@ I started out just trying to fix a pocket watch using another as a donor, but I 
 
 ### Serial xxxxxx
 - [x] Order NOS watch case
-- [ ] Fit movement
+- [x] Fit movement
+- [x] Fit silver hands -- seconds hand too tight, refitted original black
+- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger?
+- [ ] Fit correct silver seconds hand
+- [ ] Review after a few days of wear -- have seen it stop around 10 o'clock (sticky hour wheel etc)
 
+<!--
 ### Serial 998652
 Awesome forest scene case, broken fourth wheel.
 
@@ -26,6 +31,7 @@ Broken balance, good hands, case much newer but not as nice as the wolf one, ful
 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
+-->
 
 ## Omega 131.019 (steel)
 22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has some homemade case clamps.
