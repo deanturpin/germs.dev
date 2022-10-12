@@ -1,5 +1,15 @@
 # Watch repairs
 
+## Rone FHF ST-96 11.5'''
+34mm manual, ~200&deg; amplitude. Originally just had a slippy mainspring but after a few learning experiences I've ended up with two donor movements! (Actually slightly different versions but that is also part of the journey.)
+
+Essentially I'm taking the best bits and making one watch that will look almost identical to the original.
+
+- [ ] Service keyless works
+- [ ] Fit dial and hands
+- [ ] Recase
+- [ ] Wear for a while
+
 ## Molnija 3602 marriage watch
 See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
 
@@ -9,9 +19,10 @@ I started out just trying to fix a pocket watch using another as a donor, but I 
 - [x] Order NOS watch case
 - [x] Fit movement
 - [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger?
+- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
 - [ ] Fit correct silver seconds hand
 - [ ] Review after a few days of wear -- have seen it stop around 10 o'clock (sticky hour wheel etc)
+- [ ] Trim stem
 
 <!--
 ### Serial 998652
