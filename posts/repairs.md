@@ -1,15 +1,5 @@
 # Watch repairs
 
-## Rone FHF ST-96 11.5'''
-34mm manual, ~200&deg; amplitude. Originally just had a slippy mainspring but after a few learning experiences I've ended up with two donor movements! (Actually slightly different versions but that is also part of the journey.)
-
-Essentially I'm taking the best bits and making one watch that will look almost identical to the original.
-
-- [ ] Service keyless works
-- [ ] Fit dial and hands
-- [ ] Recase
-- [ ] Wear for a while
-
 ## Molnija 3602 marriage watch
 See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
 

@@ -1,12 +1,3 @@
----
-title: C++ recipes
-date: 2020-11-04
-tags:
-- cpp
-- revision
-- tricks
----
-
 # C++ recipes
 
 # Operating over a whole container using ranges (C++20)
