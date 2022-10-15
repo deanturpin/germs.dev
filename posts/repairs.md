@@ -1,38 +1,14 @@
 # Watch repairs
 
-## Molnija 3602 marriage watch
-See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
+## Cauny small dress watch with sub-seconds
+Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
 
-I started out just trying to fix a pocket watch using another as a donor, but I managed to break both balances so I bought a third one to build the marriage watch. The others I'll sell or use as spares.
-
-### Serial xxxxxx
-- [x] Order NOS watch case
-- [x] Fit movement
-- [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
-- [ ] Fit correct silver seconds hand
-- [ ] Review after a few days of wear -- have seen it stop around 10 o'clock (sticky hour wheel etc)
-- [ ] Trim stem
-
-<!--
-### Serial 998652
-Awesome forest scene case, broken fourth wheel.
-
-- [x] Measure bezel: 42.6mm 
-- [x] Replace fourth wheel
-- [x] Fit ratchet wheel screw
-- [x] Order new 42.8mm crystal (next largest I could find)
-- [ ] Fit new crystal -- crystal press not large enough!
-- [ ] Fit working balance
-- [ ] New hands
-- [ ] New dial
-
-### Serial 594243
-Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
-
-- [x] Reseat click
-- [ ] Find correct pallet fork bridge screws
--->
+- [x] Remove from case -- pop the front
+- [x] Clean dial -- didn't make much difference
+- [x] Check if it runs by turning barrel
+- [x] Order donor movement
+- [ ] Replace mainspring (swap from donor)
+- [ ] Service
 
 ## Omega 131.019 (steel)
 22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has some homemade case clamps.
@@ -59,16 +35,6 @@ Broken balance, good hands, case much newer but not as nice as the wolf one, ful
 - [x] Fit new crystal
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
-
-## Cauny dress watch
-Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
-
-- [x] Remove from case -- pop the front
-- [x] Clean dial -- didn't make much difference
-- [x] Check if it runs by turning barrel
-- [x] Order donor movement
-- [ ] Replace mainspring (swap from donor)
-- [ ] Service
 
 ## Citizen 2800A
 Time drifts, quite erratic 180&deg; amplitude.
