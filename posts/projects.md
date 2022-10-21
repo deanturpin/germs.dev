@@ -1,8 +1,7 @@
 # C++ experience and side-projects
 
 Commercially I develop using C++17, therefore I maintain various
-side-projects on GitLab to explore new C++ features. These projects cover
-topics such as audio processing, trading strategy back-testing and Companies
+side-projects on GitLab to explore new C++ features. These projects include audio processing, trading strategy back-testing and Companies
 House analysis.
 
 I'm an advocate of ad-hoc scripting for rapid development of ideas, and I
@@ -13,10 +12,11 @@ as Haskell.
 
 ## Example projects
 
-- __Exploring C++/gtest__: `https://turpin.dev`
-- __Online logbook__: `https://turpin.one`
-- __Companies House plotter__: `https://bank.germs.dev`
-- __Architectural Blender renders__: `https://render.germs.dev`
-- __Tone generator__: `https://gitlab.com/deanturpin/tony`
-- __Skills timeline generator (see SVG below)__: `https://gitlab.com/deanturpin/skills`
+- Exploring C++/gtest: `https://turpin.dev`
+- Online logbook: `https://turpin.one`
+- Companies House plotter: `https://bank.germs.dev`
+- Discrete Fourier Transforms in C++23: `https://dft.germs.dev/`
+- Architectural Blender renders: `https://render.germs.dev`
+- Skills timeline generator (see image below): `https://gitlab.com/deanturpin/skills`
+- My bash aliases and essential Linux apps: `https://germs.dev/` `https://turpin.cloud/`
 
