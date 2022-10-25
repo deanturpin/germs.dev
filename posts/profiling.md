@@ -1,13 +1,14 @@
 # C++ profiling
 
 ## Profilers
-- gprof
-- valgrind
+- gprof, `gprof2dot --wrap`
+- [valgrind](https://www.youtube.com/watch?v=3l0BQs2ThTo) - build with `-g`, run `valgrind -s a.out` (expect 100 times slow down)
 - perf
 - `/usr/bin/time --verbose`
 - Tracy
 - htop
 - Google Benchmark
+- [Optick](https://www.youtube.com/watch?v=p57TV5342fo&list=WL&index=22) -- lightweight profiling for games
 
 ### gprof
 Use `-p` for `prof` and `-pg` for `gprof`. But it will take longer to run.
