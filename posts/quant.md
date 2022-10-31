@@ -1,8 +1,3 @@
----
-title: Quants
-draft: true
----
-
 # Quants
 
 > In quant trading, we rely on mathematical models, commonly called alphas,
