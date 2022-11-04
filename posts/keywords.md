@@ -7,10 +7,10 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
 ---
 
-- __Languages__: C++20, STL, Bash, Python; object-oriented, functional, multithreading
+- __Languages__: C++23, STL, TMP, Bash, Python; object-oriented, functional, multithreading
 - __Build__: QtCreator, Visual Studio, GNU Make, CMake, Ninja, clang-format
 - __Source control__: Git, Gerrit, Subversion
-- __CI/CD__: GitLab, Jenkins, unit testing
+- __CI/CD__: GitLab, Jenkins, unit testing, profiling
 - __Networking__: TCP/UDP, OSI, Wireshark
 - __Platforms__: Linux, ARM, Windows 11
 - __Cloud__: Google Cloud, Cloudflare
