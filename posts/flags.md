@@ -1,15 +1,8 @@
----
-title: C++ flags
-date: 2020-05-17
-tags:
-- c++
-- compiler
-- gcc
-- c++20
-draft: true
----
-
 # C++ compiler flags
+
+> tl;dr
+> Latest version here: https://flags.germs.dev/
+
 ## Standard g++
 ```
 --std=c++2b --all-warnings --extra-warnings --pedantic-errors -Werror
