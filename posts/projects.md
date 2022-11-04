@@ -15,8 +15,10 @@ as Haskell.
 - Exploring C++/gtest: `https://turpin.dev`
 - Online logbook: `https://turpin.one`
 - Companies House plotter: `https://bank.germs.dev`
-- Discrete Fourier Transforms in C++23: `https://dft.germs.dev/`
+- Discrete Fourier Transforms in C++23: `https://dft.germs.dev`
 - Architectural Blender renders: `https://render.germs.dev`
 - Skills timeline generator (see image below): `https://gitlab.com/deanturpin/skills`
-- My bash aliases and essential Linux apps: `https://germs.dev/` `https://turpin.cloud/`
+- My bash aliases `https://germs.dev`
+- Essential Linux apps: `https://turpin.cloud`
+- C++ compiler flags of choice: `g++ main.cxx $(curl -L flags.germs.dev)`
 
