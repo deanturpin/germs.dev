@@ -55,7 +55,7 @@ dispatch, and the corresponding forms of polymorphism are accordingly called
 static polymorphism and dynamic polymorphism.
 
 - [Stack overflow](https://en.wikipedia.org/wiki/Stack_buffer_overflow)
-- [Polymorphism](<https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+- [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 - What's the difference between malloc and new?
 - Compare functional and object-oriented programming
 
