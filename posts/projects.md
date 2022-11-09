@@ -12,13 +12,13 @@ as Haskell.
 
 ## Example projects
 
-- Exploring C++/gtest: `https://turpin.dev`
-- Online logbook: `https://turpin.one`
-- Companies House plotter: `https://bank.germs.dev`
-- Discrete Fourier Transforms in C++23: `https://dft.germs.dev`
-- Architectural Blender renders: `https://render.germs.dev`
-- Skills timeline generator (see image below): `https://gitlab.com/deanturpin/skills`
-- My bash aliases `https://germs.dev`
-- Essential Linux apps: `https://turpin.cloud`
+- Discrete Fourier Transforms in C++23: `dft.germs.dev`
+- C++ best practice: `turpin.dev`
+- Online logbook: `turpin.one`
+- Companies House plotter: `bank.germs.dev`
+- Architectural Blender renders: `render.germs.dev`
+- Skills timeline generator (see image below): `gitlab.com/deanturpin/skills`
+- My bash aliases `germs.dev`
+- Essential Linux apps: `turpin.cloud`
 - C++ compiler flags of choice: `g++ main.cxx $(curl -L flags.germs.dev)`
 
