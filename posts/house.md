@@ -1,4 +1,5 @@
 # UK house price data
+
 ## Independent
 - [rightmove](https://www.rightmove.co.uk/news/house-price-index/)
 - [UK property data](https://propertydata.co.uk/charts/house-prices) (14-day trial, 25/month minimum thereafter)
@@ -68,3 +69,4 @@ Including:
 - Title Plan
 - Title Register
 - UK Companies that own property in England and Wales
+

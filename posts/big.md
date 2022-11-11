@@ -30,6 +30,9 @@
 1. https://opendata.cityofnewyork.us/
 1. https://open.canada.ca/en/open-data
 
+## House prices
+1. [UK house prices](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+
 ## Mathematics
 - I got 717 problems... [Project Euler problems](https://projecteuler.net/archives)
 
@@ -93,7 +96,6 @@
 1. [Financial Times markets data](https://markets.ft.com/data/)
 
 ## To sort
-1. [UK house prices](/post/house)
 1. https://www.gapminder.org/data/
 1. http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 1. https://github.com/rfordatascience/tidytuesday
