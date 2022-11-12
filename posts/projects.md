@@ -13,6 +13,7 @@ as Haskell.
 ## Example projects
 
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
+- Exploring FIX: `fix.germs.dev`
 - C++ best practice: `turpin.dev`
 - Online logbook: `turpin.one`
 - Companies House plotter: `bank.germs.dev`
