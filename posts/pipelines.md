@@ -7,4 +7,10 @@
 - [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines)
 - [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines)
 - [![](https://gitlab.com/germs-dev/turpin-cloud/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/turpin-cloud/-/pipelines)
+- [![](https://gitlab.com/germs-dev/flags/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/flags/-/pipelines)
+- [![](https://gitlab.com/germs-dev/companies-house-plotter/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/companies-house-plotter/-/pipelines)
+- [![](https://gitlab.com/germs-dev/germs-dev/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/germs-dev/-/pipelines)
+- [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines)
+- [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines)
+- [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines)
 
