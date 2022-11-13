@@ -11,6 +11,5 @@
 - [![](https://gitlab.com/germs-dev/companies-house-plotter/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/companies-house-plotter/-/pipelines)
 - [![](https://gitlab.com/germs-dev/germs-dev/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/germs-dev/-/pipelines)
 - [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines)
-- [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines)
-- [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines)
-
+- [![](https://gitlab.com/germs-dev/mews-one/badges/master/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines)
+- [![](https://gitlab.com/germs-dev/render/badges/master/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines)
