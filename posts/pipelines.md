@@ -13,4 +13,3 @@
 - [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) https://quotations.germs.dev/
 - [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines) https://mews.one/
 - [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines) https://render.germs.dev/
-
