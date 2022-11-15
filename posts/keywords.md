@@ -17,6 +17,6 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Database__: PostgreSQL, MariaDB, Tableau, DBeaver
 - __UI__: Qt, JUCE, MFC
 - __Documentation__: Doxygen, Mermaid, PlantUML, Confluence
-- __Protocols__: XMPP, SIP, gSOAP, PCM
+- __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, security clearance
 
