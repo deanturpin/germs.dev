@@ -177,6 +177,7 @@ CPI = CPI_ideal + CPI_stall
 
 ## References
 - https://github.com/rollbear/cache-friendly-samples/blob/master/bheap_aux.cpp
+- [Crunching bytes](http://msinilo.pl/blog2/post/p425/)
 - [Speculative execution](https://en.wikipedia.org/wiki/Speculative_execution)
 - [MIT pipelines](https://www.youtube.com/watch?v=lZ_7FeLgkSE&list=WL&index=140)
 - [Pipeline stall](https://en.wikipedia.org/wiki/Pipeline_stall)

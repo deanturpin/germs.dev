@@ -132,8 +132,8 @@ A template is a C++ entity that defines one of the following:
 # Type metafunctions
 - Workhorse (expectially with advent of constexpr)
 - Returns a type
-- std::type_identity (C++20)
-- value metatfunctions use variable templates ending with "_v"
+- `std::type_identity` (C++20)
+- value metatfunctions use variable templates ending with "\_v"
 
 # Explicit spectialisation
 ```
@@ -149,16 +149,18 @@ std::cout << typeid(Type1).name() << 'n';
 Now most compilers implement traits with intrinsics.
 
 # Primary type categories (traits)
-All inherit from either true_type or false_type, and all should yield the same result in light of cv qualifiers.
+All inherit from either `true_type` or `false_type`, and all should yield the same result in light of cv qualifiers.
 
-For any given type T, exactle one of th eprimary type categories shall yield true_type.
+For any given type T, exactle one of th eprimary type categories shall yield `true_type`.
 
-- is_void
-- is_null_pointer
-- is_integral
-- is_floating_point
-- is_array
-- etc
+```
+is_void
+is_null_pointer
+is_integral
+is_floating_point
+is_array
+etc
+```
 
 Equals combinatorial explosion!
 
@@ -166,7 +168,7 @@ So...
 
 ## Metafunction abstractions
 - Treat metafunction programming like regular programming
-- blah_t is involing blah
+- `blah_t` is invoking blah
 
 # Function overload resolution
 - decltype: compiler, don't call this function but what type would it return?
@@ -175,7 +177,7 @@ So...
 
 # Comparisons with auto in C++20
 - Auto uses the same rules as template type params
-- auto will never deduce a reference#
+- auto will never deduce a reference
 - constness will be deduced
 - decltype(auto) will deduce a reference (should only see in very special cases)
 - Generally prefer auto (according to Jason Turner)
@@ -185,11 +187,11 @@ These generate the same code:
 ```cpp
 template <typename T>
 T func(T t) {
-return t;
+  return t;
 }
 
 auto func2(auto t) {
-return t;
+  return t;
 }
 ```
 
