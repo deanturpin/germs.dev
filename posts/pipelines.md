@@ -3,6 +3,7 @@
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines) https://dft.germs.dev/
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) https://fix.germs.dev/
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) https://turpin.dev/
+1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/-/pipelines) https://explore.germs.dev/
 1. [![](https://gitlab.com/germs-dev/turpin-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/turpin-one/-/pipelines) https://turpin.one/
 1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) https://md2html.germs.dev/
 1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) https://ping.germs.dev/
