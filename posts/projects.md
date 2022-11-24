@@ -14,13 +14,16 @@ as Haskell.
 
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
 - Command line assembly explorer: `explore.germs.dev`
-- FIX processing: `fix.germs.dev`
 - C++ best practice: `turpin.dev`
+- FIX processing: `fix.germs.dev`
 - Online logbook: `turpin.one`
-- Companies House plotter: `bank.germs.dev`
+- Companies House plotter (nightly): `bank.germs.dev`
+- My bash aliases `germs.dev`
+- Essential Linux apps: https://turpin.cloud
+
+<!--
+- C++ compiler flags of choice: `g++ main.cxx $(curl -L flags.germs.dev)`
 - Architectural Blender renders: `render.germs.dev`
 - Skills timeline generator (see image below): `gitlab.com/deanturpin/skills`
-- My bash aliases `germs.dev`
-- Essential Linux apps: `turpin.cloud`
-- C++ compiler flags of choice: `g++ main.cxx $(curl -L flags.germs.dev)`
+-->
 
