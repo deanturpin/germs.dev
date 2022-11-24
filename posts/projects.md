@@ -18,8 +18,8 @@ as Haskell.
 - FIX processing: `fix.germs.dev`
 - Online logbook: `turpin.one`
 - Companies House plotter (nightly): `bank.germs.dev`
-- My bash aliases `germs.dev`
-- Essential Linux apps: https://turpin.cloud
+- My bash aliases [germs.dev](https://germs.dev)
+- Essential Linux apps: [turpin.cloud](https://turpin.cloud)
 
 <!--
 - C++ compiler flags of choice: `g++ main.cxx $(curl -L flags.germs.dev)`
