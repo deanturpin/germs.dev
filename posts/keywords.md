@@ -20,3 +20,5 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, security clearance
 
+---
+
