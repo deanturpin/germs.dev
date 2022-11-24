@@ -5,6 +5,9 @@
 - __2019__: Cloud computing, R/notebooks, GitLab, Hugo
 - __2018__: Docker
 - __2017__: Cryptocurrency, blockchain
+
+<!--
 - __2016__: C++1z
 - __2015__: git, GitHub
+-->
 
