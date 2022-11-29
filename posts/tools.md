@@ -1,11 +1,17 @@
 # Watchmaker's tools
-I bought a kit to get started but I've upgraded much of it. I've mostly been working on 1960-80s manuals and automatics with a central seconds hand. And I'm a leather strap kind of person so not much work with bracelets.
+I bought a kit to get started but I've upgraded much of it. I've mostly been
+working on 1960-80s manuals and automatics with a central seconds hand. And I'm
+a leather strap kind of person so not much work with bracelets.
 
-There are endless tools that can streamline your workflow, so I've listed them in order so you can add as you progress. And tools can be resold quite easily if you've gone far enough to scratch the itch. The rabbit hole goes _deep_!
+There are endless tools that can streamline your workflow, so I've listed them
+in order so you can add as you progress. And tools can be resold quite easily
+if you've gone far enough to scratch the itch. The rabbit hole goes _deep_!
 
-Always try to use the correct size screwdrive. You just risk chewing up the blades, screw head or both.
+Always try to use the correct size screwdriver. You just risk chewing up the
+blades, screw head or both.
 
-Very short tweezers are good for manipulating screws, can be flipped around with one hand.
+Very short tweezers are good for manipulating screws, can be flipped around
+with one hand.
 
 ## Inspection
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
@@ -43,7 +49,13 @@ Very short tweezers are good for manipulating screws, can be flipped around with
 - Case Cushion Watch Black Gel Ø75mm Bergeon 5395-75-N - HC5395-75-N (HC5395-75-N) 
 
 ## Servicing
-Servicing usually goes hand-in-hand with the strip-down and repair but it can also start to become quite expensive; not only in the machines but consumables that you probably can't sell on quite as easily.
+Servicing usually goes hand-in-hand with the strip-down and repair but it can
+also start to become quite expensive; not only in the machines but consumables
+that you probably can't sell on quite as easily.
+
+But do consider an ultrasonic cleaner, like [this
+one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/).
+Very reasonably priced and cool to use!
 
 ### Degreaser
 - Lighter fluid (readily available from a newsagent £2.99)
@@ -74,7 +86,6 @@ See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/defa
 - D5 for the barrel
 - HP 1300 mid
 - Mainspring winder
-- Ultrasonic cleaner, like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/)
 - USB beer foamer (for cleaning like an ultrasonic)
 
 ## Stores
@@ -82,3 +93,4 @@ See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/defa
 - https://www.eternaltools.com/moebius-8300-classic-grease-for-watchmakers
 - H&S Walsh
 - https://shop.diywatch.club/collections/watchmaking-tools
+
