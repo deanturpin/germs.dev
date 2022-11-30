@@ -12,8 +12,9 @@ tags:
 # Courses and books
 
 # _Book_ books (made of actual paper)
-- C++ High Performance: Master the art of optimizing the functioning of your C++ code, 2nd Edition
-- C++ Templates: The Complete Guide
+- Practical Watch Repairing -- Donald de Carlo
+- C++ Templates: The Complete Guide -- David Vandevoorde
+- C++ High Performance: Master the art of optimizing the functioning of your C++ code, 2nd Edition -- Bjorn Andrist, Viktor Sehr, Ben Garney
 - Learn Chess Tactics -- John Nunn
 - Amo, Amas, Amat ... and All That -- Harry Mount
 - Seriously Curious: 109 facts and figures to turn your world upside down Paperback -- Tom Standage
