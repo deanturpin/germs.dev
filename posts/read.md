@@ -1,17 +1,6 @@
----
-title: Courses and books
-subtitle: That have piqued my interest
-date: 2019-09-22
-tags:
-- learn
-- books
-- read
-- audiobooks
----
-
 # Courses and books
 
-# _Book_ books (made of actual paper)
+## _Book_ books (made of actual paper)
 - Practical Watch Repairing -- Donald de Carlo
 - C++ Templates: The Complete Guide -- David Vandevoorde
 - C++ High Performance: Master the art of optimizing the functioning of your C++ code, 2nd Edition -- Bjorn Andrist, Viktor Sehr, Ben Garney
@@ -19,7 +8,7 @@ tags:
 - Amo, Amas, Amat ... and All That -- Harry Mount
 - Seriously Curious: 109 facts and figures to turn your world upside down Paperback -- Tom Standage
 
-# Audiobooks
+## Audiobooks
 - Pimsleur Norwegian Level 1 (lessons 1-5)
 - The Economics Book: big ideas simply explained -- DK
 - The Selfish Gene -- Richard Dawkins
@@ -42,7 +31,7 @@ tags:
 - The Science of Yoga: The Risks and Rewards -- William J Broad
 - Why We Sleep: The New Science of Sleep and Dreams -- Matthew Walker
 - Mythos -- Stephen Fry
-- The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life -- Mark Manson
+- The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life -- Mark Manson
 - I, Partridge: We Need to Talk About Alan -- Alan Partridge
 - Flash Boys -- Michael Lewis
 - Forex: Strategies: Best Forex Trading Strategies for High Profit and Reduced Risk (Volume 2) -- Matthew Maybury,
@@ -50,7 +39,7 @@ tags:
 - The Big Short: Inside the Doomsday Machine -- Michael Lewis
 - The Humans -- Matt Haig
 
-# Pluralsight
+## Pluralsight
 - Presenting to the Boss(es)
 - Lean In: Navigating Gender Bias at Work
 - Play by Play: Solving Workplace Grumpiness
@@ -101,3 +90,4 @@ tags:
 - Beautiful C++: STL Algorithms
 - Practical C++14 and C++17 Features
 - C++ Fundamentals - Part 2
+
