@@ -1,6 +1,8 @@
 # Posh Boys Watch Club
 ## Mechanical watches FTW
 
+> See [PBWC website](https://poshboys.club/).
+
 <!--
 ## Mechanical watches or die
 -->
