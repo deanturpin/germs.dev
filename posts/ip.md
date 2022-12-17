@@ -1,17 +1,7 @@
----
-title: TCP/IP
-subtitle: Layers and protocols
-date: 2019-09-25
-tags:
-- revision
-- networks
-- tcp
----
-
 # TCP/IP
 
-# Please Do Not Take Salami Pizza Away
-Comparison of OSI and TCP/IP models.
+## Please Do Not Take Salami Pizza Away
+Comparison of OSI (Open Systems Intercommunication) and TCP/IP models.
 
 | OSI | TCP/IP | Protocol Data Unit | Protocols | Example | Hardware example |
 | ------------ | ----------- | ------------------ | ---------------------- | ---------- | --------------------------------------------- |
@@ -31,10 +21,11 @@ Comparison of OSI and TCP/IP models.
 backs off out of courtesy but UDP doesn't care).
 - Delivery: TCP offers guaranteed delivery, UDP does not.
 
-# Three way handshake
+## Three way handshake
 SYN stands for "synchronise". See [three way
 handshake](https://en.wikipedia.org/wiki/Handshaking#TCP_three-way_handshake).
 
+```
 => SYN
 <= SYN-ACK
 => ACK
@@ -45,8 +36,9 @@ handshake](https://en.wikipedia.org/wiki/Handshaking#TCP_three-way_handshake).
 => FIN
 <= FIN-ACK
 => ACK
+```
 
-# IPV4 versus IPV6
+## IPV4 versus IPV6
 IPv6 addresses are 128-bit IP address written in hexadecimal and separated by
 colons. It has a larger address space than IPv4.
 
@@ -81,7 +73,7 @@ docs](https://docs.oracle.com/cd/E19253-01/816-4554/ipv6-overview-24/index.html)
 and [IPv4/v6
 differences](https://www.webopedia.com/DidYouKnow/Internet/ipv6_ipv4_difference.html).
 
-# MAC addresses
+## MAC addresses
 - 48-bit hexadecimal
 - ve-nd-or-xx-xx-xx
 
@@ -101,11 +93,13 @@ will improve the IP protocol:
 - Flexible options and extensions
 - Easier administration (say good-bye to DHCP)
 
-# Classless Inter-Domain Routing (CIDR)
+## Classless Inter-Domain Routing (CIDR)
 Pronounced "cider".
 
+```
 network/mask
 192.168.109.0/24
+```
 
 ## References
 - [Forward Error Correction (FEC)](https://en.wikipedia.org/wiki/Error_correction_code)
