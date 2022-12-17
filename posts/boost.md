@@ -8,5 +8,9 @@ to a subsystem rather than letting it creep throughout the codebase.
 - Boost.Thread
 - Boost.Test
 
-See [boost.org](https://www.boost.org/).
+- [boost.org](https://www.boost.org/).
+- [Should I become proficient in STL before learning
+  Boost?](https://stackoverflow.com/questions/548751/should-i-become-proficient-with-stl-libraries-before-learning-boost-alternatives)
+- [Comparing C++ and
+  Boost](https://insights.dice.com/2013/03/15/comparing-the-c-standard-and-boost-2/)
 

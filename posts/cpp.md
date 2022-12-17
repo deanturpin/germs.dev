@@ -1,11 +1,3 @@
----
-title: Modern C++
-date: 2019-09-15
-tags:
-- revision
-- cpp
----
-
 # Modern C++
 
 ## Modules (C++20)
@@ -18,10 +10,6 @@ nonmodifiable (const) variables, are lvalues. An rvalue is a temporary value
 that does not persist beyond the expression that uses it.
 
 A function call can be an lvalue if and only if the return value is a reference.
-
-## Boost versus STL
-- [Should I become proficient in STL before learning Boost?](https://stackoverflow.com/questions/548751/should-i-become-proficient-with-stl-libraries-before-learning-boost-alternatives)
-- [Comparing C++ and Boost](https://insights.dice.com/2013/03/15/comparing-the-c-standard-and-boost-2/)
 
 ## Casts
 - `static_cast`
@@ -54,12 +42,12 @@ three/five/zero](https://en.cppreference.com/w/cpp/language/rule_of_three).
 ```cpp
 class base_of_five_defaults
 {
-public:
-base_of_five_defaults(const base_of_five_defaults&) = default;
-base_of_five_defaults(base_of_five_defaults&&) = default;
-base_of_five_defaults& operator=(const base_of_five_defaults&) = default;
-base_of_five_defaults& operator=(base_of_five_defaults&&) = default;
-virtual ~base_of_five_defaults() = default;
+  public:
+    base_of_five_defaults(const base_of_five_defaults&) = default;
+    base_of_five_defaults(base_of_five_defaults&&) = default;
+    base_of_five_defaults& operator=(const base_of_five_defaults&) = default;
+    base_of_five_defaults& operator=(base_of_five_defaults&&) = default;
+    virtual ~base_of_five_defaults() = default;
 };
 ```
 
