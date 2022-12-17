@@ -1,14 +1,3 @@
----
-title: Brighton restaurants 2021
-date: 2021-09-26
-tags:
-- dining
-- brighton
-- food
-- eating out
-- takeaway
----
-
 # Brighton restaurants
 
 ## Visited
@@ -55,3 +44,4 @@ tags:
 - Artists' Residence
 - L'Atelier du Vin
 - The Grand
+
