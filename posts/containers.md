@@ -10,8 +10,9 @@ tags:
 
 # STL containers
 > Containers replicate structures very commonly used in programming: dynamic
-> arrays (`vector`), queues (`queue`), stacks (`stack`), heaps (`priority_queue`, `make_heap`),
-> linked lists (`list`), trees (`set`), associative arrays (`map`)...
+> arrays (`vector`), queues (`queue`), stacks (`stack`), heaps
+> (`priority_queue`, `make_heap`), linked lists (`list`), trees (`set`),
+> associative arrays (`map`)...
 
 http://www.cplusplus.com/reference/stl/
 
@@ -30,7 +31,7 @@ locations but has efficient insertion and deletion of elements at the beginning
 and end of a sequence. Adding to a deque doesn't invalidate existing iterators.
 See [An In Depth Study of the STL Deque
 Container](https://www.codeproject.com/Articles/5425/An In Depth Study of the
-STL Deque Container).
+STL Deque Container). A `deque` is a `vector` list of fixed-size `vector` chunks.
 
 Unlike the other standard containers, `array` has a fixed size, and also
 doesn't have `resize`/`reserve`/`capacity`/`shrink_to_fit` methods.
