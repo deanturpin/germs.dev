@@ -3,7 +3,7 @@ Build:
   stage: build
   script: cat /etc/os-release
 
-CV:
+website:
   stage: deploy
-  trigger: germs-dev/cv
+  trigger: germs-dev/deanturpin
   only: [main]
