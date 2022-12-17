@@ -1,14 +1,4 @@
----
-title: How does your vector grow?
-date: 2019-06-28
-tags:
-- cpp
-- revision
-- oop
-- graduate
----
-
-# How does your vector grow?
+# How does your `std::vector` grow?
 
 How many times is the destructor for the "fax" class called below after
 populating a five element STL vector?
@@ -17,7 +7,7 @@ populating a five element STL vector?
 std::vector<fax> y;
 
 for (size_t i = 0; i < 5; ++i)
-y.push_back(fax());
+  y.push_back(fax());
 ```
 
 Remarkably it's _17 times_!
@@ -33,30 +23,29 @@ Additionally if there's a bug in the copy constructor and pushing a new element
 exceeds the underlying vector capacity then we could be corrupting existing
 valid data just by quietly copying it around.
 
-![](/img/vector.png)
-
-# Other ways to add elements to a vector
+## Other ways to add elements to a vector
 ```cpp
 #include <string>
 #include <vector>
 
 int main() {
 
-struct customer {
-std::string first_name_;
-std::string last_name_;
-size_t id_{};
-};
-
-std::vector<customer> db;
-
-db.emplace_back("hi", "there", 10);
-db.push_back({"bye", "now", 11});
-db.push_back(customer{"bye", "now", 11});
-db.emplace_back(customer{"bye", "now", 11});
-
-return db.size();
+  struct customer {
+    std::string first_name_;
+    std::string last_name_;
+    size_t id_{};
+  };
+  
+  std::vector<customer> db;
+  
+  db.emplace_back("hi", "there", 10);
+  db.push_back({"bye", "now", 11});
+  db.push_back(customer{"bye", "now", 11});
+  db.emplace_back(customer{"bye", "now", 11});
+  
+  return db.size();
 }
 ```
+
 https://godbolt.org/z/bsaxrcxcT
 
