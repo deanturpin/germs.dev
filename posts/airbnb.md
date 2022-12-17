@@ -4,11 +4,11 @@
 - Open all doors to air the house
 
 ## Laundry
-- Strip down all beds: duvets, sheets, matreess protectors, pillow protectors
+- Strip down all beds: duvets, sheets, mattress protectors, pillow protectors
 - Gather all bath/hand towels (including downstairs toilet), tea towels, bath mat
 - Hang bedspreads over the doors
-- Matress protectors don't go in the dryer
-- Bubblewash on anything mucky
+- Mattress protectors don't go in the dryer
+- Bubble wash on anything mucky
 
 ## Kitchen
 - Check all cupboards and fridge

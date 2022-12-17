@@ -4,48 +4,46 @@ The conventional wisdom for when to use a linked list over contiguous storage
 hasn't applied for years: you have to test. If everything is in a cache, a
 vector might outperform a linked list for insertion.
 
-# Sorting
-See [sorting](sort.md)
-
-# GB CppCon 2018: Jonathan Boccara - 105 STL Algorithms in Less Than an Hour
+## GB CppCon 2018: Jonathan Boccara -- 105 STL Algorithms in Less Than an Hour
 https://www.youtube.com/watch?v=2olsGf6JIkU
 
-## Secret runes
-- stable_
-- is_
-- is_*_until
+### Secret runes
+- stable\_
+- is\_
+- is\_\*\_until
 
-# Algorithm patterns
-## Brute Force
-## Divide and Conquer
+## Algorithm patterns
+### Brute Force
+### Divide and Conquer
 - [Karatsuba’s Integer
 Multiplication](https://mathworld.wolfram.com/KaratsubaMultiplication.html)
 -- it is possible to perform multiplication of large numbers in (many) fewer
 operations than the usual brute-force technique of "long multiplication." As
 discovered by Karatsuba (Karatsuba and Ofman 1962).
 
-## Decrease and Conquer
-## The Greedy Method
-## Dynamic Programming
-## Backtracking
-## Branch and Bound
+### Decrease and Conquer
+### The Greedy Method
+### Dynamic Programming
+### Backtracking
+### Branch and Bound
 "[Branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound) (BB, B&B,
 or BnB) is an algorithm design paradigm for discrete and combinatorial
 optimization problems."
-## Hill Climbing
-## Particle Swarm Optimisation
-## Las Vegas
-## Monte Carlo
-## Reduction (Transformation)
-## Preprocessing
-## Gradient descent
+
+### Hill Climbing
+### Particle Swarm Optimisation
+### Las Vegas
+### Monte Carlo
+### Reduction (Transformation)
+### Preprocessing
+### Gradient descent
 "[Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) is a
 first-order iterative optimization algorithm for finding a local minimum of a
 differentiable function."
 
 See [algorithm patterns](https://cs.lmu.edu/~ray/notes/algpatterns/).
 
-# Big-O notation
+## Big-O notation
 Big-O notations is a technique to describe the complexity of an algorithm as
 the data set becomes larger.
 
@@ -63,16 +61,16 @@ etc, and be able to write them cold.
 | O(1) | constant |
 | O(log n) | logarithmic |
 | O(n) | linear |
-| O(n log n)=O( log n!) | linearithmic |
+| O(n log n)=O(log n!) | linearithmic |
 | O(n^2) | quadratic |
 | O(n^c) | polynomial |
 | O(c^n) | exponential |
-| O(n!) | factorial |
+| O(n!)  | factorial |
 
 See the [Big-O cheat sheet](http://bigocheatsheet.com/) and [time
 complexity](https://en.wikipedia.org/wiki/Time_complexity)
 
-# Self-balancing binary search trees
+## Self-balancing binary search trees
 A balanced tree is one of height O(log n), where n is the number of nodes in
 the tree.
 
@@ -80,7 +78,7 @@ the tree.
 - [B-Tree](https://en.wikipedia.org/wiki/B-tree)
 - [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
 
-# Memory access
+## Memory access
 That assumes all memory accesses cost the same, which is not a physically
 reasonable assumption as we scale n to infinity, and not, in practice, how real
 computers work. This argument extends from the observation that computers are

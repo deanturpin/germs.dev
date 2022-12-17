@@ -70,7 +70,7 @@ Not critical that they occur on the same day.
 
 ## Sprint Review
 The `sprint review` is not the `product owner`'s chance to review work done
-during the Sprint. It gives stakeholders the opportunity to give feeback on the
+during the Sprint. It gives stakeholders the opportunity to give feedback on the
 state and direction of the product. And collaborate on the goals for the next
 sprint.
 

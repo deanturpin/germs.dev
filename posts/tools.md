@@ -86,7 +86,6 @@ See the [Moebius lubrication table](https://www.moebius-lubricants.ch/sites/defa
 - D5 for the barrel
 - HP 1300 mid
 - Mainspring winder
-- USB beer foamer (for cleaning like an ultrasonic)
 
 ## Stores
 - Gleave London

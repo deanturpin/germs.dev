@@ -1,12 +1,3 @@
----
-title: Preparing for a C++ interview
-subtitle: As a senior software engineer
-date: 2019-09-24
-tags:
-- revision
-- cpp
----
-
 # Preparing for a C++ interview
 
 The [Amazon tech interview
@@ -49,7 +40,7 @@ Increasingly you must be aware of a larger tech stack.
 Register with a cloud provider, spin up some instances of Windows and Linux VMs
 and get comfortable connecting to them remotely (via ssh, remote desktop).
 
-# Study topics
+## Study topics
 See all [revision posts](/tags/revision).
 
 - Modern C++ (post-11)

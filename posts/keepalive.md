@@ -55,7 +55,9 @@ exit(EXIT_FAILURE);
 }
 ```
 
-## Nagle's algorithm -- "Congestion Control in IP/TCP Internetworks"
+## Nagle's algorithm
+> "Congestion Control in IP/TCP Internetworks"
+
 - TCP_NODELAY
 - https://en.wikipedia.org/wiki/Nagle%27s_algorithm
 

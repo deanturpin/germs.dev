@@ -1,12 +1,3 @@
----
-title: Sorting
-date: 2021-09-15
-tags:
-- data structures
-- algorithms
-- standard library
----
-
 # Sorting
 
 ```cpp
