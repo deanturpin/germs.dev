@@ -123,6 +123,11 @@ There is a more detailed introduction to the types of misses
 - Inline cautiously
 - Take advantage of PGO and WPO
 
+## Virtual functions
+1. Load vtable pointer -- potentially data cache miss
+1. Load virtual function pointer -- potentially data cache miss
+1. Then code of function is called -- potential instruction cache miss
+
 ## Cache related issues
 - Memory banks
 - Associativity
