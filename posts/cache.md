@@ -129,6 +129,8 @@ There is a more detailed introduction to the types of misses
 1. Load virtual function pointer -- potentially data cache miss
 1. Then code of function is called -- potential instruction cache miss
 
+Can use CRTP to avoid first two.
+
 ## Cache related issues
 - Memory banks
 - Associativity
