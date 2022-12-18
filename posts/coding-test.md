@@ -1,12 +1,3 @@
----
-title: Coding tests
-subtitle: Techniques to up your interview game
-date: 2019-09-15
-tags:
-- revision
-- interviews
----
-
 # Interview coding tests
 
 1. Listen - usually all the information in the question is useful
@@ -17,8 +8,6 @@ tags:
 1. Code
 1. Test - use small test cases, then edge cases
 1. Analyse and optimise - check for loops, maths, walk through the code, not the algorithm
-
-See [Hackerrank's interview guidelines](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos).
 
 ## Whiteboard
 - Use straight lines
@@ -33,3 +22,4 @@ See [Hackerrank's interview guidelines](https://www.hackerrank.com/interview/int
 
 ## Space / time tradeoffs
 Consider saving time by using extra space (often hash tables).
+
