@@ -1,11 +1,3 @@
----
-title: Data structures
-date: 2019-09-15
-tags:
-- revision
-- data structures
----
-
 # Data structures
 ## Heaps
 In a max heap, for any given node C, if P is a parent node of C, then the key
@@ -43,8 +35,8 @@ is available for the rest of the system.
 ## Trees
 - Trees are like a linked list but not just a straight line.
 - Fundamental rule: there is one path between nodes in a tree.
-- A binary tree has at most two child noes: known as the left and right
-children
+- A binary tree has at most two child noes: known as the left and right children
+- [Trie](https://en.wikipedia.org/wiki/Trie)
 
 ### Binary tree search
 - Sorted hierarchy of data

@@ -1,13 +1,3 @@
----
-title: C++ memory alignment
-date: 2021-09-22
-tags:
-- alignment
-- cpp
-- revision
-- cache
----
-
 # C++ memory alignment
 
 ```cpp
@@ -15,13 +5,13 @@ tags:
 
 int main() {
 
-struct S {
-uint8_t : 8;
-uint32_t x;
-} __attribute__((packed));
-
-fmt::print("alignof {} sizeof {}n", alignof(S::x), sizeof(S::x));
-fmt::print("alignof {} sizeof {}n", alignof(S), sizeof(S));
+  struct S {
+    uint8_t : 8;
+    uint32_t x;
+  } __attribute__((packed));
+  
+  fmt::print("alignof {} sizeof {}n", alignof(S::x), sizeof(S::x));
+  fmt::print("alignof {} sizeof {}n", alignof(S), sizeof(S));
 }
 ```
 
