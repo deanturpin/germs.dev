@@ -1,15 +1,5 @@
----
-title: -Ogofaster
-subtitle: Notes from Andrei at code::dive 2015
-date: 2021-09-10
-tags:
-- performance
-- optimisation
-- cpp
----
-
 # -Ogofaster
-Watch [the whole lecture (recommended)](https://www.youtube.com/watch?v=vrfYLlR8X8k).
+Notes from Andrei at code::dive 2015.  Watch [the whole lecture (recommended)](https://www.youtube.com/watch?v=vrfYLlR8X8k).
 
 ## Integrals
 ### Prefer 32-bit ints to other sizes
@@ -25,14 +15,15 @@ Watch [the whole lecture (recommended)](https://www.youtube.com/watch?v=vrfYLlR8
 - If you find optimisations that work with small numbers, use them
 
 ## Floating point
-- Double and single precision equivalent speed
+- Double- and single-precision equivalent speed
 - 80-bit extended only slightly slower
 - But don't mix them (because conversions)
-- Ints to float point cheap
+- Int to float is cheap
 - Floating point to any integral is expensive
 
 ## Strength reduction
-Use minimum strength operations when optimising as the stronger ones are more costly.
+Use minimum strength operations when optimising as the stronger ones are more
+costly.
 
 ## Speed hierarchy
 | operation | cycles |
@@ -69,7 +60,9 @@ Division in integers is unnatural. Division is a search!
 - Reservation station
 - Instruction-level parallelism on a single core
 
-## How do us ALUs? -- ILP
+## How do we use ALUs?
+ILP: instruction level parallelisation.
+
 - Pipelining
 - Superscaler execution
 - Out-of-order execution
@@ -88,7 +81,8 @@ https://www.youtube.com/watch?v=9tvbz8CSI8M
 - Reduce dependencies
 - Knowing math is knowing optimisation
 
-Unsigned integer overflow has well-defined behaviour; signed integer overflow is undefined.
+Unsigned integer overflow has well-defined behaviour; signed integer overflow
+is undefined.
 
 ## Part 3
 https://www.youtube.com/watch?v=FJJTYQYB1JQ
@@ -103,7 +97,8 @@ ifs, decision points etc)
 - "Can't write heavily nested code in 80 characters"
 
 ### 2nd order conclusions
-- Tension with generic programming: "generic programming is why we can't have nice things"
+- Tension with generic programming: "generic programming is why we can't have
+  nice things"
 
 ## Timeline
 - 1990: OOP
@@ -111,3 +106,4 @@ ifs, decision points etc)
 - 2020: Design by introspection (inspect and customise everything, everywhere)
 
 You can't achieve the best sort with generic programming.
+
