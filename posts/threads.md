@@ -38,8 +38,13 @@ non-deterministically on the relative timings of two or more threads)
 
 ## Deadlocks
 - [Deadlocks](https://en.wikipedia.org/wiki/Deadlock)
-- "Livelock is a risk with some algorithms that detect and recover from deadlock"
-- [Resource starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science))
+- "Livelock is a risk with some algorithms that detect and recover from
+  deadlock"
+- [Resource
+  starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science))
+- [Spinlock](https://en.wikipedia.org/wiki/Spinlock) -- busy waiting, but
+  useful in situations where the lock will become available in a very short
+time
 
 ## Detecting deadlocks
 - [Chandy–Misra–Haas algorithm resource model](https://en.wikipedia.org/wiki/Chandy%E2%80%93Misra%E2%80%93Haas_algorithm_resource_model)
@@ -81,9 +86,12 @@ thread. In Windows Forms, use Control.Invoke/BeginInvoke
 - Use locks when you access mutable shared data, both for reads and writes.
 
 ## References
+- [ A Fast General Purpose Lock-Free Queue for
+  C++](https://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++.htm)
 - [Thread safety](https://en.wikipedia.org/wiki/Thread_safety)
 - [Memory barrier](https://en.wikipedia.org/wiki/Memory_barrier)
 - https://stackoverflow.com/questions/26013650/threadsafe-lazy-initialization-static-vs-stdcall-once-vs-double-checked-locki/
 - https://devblogs.microsoft.com/oldnewthing/20040308-00/?p=40363#:~:text=Starting%20in%20C%2B%2B11,time%20execution%20reaches%20their%20declaration
-- [The Amazing Performance of C++17 Parallel Algorithms, is it Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html)
+- [The Amazing Performance of C++17 Parallel Algorithms, is it
+  Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html)
 

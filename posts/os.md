@@ -76,3 +76,4 @@ The purpose of the branch predictor is to improve the flow in the instruction pi
 - [Kernel page](https://en.wikipedia.org/wiki/Kernel_page)
 - [Indirect branch](https://en.wikipedia.org/wiki/Indirect_branch)
 - [Branch versus branch target prediction](https://stackoverflow.com/questions/22508211/branch-target-prediction-vs-branch-prediction)
+

@@ -1,16 +1,3 @@
----
-draft: true
-title: How long is a nanosecond?
-date: 2021-04-28
-tags:
-- timing
-- cpu
-- gpu
-- network
-- quiz
-- exercise
----
-
 # How long is a nanosecond?
 
 Find equivalent operations in seconds for your environment.

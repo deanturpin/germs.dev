@@ -26,14 +26,11 @@ hiding their background details, separation of interface and implementation.
 - Decoupling: removing dependencies on external computations/data.
 - Low coupling, high cohesion
 
-# Virtual
-- See [virtual](virtual.md)
-
-# Polymorphism
+## Polymorphism
 Polymorphism means "many forms" and describes the ability of an operation to
 change behaviour according to its arguments.
 
-## Ad-hoc polymorphism
+### Ad-hoc polymorphism
 Function and operator overloading.
 
 ```cpp
@@ -41,13 +38,13 @@ Writeln(Add(1, 2)); (* Prints "3" *)
 Writeln(Add('Hello, ', 'World!')); (* Prints "Hello, World!" *)
 ```
 
-## Parametric polymorphism
+### Parametric polymorphism
 Function does the same thing for different types: templates in C++.
 
-## Sub-typing (inheritance)
+### Sub-typing (inheritance)
 Class hierarchies, diamond inheritance.
 
-# Static and dynamic polymorphism
+## Static and dynamic polymorphism
 Polymorphism can be distinguished by when the implementation is selected:
 statically (at compile time) or dynamically (at run time, typically via a
 virtual function). This is known respectively as static dispatch and dynamic
@@ -59,7 +56,7 @@ static polymorphism and dynamic polymorphism.
 - What's the difference between malloc and new?
 - Compare functional and object-oriented programming
 
-# Other considerations
+## Other considerations
 OOP programming in C++ is not particularly elegant in some instances. And can
 be very nuanced and easy to introduce subtle bugs. Also, if you inherit from a
 class it might not be immediately clear what other stuff you have also
