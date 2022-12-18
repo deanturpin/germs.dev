@@ -22,7 +22,7 @@ backs off out of courtesy but UDP doesn't care).
 - Delivery: TCP offers guaranteed delivery, UDP does not.
 
 ## Three way handshake
-SYN stands for "synchronise". See [three way
+SYN stands for "synchronise". See [three-way
 handshake](https://en.wikipedia.org/wiki/Handshaking#TCP_three-way_handshake).
 
 ```
