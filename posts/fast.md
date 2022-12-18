@@ -52,7 +52,7 @@ Division in integers is unnatural. Division is a search!
 - Regular access patterns
 
 ## Checkpoint
-- You can't improve what you can't measure (you can't measure what you don't measure :))
+- You can't improve what you can't measure (you can't measure what you don't measure)
 - Always choose good baselines
 - Optimise code judiciously for today's dynamics
 
@@ -64,7 +64,7 @@ Division in integers is unnatural. Division is a search!
 ILP: instruction level parallelisation.
 
 - Pipelining
-- Superscaler execution
+- [Superscaler execution](https://en.wikipedia.org/wiki/Superscalar_processor)
 - Out-of-order execution
 - Register renaming
 - Speculative execution
