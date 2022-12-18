@@ -24,6 +24,10 @@ to `int const*`: there is no implicit conversion from int `const*` to `int*`.
 You _can_ static cast a derived class pointer to a base class pointer but not the
 other way around.
 
+- Only `static_cast` (or C-style casts) can be used to cast an `int` to an
+`enum`. Only `reinterpret_cast` (or C-style casts) can be used to cast an
+`int` to a pointer or a pointer to an `int`.
+
 ## Rule of three/five
 If you declare any of copy, copy assignment or destructor then you should
 declare them all. Similarly, for C++11 onwards: rule of 5.
@@ -34,7 +38,7 @@ three](https://en.wikipedia.org/wiki/Rule_of_three_%28C%2B%2B_programming%29).
 - C++: Understand how rule of 5 (rule of 3 in pre-C++11) is the best way to
 write exception-safe classes. Understand why it's a good idea even without
 exceptions.
-- Function local variables are keynote.md accessible in the try handler.
+- Function local variables are not accessible in the try handler.
 
 See [rule of
 three/five/zero](https://en.cppreference.com/w/cpp/language/rule_of_three).
@@ -67,16 +71,13 @@ The difference between a `class` and a `struct` is only the default accesses
 specifier: `public:` for `struct` and `private:` for `class`.
 
 ## noexcept
-- Make destructors noexcept
-- Mark move constructor noexcept
-
-## Linkage
-See [post/static](/post/static).
+- Make destructors `noexcept` (they are anyway)
+- Mark move constructor `noexcept`
 
 ## References
 - https://llvm.org/docs/CodingStandards.html
 - https://google.github.io/styleguide/cppguide.html
-- http://www.phaedsys.org/principals/programmingresearch/prdata/JSF++_%20Rev_D_JUN07.pdf
+- [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.phaedsys.org/principals/programmingresearch/prdata/JSF++_%20Rev_D_JUN07.pdf)
 - https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs
 - [C++ guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 - [C++ guidelines support library](https://github.com/microsoft/GSL)
@@ -86,3 +87,4 @@ See [post/static](/post/static).
 - https://github.com/cplusplus/draft
 - https://github.com/lewissbaker/cppcoro
 - https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+

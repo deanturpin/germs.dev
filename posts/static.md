@@ -1,12 +1,4 @@
----
-title: static
-date: 2020-12-07
-tags:
-- cpp
-- revision
----
-
-# static
+# Use of static in C++
 
 > Dependencies on static variables in different translation units are, in
 > general, a code smell and should be a reason for refactoring.
@@ -19,9 +11,6 @@ internal linkage by default
 the standard: "All objects which do not have dynamic storage duration, do not
 have thread storage duration, and are not local have static storage duration".
 - Functions have external linkage by default
-- Only `static_cast` (or C-style casts) can be used to cast an `int` to an
-`enum`. Only `reinterpret_cast` (or C-style casts) can be used to cast an
-`int` to a pointer or a pointer to an `int`.
 
 > If an object or function inside such a translation unit has internal linkage,
 > then that specific symbol is only visible to the linker within that
@@ -41,7 +30,7 @@ have thread storage duration, and are not local have static storage duration".
 - [constinit](https://www.youtube.com/watch?v=o0z3KT4gW7k)
 - [static vs std::call_once vs double checked
 locking](https://stackoverflow.com/questions/26013650/threadsafe-lazy-initialization-static-vs-stdcall-once-vs-double-checked-locki/27206650#:~:text=The%20tradeoff%20is%20that%20statics,call_once%20on%20these%20higher%20platforms)
-- [DCLP](https://preshing.com/20130930/double-checked-locking-is-fixed-in-cpp11/): Double-Checked Locking Pattern
+- [Double-Checked Locking Pattern](https://preshing.com/20130930/double-checked-locking-is-fixed-in-cpp11/)
 
 ## Anonymous namepsaces
 Use to declare many things with internal linkage.
@@ -55,3 +44,4 @@ int c = 0;
 ```
 
 See [linkage](http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/).
+

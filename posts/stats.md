@@ -1,11 +1,3 @@
----
-title: What does it all mean?
-date: 2021-09-16
-tags:
-- stats
-- maths
----
-
 # What does it all mean?
 
 ## Means
@@ -26,3 +18,4 @@ P(|Y - 2| < .1) is equivalent to P(1.9 < Y < 2.1)
 
 - Probability is the area under the PDF
 - Integral of `f(x)d` from zero to infinity is 1
+

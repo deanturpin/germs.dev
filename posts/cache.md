@@ -1,14 +1,3 @@
----
-title: Caches
-date: 2021-09-22
-tags:
-- revision
-- memory
-- cpu
-- performance
-- testtag
----
-
 # Caches
 
 Small amounts of unusually fast memory (Data D$, Instruction I$, Translation
