@@ -7,3 +7,9 @@ website:
   stage: deploy
   trigger: germs-dev/deanturpin
   only: [main]
+
+cv:
+  stage: deploy
+  trigger: germs-dev/cv
+  only: [main]
+
