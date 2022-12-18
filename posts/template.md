@@ -43,13 +43,8 @@ enum { value = (N %2 ) ? 0 : 1 };
 
 # constexpr
 - Purely numeric computations almost always quicker with `constexpr`
-- `constexpr` also has recursion depth limits but higher than templates and faster
+- `constexpr` also has recursion depth limits but higher than templates and faster: gcc template recusion depth 10000
 - Use precomputed static values when it's simpler (pi)
-
-```
-gcc template recusion depth 10000
-tbd
-```
 
 # if then else
 - No loops but `std::conditional`
@@ -91,19 +86,21 @@ Substitution failure is not an error: this is where compiler errors go to hide.
 that needs to be known at compile time: within square brackets.
 
 # Definition
--- https://en.cppreference.com/w/cpp/language/templates
+See [CPP reference](https://en.cppreference.com/w/cpp/language/templates).
 
 A template is a C++ entity that defines one of the following:
 
-- a family of classes (class template), which may be nested classes
-- a family of functions (function template), which may be member functions
-- an alias to a family of types (alias template) (since C++11)
-- a family of variables (variable template) (since C++14)
-- a concept (constraints and concepts) (since C++20)
+- A family of classes (class template), which may be nested classes
+- A family of functions (function template), which may be member functions
+- An alias to a family of types (alias template) (since C++11)
+- A family of variables (variable template) (since C++14)
+- A concept (constraints and concepts) (since C++20)
 
 # Metafunctions
-- Technically a class with zero+ template params and zero+ return types and values
-- Convention is that a metafunction should return on thing (like a regular function)
+- Technically a class with zero+ template params and zero+ return types and
+  values
+- Convention is that a metafunction should return one thing (like a regular
+  function)
 
 # Example traits
 ## Cpp17UnaryTypeTrait
@@ -111,7 +108,8 @@ A template is a C++ entity that defines one of the following:
 - One template argument (mostly)
 - Cpp17DefaultConstructible
 - Cpp17CopyConstructible
-- Publiclly and unambiguously derived from a specialisation of std::integral_constant
+- Publiclly and unambiguously derived from a specialisation of
+  std::integral_constant
 
 ## Cpp17UnaryTypeTrait
 - As above
@@ -149,9 +147,11 @@ std::cout << typeid(Type1).name() << 'n';
 Now most compilers implement traits with intrinsics.
 
 # Primary type categories (traits)
-All inherit from either `true_type` or `false_type`, and all should yield the same result in light of cv qualifiers.
+All inherit from either `true_type` or `false_type`, and all should yield the
+same result in light of cv qualifiers.
 
-For any given type T, exactle one of th eprimary type categories shall yield `true_type`.
+For any given type T, exactle one of the primary type categories shall yield
+`true_type`.
 
 ```
 is_void
@@ -176,8 +176,8 @@ So...
 - tag despatch
 
 # Comparisons with auto in C++20
-- Auto uses the same rules as template type params
-- auto will never deduce a reference
+- `auto` uses the same rules as template type params
+- `auto` will never deduce a reference
 - constness will be deduced
 - decltype(auto) will deduce a reference (should only see in very special cases)
 - Generally prefer auto (according to Jason Turner)
@@ -199,16 +199,20 @@ See [Jason Turner](https://www.youtube.com/watch?v=tn69TCMdYbQ).
 
 # Other C++ standards
 - International standard on Mathematical Special Functions in C++
-- C++ template metaprogramming uses template instatiation to drive compile-time evalulation
-- Template metapgrammamers exploit this machinary to improve a) source code flexibility b) runtime performance
-- at compile time can't rely on mutabilty, virtual functions (runtime dispatch), other RTTI, no variables etc: not hard but a difference in mindset... no runtime!
+- C++ template metaprogramming uses template instatiation to drive compile-time
+  evalulation
+- Template metapgrammamers exploit this machinary to improve a) source code
+  flexibility b) runtime performance
+- at compile time can't rely on mutabilty, virtual functions (runtime
+  dispatch), other RTTI, no variables etc: not hard but a difference in
+mindset... no runtime!
 - Call syntax is a "request for the published value"
 
 ```cpp
 template<int N>
-struct abs{
-static_assert (N != INT_MIN); // 2s comp
-static constexpr int value = (N < 0) ? -N : N; // initialise value not assign, takes place of return
+struct abs {
+  static_assert (N != INT_MIN); // 2s comp
+  static constexpr int value = (N < 0) ? -N : N; // initialise value not assign, takes place of return
 };
 
 // call
@@ -219,8 +223,8 @@ abs<n>value // instantiation yields a complile-time constant
 
 ```cpp
 template <unsigned M, unsigned N>
-struct gcd {
-static int const value = gcd<N, M%N>::value; // per Euclid
+  struct gcd {
+  static int const value = gcd<N, M%N>::value; // per Euclid
 };
 ```
 
@@ -228,16 +232,18 @@ Suppply base case with a specialisation
 ```cpp
 template <unsigned M>
 struct gcd<M, 0>{
-static_assert (M!=0);
-static int const value = M;
+  static_assert (M!=0);
+  static int const value = M;
 };
 ```
 
 ## What's the relationship between constexpr functions and templates?
 - Familiar syntax
-- metafunction is a struct -- can make things public with a struct (not a constexpr function)
+- metafunction is a struct -- can make things public with a struct (not a
+  constexpr function)
 - Structs offer public member function decclarations
-- Can write a template that takes a type as an argument: e.g., size of can take a type
+- Can write a template that takes a type as an argument: e.g., size of can take
+  a type
 
 See also [Walter E. Brown](https://www.youtube.com/watch?v=Am2is2QCvxY).
 
@@ -250,10 +256,12 @@ struct type_is {using type = T};
 - std::conditional -- compile time IF
 - one case you can have a type for true or nothing otherwise: enable_if
 
+```cpp
 enable_if<false, ...>::type -- always an error? No! Welcome to SFINAE
+```
 
 ## value
-void is one of the 15 types that C++ describes
+`void` is one of the 15 types that C++ describes.
 
 ```cpp
 is_void<T>::value // since TR1
@@ -269,15 +277,14 @@ using false_type = bool_constant<false>;
 
 # Concepts
 - Solid math foundation: solid, well-baked idea
-- integral_constant: inherit from provides more options
-- bool_constant
+- `integral_constant`: inherit from provides more options
+- `bool_constant`
 
 # First parameter packs
 ```cpp
 template <class T, class... P0toN>
 struct is_one_of; // declaration not implementation
 ```
-
 
 ```cpp
 // base cases
@@ -287,7 +294,7 @@ struct is_one_of<T, P0, P1toN>
 : is_one_of<T, P1toN...>{};
 ```
 # Not evaluated
-sizeof, typeid, decltype and noexcept are never evaluated, not even at compile time.
+`sizeof`, `typeid`, `decltype` and `noexcept` are never evaluated, not even at compile time.
 - No code is generated
 - Don't need a definition
 - `decltype( foo(declval<T>{}) )`
@@ -295,8 +302,8 @@ sizeof, typeid, decltype and noexcept are never evaluated, not even at compile t
 # Examples
 - [class template](https://godbolt.org/z/MzcEe58W3)
 - [Value identity](https://godbolt.org/z/fcP9hPzvG)
-- [_t template](https://godbolt.org/z/YbhYqvnY3)
-- [is_void](https://godbolt.org/z/KzhbjMvY7)
+- [\_t template](https://godbolt.org/z/YbhYqvnY3)
+- [is\_void](https://godbolt.org/z/KzhbjMvY7)
 - [conditional](https://godbolt.org/z/xzTjG44b6)
 - [remove cv](https://godbolt.org/z/zWe88oMYs)
 
