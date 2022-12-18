@@ -1,7 +1,8 @@
 # Software terminology
 
 ## Acronyms
-- RAII: Resource Acquisition Is Initialisation: `std::unique_ptr`, `std::vector`
+- RAII: Resource Acquisition Is Initialisation -- `std::unique_ptr`, `std::vector`
+- RDID: Resource Destruction is Deletion
 - RTTI: Run Time Type Inspection, e.g., `dynamic_cast<>`
 - RVO: return value optimisation
 - [SFINAE](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/SFINAE): substitution failure is not an error -- "Prune functions that do not yield valid template instantiations from a set of overloaded functions."
