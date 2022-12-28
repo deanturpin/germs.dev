@@ -5,6 +5,13 @@
 - Product owner
 - Scrum master
 
+One person shouldn't have all these roles!
+
+## Sprint duration
+I have tried a month but it's hard to manage and it's not terribly Agile.
+Particularly when it's hard to not have any interruptions even on a 2-week
+sprint.
+
 ## Sprint zero
 Trial run.
 
