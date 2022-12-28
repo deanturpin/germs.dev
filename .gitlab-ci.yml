@@ -5,7 +5,7 @@ Build:
 
 website:
   stage: deploy
-  trigger: germs-dev/deanturpin
+  trigger: germs-dev/turpin-one
   only: [main]
 
 cv:
