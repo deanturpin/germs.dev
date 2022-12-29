@@ -3,12 +3,12 @@ Build:
   stage: build
   script: cat /etc/os-release
 
-website:
+Website:
   stage: deploy
   trigger: germs-dev/turpin-one
   only: [main]
 
-cv:
+CV:
   stage: deploy
   trigger: germs-dev/cv
   only: [main]
