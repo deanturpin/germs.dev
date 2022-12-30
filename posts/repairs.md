@@ -1,4 +1,4 @@
-# In the workshop
+# Watch repairs -- in the workshop
 
 ## Cauny small dress watch with sub-seconds
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
@@ -11,7 +11,8 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [ ] Service
 
 ## Omega 131.019 (steel)
-22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has some homemade case clamps.
+22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has
+some homemade case clamps.
 
 - [x] Buy correct NOS case for movement
 - [x] New mainspring  
@@ -26,7 +27,8 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
 ## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
+case back is a mess, very strong running so might not do a full service.
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
@@ -45,14 +47,20 @@ Time drifts, quite erratic 180&deg; amplitude.
 - [ ] Bezel has a gap
 - [ ] Grease gasket
 
-## Longines 12.92
-Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel version with a wobbly balance to use as a donor, so basically I'll make one good one out of the two. Might've been easier to just to stick the good balance in the 16-jewel, but it seems both balances are a little wobbly. Will service and try again.
+## Longines 12.92 12'''
+Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel
+version with a wobbly balance to use as a donor, so basically I'll make one
+good one out of the two. Might've been easier to just to stick the good balance
+in the 16-jewel, but it seems both balances are a little wobbly. Will service
+and try again.
 
 See [Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
-### Issues
-#### 15-jewel
-Serial 4,929,243 (1930).
+Should be in a [gold
+case](https://www.vintage-wristwatches.co.uk/watches-catalogue/archived-watches/longines-watch-archive/1930-9ct-gold-cushion-vintage-longines-watch-retailed-by-j-w-benson-4359/).
+
+### 15-jewel
+Serial 4929243 (1930).
 
 - [x] Clean dial
 - [x] Remove broken stem
@@ -60,8 +68,8 @@ Serial 4,929,243 (1930).
 - [ ] Service
 - [ ] Refit good balance
 
-#### 16-jewel
-Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
+### 16-jewel
+Serial 5107778 (1932), broken balance but otherwise movement is OK.
 
 - [x] Clean dial -- not very effective
 - [ ] Find new case
@@ -70,10 +78,11 @@ Serial 5,107,778 (1932), broken balance but otherwise movement is OK.
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [ ] Attempt to bend bend hour hand back
-- [ ] Minor service
+- [x] Minor service -- oiled the pivots
 
 ## Borgel trench watch 24 9
-Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
+Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
+30.24. So I went for a 30.4mm crystal and it was a success.
 
 - [x] Order 30.4mm crystal
 - [x] Polish silver
@@ -92,14 +101,24 @@ From 1975, in good condition and running well. Measured 47h power reserve (nomin
 - [ ] Ultrasonic clean
 - [ ] Lubricate
 
+## Fortis FHF ST-96 11.5'''
+- [ ] Order new crystal -- opening measures 30.96mm
+- [ ] Review missing case screws
+- [ ] Measure timing
+
 ---
 
-# Fixed watches
+# Complete watches
 
 ## Molnija 3602 marriage watch
-See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602) and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for movement details.
+See
+[Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
+and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for
+movement details.
 
-I started out just trying to fix a pocket watch using another as a donor, but I managed to break both balances so I bought a third one to build the marriage watch. The others I'll sell or use as spares.
+I started out just trying to fix a pocket watch using another as a donor, but I
+managed to break both balances so I bought a third one to build the marriage
+watch. The others I'll sell or use as spares.
 
 ### Serial 595600
 - [x] Order NOS watch case
@@ -135,10 +154,18 @@ Broken balance, good hands, case much newer but not as nice as the wolf one, ful
 ## Rone 34mm FHF ST-96 11.5'''
 I think this might be my rite of passage.
 
-Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So, I attempted a service and immediately the cannon pinion evaporated. Ordered a donor and broke _two_ escape wheel pinions on the rebuild. OK, ordered a second doner. When that arrived I serviced the keyless works and sent the yoke spring into orbit. No worries, I have another... also sent that one to the Moon. But wait... I found the first on my pants! Right, on the home stretch, located the case and movement spacer from months previous and it's back together, looking exactly like it did when I bought it! But I have grow as a human being.
+Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So,
+I attempted a service and immediately the cannon pinion evaporated. Ordered a
+donor and broke _two_ escape wheel pinions on the rebuild. OK, ordered a second
+doner. When that arrived I serviced the keyless works and sent the yoke spring
+into orbit. No worries, I have another... also sent that one to the Moon. But
+wait... I found the first on my pants! Right, on the home stretch, located the
+case and movement spacer from months previous and it's back together, looking
+exactly like it did when I bought it! But I have grow as a human being.
 
 ## Omega 161.009
-22190717 (1965), cal 552, rown very worn, can _just_ see the Omega logo, stem not engaging, rotor a little worn.
+22190717 (1965), cal 552, rown very worn, can _just_ see the Omega logo, stem
+not engaging, rotor a little worn.
 
 - [x] Service (external)
 - [x] New leather strap
@@ -152,7 +179,9 @@ Hand winder G10, keeps great time, 34-hour power reserve.
 ## Mr. Jones "The Accurate"
 An actual quartz repair!
 
-£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) -- which is quite surprising given I bought a whole new movement _with_ battery for £9.
+£145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) --
+which is quite surprising given I bought a whole new movement _with_ battery
+for £9.
 
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
