@@ -1,30 +1,20 @@
----
-title: Broker versus brokerless
-date: 2020-11-29
-draft: true
-tags:
-- revision
-- netorks
-- zeromq
----
-
 # Broker versus brokerless
 
 Obtain the optimal performance/functionality/reliability ratio.
 
-# ZeroMQ
-## Broker
+## ZeroMQ
+### Broker
 - Star / hub and spoke
 - Pipeline
 
-## No broker
+### No broker
 
-## Broker as a directory service
+### Broker as a directory service
 
-## Distributed broker
+### Distributed broker
 
-## Distributed directory service
+### Distributed directory service
 
-## References
+### References
 - http://wiki.zeromq.org/whitepapers:brokerless
 

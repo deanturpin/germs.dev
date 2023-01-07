@@ -1,7 +1,8 @@
 # C++ experience and side-projects
 Commercially I develop using C++14/17, so I maintain various side-projects on
 GitLab to explore C++20/23 features that can't be used at work. These projects
-cover topics such as audio processing, trading strategy back-testing and Companies House analysis.
+cover topics such as audio processing, trading strategy back-testing and
+Companies House analysis.
 
 I'm an advocate of ad-hoc scripting for rapid development of ideas, and I
 believe a solid foundation in a ubiquitous language such as Bash is essential
