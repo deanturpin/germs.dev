@@ -1,13 +1,4 @@
----
-title: Object-oriented programming
-subtitle: OOPs I did it again...
-date: 2019-09-15
-tags:
-- revision
-- oop
----
-
-# Object-oriented programming
+# OOP I did it again 
 
 OOP is a programming paradigm based on the concept of "objects", which may
 contain data, in the form of fields often known as attributes; and code in the
