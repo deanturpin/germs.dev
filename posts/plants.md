@@ -1,13 +1,3 @@
----
-title: Plants identified
-date: 2020-06-03
-tags:
-- plants
-- botany
-- flowers
-- fruit
----
-
 # Plants identified
 
 ## Back garden

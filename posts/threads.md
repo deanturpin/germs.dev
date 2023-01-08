@@ -32,6 +32,7 @@ hardware threads and the OS must intervene
 can introduce race conditions and undefined behaviour (program results depend
 non-deterministically on the relative timings of two or more threads)
 - Threads versus processes
+- STO: strict timestamp ordering (younger transactions wait for older transactions)
 
 ## DCLP
 - Singleton isn’t thread safe

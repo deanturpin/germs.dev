@@ -1,16 +1,7 @@
----
-title: hallmarks
-date: 2022-01-08
-tags:
-- gold
-- silver
-- metal
----
-
 # Hallmarks
 
 ## The standard mark
-### The fineness of the material, purity measured in parts per 1000.
+Describes the fineness of the material, which is purity measured in parts per 1000.
 
 | Purity | Gold | Silver |
 | --- | --- | --- |
@@ -26,4 +17,3 @@ tags:
 
 ## References
 - https://en.wikipedia.org/wiki/Hallmark
-

@@ -1,7 +1,3 @@
----
-title: The Last Straw
----
-
 # The Last Straw
 
 What appears to be convenience for the shopper is really slight of hand by the

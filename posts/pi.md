@@ -1,15 +1,3 @@
----
-title: Raspberry e*pi*phany
-subtitle: First experience of Raspberry Pi 4, Zero and Pico
-date: 2021-05-15
-tags:
-- linux
-- sbc
-- pi
-- cli
-- cpu
----
-
 # Raspberry e*pi*phany
 
 > Always be careful when running scripts and commands copied from the Internet.
