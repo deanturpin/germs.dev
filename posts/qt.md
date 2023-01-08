@@ -1,10 +1,3 @@
----
-title: Qt
-date: 2021-10-12
-tags:
-- qt
----
-
 # Qt
 
 ## Versions
