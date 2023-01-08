@@ -1,5 +1,5 @@
-# Expensive things I'd like
-But have no idea when I'll be able to afford them.
+# My precious
+Expensive things I'd like but have no idea when I'll be able to afford them.
 
 - Focal headphones
 - Remarkable 2 tablet
