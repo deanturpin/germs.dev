@@ -38,13 +38,10 @@ non-deterministically on the relative timings of two or more threads)
 
 ## Deadlocks
 - [Deadlocks](https://en.wikipedia.org/wiki/Deadlock)
-- "Livelock is a risk with some algorithms that detect and recover from
-  deadlock"
-- [Resource
-  starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science))
+- "Livelock is a risk with some algorithms that detect and recover from deadlock"
+- [Resource starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science))
 - [Spinlock](https://en.wikipedia.org/wiki/Spinlock) -- busy waiting, but
-  useful in situations where the lock will become available in a very short
-time
+  useful in situations where the lock will become available in a very short time
 
 ## Detecting deadlocks
 - [Chandy–Misra–Haas algorithm resource model](https://en.wikipedia.org/wiki/Chandy%E2%80%93Misra%E2%80%93Haas_algorithm_resource_model)
@@ -65,11 +62,15 @@ See `std::mutex` or `std::atomic` in C++.
 
 Exercise: write a producer-consumer solution.
 
-> A mutex is a locking mechanism used to synchronize access to a resource
-
-> A semaphore is signaling mechanism (“I am done, you can carry on” kind of signal)
+- A mutex is a locking mechanism used to synchronize access to a resource
+- A semaphore is signaling mechanism: "I am done, you can carry on" kind of signal
 
 See [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
+
+## C++ threads
+Launch with `std::thread`, attach with `std::join`. C++20 introduced `std::jthread` which automatically rejoins on destruction.
+
+`std::async` runs the function f asynchronously (potentially in a separate thread which might be a part of a thread pool) and returns a `std::future` that will eventually hold the result of that function call. 
 
 ## Threads versus processes
 A thread is a branch of execution. A process can consist of multiple threads.
@@ -94,4 +95,3 @@ thread. In Windows Forms, use Control.Invoke/BeginInvoke
 - https://devblogs.microsoft.com/oldnewthing/20040308-00/?p=40363#:~:text=Starting%20in%20C%2B%2B11,time%20execution%20reaches%20their%20declaration
 - [The Amazing Performance of C++17 Parallel Algorithms, is it
   Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html)
-
