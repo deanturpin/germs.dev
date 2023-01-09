@@ -1,5 +1,5 @@
 # Swift
-The [the Swift docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+See [the Swift docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
 ## Initial observations
 - Assertions are quite nice
