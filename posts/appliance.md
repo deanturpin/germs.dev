@@ -8,7 +8,9 @@ Charges for Brighton on 12/01/22. See [Octopus energy rates](https://octopus.ene
 
 It's usual to hear "every penny counts"... but it doesn't!
 
-If you make sure to turn off your phone charger when you're not using it you won't notice any different in your bills if you're also running a kW electric fire next to it. So we can take some advice from software development: address the big problems first.
+If you make sure to turn off your phone charger when you're not using it, you simply won't notice any different in your bills if you're also running a kW electric fire. So we can take some advice from software development: focus your attention on the big problems first.
+
+E.g., if your oven is the biggest consumer in your household, how can you avoid using it? Is an air fryer cheaper to run?
 
 | Appliance | Power (kWh) | Duration (s) | Cost |
 | --- | --- | --- | --- |
