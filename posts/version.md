@@ -1,8 +1,2 @@
----
-title: versioning
-date: 2021-03-17
----
-
-# semantic versioning
+# Semantic versioning
 - https://semver.org/
-
