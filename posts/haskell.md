@@ -12,7 +12,6 @@ String
 Float
 Double
 
--- 
 reverse
 maximum
 minimum
@@ -46,9 +45,9 @@ null
 product
 
 -- list elements
-elem -- contains
+elem
 length
-!! n -- element at index
+!! n
 
 odd
 even
