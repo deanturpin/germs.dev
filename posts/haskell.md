@@ -1,5 +1,7 @@
 # Haskell cheat sheet
 
+Also see [this Haskell cheat sheet](https://jutge.org/doc/haskell-cheat-sheet.pdf).
+
 ```haskell
 -- Built-in types
 Int
@@ -18,6 +20,18 @@ minimum
 -- subset
 take
 drop
+
+let
+in
+where
+do
+
+-- printing
+putStrLn
+putStr
+print
+
+error
 
 head
 tail
