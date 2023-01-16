@@ -1,5 +1,7 @@
 # Install Linux 6 on Ubuntu 2023
 
+> This is unproven! Careful now.
+
 See [kernel.ubuntu.com](https://kernel.ubuntu.com/~kernel-ppa/mainline/v6.2-rc4/).
 
 ```bash
