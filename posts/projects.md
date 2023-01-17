@@ -14,6 +14,7 @@ languages such as Haskell.
 
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
 - C++ best practice: `turpin.dev`
+- Energy usage calculations in Haskell: `energy.turpin.cloud`
 - FIX processing: `fix.germs.dev`
 - Command line assembly explorer: `explore.germs.dev`
 - Online logbook: `turpin.one`
