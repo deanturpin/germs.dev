@@ -1,15 +1,3 @@
----
-title: Hugo Blog
-subtitle: Create a static blog like this
-date: 2019-09-09
-tags:
-- blog
-- static
-- blog engine
-- markdown
-- gitlab
----
-
 # Hugo Blog
 
 __NOTE: now using GitBook for this website__
