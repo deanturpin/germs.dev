@@ -1,5 +1,60 @@
-CV:
+# requiring the environment of NodeJS 10
+image: node:10
+
+# add 'node_modules' to cache for speeding up builds
+cache:
+  paths:
+    - node_modules/ # Node modules and dependencies
+
+before_script:
+  - npm install gitbook-cli -g # install gitbook
+  - gitbook fetch 3.2.3 # fetch final stable version
+  - gitbook install # add any requested plugins in book.json
+
+test:
+  stage: test
+  script:
+    - gitbook build . public # build to public path
+  only:
+    - branches # this job will affect every branch except 'master'
+  except:
+    - main
+    
+# the 'pages' job will deploy and build your site to the 'public' path
+pages:
   stage: deploy
-  trigger: germs-dev/cv
-  only: [main]
+  only: [schedules]
+  script:
+
+    # Replace tags
+    - COMMIT_MESSAGE=$(git log --pretty=oneline -n 1 | cut -d\  -f2-)
+    - readonly YEARS=$(echo $(( $(date +%Y) - 1998 )))
+    - sed -i s/{YEARS}/$YEARS/g posts/keywords.md
+
+    # Construct readme page from other pages
+    - cat posts/keywords.md    > README.md
+    - cat posts/projects.md    >> README.md
+    - cat posts/websites.md    >> README.md
+    - cat posts/pipelines.md   >> README.md
+    - cat posts/toolbox.md     >> README.md
+    - cat posts/skills.md      >> README.md
+    - cat posts/influential.md >> README.md
+    - echo '---' >> README.md
+
+    # Get build machine info for page footer
+    - source /etc/os-release
+    - echo "- Rendered with &hearts; on $(date) by an Ubuntu $VERSION VM" >> README.md
+    - echo "- Last commit message \"$COMMIT_MESSAGE\"" >> README.md
+    - echo "- Quote of the day \"$(curl -L --silent quotations.germs.dev | shuf -n 1)\"" >> README.md
+    - for path in posts/*.md; do file=$(basename $path); echo "- [$(grep '^#' $path | head -1 | cut -d'#' -f2-)]($path)"; done | tee SUMMARY.md
+    - gitbook build . public
+
+  artifacts:
+    paths: [public]
+
+      # CV:
+      #   image: ubuntu:devel
+      #   stage: deploy
+      #   trigger: germs-dev/cv
+      #   only: [main]
 
