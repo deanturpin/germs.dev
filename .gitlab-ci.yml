@@ -42,9 +42,9 @@ pages:
   artifacts:
     paths: [public]
 
-      # CV:
-      #   image: ubuntu:devel
-      #   stage: deploy
-      #   trigger: germs-dev/cv
-      #   only: [main]
+CV:
+  image: ubuntu:devel
+  stage: deploy
+  trigger: germs-dev/cv
+  only: [main]
 
