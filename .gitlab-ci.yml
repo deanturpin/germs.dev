@@ -11,19 +11,9 @@ before_script:
   - gitbook fetch 3.2.3 # fetch final stable version
   - gitbook install # add any requested plugins in book.json
 
-test:
-  stage: test
-  script:
-    - gitbook build . public # build to public path
-  only:
-    - branches # this job will affect every branch except 'master'
-  except:
-    - main
-    
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
-  only: [schedules]
   script:
 
     # Replace tags
