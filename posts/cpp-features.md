@@ -4,6 +4,7 @@
 - https://en.wikipedia.org/wiki/C%2B%2B20
 - https://en.wikipedia.org/wiki/C%2B%2B17
 - https://turpin.one/posts/fav.html
+- https://turpin.one/posts/cpp-features.html
 
 ## C++23
 See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Gregoire (CppCon 2022).
@@ -22,6 +23,7 @@ See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Greg
 - `<stack_trace>`
 - `std::expected`
 - `std::byteswap`
+- extended `constexpr` for optional and variant
 
 ### std::ranges
 - `starts_with()`
@@ -43,10 +45,21 @@ See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Greg
 - `stride` -- take every nth element
 - `repeat`
 
+### What's missing?
+In the standard but not supported yet.
+
+- `ranges::to`
+- `<print>`
+
 ## C++20
 - ranges and views (part one)
 - `.contains` for maps
 - `.starts_with` for strings
+
+### Big news but haven't tried them
+- coroutines
+- modules
+- concepts
 
 ## C++17
 - Structured bindings
