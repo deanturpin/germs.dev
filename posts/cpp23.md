@@ -2,13 +2,13 @@
 
 See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Gregoire (CppCon 2022).
 
-- multidimensional array operator: `data[x, y, z]` and `std::mdspan`
-- deducing this (wtf)
-- constevel -- immediate functions: only execute at compile time
+- Multidimensional array operator: `data[x, y, z]` and `std::mdspan`
+- Deducing this (wtf)
+- `constevel` -- immediate functions: only execute at compile time
 - `uz` literals
-- unicode assigned name
+- Unicode assigned name
 - `std::print`
-- `import std;`
+- `import std;` -- modules
 - New container adapters: `std::flat_map` `std::flat_set`
 - A standard coroutine generator defined in `<generator>`
 - `basic_string::contains()`
@@ -16,7 +16,7 @@ See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Greg
 - `std::expected`
 - `std::byteswap`
 
-## Ranges
+## std::ranges
 - `starts_with()`
 - `shift_left()`
 - `ranges::to`
