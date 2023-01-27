@@ -100,7 +100,7 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 
 ---
 
-# Complete watches
+# Restored watches (or sold as spares)
 
 ## Molnija 3602 marriage watch
 See
@@ -170,7 +170,7 @@ case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grow as a human being.
 
 ## Omega 161.009
-22190717 (1965), cal 552, rown very worn, can _just_ see the Omega logo, stem
+22190717 (1965), cal 552, crown very worn, can _just_ see the Omega logo, stem
 not engaging, rotor a little worn.
 
 - [x] Service (external)
