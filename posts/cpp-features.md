@@ -1,4 +1,9 @@
 # C++ features
+- https://devdocs.io/cpp/23
+- https://en.wikipedia.org/wiki/C%2B%2B23
+- https://en.wikipedia.org/wiki/C%2B%2B20
+- https://en.wikipedia.org/wiki/C%2B%2B17
+- https://turpin.one/posts/fav.html
 
 ## C++23
 See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Gregoire (CppCon 2022).
@@ -48,6 +53,7 @@ See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Greg
 - Execution policy (although slow to be supported)
 - `std::filesystem`
 - `std::string_view`
+- `std::clamp`
 
 ## C++11
 - Range-based for loops
