@@ -1,4 +1,5 @@
-# Watch repairs -- in the workshop
+# Watch repairs
+What's in the workshop at the moment?!
 
 ## Cauny small dress watch with sub-seconds
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
@@ -79,12 +80,6 @@ Serial 5107778 (1932), broken balance but otherwise movement is OK.
 - [x] Clean dial -- not very effective
 - [ ] Find new case
 
-## Timex
-Keeps great time, 40-hour power reserve, 180&deg; amplitude
-
-- [ ] Attempt to bend bend hour hand back
-- [x] Minor service -- oiled the pivots
-
 ## Borgel trench watch 24 9
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 30.24. So I went for a 30.4mm crystal and it was a success.
@@ -97,14 +92,6 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
-
-## Raketa 2609.HA
-From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
-
-- [x] Check power reserve
-- [x] Clean dial
-- [ ] Ultrasonic clean
-- [ ] Lubricate
 
 ## Fortis FHF ST-96 11.5'''
 - [ ] Order new crystal -- opening measures 30.96mm
@@ -155,6 +142,20 @@ Broken balance, good hands, case much newer but not as nice as the wolf one, ful
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
 -->
+
+## Raketa 2609.HA
+From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
+
+- [x] Check power reserve
+- [x] Clean dial
+- [ ] Ultrasonic clean
+- [ ] Lubricate
+
+## Timex
+Keeps great time, 40-hour power reserve, 180&deg; amplitude
+
+- [ ] Attempt to bend bend hour hand back
+- [x] Minor service -- oiled the pivots
 
 ## Rone 34mm FHF ST-96 11.5'''
 I think this might be my rite of passage.
