@@ -15,10 +15,10 @@
 - Vacheron Constantin
 
 ## Escapements
-- [Lever](https://en.wikipedia.org/wiki/Lever_escapement) - most modern watches
-- [Anchor](https://en.wikipedia.org/wiki/Anchor_escapement) - pendulum clocks
-- [Coaxial](https://en.wikipedia.org/wiki/Coaxial_escapement) - recent Omegas
-- [Detent](https://www.timeandwatches.com/p/the-detent-escapement-from-marine.html)
+- [Lever](https://en.wikipedia.org/wiki/Lever_escapement) -- most modern watches
+- [Anchor](https://en.wikipedia.org/wiki/Anchor_escapement) -- pendulum clocks
+- [Coaxial](https://en.wikipedia.org/wiki/Coaxial_escapement) -- recent Omegas
+- [Detent](https://www.timeandwatches.com/p/the-detent-escapement-from-marine.html) -- detent
 
 ## Spares and tools
 - https://gleave.london/

@@ -56,6 +56,11 @@ and try again.
 
 See [Longines serial numbers](https://millenarywatches.com/longines-serial-number/).
 
+- https://www.barnebys.co.uk/blog/wwi-100-years-on-watches-from-the-trenches
+- https://www.google.com/search?q=longines+ww1+trench+watch
+- [Image search](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.prismic.io%2Fbarnebys%2F01d6a1a5f39dfc6857dd460f7755d6b28bd1be08_longines-heritage-military-original-1918-trench-watch.jpg%3Fw%3D900%26auto%3Dformat%252Ccompress%26cs%3Dtinysrgb&imgrefurl=https%3A%2F%2Fwww.barnebys.co.uk%2Fblog%2Fwwi-100-years-on-watches-from-the-trenches&tbnid=lw_elLi2nAtsJM&vet=12ahUKEwjy9JzSzML8AhU-U6QEHQzABQEQMygFegUIARD7Ag..i&docid=RwYiaDfqZKk3LM&w=900&h=882&q=longines%20ww1%20trench%20watch&client=ubuntu&ved=2ahUKEwjy9JzSzML8AhU-U6QEHQzABQEQMygFegUIARD7Ag)
+- https://64.media.tumblr.com/a4e51fb324cd1155f1c9ab553ac5c9d2/tumblr_nrkv81FsEE1tin58jo1_1280.jpg
+
 Should be in a [gold
 case](https://www.vintage-wristwatches.co.uk/watches-catalogue/archived-watches/longines-watch-archive/1930-9ct-gold-cushion-vintage-longines-watch-retailed-by-j-w-benson-4359/).
 
