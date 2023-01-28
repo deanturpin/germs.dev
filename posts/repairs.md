@@ -27,18 +27,6 @@ some homemade case clamps.
 - [ ] Order new case clamps
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
-## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
-case back is a mess, very strong running so might not do a full service.
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
-- [x] Fit new crystal
-- [ ] Measure amplitude 
-- [ ] Partial service of keyless works
-
 ## Citizen 2800A
 Time drifts, quite erratic 180&deg; amplitude.
 
@@ -62,8 +50,8 @@ See [Longines serial numbers](https://millenarywatches.com/longines-serial-numbe
 - [Image search](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.prismic.io%2Fbarnebys%2F01d6a1a5f39dfc6857dd460f7755d6b28bd1be08_longines-heritage-military-original-1918-trench-watch.jpg%3Fw%3D900%26auto%3Dformat%252Ccompress%26cs%3Dtinysrgb&imgrefurl=https%3A%2F%2Fwww.barnebys.co.uk%2Fblog%2Fwwi-100-years-on-watches-from-the-trenches&tbnid=lw_elLi2nAtsJM&vet=12ahUKEwjy9JzSzML8AhU-U6QEHQzABQEQMygFegUIARD7Ag..i&docid=RwYiaDfqZKk3LM&w=900&h=882&q=longines%20ww1%20trench%20watch&client=ubuntu&ved=2ahUKEwjy9JzSzML8AhU-U6QEHQzABQEQMygFegUIARD7Ag)
 - https://64.media.tumblr.com/a4e51fb324cd1155f1c9ab553ac5c9d2/tumblr_nrkv81FsEE1tin58jo1_1280.jpg
 
-Should be in a [gold
-case](https://www.vintage-wristwatches.co.uk/watches-catalogue/archived-watches/longines-watch-archive/1930-9ct-gold-cushion-vintage-longines-watch-retailed-by-j-w-benson-4359/).
+Probably should be in a [gold
+case](https://www.vintage-wristwatches.co.uk/watches-catalogue/archived-watches/longines-watch-archive/1930-9ct-gold-cushion-vintage-longines-watch-retailed-by-j-w-benson-4359/). But on the lookout for any usable pin-set case.
 
 ### 15-jewel
 Serial 4929243 (1930).
@@ -75,7 +63,7 @@ Serial 4929243 (1930).
 - [ ] Refit good balance
 
 ### 16-jewel
-Serial 5107778 (1932), broken balance but otherwise movement is OK.
+Serial 5107778 (1932), broken balance but otherwise movement is OK. Slightly later but has the hour wheel jewel.
 
 - [x] Clean dial -- not very effective
 - [ ] Find new case
@@ -101,14 +89,20 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 ---
 
 # Ongoing projects
+Watches I'm wearing but still need work.
 
-## Molnija 3602 marriage watch
+## Molnija 3602/3 marriage watch
 
 So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
 
 I started out just trying to fix a pocket watch using another as a donor, but I
 managed to break both balances so I bought a third one to build the marriage
 watch. The others I'll sell or use as spares.
+
+Serial TBC -- 3603, balance is trying to start after a toot from the blower, keyless works/stem aren't engaging.
+
+- [ ] Inspect keyless works
+- [ ] Service
 
 Serial 595600 -- marriage watch.
 
@@ -134,14 +128,32 @@ Serial 594243 -- broken balance, good hands, case much newer but not as nice as 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
 
+## Omega 131.019 gold-plated
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
+case back is a mess, very strong running so might not do a full service.
+
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Present on new leather strap
+- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
+- [x] Fit new crystal
+- [ ] Measure amplitude 
+- [ ] Partial service of keyless works
+
 ### References
 - https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/
 - [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
-<!--
-- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
--->
+## Omega 161.009
+Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
+crown very worn, can _just_ see the Omega logo, stem not engaging, rotor a
+little worn.
+
+- [x] Service (external)
+- [x] New leather strap
+
+---
 
 # Restored watches (or sold as spares)
 
@@ -170,13 +182,6 @@ into orbit. No worries, I have another... also sent that one to the Moon. But
 wait... I found the first on my pants! Right, on the home stretch, located the
 case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grow as a human being.
-
-## Omega 161.009
-22190717 (1965), cal 552, crown very worn, can _just_ see the Omega logo, stem
-not engaging, rotor a little worn.
-
-- [x] Service (external)
-- [x] New leather strap
 
 ## Accurist Shockmaster
 Hand winder G10, keeps great time, 34-hour power reserve.
