@@ -25,7 +25,12 @@ some homemade case clamps.
 - [x] Try correct stem/crown -- winding very stiff, hmmm
 - [ ] Trial with correct stem outside of the case -- does it just need a spot of grease?
 - [ ] Order new case clamps
+- [ ] Order new stem and crown (from Cousins)
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
+
+### Stems
+- [Omega](https://gleave.london/stem-omega-480-1106/)
+- [Generic](https://www.cousinsuk.com/sku/details/omega-generic-movement-parts/ome6001106g)
 
 ## Citizen 2800A
 Time drifts, quite erratic 180&deg; amplitude.
