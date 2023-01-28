@@ -100,7 +100,7 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 
 ---
 
-# Restored watches (or sold as spares)
+# Ongoing projects
 
 ## Molnija 3602 marriage watch
 See
@@ -117,6 +117,11 @@ watch. The others I'll sell or use as spares.
 - [x] Fit movement
 - [x] Fit silver hands -- seconds hand too tight, refitted original black
 - [ ] Trim stem -- haven't done this yet but it's good enough to wear!
+
+So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
+
+### References
+- https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/
 
 <!--
 - [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
@@ -142,6 +147,8 @@ Broken balance, good hands, case much newer but not as nice as the wolf one, ful
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
 -->
+
+# Restored watches (or sold as spares)
 
 ## Raketa 2609.HA
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
