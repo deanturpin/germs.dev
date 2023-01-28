@@ -103,34 +103,22 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 # Ongoing projects
 
 ## Molnija 3602 marriage watch
-See
-[Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
-and [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/) for
-movement details.
+
+So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
 
 I started out just trying to fix a pocket watch using another as a donor, but I
 managed to break both balances so I bought a third one to build the marriage
 watch. The others I'll sell or use as spares.
 
-### Serial 595600
+Serial 595600 -- marriage watch.
+
 - [x] Order NOS watch case
 - [x] Fit movement
 - [x] Fit silver hands -- seconds hand too tight, refitted original black
 - [ ] Trim stem -- haven't done this yet but it's good enough to wear!
-
-So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
-
-### References
-- https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/
-
-<!--
-- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
 - [ ] Fit correct silver seconds hand
--->
 
-<!--
-### Serial 998652
-Awesome forest scene case, broken fourth wheel.
+Serial 998652 -- awesome forest scene case, broken fourth wheel.
 
 - [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
@@ -141,11 +129,18 @@ Awesome forest scene case, broken fourth wheel.
 - [ ] New hands
 - [ ] New dial
 
-### Serial 594243
-Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
+Serial 594243 -- broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
+
+### References
+- https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/
+- [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
+- [Linux Focus](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
+
+<!--
+- [ ] Order broach for 0.24mm seconds hand spindle -- how much larger? Like [this](https://www.hswalsh.com/product/broach-set-12-%C3%B8020mm-%C3%B8080mm-bergeon-1896-f-cutting-broaches-hb1896f)?
 -->
 
 # Restored watches (or sold as spares)
