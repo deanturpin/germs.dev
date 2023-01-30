@@ -8,7 +8,7 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 ---
 
 - __Languages__: C++23 (Standard Library), Bash, Python, Haskell; OOP, Functional
-- __Design__: Multithreading, Templates, Data Structures
+- __Design__: Multithreading, Templates <!-- , Data Structures, Algorithms -->
 - __Build__: QtCreator, Visual Studio, GNU Make, CMake, Ninja, Clang Format
 - __Source control__: Git, Gerrit, Subversion
 - __CI/CD__: GitLab, Jenkins, Unit Testing / TDD, Profiling
