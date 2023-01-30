@@ -19,6 +19,7 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Documentation__: Doxygen, Mermaid, Confluence
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, Security Clearance
+- __Education__: Computer Science BSc. 2:2 from Manchester University
 
 ---
 
