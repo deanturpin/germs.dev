@@ -1,10 +1,4 @@
-# Complexity
-
-```
-time/program = instructions/program * clockCycles/instruction * time/clockCycles
-```
-
-https://en.wikipedia.org/wiki/Iron_law_of_processor_performance
+# Complex systems
 
 ## Complexity projects
 - Game of Life
@@ -69,3 +63,4 @@ random process would not be affected by the previous flips.
 - Don't allow system to build themselves without adding extra checks to limit
 large events
 - Central limit theorem
+
