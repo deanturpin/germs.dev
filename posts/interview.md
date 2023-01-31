@@ -41,8 +41,6 @@ Register with a cloud provider, spin up some instances of Windows and Linux VMs
 and get comfortable connecting to them remotely (via ssh, remote desktop).
 
 ## Study topics
-See all [revision posts](/tags/revision).
-
 - Modern C++ (post-11)
 - Object-oriented programming
 - Algorithms and Big 'O' notation
