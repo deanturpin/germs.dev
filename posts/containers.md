@@ -1,13 +1,3 @@
----
-title: STL containers
-date: 2019-09-25
-tags:
-- cpp
-- revision
-- data structures
-- graduate
----
-
 # STL containers
 > Containers replicate structures very commonly used in programming: dynamic
 > arrays (`vector`), queues (`queue`), stacks (`stack`), heaps
@@ -42,13 +32,6 @@ efficiency in mind. By design, it is as efficient as a simple handwritten
 C-style singly-linked list, and in fact is the only standard container to
 deliberately lack a size member.
 
-## Container adapters
-### `stack` `queue` `priority_queue`
-
-By default, if no container class is specified for a particular
-`priority_queue` class instantiation, the standard container `vector` is used.
-`priority_queue` is a heap
-
 ## Associative containers
 ### `set` `map` `multiset` `multimap`
 
@@ -81,4 +64,26 @@ by their keys.
 // unordered map/set implementation
 std::_Hashtable<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >,
 ```
+
+## Container adapters
+### `stack` `queue` `priority_queue` `flat_map` `flat_set`
+
+By default, if no container class is specified for a particular
+`priority_queue` class instantiation, the standard container `vector` is used.
+`priority_queue` is a heap: Priority Queue is the implementation of Max Heap by default.
+
+## Complexities
+- https://alyssaq.github.io/stl-complexities/
+- https://www.geeksforgeeks.org/analysis-of-time-and-space-complexity-of-stl-containers/
+
+> The map <int, int> M is the implementation of self-balancing Red-Black Trees.
+> The unordered_map<int, int> M is the implementation of Hash Table which makes
+ the complexity of operations like insert, delete and search to Theta(1).
+
+> Set (set<int> s) is the implementation of Binary Search Trees.
+> Unordered set (unordered_set<int> S) is the implementation of Hash Table.
+> Multiset (multiset<int> S) is implementation of Red-Black trees.
+> It is implemented using the linked list implementation of a stack.
+> Queue in STL is implemented using a linked list.
+> Vector is the implementation of dynamic arrays and uses new for memory allocation in heap.
 

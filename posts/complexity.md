@@ -1,13 +1,10 @@
----
-title: Complexity
-subtitle: Complicated versus complex
-date: 2021-09-22
-tags:
-- complexity
-- revision
----
-
 # Complexity
+
+```
+time/program = instructions/program * clockCycles/instruction * time/clockCycles
+```
+
+https://en.wikipedia.org/wiki/Iron_law_of_processor_performance
 
 ## Complexity projects
 - Game of Life
