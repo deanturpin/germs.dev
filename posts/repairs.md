@@ -91,11 +91,6 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 - [ ] Review missing case screws
 - [ ] Measure timing
 
----
-
-# Ongoing projects
-Watches I'm wearing but still need work.
-
 ## Molnija 3602/3 marriage watch
 
 So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
@@ -104,20 +99,19 @@ I started out just trying to fix a pocket watch using another as a donor, but I
 managed to break both balances so I bought a third one to build the marriage
 watch. The others I'll sell or use as spares.
 
-Serial TBC -- 3603, balance is trying to start after a toot from the blower, keyless works/stem aren't engaging.
+### Serial 587360
+3603, balance is trying to start after a toot from the blower, looks like it wobbles but no obvious side shake (so pivots probably intact); keyless works/stem aren't engaging.
 
 - [ ] Inspect keyless works
 - [ ] Service
 
-Serial 595600 -- marriage watch.
+### Serial 445602
+Trying to start, sounds very unbalanced (triplets) but actually looks OK. Pallet fork could be gummed up.
 
-- [x] Order NOS watch case
-- [x] Fit movement
-- [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [ ] Trim stem -- haven't done this yet but it's good enough to wear!
-- [ ] Fit correct silver seconds hand
+- [ ] Service
 
-Serial 998652 -- awesome forest scene case, broken fourth wheel.
+### Serial 998652
+Awesome forest scene case, broken fourth wheel.
 
 - [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
@@ -128,10 +122,20 @@ Serial 998652 -- awesome forest scene case, broken fourth wheel.
 - [ ] New hands
 - [ ] New dial
 
-Serial 594243 -- broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
+### Serial 594243
+Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
+
+### Serial 595600
+Marriage watch with case from eBay, regular wear even though it needs a bit of work still.
+
+- [x] Order NOS watch case
+- [x] Fit movement
+- [x] Fit silver hands -- seconds hand too tight, refitted original black
+- [ ] Trim stem
+- [ ] Fit correct silver seconds hand
 
 ## Omega 131.019 gold-plated
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
@@ -204,4 +208,3 @@ for £9.
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
 - [x] Replace coil, hands very difficult to remove
-
