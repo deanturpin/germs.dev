@@ -91,11 +91,6 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 - [ ] Review missing case screws
 - [ ] Measure timing
 
----
-
-# Ongoing projects
-Watches I'm wearing but still need work.
-
 ## Molnija 3602/3 marriage watch
 
 So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
@@ -104,20 +99,19 @@ I started out just trying to fix a pocket watch using another as a donor, but I
 managed to break both balances so I bought a third one to build the marriage
 watch. The others I'll sell or use as spares.
 
-Serial TBC -- 3603, balance is trying to start after a toot from the blower, keyless works/stem aren't engaging.
+### Serial 587360
+3603, balance is trying to start after a toot from the blower, looks like it wobbles but no obvious side shake (so pivots probably intact); keyless works/stem aren't engaging.
 
 - [ ] Inspect keyless works
 - [ ] Service
 
-Serial 595600 -- marriage watch.
+### Serial 445602
+Trying to start, sounds very unbalanced (triplets) but actually looks OK. Pallet fork could be gummed up.
 
-- [x] Order NOS watch case
-- [x] Fit movement
-- [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [ ] Trim stem -- haven't done this yet but it's good enough to wear!
-- [ ] Fit correct silver seconds hand
+- [ ] Service
 
-Serial 998652 -- awesome forest scene case, broken fourth wheel.
+### Serial 998652
+Awesome forest scene case, broken fourth wheel.
 
 - [x] Measure bezel: 42.6mm 
 - [x] Replace fourth wheel
@@ -128,27 +122,29 @@ Serial 998652 -- awesome forest scene case, broken fourth wheel.
 - [ ] New hands
 - [ ] New dial
 
-Serial 594243 -- broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
+### Serial 594243
+Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
 
-## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
-case back is a mess, very strong running so might not do a full service.
+### Serial 595600
+Marriage watch with case from eBay, regular wear even though it needs a bit of work still.
 
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
-- [x] Fit new crystal
-- [ ] Measure amplitude 
-- [ ] Partial service of keyless works
+- [x] Order NOS watch case
+- [x] Fit movement
+- [x] Fit silver hands -- seconds hand too tight, refitted original black
+- [ ] Trim stem
+- [ ] Fit correct silver seconds hand
 
 ### References
 - [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
 - [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
+
+---
+
+# Restored watches
 
 ## Omega 161.009
 Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
@@ -158,11 +154,20 @@ little worn.
 - [x] Service (external)
 - [x] New leather strap
 
----
+## Omega 131.019 gold-plated
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
+case back is a mess, very strong running so might not do a full service.
 
-# Restored watches (or sold as spares)
+Wearing this despite the sticky keyless works.
 
-## Raketa 2609.HA
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
+- [x] Fit new crystal
+- [ ] Measure amplitude 
+- [ ] Partial service of keyless works
+
+## Raketa 2609.HA (sold)
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
 
 - [x] Check power reserve
@@ -170,13 +175,13 @@ From 1975, in good condition and running well. Measured 47h power reserve (nomin
 - [ ] Ultrasonic clean
 - [ ] Lubricate
 
-## Timex
+## Timex (sold)
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [ ] Attempt to bend bend hour hand back
 - [x] Minor service -- oiled the pivots
 
-## Rone 34mm FHF ST-96 11.5'''
+## Rone 34mm FHF ST-96 11.5''' (sold)
 I think this might be my rite of passage.
 
 Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So,
@@ -188,7 +193,7 @@ wait... I found the first on my pants! Right, on the home stretch, located the
 case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grow as a human being.
 
-## Accurist Shockmaster
+## Accurist Shockmaster (sold)
 Hand winder G10, keeps great time, 34-hour power reserve.
 
 - [x] Buff case
@@ -204,4 +209,3 @@ for £9.
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
 - [x] Replace coil, hands very difficult to remove
-
