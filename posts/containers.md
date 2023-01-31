@@ -75,6 +75,7 @@ By default, if no container class is specified for a particular
 ## Complexities
 - https://alyssaq.github.io/stl-complexities/
 - https://www.geeksforgeeks.org/analysis-of-time-and-space-complexity-of-stl-containers/
+- [Red-black tree performance](https://www.youtube.com/watch?v=va7GJWpmcwY)
 
 > The map <int, int> M is the implementation of self-balancing Red-Black Trees.
 > The unordered_map<int, int> M is the implementation of Hash Table which makes
