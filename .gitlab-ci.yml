@@ -15,7 +15,6 @@ before_script:
 pages:
   stage: deploy
   script:
-
     # Replace tags
     - COMMIT_MESSAGE=$(git log --pretty=oneline -n 1 | cut -d\  -f2-)
     - readonly YEARS=$(echo $(( $(date +%Y) - 1998 )))
@@ -38,6 +37,12 @@ pages:
     - echo "- Quote of the day \"$(curl -L --silent quotations.germs.dev | shuf -n 1)\"" >> README.md
     - for path in posts/*.md; do file=$(basename $path); echo "- [$(grep '^#' $path | head -1 | cut -d'#' -f2-)]($path)"; done | tee SUMMARY.md
     - gitbook build . public
+
+    # Doxygen
+    - apt update
+    - apt install --yes doxygen
+    - doxygen
+    - mv html/ public/
 
   artifacts:
     paths: [public]
