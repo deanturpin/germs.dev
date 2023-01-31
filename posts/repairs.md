@@ -142,18 +142,6 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 - [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
-## Omega 131.019 gold-plated
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
-case back is a mess, very strong running so might not do a full service.
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Present on new leather strap
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
-- [x] Fit new crystal
-- [ ] Measure amplitude 
-- [ ] Partial service of keyless works
-
 ---
 
 # Restored watches
@@ -165,6 +153,19 @@ little worn.
 
 - [x] Service (external)
 - [x] New leather strap
+
+## Omega 131.019 gold-plated
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
+case back is a mess, very strong running so might not do a full service.
+
+Wearing this despite the sticky keyless works.
+
+- [x] Replace case back
+- [x] Trial refitting old crystal -- cracked it
+- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
+- [x] Fit new crystal
+- [ ] Measure amplitude 
+- [ ] Partial service of keyless works
 
 ## Raketa 2609.HA (sold)
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
