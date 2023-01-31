@@ -32,6 +32,8 @@ BENCHMARK(BM_StringCopy);
 BENCHMARK_MAIN();
 ```
 
+See [Godbolt](https://godbolt.org/z/zrGvE96fq).
+
 ## Output
 ```
 ASM generation compiler returned: 0
@@ -49,4 +51,3 @@ BM_StringCreation        116 ns         68.6 ns     10365007
 BM_StringCopy            293 ns          126 ns      5954968
 ```
 
-See [Godbolt](https://godbolt.org/z/zrGvE96fq).
