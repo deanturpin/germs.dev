@@ -137,6 +137,11 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 - [ ] Trim stem
 - [ ] Fit correct silver seconds hand
 
+### References
+- [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
+- [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
+- [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
+
 ## Omega 131.019 gold-plated
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
 case back is a mess, very strong running so might not do a full service.
@@ -148,11 +153,6 @@ case back is a mess, very strong running so might not do a full service.
 - [x] Fit new crystal
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
-
-### References
-- [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
-- [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
-- [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
 ## Omega 161.009
 Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
