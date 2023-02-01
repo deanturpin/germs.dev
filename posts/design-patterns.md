@@ -1,11 +1,3 @@
----
-title: Design patterns
-date: 2019-09-15
-tags:
-- revision
-- design patterns
----
-
 # Design patterns
 
 ## Categories

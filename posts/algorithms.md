@@ -30,8 +30,6 @@ See [algorithm patterns](https://cs.lmu.edu/~ray/notes/algpatterns/).
 Big-O notations is a technique to describe the complexity of an algorithm as the data set becomes larger.
 
 - [Big-O Notation](https://github.com/deanturpin/Big-O-Notation)
-- [Sort animations](http://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-- [Sorting animation](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
 Be prepared to write code. Remember your merge sort, quick sort, binary search, etc, and be able to write them cold.
 
@@ -47,14 +45,6 @@ Be prepared to write code. Remember your merge sort, quick sort, binary search, 
 | O(n!)  | factorial |
 
 See the [Big-O cheat sheet](http://bigocheatsheet.com/) and [time complexity](https://en.wikipedia.org/wiki/Time_complexity)
-
-## Self-balancing binary search trees
-A balanced tree is one of height O(log n), where n is the number of nodes in
-the tree.
-
-- [Red Black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-- [B-Tree](https://en.wikipedia.org/wiki/B-tree)
-- [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
 
 ## Memory access
 That assumes all memory accesses cost the same, which is not a physically

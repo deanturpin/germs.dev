@@ -48,7 +48,14 @@ is available for the rest of the system.
 - A binary tree has at most two child noes: known as the left and right children
 - [Trie](https://en.wikipedia.org/wiki/Trie)
 
-### Binary tree search
+### Self-balancing binary search trees
+A balanced tree is one of height O(log n), where n is the number of nodes in
+the tree.
+
+- [Red Black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+- [B-Tree](https://en.wikipedia.org/wiki/B-tree)
+- [k-d tree](https://en.wikipedia.org/wiki/K-d_tree)
+
 - Sorted hierarchy of data
 - A root node
 - Left most node is the smallest, right most node is the largest
