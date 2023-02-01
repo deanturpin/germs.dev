@@ -1,6 +1,15 @@
 # Watch repairs
 What's in the workshop at the moment?!
 
+## Raketa 2609.HA 11.5'''
+Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+
+- [x] Estimate amplitude (slomo video) -- approx 200&deg;
+- [ ] Potential loose dial (rattles when you tap it but case screws are tight)
+- [ ] Clean dial
+- [ ] Put case in ultrasonic
+- [ ] Polywatch crystal
+
 ## Cauny small dress watch with sub-seconds
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
 
@@ -73,9 +82,8 @@ Serial 5107778 (1932), broken balance but otherwise movement is OK. Slightly lat
 - [x] Clean dial -- not very effective
 - [ ] Find new case
 
-## Borgel trench watch 24 9
-Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
-30.24. So I went for a 30.4mm crystal and it was a success.
+## 1916 Borgel trench watch 13'''
+Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
 
 - [x] Order 30.4mm crystal
 - [x] Polish silver
@@ -91,8 +99,7 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21,
 - [ ] Review missing case screws
 - [ ] Measure timing
 
-## Molnija 3602/3 marriage watch
-
+## Molnija 3602/3 marriage watch 16'''
 So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
 
 I started out just trying to fix a pocket watch using another as a donor, but I
@@ -181,7 +188,7 @@ Keeps great time, 40-hour power reserve, 180&deg; amplitude
 - [ ] Attempt to bend bend hour hand back
 - [x] Minor service -- oiled the pivots
 
-## Rone 34mm FHF ST-96 11.5''' (sold)
+## Rone 34mm FHF ST-96 11.5''' (donated)
 I think this might be my rite of passage.
 
 Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So,
