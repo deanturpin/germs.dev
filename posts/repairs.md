@@ -1,6 +1,15 @@
 # Watch repairs
 What's in the workshop at the moment?!
 
+## Raketa 2609.HA
+Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+
+- [x] Estimate amplitude (slomo video) -- approx 200&deg;
+- [ ] Potential loose dial (rattles when you tap it but case screws are tight)
+- [ ] Clean dial
+- [ ] Put case in ultrasonic
+- [ ] Polywatch crystal
+
 ## Cauny small dress watch with sub-seconds
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
 
