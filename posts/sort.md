@@ -2,6 +2,8 @@
 - [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu - CppCon 2019](https://www.youtube.com/watch?v=FJJTYQYB1JQ).
 - [Comparison-based Lower Bounds for Sorting](https://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf)
 - [Sorting Algorithms on Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+- [Sort animations](http://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+- [Sorting animation](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
 ```cpp
 #include <iostream>
