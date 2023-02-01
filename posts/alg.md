@@ -38,6 +38,20 @@ GB CppCon 2018: Jonathan Boccara: [105 STL Algorithms in Less Than an Hour](http
 - is\_
 - is\_\*\_until
 
+## Quicksort in C++
+```cpp
+#include <algorithm>
+
+std::sort();
+```
+https://en.cppreference.com/w/cpp/algorithm/sort
+
+> Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance. It begins with quicksort, it switches to heapsort when the recursion depth exceeds a level based on (the logarithm of) the number of elements being sorted and it switches to insertion sort when the number of elements is below some threshold. This combines the good parts of the three algorithms, with practical performance comparable to quicksort on typical data sets and worst-case O(n log n) runtime due to the heap sort. Since the three algorithms it uses are comparison sorts, it is also a comparison sort. 
+
+> Introsort is in place and not stable.
+
+See [Introsort](https://en.wikipedia.org/wiki/Introsort) and [sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm).
+
 ## Algorithm patterns
 - Brute Force
 - Divide and Conquer: [Karatsuba’s Integer Multiplication](https://mathworld.wolfram.com/KaratsubaMultiplication.html) -- it is possible to perform multiplication of large numbers in (many) fewer operations than the usual brute-force technique of "long multiplication." As discovered by Karatsuba (Karatsuba and Ofman 1962).
