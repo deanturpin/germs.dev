@@ -1,54 +1,10 @@
-# Algorithms
-```
-time/program = instructions/program * clockCycles/instruction * time/clockCycles
-```
-
-Also see [Iron Law of processor performance](https://en.wikipedia.org/wiki/Iron_law_of_processor_performance).
-
-## Complexities for command data structures
-See [time complexities for different data structures](https://www.geeksforgeeks.org/time-complexities-of-different-data-structures/).
-
-See [choosing the right container](https://medium.com/@rodrigues.b.nelson/choosing-wisely-c-containers-and-big-oh-complexity-64f9bd1e7e4c).
-
-Where does O(nlogn) comes from? [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation) is where.
-
-### Hash tables -- access/search, insert/edit, delete
-Hash tables have an amortized complexity of O(1) unless there are collisions. Worst case, if everything is in the same bin, then it is O(n).
-
-Unordered maps and set are implemented using hash tables.
-
-### Singly linked lists
-Adding/removing at the beginning is O(1), but adding at the end means search the whole list, therefore O(n). Searching is also O(n).
-
-### Doubly Linked Lists
-Store a pointer to the beginning and end. Therefore operations on the end are also O(1).
-
-### Maps and set
-[Maps and sets](https://stackoverflow.com/questions/222658/multiset-map-and-hash-map-complexity) are implemented using a red-black tree, a type of balanced binary search tree.
-
-
-The conventional wisdom for when to use a linked list over contiguous storage
-hasn't applied for years: you have to test. If everything is in a cache, a
-vector might outperform a linked list for insertion.
-
-GB CppCon 2018: Jonathan Boccara: [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=2olsGf6JIkU).
+# Algorithms 
+See CppCon 2018: Jonathan Boccara: [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=2olsGf6JIkU).
 
 ## Secret runes
 - stable\_
 - is\_
 - is\_\*\_until
-
-## Quicksort in C++
-```cpp
-#include <algorithm>
-
-std::sort();
-```
-https://en.cppreference.com/w/cpp/algorithm/sort
-
-> Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance. It begins with quicksort, it switches to heapsort when the recursion depth exceeds a level based on (the logarithm of) the number of elements being sorted and it switches to insertion sort when the number of elements is below some threshold. This combines the good parts of the three algorithms, with practical performance comparable to quicksort on typical data sets and worst-case O(n log n) runtime due to the heap sort. Since the three algorithms it uses are comparison sorts, it is also a comparison sort. 
-
-> Introsort is in place and not stable.
 
 See [Introsort](https://en.wikipedia.org/wiki/Introsort) and [sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm).
 

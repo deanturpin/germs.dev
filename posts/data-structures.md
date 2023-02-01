@@ -1,4 +1,14 @@
 # Data structures
+The conventional wisdom for when to use a linked list over contiguous storage
+hasn't applied for years: you have to test. If everything is in a cache, a
+vector might outperform a linked list for insertion.
+
+```
+time/program = instructions/program * clockCycles/instruction * time/clockCycles
+```
+
+Also see [Iron Law of processor performance](https://en.wikipedia.org/wiki/Iron_law_of_processor_performance).
+
 ## Heaps
 In a max heap, for any given node C, if P is a parent node of C, then the key
 (the value) of P is greater than or equal to the key of C. In a min heap, the
@@ -89,4 +99,25 @@ element is a member of a set.
 ## References
 - [Pluralsight ADS part 1](https://app.pluralsight.com/library/courses/ads-part1/table-of-contents)
 - [Pluralsight ADS part 2](https://app.pluralsight.com/library/courses/ads2/table-of-contents)
+
+## Complexities for command data structures
+See [time complexities for different data structures](https://www.geeksforgeeks.org/time-complexities-of-different-data-structures/).
+
+See [choosing the right container](https://medium.com/@rodrigues.b.nelson/choosing-wisely-c-containers-and-big-oh-complexity-64f9bd1e7e4c).
+
+Where does O(nlogn) comes from? [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation) is where.
+
+### Hash tables -- access/search, insert/edit, delete
+Hash tables have an amortized complexity of O(1) unless there are collisions. Worst case, if everything is in the same bin, then it is O(n).
+
+Unordered maps and set are implemented using hash tables.
+
+### Singly linked lists
+Adding/removing at the beginning is O(1), but adding at the end means search the whole list, therefore O(n). Searching is also O(n).
+
+### Doubly Linked Lists
+Store a pointer to the beginning and end. Therefore operations on the end are also O(1).
+
+### Maps and set
+[Maps and sets](https://stackoverflow.com/questions/222658/multiset-map-and-hash-map-complexity) are implemented using a red-black tree, a type of balanced binary search tree.
 
