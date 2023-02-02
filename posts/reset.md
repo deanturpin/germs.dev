@@ -1,15 +1,3 @@
----
-title: Resetting a forgotten Windows password
-date: 2019-10-15
-tags:
-- penetration testing
-- linux
-- kali
-- cli
-- windows
-- password
----
-
 # Resetting a forgotten Windows password
 
 When you've misplaced the password to a local Windows account. Seen to work on

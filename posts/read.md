@@ -1,7 +1,6 @@
-# Courses and books
+# Courses and books (and things to watch)
 
 ## _Book_ books (made of actual paper)
-
 - Learn You a Haskell for Great Good!: A Beginner's Guide: A Beginner's Guide to Haskell
 - Practical Watch Repairing -- Donald de Carlo
 - C++ Templates: The Complete Guide -- David Vandevoorde
@@ -9,6 +8,15 @@
 - Learn Chess Tactics -- John Nunn
 - Amo, Amas, Amat ... and All That -- Harry Mount
 - Seriously Curious: 109 facts and figures to turn your world upside down Paperback -- Tom Standage
+
+## Leanpub books
+Get free updates so these are potentially bang up-to-date.
+- [A Complete Guide to Standard C++ Algorithms](https://leanpub.com/cpp-algorithms-guide)
+- [C++ Best Practices](https://leanpub.com/cppbestpractices)
+- [Ace the Trading Systems Developer Interview (C++ Edition)](https://leanpub.com/tradingsystemsdeveloperinterviews)
+
+## YouTubes that have changed my life
+- [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu - CppCon 2019](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 
 ## Audiobooks
 - The Art of Unit Testing: With Examples in C#
