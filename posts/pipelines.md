@@ -1,4 +1,4 @@
-# Ceci n'est pas une pipe
+# Pipelines
 
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines) https://dft.germs.dev/ -- discrete Fourier transforms
 1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/watch/-/pipelines) https://poshboys.club/ -- watchmaking resources
