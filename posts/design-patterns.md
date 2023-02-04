@@ -23,6 +23,7 @@ introspect, and modify its own structure and behavior."
 See https://en.wikipedia.org/wiki/Reflection_(computer_programming)
 
 ## References
+- https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/
 - [Extended examples](https://github.com/deanturpin/revision_design_patterns/)
 - https://refactoring.guru/design-patterns/cpp
 

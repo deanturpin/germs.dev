@@ -49,6 +49,12 @@ non-deterministically on the relative timings of two or more threads)
 - [Wait-for graph](https://en.wikipedia.org/wiki/Wait-for_graph)
 - [Banker's algorithm](https://en.wikipedia.org/wiki/Banker%27s_algorithm)
 
+## Execution policy
+- `std::execution::sequenced_policy`: The execution policy type used as a unique type to disambiguate parallel algorithm overloading and require that a parallel algorithm's execution may not be parallelized. The invocations of element access functions in parallel algorithms invoked with this policy (usually specified as std::execution::seq) are indeterminately sequenced in the calling thread.
+- `std::execution::parallel_policy`: The execution policy type used as a unique type to disambiguate parallel algorithm overloading and indicate that a parallel algorithm's execution may be parallelized. The invocations of element access functions in parallel algorithms invoked with this policy (usually specified as std::execution::par) are permitted to execute in either the invoking thread or in a thread implicitly created by the library to support parallel algorithm execution. Any such invocations executing in the same thread are indeterminately sequenced with respect to each other.
+- `std::execution::parallel_unsequenced_policy`: The execution policy type used as a unique type to disambiguate parallel algorithm overloading and indicate that a parallel algorithm's execution may be parallelized, vectorized, or migrated across threads (such as by a parent-stealing scheduler). The invocations of element access functions in parallel algorithms invoked with this policy are permitted to execute in an unordered fashion in unspecified threads, and unsequenced with respect to one another within each thread.
+- `std::execution::unsequenced_policy`: The execution policy type used as a unique type to disambiguate parallel algorithm overloading and indicate that a parallel algorithm's execution may be vectorized, e.g., executed on a single thread using instructions that operate on multiple data items.
+
 ## Prevention
 - Try to avoid calling out to external code while holding a lock
 - Try to avoid holding locks for longer than you need to
@@ -71,7 +77,9 @@ See [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
 ## C++ threads
 Launch with `std::thread`, attach with `std::join`. C++20 introduced `std::jthread` which automatically rejoins on destruction.
 
-`std::async` runs the function f asynchronously (potentially in a separate thread which might be a part of a thread pool) and returns a `std::future` that will eventually hold the result of that function call.
+`std::async` runs the function f asynchronously (potentially in a separate
+thread which might be a part of a thread pool) and returns a `std::future` that
+will eventually hold the result of that function call. Not entirely intuitive, see [`std::async`](https://en.cppreference.com/w/cpp/thread/async).
 
 ## Threads versus processes
 A thread is a branch of execution. A process can consist of multiple threads.
@@ -96,3 +104,4 @@ thread. In Windows Forms, use Control.Invoke/BeginInvoke
 - https://devblogs.microsoft.com/oldnewthing/20040308-00/?p=40363#:~:text=Starting%20in%20C%2B%2B11,time%20execution%20reaches%20their%20declaration
 - [The Amazing Performance of C++17 Parallel Algorithms, is it
   Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html)
+

@@ -66,9 +66,9 @@ http://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf
 https://en.wikipedia.org/wiki/Introsort
 
 ## `std::list`
-`std::sort` requires random access to the elements so `std::list` has its own
-sort method, but it still conforms to O(n log n). It can be implemented with
-merge sort as moving elements is cheap with a linked list.
+`std::sort` requires random access to the elements, so `std::list` has its own
+sort method, but it still (approximately) conforms to O(n log n). It can be
+implemented with merge sort as moving elements is cheap with a linked list.
 
 ## Other sorting algorithms
 All of these are Θ(n log n) in all cases apart from Timsort has a Ω(n) and

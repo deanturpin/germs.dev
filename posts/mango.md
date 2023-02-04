@@ -7,3 +7,6 @@ compost/manure mix. They were then covered with cling film and left in the
 warm. After approximately four weeks *one* of the pips planted beneath the soil
 sprouted.
 
+And it grew to a good 30cm over the next six months, but ultimately withered
+and died as the temperature dropped.
+
