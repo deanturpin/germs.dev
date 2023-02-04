@@ -1,4 +1,5 @@
 # Influential technology
+- __2023__: Google Benchmark
 - __2022__: SIP, GitBook, Compiler Explorer (on prem), GitLab (on prem), GitLab service desk, git worktrees, FIX, `constexpr` (for UB)
 - __2021__: fmtlib, TMP, C++20 ranges and views (lazy evaluation)
 - __2020__: Blender, Media servers, ZeroMQ, Tracy profiler, Raspberry Pi
