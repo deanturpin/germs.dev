@@ -1,4 +1,4 @@
-# Dean Turpin &mdash; Senior Software Engineer
+# deanturp.in &mdash; Senior Software Engineer
 
 <!-- Note {YEARS} is inserted dynamically by the build pipe -->
 
