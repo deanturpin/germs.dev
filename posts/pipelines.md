@@ -7,7 +7,7 @@
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines) [Discrete Fourier transforms in C++23](https://dft.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material
 1. [![](https://gitlab.com/germs-dev/flags/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/flags/-/pipelines) [Current compiler flags](https://flags.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/-/pipelines) Profiling Standard Library containers -- Google Benchmark
+1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/-/pipelines) [Profiling Standard Library containers](https://benchmark.germs.dev/) -- Google Benchmark
 
 ## Finance
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) [FIX processing](https://fix.germs.dev/)
