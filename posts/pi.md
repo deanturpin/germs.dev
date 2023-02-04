@@ -6,7 +6,7 @@ Anyway, that said...
 
 ---
 
-# Getting start
+## Getting start
 Download [Raspberry Pi imager](https://www.raspberrypi.org/%20downloads/) from
 the Play Store to write images to an SD card from your phone.
 
@@ -54,7 +54,7 @@ Also, to enable ssh, touch an empty file named "ssh" at the top level on the SD 
 
 ---
 
-# Project ideas
+## Project ideas
 - https://projects.raspberrypi.org/en
 - Plant irrigation system
 - ANPR -- car number plate detection system
@@ -78,19 +78,19 @@ Also, to enable ssh, touch an empty file named "ssh" at the top level on the SD 
 - [Pi-hole](https://pi-hole.net/) ad blocked -- even works on a Zero but you do
 need a router that can have its DNS config updated
 
-# Stores
+## Stores
 - [The Pi Hut](https://thepihut.com/)
 - [Pimeroni](https://shop.pimoroni.com/)
 - [Radio Spares](https://uk.rs-online.com/web/p/raspberry-pi/1373331/)
 - [Amazon](https://www.amazon.co.uk/MakerFun-Dongle-Expansion-Board-Raspberry/dp/B07KR5PM7J/ref=sr_1_5?dchild=1&keywords=Raspberry+Pi+zero&qid=1620719318&sr=8-5)
 - [sparkfun](https://www.sparkfun.com/)
 
-# Operating systems
-## Pico
+## Operating systems
+### Pico
 - http://cowlark.com/2021-02-16-fuzix-pi-pico/
 
-# Kits and peripherals
-## Models/kits
+## Kits and peripherals
+### Models/kits
 - [Raspberry Pi 4 Model B](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064052740158)
 - [Raspberry Pi 3 Model A+](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-3-model-a-plus)
 - [Raspberry Pi Zero WH](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-wh-with-pre-soldered-header)
@@ -134,10 +134,10 @@ need a router that can have its DNS config updated
 ## GSM
 - https://thepihut.com/products/modmypis-raspberry-pi-gsm-gprs-board-sim800
 
-# Misc
+## Misc
 - [Control electrical sockets](https://tutorials-raspberrypi.com/control-raspberry-pi-wireless-sockets-433mhz-tutorial/)
 
-# ARM
+## ARM
 - M-series: bare metal
 - A-series: run OS
 - [STM electronics](https://www.digikey.co.uk/en/supplier-centers/stmicroelectronics)
