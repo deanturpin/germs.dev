@@ -44,6 +44,7 @@ See the [presentation](https://www.youtube.com/watch?v=b0NkuoUkv0M) by Marc Greg
 - `join_with`
 - `stride` -- take every nth element
 - `repeat`
+- `iota` -- infinite views may be more performant as no boundary check
 
 ### What's missing?
 In the standard but not supported yet.

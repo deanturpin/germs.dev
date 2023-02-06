@@ -62,8 +62,11 @@ http://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf
 > three algorithms it uses are comparison sorts, it is also a comparison sort.
 
 > Introsort is in place and not stable.
-
 https://en.wikipedia.org/wiki/Introsort
+
+> If additional memory is available, stable_sort remains O(n ∗ logn). However, if
+it fails to allocate, it will degrade to an O(n ∗ logn ∗ logn) algorithm.
+https://leanpub.com/cpp-algorithms-guide
 
 ## `std::list`
 `std::sort` requires random access to the elements, so `std::list` has its own
