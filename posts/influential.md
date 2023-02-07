@@ -1,4 +1,6 @@
 # Influential technology
+Technologies that have had a positive impact on me as a developer.
+
 - __2023__: Google Benchmark, ChatGPT, Haskell (again)
 - __2022__: SIP, GitBook, Compiler Explorer (on prem), GitLab (on prem), GitLab service desk, git worktrees, FIX, `constexpr` (for UB), GoogleTest
 - __2021__: fmtlib, TMP, C++20 ranges and views (lazy evaluation)
