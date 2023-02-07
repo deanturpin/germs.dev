@@ -95,6 +95,28 @@ want to share them.
 thread. In Windows Forms, use Control.Invoke/BeginInvoke
 - Use locks when you access mutable shared data, both for reads and writes.
 
+### C++ algorithms that can take an execution policy
+1. std::sort
+1. std::copy
+1. std::transform
+1. std::accumulate
+1. std::for_each
+1. std::reduce
+1. std::inclusive_scan
+1. std::exclusive_scan
+1. std::transform_reduce
+1. std::replace_if
+1. std::replace
+1. std::remove_if
+1. std::remove
+1. std::count_if
+1. std::count
+1. std::max_element
+1. std::min_element
+1. std::find_if
+1. std::find
+1. std::generate
+
 ## References
 - [ A Fast General Purpose Lock-Free Queue for
   C++](https://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++.htm)
