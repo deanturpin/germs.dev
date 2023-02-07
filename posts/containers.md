@@ -1,4 +1,13 @@
 # STL containers
+
+ChatGPT says:
+1. Memory Management: Allocating and deallocating memory for the container and its elements must be handled properly.
+1. Element Access: Containers must provide efficient means of accessing elements, such as indexing and iterators.
+1. Insertion and Removal: Insertion and removal of elements must be handled efficiently.
+1. Sorting and Searching: Containers must provide a way to sort and search through their elements.
+1. Synchronization: If the container is used by multiple threads, synchronization must be handled properly.
+1. Exception Handling: Code must handle exceptions properly in order to maintain integrity of the container.
+
 > Containers replicate structures very commonly used in programming: dynamic
 > arrays (`vector`), queues (`queue`), stacks (`stack`), heaps
 > (`priority_queue`, `make_heap`), linked lists (`list`), trees (`set`),
