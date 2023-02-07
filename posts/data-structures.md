@@ -17,6 +17,26 @@ ChatGPT:
 > A heap is a type of data structure that is organized based on the heap property, which states that the parent of a node is either greater than or equal to (max heap) or less than or equal to (min heap) its children. A binary search tree is a type of data structure that is organized based on a node’s value. Each node has two children, with the left child being less than the parent node and the right child being greater than the parent node. Additionally, all left descendants of a node are less than or equal to the node and all right descendants are greater than or equal to the node.
 
 
+_How does a heap differ from a red-black tree?_
+
+ChatGPT:
+A heap is a data structure that is organized as a binary tree which allows for efficient retrieval of the maximum or minimum element. It is a type of Priority Queue, where elements are organized in a complete binary tree, with each node having a priority associated with it. Heaps have the following properties:
+
+1. Every node has a key (priority) and a value associated with it.
+2. The heap is complete binary tree, which means that all levels except the last one are completely filled and all nodes are as far left as possible.
+3. Every node has a key that is smaller than or equal to its parent.
+
+A red-black tree is a type of self-balancing binary search tree, where each node is colored either red or black. Red-black trees have the following properties:
+
+1. Every node is either red or black.
+2. The root is black.
+3. Every leaf (NIL) is black.
+4. If a node is red, then both its children are black.
+5. Every simple path from a node to a descendant leaf contains the same number of black nodes.
+
+The main difference between a heap and a red-black tree is that a heap is an unordered data structure while a red-black tree is an ordered data structure. Heaps are used for efficient retrieval of the maximum or minimum element, while red-black trees are used for efficient storage and retrieval of items in sorted order. Heaps are used for priority queues, while red-black trees are used for dictionary like data structures.
+
+### Max heap
 In a max heap, for any given node C, if P is a parent node of C, then the key
 (the value) of P is greater than or equal to the key of C. In a min heap, the
 key of P is less than or equal to the key of C. The node at the "top" of the
