@@ -28,4 +28,5 @@
 1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/-/pipelines) [Building projects](https://build.sima.one/)
 1. [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines) [Airbnb landing page](https://mews.one/)
 1. [![](https://gitlab.com/germs-dev/brighton/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/brighton/-/pipelines) [Brighton recommendations](https://sima.one/)
+1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/-/pipelines) [Pipelines](https://deanturp.in/)
 
