@@ -13,10 +13,12 @@ languages such as Haskell.
 ## Example projects
 
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
-- C++ best practice: `turpin.dev`
+- Junior dev training material augmented by OpenAI: `cs.turpin.dev`
 - Energy usage calculations in Haskell: `energy.turpin.cloud`
 - FIX processing: `fix.germs.dev`
-- Container training material: `benchmark.germs.dev`
 - Online logbook: `turpin.one`
 
+<!--
+- C++ best practice: `turpin.dev`
+-->
 
