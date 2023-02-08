@@ -1,16 +1,3 @@
----
-title: Network analysis
-subtitle: On the Linux command line
-date: 2019-09-16
-tags:
-- networks
-- cli
-- linux
-- penetration testing
-- exercise
-- graduate
----
-
 # Network analysis
 
 For the purposes of this exercise we're not employing any [nefarious
@@ -157,3 +144,4 @@ We first hit the gateway and then some hosts that aren't responding to pings (po
 1. Draw a network topology of the lab and show how it connects to the main network. Hint: the router will have at least two network interfaces.
 1. Log packets with during an `nmap` scan (to see how much conspicuous traffic _you_ are generating). You could use `tcpdump` or Wireshark.
 1. What are the availble host IP addresses for subnet `192.168.109.0/27`?
+

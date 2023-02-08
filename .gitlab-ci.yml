@@ -52,8 +52,3 @@ Trigger CV:
   trigger: germs-dev/cv
   only: [main]
 
-Trigger pipelines page:
-  stage: deploy
-  trigger: germs-dev/pipelines
-  only: [main]
-
