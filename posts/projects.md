@@ -16,7 +16,7 @@ languages such as Haskell.
 - C++ best practice: `turpin.dev`
 - Energy usage calculations in Haskell: `energy.turpin.cloud`
 - FIX processing: `fix.germs.dev`
-- Command line assembly explorer: `explore.germs.dev`
+- Container training material: `benchmark.germs.dev`
 - Online logbook: `turpin.one`
 
 
