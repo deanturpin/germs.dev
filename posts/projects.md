@@ -11,14 +11,10 @@ functional approach to programming offered by template metaprogramming and
 languages such as Haskell.
 
 ## Example projects
-
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
 - Junior dev training material augmented by OpenAI: `cs.turpin.dev`
 - Energy usage calculations in Haskell: `energy.turpin.cloud`
 - FIX processing: `fix.germs.dev`
 - Online logbook: `turpin.one`
 
-<!--
-- C++ best practice: `turpin.dev`
--->
 
