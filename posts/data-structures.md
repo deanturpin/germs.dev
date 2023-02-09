@@ -16,7 +16,6 @@ _What is the difference between a heap and a binary search tree?_
 ChatGPT:
 > A heap is a type of data structure that is organized based on the heap property, which states that the parent of a node is either greater than or equal to (max heap) or less than or equal to (min heap) its children. A binary search tree is a type of data structure that is organized based on a node’s value. Each node has two children, with the left child being less than the parent node and the right child being greater than the parent node. Additionally, all left descendants of a node are less than or equal to the node and all right descendants are greater than or equal to the node.
 
-
 _How does a heap differ from a red-black tree?_
 
 ChatGPT:
