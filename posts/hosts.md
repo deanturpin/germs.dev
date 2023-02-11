@@ -12,5 +12,5 @@ The image below is generated as a daily [GitLab cron
 job](https://gitlab.com/deanturpin/tracehost). Hosts that don't respond to
 pings are coloured red.
 
-![](https://ping.germs.dev/hosts.svg)
+![](https://germs.dev/hosts.svg)
 

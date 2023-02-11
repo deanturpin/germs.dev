@@ -18,7 +18,7 @@
 1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/watch/-/pipelines) [Watchmaking resources](https://poshboys.club/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) [Single page markdown to HTML generator](https://md2html.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://ping.germs.dev/)
+1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://germs.dev/)
 1. [![](https://gitlab.com/germs-dev/companies-house-plotter/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/companies-house-plotter/-/pipelines) [Companies House plotter](https://bank.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/master/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines) [Skills timeline generator in R](https://skills.turpin.dev/)
