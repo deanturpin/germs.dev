@@ -14,6 +14,7 @@
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) [FIX processing](https://fix.germs.dev/)
 
 ## Others
+1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines) [Command line OpenAI wrapper](https://turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/watch/-/pipelines) [Watchmaking resources](https://poshboys.club/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) [Single page markdown to HTML generator](https://md2html.germs.dev/)

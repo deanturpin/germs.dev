@@ -91,14 +91,12 @@ https://www.youtube.com/watch?v=FJJTYQYB1JQ
 - Always use infinite loops (except most times)
 
 ### 1st order conclusions
-- Code that wants to be fast is left-leaning (goes to the left of the page: no
-ifs, decision points etc)
+- Code that wants to be fast is left-leaning (goes to the left of the page: no ifs, decision points etc)
 - Don't mix hot and cold code, break ASAP
 - "Can't write heavily nested code in 80 characters"
 
 ### 2nd order conclusions
-- Tension with generic programming: "generic programming is why we can't have
-  nice things"
+- Tension with generic programming: "generic programming is why we can't have nice things"
 
 ## Timeline
 - 1990: OOP

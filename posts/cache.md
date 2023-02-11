@@ -31,8 +31,7 @@ responses come back some time later
 - Premature optimisation
 
 ## Lectures
-[What do you mean by "cache friendly"? -- Björn Fahller (code::dive
-2019)](https://www.youtube.com/watch?v=Fzbotzi1gYs&feature=youtu.be)
+[What do you mean by "cache friendly"? -- Björn Fahller (code::dive 2019)](https://www.youtube.com/watch?v=Fzbotzi1gYs&feature=youtu.be)
 
 - Assume any pointer indirection is a cache miss
 - Smaller working data set is better
@@ -62,8 +61,7 @@ data, which is particularly the case with CPUs in a multiprocessing system.
 ### MESI cache coherence protocol
 Each cache line has state, tag, data.
 
-- Modified - write back the data before anybody else is allowed to read main
-memory
+- Modified - write back the data before anybody else is allowed to read main memory
 - Exclusive - mark if nobody is sharing, can change with impunity
 - Shared
 - Invalid - unused
@@ -77,7 +75,7 @@ https://en.wikipedia.org/wiki/Bus_snooping
 ## Directory based coherence
 Used for large CPUs.
 
-https://en.wikipedia.org/wiki/Directory-based_cache_coherence
+See [wiki](https://en.wikipedia.org/wiki/Directory-based_cache_coherence).
 
 ## Write-back versus write-through
 All Intel-compatible CPUs during the last one/two decades used a write-back
