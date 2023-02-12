@@ -133,7 +133,7 @@ element is a member of a set.
 - [Pluralsight ADS part 1](https://app.pluralsight.com/library/courses/ads-part1/table-of-contents)
 - [Pluralsight ADS part 2](https://app.pluralsight.com/library/courses/ads2/table-of-contents)
 
-## Complexities for command data structures
+## Complexities for common data structures
 See [time complexities for different data structures](https://www.geeksforgeeks.org/time-complexities-of-different-data-structures/).
 
 See [choosing the right container](https://medium.com/@rodrigues.b.nelson/choosing-wisely-c-containers-and-big-oh-complexity-64f9bd1e7e4c).

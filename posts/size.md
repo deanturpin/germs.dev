@@ -1,12 +1,3 @@
----
-title: The magnitude of it all
-subtitle: The units you should be aware of
-date: 2019-09-27
-tags:
-- revision
-- units
-- graduate
----
 
 # The magnitude of it all
 

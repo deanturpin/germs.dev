@@ -1,11 +1,3 @@
----
-title: Hashing
-date: 2020-12-13
-tags:
-- data structures
-- revision
----
-
 # Hashing
 ## Hash tables
 A hash table (hash map) is a data structure that implements an associative
