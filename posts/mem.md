@@ -1,12 +1,3 @@
----
-title: The lighthouse keeper's son
-date: 2020-09-26
-tags:
-- story
-- non-fiction
-- memoir
----
-
 # The lighthouse keeper's son
 
 > John James Turpin's memories of growing up in occupied Jersey at [La Corbière

@@ -1,14 +1,3 @@
----
-title: Virtual insanity...
-subtitle: Uses of the "virtual" keyword in C++
-date: 2021-08-21
-tags:
-- cpp
-- revision
-- virtual
-- oop
----
-
 # Virtual insanity...
 
 > Virtual functions are used to achieve runtime polymorphism

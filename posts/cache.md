@@ -107,16 +107,16 @@ There is a more detailed introduction to the types of misses
 
 ## Instruction cache
 - Avoid iteration over heterogeneous sequences with virtual calls (sort first)
-- Make "fast paths" - branch-free sequences
+- Make "fast paths": branch-free sequences
 - Inline cautiously
 - Take advantage of PGO and WPO
 
 ## Virtual functions
-1. Load vtable pointer -- potentially data cache miss
-1. Load virtual function pointer -- potentially data cache miss
-1. Then code of function is called -- potential instruction cache miss
+We can use CRTP to avoid the first two.
 
-Can use CRTP to avoid first two.
+1. Load vtable pointer: potentially data cache miss
+1. Load virtual function pointer: potentially data cache miss
+1. Then code of function is called: potential instruction cache miss
 
 ## Cache related issues
 - Memory banks
