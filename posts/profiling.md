@@ -8,6 +8,7 @@
 - Tracy
 - htop
 - Google Benchmark
+- hotspot
 - [Optick](https://www.youtube.com/watch?v=p57TV5342fo&list=WL&index=22) -- lightweight profiling for games
 
 ### gprof
@@ -30,3 +31,4 @@ Use `-p` for `prof` and `-pg` for `gprof`. But it will take longer to run.
 ## Reading list
 - https://lwn.net/Articles/250967/
 - https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-concurrency
+

@@ -1,14 +1,3 @@
----
-title: ADL
-subtitle: Argument dependent lookup
-date: 2019-09-17
-tags:
-- cpp
-- revision
-- exercise
-- graduate
----
-
 # Argument dependent lookup
 
 > Argument-dependent lookup, also known as ADL, or Koenig lookup [1], is the

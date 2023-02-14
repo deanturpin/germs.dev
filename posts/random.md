@@ -1,11 +1,3 @@
----
-title: Random
-subtitle: Ways to get
-date: 2021-04-21
-tags:
-- random
----
-
 # Random
 
 # Via the (Linux) filesystem

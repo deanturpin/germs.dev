@@ -1,11 +1,3 @@
----
-title: Security through absurdity
-date: 2019-10-26
-tags:
-- security
-- hacking
----
-
 # Security through absurdity
 
 It was recently suggested that I consider "using unusual ports" at work as a

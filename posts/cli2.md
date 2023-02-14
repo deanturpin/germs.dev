@@ -1,12 +1,3 @@
----
-title: Alternative Linux commands that have usurped the default
-date: 2021-01-31
-tags:
-- linux
-- cli
-- bash
----
-
 # Alternative Linux commands that have usurped the default
 
 - `mtr` - a fancy `tracepath`

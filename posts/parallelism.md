@@ -1,13 +1,3 @@
----
-title: Parallelism
-date: 2019-09-15
-tags:
-- revision
-- parallelism
-- performance
-- cpu
----
-
 # Parallelism
 
 ## Kinds of parallelism

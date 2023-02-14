@@ -5,15 +5,12 @@ contain data, in the form of fields often known as attributes; and code in the
 form of procedures, often known as methods. We are aiming to group related data
 and functions.
 
-- Encapsulation: tie the data and the functions that are acting together in a
-class.
+- Encapsulation: tie the data and the functions that are acting together in a class.
 - Composition
-- [Delegation](https://en.wikipedia.org/wiki/Delegation_(computing)) is calling
-a routine "in another context", for instance calling a base class member
+- [Delegation](https://en.wikipedia.org/wiki/Delegation_(computing)) is calling a routine "in another context", for instance calling a base class member
 function from an instance of a derived class.
 - Open recursion
-- Abstraction: providing only essential information to the outside world and
-hiding their background details, separation of interface and implementation.
+- Abstraction: providing only essential information to the outside world and hiding their background details, separation of interface and implementation.
 - Decoupling: removing dependencies on external computations/data.
 - Low coupling, high cohesion
 

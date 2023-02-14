@@ -28,3 +28,4 @@ Note the `-d` to [get it done](https://linuxconfig.org/how-to-upgrade-ubuntu-to-
 ```bash
 sudo do-release-upgrade -d 
 ```
+

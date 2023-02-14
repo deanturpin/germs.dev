@@ -1,12 +1,3 @@
----
-title: Money guys
-subtitle: Top-10 money facts
-date: 2021-08-13
-tags:
-- money
-- finance
----
-
 # Money guys
 
 > Discipline > Margin of saving money > time

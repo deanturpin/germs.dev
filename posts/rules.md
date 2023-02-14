@@ -18,11 +18,8 @@ rule then your class is probably too large: refactor.
 1. A single file should contain fewer than 20000 lines of code.
 1. Make your comments invisible by prefixing "todo". They will never be seen again.
 1. It would be nice if a single routine could fit into 1000 lines of code.
-1. Use consistent formatting. Even better: don't bother and let clang-format do
-it.
-1. Unit testing is awesome and will almost certainly catch on, see [a set of
-unit testing
-rules](https://www.artima.com/weblogs/viewpost.jsp?thread=126923)
+1. Use consistent formatting. Even better: don't bother and let clang-format do it.
+1. Unit testing is awesome and will almost certainly catch on, see [a set of unit testing rules](https://www.artima.com/weblogs/viewpost.jsp?thread=126923)
 1. Make everything constant: you should be declaring things as constant as a
 matter of course and then relaxing it as necessary. It’s *much* easier to reason
 about code when the data are immutable.

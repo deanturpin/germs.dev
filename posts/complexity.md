@@ -60,7 +60,6 @@ won't be a 50/50 chance of heads or tails -- whereas the result of a truly
 random process would not be affected by the previous flips.
 
 - Coin flip return times
-- Don't allow system to build themselves without adding extra checks to limit
-large events
+- Don't allow system to build themselves without adding extra checks to limit large events
 - Central limit theorem
 

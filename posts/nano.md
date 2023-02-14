@@ -1,8 +1,6 @@
 # How long is a nanosecond?
 
-Find equivalent operations in seconds for your environment.
-
-See also [size](/post/size). Repeat this exercise for size rather than speed.
+Find equivalent operations in seconds for your environment. See also [size](/post/size). Repeat this exercise for size rather than speed.
 
 | Nanoseconds | Time | Seconds |
 | --- | --- | --- |

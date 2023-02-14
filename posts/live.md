@@ -1,17 +1,6 @@
----
-title: USB live boot
-date: 2020-05-03
-draft: true
-tags:
-- usb
-- boot
-- linux
-- windows
----
-
 # USB live boot
 
-# Windows host
+## Windows host
 If you only want to create Windows 10 live USB then you can you use the
 [Microsoft tool](https://www.microsoft.com/en-us/software-download/windows10).
 
@@ -23,8 +12,7 @@ sudo mkdir /mnt/g
 sudo mount -t drvfs g: /mnt/g
 ```
 
-# Linux host
-
 ## References
 - [Kali Linux live images](https://www.kali.org/downloads/)
 - [Mounting USB and network drives in WSL](https://www.scivision.dev/mount-usb-drives-windows-subsystem-for-linux/)
+

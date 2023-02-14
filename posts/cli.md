@@ -1,15 +1,3 @@
----
-title: Linux CLI tricks
-date: 2020-11-29
-tags:
-- revision
-- linux
-- cli
-- bash
-- tcp
-- network
----
-
 # Linux CLI tricks
 
 # Send a string to an IP/port
