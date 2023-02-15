@@ -1,4 +1,5 @@
 # Pipelines
+Pipelines showing the main status for active repos. These should never be red, but for projects that are greedy for pipeline minutes they may show grey, which indicates they only run on a nightly schedule.
 
 ## Online logbook
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/-/pipelines) [Online logbook](https://turpin.one/) -- using GitBook 
