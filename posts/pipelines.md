@@ -9,6 +9,7 @@ Pipelines showing the main status for active repos. These should never be red, b
 1. [![](https://gitlab.com/germs-dev/benchmark/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/-/pipelines) [Profiling Standard Library containers](https://benchmark.germs.dev/) -- Google Benchmark
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines) [C++ training material for junior devs](https://turpin.dev/) -- using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [Teach yourself C++ in 45 years](https://cpp.turpin.dev/)
+1. [![](https://gitlab.com/germs-dev/exchange/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/exchange/-/pipelines) Concurrency
 
 ## Finance
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) [FIX processing](https://fix.germs.dev/)
