@@ -21,7 +21,7 @@ Pipelines showing the main status for active repos. These should never be red, b
 1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://germs.dev/)
 1. [![](https://gitlab.com/germs-dev/companies-house-plotter/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/companies-house-plotter/-/pipelines) [Companies House plotter](https://bank.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) [Curated list of tech quotes](https://quotations.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/skills/badges/master/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines) [Skills timeline generator in R](https://skills.turpin.dev/)
+1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines) [Skills timeline generator in R](https://skills.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines) [Blender renders](https://render.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/-/pipelines) [Command line compiler explorer](https://explore.germs.dev/)
 1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/-/pipelines) [Building projects](https://build.sima.one/)

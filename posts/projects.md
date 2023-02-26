@@ -14,7 +14,7 @@ languages such as Haskell.
 - Discrete Fourier Transforms in C++23: `dft.germs.dev`
 - Command line OpenAI script: `turpin.cloud`
 - Energy usage calculations in Haskell: `energy.turpin.cloud`
-- C++ training material for junior devs: `turpin.dev`
+- C++ training material for junior developers: `turpin.dev`
 - Online logbook: `turpin.one`
 
 
