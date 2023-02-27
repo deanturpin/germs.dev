@@ -1,8 +1,6 @@
 Senior software engineer with {YEARS} years of commercial experience. Motivated
 self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
-___
-
 - __Languages__: C++23, Bash, Python, Haskell; OOP, Functional
 - __Design__: Multithreading, Templates,  Data Structures, Algorithms
 - __Build__: QtCreator, Visual Studio, GNU Make, CMake, Ninja, Clang Format
