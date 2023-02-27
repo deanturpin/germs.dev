@@ -1,11 +1,7 @@
-# Dean Turpin &mdash; Senior Software Engineer
-
-<!-- Note {YEARS} is inserted dynamically by the build pipe -->
-
 Senior software engineer with {YEARS} years of commercial experience. Motivated
 self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
----
+___
 
 - __Languages__: C++23, Bash, Python, Haskell; OOP, Functional
 - __Design__: Multithreading, Templates,  Data Structures, Algorithms
@@ -20,9 +16,5 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Dev__: Agile, Jira, Slack, Security Clearance
 - __Education__: Computer Science BSc. 2:2 from Manchester University
 
-<!--
-- __UI__: Qt, JUCE
--->
-
----
+___
 
