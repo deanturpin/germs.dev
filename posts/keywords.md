@@ -9,7 +9,7 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Google__: Benchmark, Test, Cloud
 - __Networking__: TCP/UDP, OSI, Wireshark
 - __Platforms__: Linux, ARM, Windows 11
-- __Documentation__: OpenAI/ChatGPT, Doxygen, Mermaid, Confluence
+- __Documentation__: ChatGPT, Doxygen, Mermaid, Confluence
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, Security Clearance
 - __Education__: Computer Science BSc. 2:2 from Manchester University
