@@ -1,20 +1,14 @@
 # C++ experience and side-projects
 
-Commercially I develop using C++17, therefore I maintain various side-projects
-on GitLab to explore new C++ features. These projects include audio processing,
-trading strategy back-testing and Companies House analysis.
+Commercially I develop using C++17, therefore I maintain various side-projects on GitLab to explore new C++ features. These projects include audio processing, trading strategy back-testing and Companies House analysis.
 
-I'm an advocate of ad-hoc scripting for rapid development of ideas, and I
-believe a solid foundation in ubiquitous languages like Bash and Python is
-essential in CI and cloud computing. I also have an interest in a more
-functional approach to programming offered by template metaprogramming and
-languages such as Haskell.
+I'm an advocate of ad-hoc scripting for rapid development of ideas, and I believe a solid foundation in ubiquitous languages like Bash and Python is essential in CI and cloud computing. I also have an interest in a more functional approach to programming offered by template metaprogramming and Haskell.
 
 ## Example projects
-- Discrete Fourier Transforms in C++23: `dft.germs.dev`
-- Command line OpenAI script: `turpin.cloud`
-- Energy usage calculations in Haskell: `energy.turpin.cloud`
-- C++ training material for junior developers: `turpin.dev`
-- Online logbook: `turpin.one`
+- Discrete Fourier Transforms in C++23: __dft.germs.dev__
+- Command line OpenAI script: __turpin.cloud__
+- Energy usage calculations in Haskell: __energy.turpin.cloud__
+- C++ training material for junior developers: __turpin.dev__
+- Online logbook: __turpin.one__
 
 

@@ -1,19 +1,18 @@
-# Pipelines
 Pipelines showing the main status for active repos. These should never be red, but for projects that are greedy for pipeline minutes they may show grey, which indicates they only run on a nightly schedule.
 
-## Online logbook
+#### Online logbook
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/-/pipelines) [Online logbook](https://turpin.one/) -- using GitBook 
 
-## C++
+#### C++
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines) [Discrete Fourier transforms in C++23](https://dft.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/benchmark/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/-/pipelines) [Profiling Standard Library containers](https://benchmark.germs.dev/) -- Google Benchmark
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines) [C++ training material for junior devs](https://turpin.dev/) -- using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [Teach yourself C++ in 45 years](https://cpp.turpin.dev/)
 
-## Finance
+#### Finance
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) [FIX processing](https://fix.germs.dev/)
 
-## Misc
+#### Misc
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines) [Command line OpenAI wrapper](https://turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/watch/-/pipelines) [Watchmaking resources](https://poshboys.club/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines) [Haskell energy usage calculations](https://energy.turpin.cloud/)
