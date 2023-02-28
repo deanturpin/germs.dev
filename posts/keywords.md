@@ -1,3 +1,5 @@
+# Dean Turpin -- Senior Software Engineer
+
 Senior software engineer with {YEARS} years of commercial experience. Motivated
 self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 
@@ -12,7 +14,8 @@ self-learner; advocate of modern C++, Linux, knowledge sharing and Agile.
 - __Documentation__: ChatGPT, Doxygen, Mermaid, Confluence
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, Security Clearance
-- __Education__: Computer Science BSc. 2:2 from Manchester University
+
+__Education__: Computer Science BSc. 2:2 from Manchester University
 
 ___
 
