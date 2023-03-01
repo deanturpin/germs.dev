@@ -18,7 +18,7 @@ Pipelines showing the main status for active repos. These should never be red, b
 1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/-/pipelines) [Pipelines](https://deanturp.in/)
 
 #### Misc
-1. [![](https://gitlab.com/germs-dev/deanturpin/openai/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines) [OpenAI sandbox](https://openai.germs.dev/)
+1. [![](https://gitlab.com/germs-dev/openai/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines) [Command line OpenAI wrapper](https://turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) [Curated list of tech quotes](https://quotations.germs.dev/)
