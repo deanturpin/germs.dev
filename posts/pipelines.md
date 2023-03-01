@@ -15,6 +15,7 @@ Pipelines showing the main status for active repos. These should never be red, b
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/-/pipelines) [Online logbook](https://turpin.one/) -- using GitBook 
 1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) [Static website generator](https://turpin.cloud/#static-website-generator)
 1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://germs.dev/)
+1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/-/pipelines) [Pipelines](https://deanturp.in/)
 
 #### Misc
 1. [![](https://gitlab.com/germs-dev/deanturpin/openai/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines) [OpenAI sandbox](https://openai.germs.dev/)
@@ -23,9 +24,8 @@ Pipelines showing the main status for active repos. These should never be red, b
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines) [Skills timeline generator in R](https://skills.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines) [Blender renders](https://render.germs.dev/)
-1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/-/pipelines) [Building projects](https://build.sima.one/)
 1. [![](https://gitlab.com/germs-dev/watch/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/watch/-/pipelines) [Watchmaking resources](https://poshboys.club/)
+1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/-/pipelines) [Building projects](https://build.sima.one/)
 1. [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/-/pipelines) [Airbnb landing page](https://mews.one/)
 1. [![](https://gitlab.com/germs-dev/brighton/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/brighton/-/pipelines) [Brighton recommendations](https://sima.one/)
-1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/-/pipelines) [Pipelines](https://deanturp.in/)
 
