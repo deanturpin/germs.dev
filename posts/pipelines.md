@@ -11,13 +11,15 @@ Pipelines showing the main status for active repos. These should never be red, b
 #### Finance
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/-/pipelines) [FIX processing](https://fix.germs.dev/)
 
-#### Misc
+#### Web
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/-/pipelines) [Online logbook](https://turpin.one/) -- using GitBook 
+1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) [Static website generator](https://turpin.cloud/#static-website-generator)
+1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://germs.dev/)
+
+#### Misc
 1. [![](https://gitlab.com/germs-dev/deanturpin/openai/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines) [Command line OpenAI wrapper](https://turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines) [Haskell energy usage calculations](https://energy.turpin.cloud/)
-1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/-/pipelines) [Static website generator](https://md2html.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/-/pipelines) [Check my top level domains are up](https://germs.dev/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines) [Skills timeline generator in R](https://skills.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/-/pipelines) [Blender renders](https://render.germs.dev/)
