@@ -4,8 +4,6 @@
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/-/pipelines) [Command line compiler explorer](https://explore.germs.dev/)
-
-#### Finance
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [FIX processing](https://fix.germs.dev/)
 
 #### Web
@@ -25,3 +23,4 @@
 1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/pipelines/latest) [Building projects](https://build.sima.one/)
 1. [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/pipelines/latest) [Airbnb landing page](https://mews.one/)
 1. [![](https://gitlab.com/germs-dev/brighton/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/brighton/pipelines/latest) [Brighton recommendations](https://sima.one/)
+
