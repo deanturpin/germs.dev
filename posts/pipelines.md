@@ -4,7 +4,7 @@
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/-/pipelines) [Command line compiler explorer](https://explore.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [FIX processing](https://fix.germs.dev/)
+1. [![](https://gitlab.com/germs-dev/threads/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/threads/pipelines/latest) [FIX processing](https://threads.germs.dev/)
 
 #### Web
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/pipelines/latest) [Online logbook](https://turpin.one/) -- using GitBook 
