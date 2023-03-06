@@ -1,10 +1,10 @@
 #### C++
-1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
-1. [![](https://gitlab.com/germs-dev/benchmark/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/-/pipelines) [Profiling the Standard Library](https://benchmark.germs.dev/) -- using Google Benchmark
-1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
-1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines) [C++ recipes](https://cpp.turpin.dev/)
-1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/-/pipelines) [Command line compiler explorer](https://explore.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/threads/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/threads/pipelines/latest) [FIX processing](https://threads.germs.dev/)
+1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
+1. [![](https://gitlab.com/germs-dev/benchmark/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/benchmark/pipelines/latest) [Profiling the Standard Library](https://benchmark.germs.dev/) -- using Google Benchmark
+1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/pipelines/latest) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
+1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
+1. [![](https://gitlab.com/germs-dev/explore/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/explore/pipelines/latest) [Command line compiler explorer](https://explore.germs.dev/)
+1. [![](https://gitlab.com/germs-dev/threads/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/threads/pipelines/latest) [FIX processing](https://threads.turpin.dev/)
 
 #### Web
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/pipelines/latest) [Online logbook](https://turpin.one/) -- using GitBook 
