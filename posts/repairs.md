@@ -8,7 +8,7 @@ Standard pocket watch conversion.
 - [ ] Trial cream dial and black hands
 
 ## 1975 Nina AS 2066 11.5'''
-Low amplitude, needs a service.
+Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&AS_2066).
 
 - [ ] Clean dial
 - [ ] Ultrasonic case
