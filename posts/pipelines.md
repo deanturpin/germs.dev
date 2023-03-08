@@ -19,7 +19,7 @@
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/pipelines/latest) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/pipelines/latest) [Skills timeline generator in R](https://skills.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/render/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/render/pipelines/latest) [Blender renders](https://render.germs.dev/)
-1. [![](https://gitlab.com/germs-dev/pbwc/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pbwc/pipelines/latest) [Watchmaking resources](http://watch.turpin.one/)
+1. [![](https://gitlab.com/germs-dev/pbwc/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pbwc/pipelines/latest) [Watchmaking resources](https://watch.turpin.one/)
 1. [![](https://gitlab.com/deanturpin/idrawhouses/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/idrawhouses/pipelines/latest) [Building projects](https://build.sima.one/)
 1. [![](https://gitlab.com/germs-dev/mews-one/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/mews-one/pipelines/latest) [Airbnb landing page](https://mews.one/)
 1. [![](https://gitlab.com/germs-dev/brighton/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/brighton/pipelines/latest) [Brighton recommendations](https://sima.one/)
