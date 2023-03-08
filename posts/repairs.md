@@ -1,14 +1,18 @@
 # Watch repairs
 What's in the workshop at the moment?!
 
-## Raketa 2609.HA 11.5'''
-Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+## Molnija 3602 marriage watch 16''' (gold case)
+Standard pocket watch conversion.
 
-- [x] Estimate amplitude (slomo video) -- approx 200&deg;
-- [ ] Potential loose dial (rattles when you tap it but case screws are tight)
+- [ ] Service donor 3602
+- [ ] Trial cream dial and black hands
+
+## 1975 Nina AS 2066 11.5'''
+Low amplitude, needs a service.
+
 - [ ] Clean dial
-- [ ] Put case in ultrasonic
-- [ ] Polywatch crystal
+- [ ] Ultrasonic case
+- [ ] Service
 
 ## Cauny small dress watch with sub-seconds
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
@@ -173,6 +177,16 @@ Wearing this despite the sticky keyless works.
 - [x] Fit new crystal
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
+
+## Raketa 2609.HA 11.5''' (sold)
+Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+
+- [x] Estimate amplitude (slomo video) -- approx 200&deg;
+- [x] Potential loose dial (rattles when you tap it but case screws are tight) -- was missing a dial screw
+- [x] Clean dial
+- [x] Put case in ultrasonic
+- [x] Polywatch crystal
+
 
 ## Raketa 2609.HA (sold)
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
