@@ -13,8 +13,8 @@
 1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/pipelines/latest) [Pipelines](https://deanturp.in/)
 
 #### Misc
-1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/pipelines/latest) [Command line OpenAI wrapper](https://turpin.cloud/)
+1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/pipelines/latest) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/pipelines/latest) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/pipelines/latest) [Skills timeline generator in R](https://skills.turpin.dev/)
