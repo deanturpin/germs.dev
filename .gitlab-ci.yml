@@ -17,8 +17,6 @@ pages:
   script:
     # Replace tags
     - COMMIT_MESSAGE=$(git log --pretty=oneline -n 1 | cut -d\  -f2-)
-    - readonly YEARS=$(echo $(( $(date +%Y) - 1998 )))
-    - sed -i s/{YEARS}/$YEARS/g posts/keywords.md
 
     # Construct readme page from other pages
     - cat posts/keywords.md    > README.md
