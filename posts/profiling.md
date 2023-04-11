@@ -1,6 +1,5 @@
 # C++ profiling
 
-## Profilers
 - gprof, `gprof2dot --wrap`
 - [valgrind](https://www.youtube.com/watch?v=3l0BQs2ThTo) - build with `-g`, run `valgrind -s a.out` (expect 100 times slow down)
 - perf
@@ -11,8 +10,34 @@
 - hotspot
 - [Optick](https://www.youtube.com/watch?v=p57TV5342fo&list=WL&index=22) -- lightweight profiling for games
 
-### gprof
+
+## Google Test
+OK, not stricly a profiler but you do get a duration for each unit test; and it's good practice be testing as you go.
+
+## gprof
 Use `-p` for `prof` and `-pg` for `gprof`. But it will take longer to run.
+
+## perf
+
+```bash
+echo -1 | sudo tee /proc/sys/kernel/perf_event_paranoid
+perf stat app.o
+```
+
+## valgrind
+Slows down the application by up to 20 times.
+
+```bash
+# Memory leaks
+valgrind app.o
+valgrind --leak-check=full app.o
+
+# Cache issues
+valgrind --tool=cachegrind app.o
+
+# Thread issues
+valgrind --tool=helgrind app.o
+```
 
 ## Helpers
 - https://github.com/jrfonseca/gprof2dot
