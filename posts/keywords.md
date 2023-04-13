@@ -10,11 +10,10 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Google__: Benchmark, Test, Cloud
 - __Networking__: TCP/UDP, OSI, Wireshark
 - __Platforms__: Linux, ARM, Windows 11
-- __Documentation__: ChatGPT, Doxygen, Mermaid, Confluence
+- __Documentation__: ChatGPT, Copilot, Doxygen, Mermaid
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, Security Clearance
-
-__Education__: Computer Science BSc. 2:2 from Manchester University
+- __Education__: Computer Science BSc. 2:2 from Manchester University
 
 ___
 

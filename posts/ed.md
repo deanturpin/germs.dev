@@ -1,5 +1,5 @@
 # Training and interests
-- Training: Introduction to Management (2022)
-- Interests: Cycling, guitar, vintage mechanical watches
-- Language: English (native), French (provenance), Gujarati (extended family)
+- __Training__: Introduction to Management (2022)
+- __Interests__: Cycling, guitar, mechanical watch restoration
+- __Language__: English (native), French (provenance), Gujarati (extended family)
 
