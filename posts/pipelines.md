@@ -1,9 +1,13 @@
 #### C++
 1. [![](https://gitlab.com/germs-dev/concurrency-support-library/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/concurrency-support-library/pipelines/latest) [C++ concurrency support library](https://cpp.run/)
-1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring FIX processing using the latest C++](https://fix.germs.dev)
+1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/pipelines/latest) [Daily FX/crypto backtester](https://bt.germs.dev)
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/pipelines/) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
+
+<!--
+1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring FIX processing using the latest C++](https://fix.germs.dev)
+-->
 
 #### Web
 1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/pipelines/latest) [Online logbook](https://turpin.one/) -- using GitBook 
