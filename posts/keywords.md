@@ -6,6 +6,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Design__: Multithreading, Data Structures, Algorithms
 - __Build__: QtCreator, VS Code, GNU Make, CMake, Ninja, Visual Studio
 - __Source control__: Git, Gerrit, Subversion
+- __GUI__: Qt, JUCE
 - __CI/CD__: GitLab, Jenkins, TDD, Profiling
 - __Google__: Benchmark, Test, Cloud
 - __Networking__: TCP/UDP, OSI, Wireshark
