@@ -1,6 +1,3 @@
-# requiring the environment of NodeJS 10
-image: node:10
-
 # add 'node_modules' to cache for speeding up builds
 cache:
   paths:
@@ -12,8 +9,10 @@ before_script:
   - gitbook install # add any requested plugins in book.json
 
 # the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
+build web pages:
+  # requiring the environment of NodeJS 10
+  image: node:10
+  stage: build
   script:
     # Replace tags
     - COMMIT_MESSAGE=$(git log --pretty=oneline -n 1 | cut -d\  -f2-)
@@ -36,17 +35,18 @@ pages:
     - for path in posts/*.md; do file=$(basename $path); echo "- [$(grep '^#' $path | head -1 | cut -d'#' -f2-)]($path)"; done | tee SUMMARY.md
     - gitbook build . public
 
-    # Doxygen
-    - apt update
-    - apt install --yes doxygen
-    - doxygen
-    - mv html/ public/
-
   artifacts:
-    paths: [public]
+    paths: [public/]
+
+public:
+  image: ubuntu:devel
+  stage: deploy
+  artifacts:
+    paths: [public/]
+  script:
+    - cat /etc/os-release
 
 Trigger CV:
   stage: deploy
   trigger: germs-dev/cv
   only: [main]
-
