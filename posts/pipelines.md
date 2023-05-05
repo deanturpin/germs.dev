@@ -7,10 +7,10 @@
 
 <!--
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring FIX processing using the latest C++](https://fix.germs.dev)
-1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/pipelines/latest) [Online logbook](https://turpin.one/) -- using GitBook 
 -->
 
 #### Web
+1. [![](https://gitlab.com/germs-dev/deanturpin/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/deanturpin/pipelines/latest) [Online logbook](https://turpin.one/) -- using GitBook 
 1. [![](https://gitlab.com/germs-dev/webmeup/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/webmeup/pipelines/latest) [Static website generator](https://turpin.cloud/#static-website-generator) -- a one line website generator (maybe two)
 1. [![](https://gitlab.com/germs-dev/tracehost/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/tracehost/pipelines/latest) [Check my websites are up](https://germs.dev/) -- top level domain topology
 1. [![](https://gitlab.com/germs-dev/pipelines/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pipelines/pipelines/latest) [GitLab CI pipelines](https://deanturp.in/) -- this web page
