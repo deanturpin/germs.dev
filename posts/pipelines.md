@@ -1,12 +1,13 @@
 #### C++
 1. [![](https://gitlab.com/germs-dev/concurrency-support-library/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/concurrency-support-library/-/pipelines/latest) [C++ concurrency support library](https://cpp.run/)
 1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/latest) [Daily FX/crypto backtester](https://bt.turpin.dev/)
-1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines/) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
 
 <!--
+1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines/) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring FIX processing using the latest C++](https://fix.germs.dev)
+1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 -->
 
 #### Web
@@ -17,7 +18,6 @@
 
 #### Misc
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines/latest) [Command line OpenAI wrapper](https://turpin.cloud/)
-1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines/latest) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines/latest) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines/latest) [Skills timeline generator in R](https://skills.turpin.dev/)
