@@ -157,7 +157,7 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 
 # Restored watches
 
-## Omega 161.009
+## Omega 161.009 gold-plated
 Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
 crown very worn, can _just_ see the Omega logo, stem not engaging, rotor a
 little worn.
@@ -165,7 +165,7 @@ little worn.
 - [x] Service (external)
 - [x] New leather strap
 
-## Omega 131.019 gold-plated
+## Omega 131.019 gold-plated (sold)
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
 case back is a mess, very strong running so might not do a full service.
 
@@ -179,6 +179,7 @@ Wearing this despite the sticky keyless works.
 - [ ] Partial service of keyless works
 
 ## Raketa 2609.HA 11.5''' (sold)
+
 Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
 
 - [x] Estimate amplitude (slomo video) -- approx 200&deg;
@@ -189,6 +190,7 @@ Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.
 
 
 ## Raketa 2609.HA (sold)
+
 From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
 
 - [x] Check power reserve
@@ -197,12 +199,14 @@ From 1975, in good condition and running well. Measured 47h power reserve (nomin
 - [ ] Lubricate
 
 ## Timex (sold)
+
 Keeps great time, 40-hour power reserve, 180&deg; amplitude
 
 - [ ] Attempt to bend bend hour hand back
 - [x] Minor service -- oiled the pivots
 
 ## Rone 34mm FHF ST-96 11.5''' (donated)
+
 I think this might be my rite of passage.
 
 Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So,

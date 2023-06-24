@@ -10,7 +10,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Google__: Benchmark, Test, Cloud
 - __Networking__: TCP/UDP, OSI, Wireshark
 - __Platforms__: Linux, ARM, Windows 11
-- __Database__: Postgres, SQL, MariaDB (columnar), DBeaver
+- __Database__: PostgreSQL, MariaDB (columnar), DBeaver
 - __AI__: GitHub Copilot, OpenAI API
 - __Documentation__: MkDocs, Doxygen, Mermaid
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
