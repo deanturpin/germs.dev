@@ -1,6 +1,6 @@
 #### C++
 1. [![](https://gitlab.com/germs-dev/concurrency-support-library/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/concurrency-support-library/-/pipelines/latest) [C++ concurrency support library](https://cpp.run/)
-1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/latest) [Daily FX/crypto backtester](https://bt.turpin.dev/)
+1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Daily FX/crypto backtester](https://bt.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
 
