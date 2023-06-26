@@ -1,13 +1,16 @@
 # Watch repairs
+
 What's in the workshop at the moment?!
 
 ## Molnija 3602 marriage watch 16''' (gold case)
+
 Standard pocket watch conversion.
 
 - [ ] Service donor 3602
 - [ ] Trial cream dial and black hands
 
 ## 1975 Nina AS 2066 11.5'''
+
 Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&AS_2066).
 
 - [ ] Clean dial
@@ -15,6 +18,7 @@ Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun
 - [ ] Service
 
 ## Cauny small dress watch with sub-seconds
+
 Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
 
 - [x] Remove from case -- pop the front
@@ -25,6 +29,7 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [ ] Service
 
 ## Omega 131.019 (steel)
+
 22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has
 some homemade case clamps.
 
@@ -42,10 +47,12 @@ some homemade case clamps.
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
 ### Stems
+
 - [Omega](https://gleave.london/stem-omega-480-1106/)
 - [Generic](https://www.cousinsuk.com/sku/details/omega-generic-movement-parts/ome6001106g)
 
 ## Citizen 2800A
+
 Time drifts, quite erratic 180&deg; amplitude.
 
 - [ ] Review keyless works
@@ -55,6 +62,7 @@ Time drifts, quite erratic 180&deg; amplitude.
 - [ ] Grease gasket
 
 ## Longines 12.92 12'''
+
 Hands a little fragile, no case, 27.8mm movement, 26mm dial. I found a 16-jewel
 version with a wobbly balance to use as a donor, so basically I'll make one
 good one out of the two. Might've been easier to just to stick the good balance
@@ -72,6 +80,7 @@ Probably should be in a [gold
 case](https://www.vintage-wristwatches.co.uk/watches-catalogue/archived-watches/longines-watch-archive/1930-9ct-gold-cushion-vintage-longines-watch-retailed-by-j-w-benson-4359/). But on the lookout for any usable pin-set case.
 
 ### 15-jewel
+
 Serial 4929243 (1930).
 
 - [x] Clean dial
@@ -81,12 +90,14 @@ Serial 4929243 (1930).
 - [ ] Refit good balance
 
 ### 16-jewel
+
 Serial 5107778 (1932), broken balance but otherwise movement is OK. Slightly later but has the hour wheel jewel.
 
 - [x] Clean dial -- not very effective
 - [ ] Find new case
 
 ## 1916 Borgel trench watch 13'''
+
 Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 30.24. So I went for a 30.4mm crystal and it was a success.
 
 - [x] Order 30.4mm crystal
@@ -99,11 +110,13 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 
 ## Fortis FHF ST-96 11.5'''
+
 - [ ] Order new crystal -- opening measures 30.96mm
 - [ ] Review missing case screws
 - [ ] Measure timing
 
 ## Molnija 3602/3 marriage watch 16'''
+
 So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
 
 I started out just trying to fix a pocket watch using another as a donor, but I
@@ -111,17 +124,20 @@ managed to break both balances so I bought a third one to build the marriage
 watch. The others I'll sell or use as spares.
 
 ### Serial 587360
+
 3603, balance is trying to start after a toot from the blower, looks like it wobbles but no obvious side shake (so pivots probably intact); keyless works/stem aren't engaging.
 
 - [ ] Inspect keyless works
 - [ ] Service
 
 ### Serial 445602
+
 Trying to start, sounds very unbalanced (triplets) but actually looks OK. Pallet fork could be gummed up.
 
 - [ ] Service
 
 ### Serial 998652
+
 Awesome forest scene case, broken fourth wheel.
 
 - [x] Measure bezel: 42.6mm 
@@ -134,12 +150,14 @@ Awesome forest scene case, broken fourth wheel.
 - [ ] New dial
 
 ### Serial 594243
+
 Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
 
 - [x] Reseat click
 - [ ] Find correct pallet fork bridge screws
 
 ### Serial 595600
+
 Marriage watch with case from eBay, regular wear even though it needs a bit of work still.
 
 - [x] Order NOS watch case
@@ -149,6 +167,7 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 - [ ] Fit correct silver seconds hand
 
 ### References
+
 - [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
 - [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
@@ -158,6 +177,7 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 # Restored watches
 
 ## Omega 161.009 gold-plated
+
 Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
 crown very worn, can _just_ see the Omega logo, stem not engaging, rotor a
 little worn.
@@ -166,6 +186,7 @@ little worn.
 - [x] New leather strap
 
 ## Omega 131.019 gold-plated (sold)
+
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
 case back is a mess, very strong running so might not do a full service.
 
@@ -219,12 +240,14 @@ case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grow as a human being.
 
 ## Accurist Shockmaster (sold)
+
 Hand winder G10, keeps great time, 34-hour power reserve.
 
 - [x] Buff case
 - [x] Add crocodile leather strap
 
 ## Mr. Jones "The Accurate"
+
 An actual quartz repair!
 
 £145 RRP -- see [website](https://mrjoneswatches.com/products/the-accurate) --
