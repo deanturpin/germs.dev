@@ -42,7 +42,7 @@ some homemade case clamps.
 - [x] Stem doesn't engage properly, decase and investigate -- it's the wrong crown for the case!
 - [x] Try correct stem/crown -- winding very stiff, hmmm
 - [ ] Trial with correct stem outside of the case -- does it just need a spot of grease?
-- [ ] Order new case clamps
+- [x] Order new case clamps -- see [Omega case clamps](https://www.cousinsuk.com/PDF/categories/8427_Omega%20Case%20Clamps.pdf)
 - [ ] Order new stem and crown (from Cousins)
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
