@@ -3,10 +3,10 @@
 1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Daily FX/crypto backtester](https://cpp.run/)
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
+1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring the FIX protocol](https://fix.germs.dev)
 
 <!--
 1. [![](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines/) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material using OpenAI
-1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring FIX processing using the latest C++](https://fix.germs.dev)
 1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 -->
 
