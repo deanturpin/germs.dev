@@ -37,7 +37,7 @@ build web pages:
   artifacts:
     paths: [public/]
 
-public:
+pages:
   image: ubuntu:devel
   stage: deploy
   artifacts:
