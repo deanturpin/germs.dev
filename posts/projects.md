@@ -4,6 +4,6 @@ Commercially I develop using C++17, so I feel it is important to explore the lat
 
 I'm an advocate of ad-hoc scripting for rapid development of ideas, and I believe a solid foundation in ubiquitous languages like Bash and Python is essential in CI and cloud computing. I also have an interest in a more functional approach offered by compile-time programming and Haskell.
 
-See my personal project pipelines: `https://deanturp.in/`
+See my personal projects: `https://deanturp.in/`
 
 
