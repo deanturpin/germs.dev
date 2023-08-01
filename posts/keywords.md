@@ -4,7 +4,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 
 - __Languages__: C++20/23, Bash, Python, Haskell; OOP, Functional
 - __Design__: Multithreading, Data Structures, Algorithms
-- __Build__: QtCreator, VS Code, GNU Make, CMake, Ninja, Visual Studio
+- __Build__: QtCreator, VS Code, GNU Make, CMake, Visual Studio
 - __Source control__: Git, Gerrit, Subversion
 - __CI/CD__: GitLab, Jenkins, TDD, Profiling
 - __UI__: Qt, JUCE, MFC
