@@ -1,19 +1,24 @@
 # UK house price data
 
 ## Independent
+
 - [rightmove](https://www.rightmove.co.uk/news/house-price-index/)
 - [UK property data](https://propertydata.co.uk/charts/house-prices) (14-day trial, 25/month minimum thereafter)
 
 ## UK government
+
 ### Land registry
+
 - https://landregistry.data.gov.uk/app/ukhpi#:~:text=Current%20index,compared%20to%20the%20previous%20year.
 - https://landregistry.data.gov.uk/api-config
 
 ## Collections
+
 - https://www.gov.uk/government/collections/uk-house-price-index-reports
 - https://www.gov.uk/government/collections/price-paid-data
 
 ## Use land property data
+
 Lots of information on https://use-land-property-data.service.gov.uk/
 
 Including:
@@ -31,6 +36,7 @@ Including:
 - 1862 Act Register
 
 ## HM land registry geospatial data
+
 - Administrative Areas
 - Approved Estate Plans
 - Bankruptcy Information
