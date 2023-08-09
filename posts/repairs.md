@@ -1,6 +1,6 @@
 # Watch repairs
 
-What's in the workshop at the moment?!
+What's in the workshop at the moment?
 
 ## Molnija 3602 marriage watch 16''' (gold case)
 
@@ -9,7 +9,7 @@ Standard pocket watch conversion.
 - [ ] Service donor 3602
 - [ ] Trial cream dial and black hands
 
-## 1975 Nina AS 2066 11.5'''
+## 1975 Nino AS 2066 11.5'''
 
 Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&AS_2066).
 
@@ -41,9 +41,9 @@ some homemade case clamps.
 - [x] Trial fit brand new seconds hand (could be too shiny compared to old hands) -- looks fine
 - [x] Stem doesn't engage properly, decase and investigate -- it's the wrong crown for the case!
 - [x] Try correct stem/crown -- winding very stiff, hmmm
-- [ ] Trial with correct stem outside of the case -- does it just need a spot of grease?
+- [x] Trial with correct stem outside of the case -- doesn't fit
 - [x] Order new case clamps -- see [Omega case clamps](https://www.cousinsuk.com/PDF/categories/8427_Omega%20Case%20Clamps.pdf)
-- [ ] Order new stem and crown (from Cousins)
+- [x] Order new stem and crown (from Cousins)
 - [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
 
 ### Stems
@@ -51,7 +51,7 @@ some homemade case clamps.
 - [Omega](https://gleave.london/stem-omega-480-1106/)
 - [Generic](https://www.cousinsuk.com/sku/details/omega-generic-movement-parts/ome6001106g)
 
-## Citizen 2800A
+## Citizen 2800A (sold)
 
 Time drifts, quite erratic 180&deg; amplitude.
 
@@ -108,6 +108,7 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [x] Pusher has come loose during cleaning -- fits in OK anyway
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
+- [ ] Grease threads on case
 
 ## Fortis FHF ST-96 11.5'''
 
@@ -172,9 +173,19 @@ Marriage watch with case from eBay, regular wear even though it needs a bit of w
 - [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
+## Raketa 2609.HA 11.5'''
+
+Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+
+- [x] Estimate amplitude (slomo video) -- approx 200&deg;
+- [x] Potential loose dial (rattles when you tap it but case screws are tight) -- was missing a dial screw
+- [x] Clean dial
+- [x] Put case in ultrasonic
+- [x] Polywatch crystal
+
 ---
 
-# Restored watches
+The following builds are complete and/or ~sold on.
 
 ## Omega 161.009 gold-plated
 
@@ -198,17 +209,6 @@ Wearing this despite the sticky keyless works.
 - [x] Fit new crystal
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
-
-## Raketa 2609.HA 11.5''' (sold)
-
-Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
-
-- [x] Estimate amplitude (slomo video) -- approx 200&deg;
-- [x] Potential loose dial (rattles when you tap it but case screws are tight) -- was missing a dial screw
-- [x] Clean dial
-- [x] Put case in ultrasonic
-- [x] Polywatch crystal
-
 
 ## Raketa 2609.HA (sold)
 
@@ -237,7 +237,7 @@ doner. When that arrived I serviced the keyless works and sent the yoke spring
 into orbit. No worries, I have another... also sent that one to the Moon. But
 wait... I found the first on my pants! Right, on the home stretch, located the
 case and movement spacer from months previous and it's back together, looking
-exactly like it did when I bought it! But I have grow as a human being.
+exactly like it did when I bought it! But I have grown as a human being.
 
 ## Accurist Shockmaster (sold)
 
