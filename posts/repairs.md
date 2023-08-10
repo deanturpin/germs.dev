@@ -205,7 +205,7 @@ Wearing this despite the sticky keyless works.
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height
+- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height (Sternkreuz Sku: MG3011-308)
 - [x] Fit new crystal
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
