@@ -1,2 +1,3 @@
 # Semantic versioning
-- https://semver.org/
+
+- <https://semver.org/>

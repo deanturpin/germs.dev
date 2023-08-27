@@ -12,5 +12,5 @@
 1. Only 25% or Americans work in their field of study
 
 ## References
-- https://www.moneyguy.com/2020/12/financial-order-of-operations-course/
 
+- <https://www.moneyguy.com/2020/12/financial-order-of-operations-course/>

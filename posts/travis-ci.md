@@ -1,37 +1,28 @@
----
-title: Travis CI
-subtitle: Configuration for C++, Python, R, bash and Graphviz
-date: 2019-10-21
-tags:
-- continuous integration
-- travis
-- cpp
-- python
-- r
-- graphviz
----
+# Travis CI
 
 > __tl;dr__ my use of Travis CI has been entirely superseded by [GitLab](https://gitlab.com/deanturpin), which has CI and issue tracking built in. In fact, this blog is built and hosted by [GitLab](https://gitlab.com/deanturpin/deanturpin).
 
-# Travis CI
-
 Create an account with your GitHub login and enable a repo to get started. (Travis Pro appears to enable new repos by default.)
 
-# Simple C++11 compilations
+## Simple C++11 compilations
+
 If you just want to get something building quickly the default Trusty build has clang 5 pre-installed, no need for complicated matrices.
 
 Travis config
+
 ```yaml
 script: clang++ --version
 ```
 
 Travis build debug
+
 ```bash
 $ clang++ --version
 clang version 5.0.0 (tags/RELEASE_500/final)
 ```
 
-# Building with recent gcc and clang
+## Building with recent gcc and clang
+
 These could be run as separate jobs but you then have to handle each build attempting to deploy.
 
 ```yaml
@@ -58,7 +49,8 @@ packages:
 - sloccount
 ```
 
-# C++ code coverage
+## C++ code coverage
+
 Create a [codecov.io](https://codecov.io/) account with your GitHub credentials and simply push your coverage files via Travis CI using the generic upload script as a build stage (no need to enable the repo). Build your C++ using the gcc `-g --coverage` flags (which invokes gcov). Note: I've only managed to get sensible coverage results when compiling with gcc 6.
 
 ```yaml
@@ -66,10 +58,12 @@ script:
 - bash <(curl -s https://codecov.io/bash)
 ```
 
-# Branch merge
+## Branch merge
+
 An unexpected side-effect of using Travis CI is that your branch is automatically built as part of the merge verification. You're also offered a Codecov report for the merge.
 
-# Deploying to GitHub Pages
+## Deploying to GitHub Pages
+
 In the Travis CI repo settings create a private environment variable containing your GitHub API key, this replaces the GitHub token below (note: use hyphens not underscores). All branches are built in Travis CI by default but in this example on the master branch will be deployed. Deploying for the first time will create a "gh-pages" branch and set up the username.github.io/repo static web page. I like to use this to generate "live" READMEs containing recent data.
 
 Create an API key in your [GitHub settings](https://github.com/settings/tokens), tick "repo" and "admin:public_key". "skip-cleanup" is set to true because you probably want to deploy the things you've generated.
@@ -85,7 +79,8 @@ on:
 branch: master
 ```
 
-# R with packages
+## R with packages
+
 ```yaml
 language: R
 install:
@@ -96,14 +91,17 @@ install:
 script: make
 ```
 
-# bash with dot
+## bash with dot
+
 ```yaml
 script: make
 install: sudo apt install graphviz
 ```
 
-# Python with requests
+## Python with requests
+
 HTTP requests aren't available by default so you must instruct Travis CI to make it so using an additional "requirements" file.
+
 ```yaml
 language: python
 python: "3.6"
@@ -114,12 +112,15 @@ script: make
 ```
 
 Add ```requirements.txt``` file to the top level of your repo containing a list of dependencies.
+
 ```bash
 requests
 ```
 
-# Linting and profiling
+## Linting and profiling
+
 To use ```gprof```, compile your code with the ```-pg``` flag, run the exe and then process the results as part of your build script.
+
 ```yaml
 script:
 - make
@@ -128,6 +129,7 @@ script:
 ```
 
 To run ```cppcheck```, add it to your apt configuration and simply run as a build stage.
+
 ```yaml
 script:
 - cppcheck --enable=all .
@@ -135,7 +137,8 @@ script:
 
 Also ```sloccount``` can be run to give an insight into the cost of your codebase.
 
-# Compiler options
+## Compiler options
+
 ```bash
 # Standard
 --std=c++2a --all-warnings --extra-warnings --pedantic-errors
@@ -153,7 +156,8 @@ Also ```sloccount``` can be run to give an insight into the cost of your codebas
 -g --coverage
 ```
 
-# Triggering builds using the API
+## Triggering builds using the API
+
 You can configure a daily cron job via the Travis settings but for more frequent builds set up your own cron job on a Linux web server and use the Travis API. Note the .org in the API URL, if you use the wrong one (.com) it will simply report "access denied". There's a different API key for the Pro account too. Update `TOKEN`, `USERNAME` and `REPO` in the script below (leave the "%2").
 
 ```bash
@@ -164,19 +168,20 @@ You can configure a daily cron job via the Travis settings but for more frequent
 #!/bin/bash
 
 body=$(cat <<!
-{
-"request": {
-"branch":"master",
-"message":"cron $(date)"
-}
-}
+  {
+    "request": {
+      "branch":"master",
+      "message":"cron $(date)"
+    }
+  }
 !
 )
 
 curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Travis-API-Version: 3" -H "Authorization: token TOKEN" -d "$body" "https://api.travis-ci.org/repo/USERNAME%2FREPO/requests" >& /dev/null
 ```
 
-# Clang format on pre-commit
+## Clang format on pre-commit
+
 I use a global git configuration that runs clang-format on all C++ files as they are pushed to the server. See [githooks](https://github.com/deanturpin/githooks). I've changed my mind about coding standards many times over the years, next time I can just create a new format configuration and run it over my code. This also avoids you having to spend time pondering how to format bracket-heavy features like lambdas and initialiser lists.
 
 ```bash
@@ -188,10 +193,11 @@ fi
 done
 ```
 
-# Uptime monitoring
+## Uptime monitoring
+
 See [uptime robot](https://stats.uptimerobot.com/V7YEVs8gv).
 
 ## References
+
 - [Travis CI C++ instructions](https://docs.travis-ci.com/user/languages/cpp/)
 - [arne-mertz.de continuous integration](https://arne-mertz.de/2017/04/continuous-integration-travis-ci/)
-

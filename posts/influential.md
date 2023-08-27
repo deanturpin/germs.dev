@@ -1,4 +1,5 @@
 # Influential technology
+
 Technologies that have had a positive, lasting impact on me as a developer.
 
 - __2023__: Google Benchmark, Haskell, ChatGPT, `shellcheck`, AVX, GitHub Copilot
