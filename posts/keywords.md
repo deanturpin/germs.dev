@@ -14,7 +14,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __OS__: Ubuntu, Windows 11, Solaris, VxWorks
 - __AI__: GitHub Copilot, OpenAI API
 - __Database__: PostgreSQL, MariaDB, DBeaver
-- __Documentation__: MkDocs, Doxygen, Mermaid, Confluence
+- __Documentation__: MkDocs, Doxygen, Mermaid, Confluence, UML
 - __Protocols__: FIX, XMPP, SIP, gSOAP, PCM
 - __Dev__: Agile, Jira, Slack, Security Clearance
 - __Education__: Computer Science BSc. 2:2 from Manchester University
