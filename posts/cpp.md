@@ -1,6 +1,7 @@
 # Modern C++
 
 ## Modules (C++20)
+
 "Modules are orthogonal to namespaces."
 
 ## lvalues and rvalues
@@ -12,6 +13,7 @@ that does not persist beyond the expression that uses it.
 A function call can be an lvalue if and only if the return value is a reference.
 
 ## Casts
+
 - `static_cast`
 - `reinterpret_cast`
 - `dynamic_cast`
@@ -29,6 +31,7 @@ other way around.
 `int` to a pointer or a pointer to an `int`.
 
 ## Rule of three/five
+
 If you declare any of copy, copy assignment or destructor then you should
 declare them all. Similarly, for C++11 onwards: rule of 5.
 
@@ -56,6 +59,7 @@ class base_of_five_defaults
 ```
 
 ## The rule of the big four and a half
+
 https://blog.feabhas.com/2015/01/the-rule-of-zero/
 
 - If you have written a (non-default) destructor for a class you should
@@ -67,14 +71,17 @@ assignment operator for the class you must write a destructor.
 move assignment operator; or mark them as deleted.
 
 ## Classes and structures
+
 The difference between a `class` and a `struct` is only the default accesses
 specifier: `public:` for `struct` and `private:` for `class`.
 
 ## noexcept
+
 - Make destructors `noexcept` (they are anyway)
 - Mark move constructor `noexcept`
 
 ## References
+
 - https://llvm.org/docs/CodingStandards.html
 - https://google.github.io/styleguide/cppguide.html
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.phaedsys.org/principals/programmingresearch/prdata/JSF++_%20Rev_D_JUN07.pdf)
