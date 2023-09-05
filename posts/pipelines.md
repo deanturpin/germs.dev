@@ -5,6 +5,7 @@
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring the FIX protocol](https://fix.germs.dev)
+1. [![](https://gitlab.com/germs-dev/hear/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/hear/pipelines/latest) [Command line hearing test](https://gitlab.com/germs-dev/hear/)
 
 #### AI
 
