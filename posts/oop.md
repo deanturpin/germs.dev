@@ -19,15 +19,17 @@ Polymorphism means "many forms" and describes the ability of an operation to
 change behaviour according to its arguments.
 
 ### Ad-hoc polymorphism
-Function and operator overloading.
+Function and operator overloading, could be notionally the same thing but add integers and strings is very different.
 
 ```cpp
-Writeln(Add(1, 2)); (* Prints "3" *)
-Writeln(Add('Hello, ', 'World!')); (* Prints "Hello, World!" *)
+Writeln(Add(1, 2));
+Writeln(Add('Hello, ', 'World!'));
+
+std::cout << 1 << "\n"; // integer and a char*
 ```
 
 ### Parametric polymorphism
-Function does the same thing for different types: templates in C++.
+Function does the same thing for different types: templates in C++, whether by exlicit template/typename declarations or auto.
 
 ### Sub-typing (inheritance)
 Class hierarchies, diamond inheritance.

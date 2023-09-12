@@ -1,6 +1,8 @@
 # Courses and books (and things to watch)
 
 ## _Book_ books (made of actual paper)
+
+- C++ Concurrency in Action -- Anthony Williams 
 - Learn You a Haskell for Great Good!: A Beginner's Guide: A Beginner's Guide to Haskell
 - Practical Watch Repairing -- Donald de Carlo
 - C++ Templates: The Complete Guide -- David Vandevoorde
@@ -10,15 +12,18 @@
 - Seriously Curious: 109 facts and figures to turn your world upside down Paperback -- Tom Standage
 
 ## Leanpub books
+
 Get free updates so these are potentially bang up-to-date.
 - [A Complete Guide to Standard C++ Algorithms](https://leanpub.com/cpp-algorithms-guide)
 - [C++ Best Practices](https://leanpub.com/cppbestpractices)
 - [Ace the Trading Systems Developer Interview (C++ Edition)](https://leanpub.com/tradingsystemsdeveloperinterviews)
 
 ## YouTubes that have changed my life
+
 - [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu - CppCon 2019](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 
 ## Audiobooks
+
 - The Art of Unit Testing: With Examples in C#
 - Pimsleur Norwegian Level 1 (lessons 1-5)
 - The Economics Book: big ideas simply explained -- DK
@@ -51,6 +56,7 @@ Get free updates so these are potentially bang up-to-date.
 - The Humans -- Matt Haig
 
 ## Pluralsight
+
 - Presenting to the Boss(es)
 - Lean In: Navigating Gender Bias at Work
 - Play by Play: Solving Workplace Grumpiness

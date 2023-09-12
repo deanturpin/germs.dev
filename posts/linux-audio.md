@@ -2,6 +2,11 @@
 
 - [Enable high quality audio](https://medium.com/@gamunu/enable-high-quality-audio-on-linux-6f16f3fe7e1f)
 
+## Web applications
+
+- [Wavacity](https://wavacity.com/): Audacity in the web browser
+- [AutoEg](https://autoeq.app/): common pro headphone profiles in various formats
+
 ## Finding your Tidal API token
 
 _Note: this no longer works in the app in 2023._
@@ -11,4 +16,8 @@ _Note: this no longer works in the app in 2023._
 - Navigate to `/Android/data/com.aspiro.tidal/cache/okhttp` in a file browser
 - Open a terminal here (the full path will be something crazy)
 - `grep -r "X-Tidal-Token"`
+
+## Tesla
+
+- [Tesla audio](https://www.focal.com/en/t3y-new-tesla-compatible-kits)
 
