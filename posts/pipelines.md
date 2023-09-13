@@ -1,11 +1,15 @@
 #### C++
 
 1. [![](https://gitlab.com/germs-dev/concurrency-support-library/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/concurrency-support-library/-/pipelines/latest) [C++ concurrency support library](https://threads.cpp.run/)
-1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Daily FX/crypto backtester](https://cpp.run/)
 1. [![](https://gitlab.com/germs-dev/dft/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/dft/-/pipelines/latest) [Discrete Fourier transforms in C++23](https://dft.germs.dev/) -- Fourier analysis without 3rd-party libraries
 1. [![](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
-1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring the FIX protocol](https://fix.germs.dev)
 1. [![](https://gitlab.com/germs-dev/hear/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/hear/pipelines/latest) [Command line hearing test](https://gitlab.com/germs-dev/hear/)
+
+#### Finance
+
+1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Daily FX/crypto backtester](https://cpp.run/)
+1. [![](https://gitlab.com/germs-dev/fix/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/fix/pipelines/latest) [Exploring the FIX protocol](https://fix.germs.dev)
+1. [![](https://gitlab.com/deanturpin/tradeR/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/tradeR/pipelines/latest) [Currency plotting in R](https://deanturpin.gitlab.io/tradeR/)
 
 #### AI
 
