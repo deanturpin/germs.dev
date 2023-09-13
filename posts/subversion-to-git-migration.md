@@ -1,15 +1,3 @@
----
-title: Subversion to git migration
-date: 2018-02-01
-tags:
-- subversion
-- git
-- migration
-- ci
-- config control
-- dependencies
----
-
 # Subversion to git migration
 
 # Equivalent commands
