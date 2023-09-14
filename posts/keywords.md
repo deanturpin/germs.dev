@@ -8,7 +8,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Source control__: Git, Gerrit, Subversion
 - __CI/CD__: GitLab, Jenkins, TDD, Google Cloud
 - __UI__: Qt, JUCE, MFC
-- __Unit test/profiling__: Benchmark, Test
+- __Unit test/profiling__: Google Benchmark, Google Test
 - __Networking__: Wireshark, OSI, Asterisk
 - __CPU__: Intel, ARM, SPARC
 - __OS__: Ubuntu, Windows 11, Solaris, VxWorks
