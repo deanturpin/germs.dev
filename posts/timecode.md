@@ -1,15 +1,6 @@
----
-title: Linear time code
-subtitle: You're SMPTE the best
-date: 2021-07-21
-tags:
-- timecode
-- time
----
-
 # Linear time code
 
-# SMPTE - Society of Motion Picture and Television Engineers
+## SMPTE - Society of Motion Picture and Television Engineers
 
 HOURS:MINUTES:SECONDS:FRAMES
 
@@ -25,6 +16,8 @@ HOURS:MINUTES:SECONDS:FRAMES
 -- https://www.davidheidelberger.com/2010/06/10/drop-frame-timecode/
 
 ## References
+
+- [s32 Unix clock](https://retr0.id/stuff/2038/)
 - https://blog.frame.io/2017/07/17/timecode-and-frame-rates/
 - https://en.wikipedia.org/wiki/Linear_timecode
 - https://en.wikipedia.org/wiki/Vertical_interval_timecode
