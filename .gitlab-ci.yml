@@ -46,6 +46,6 @@ pages:
     - cat /etc/os-release
 
 Trigger CV:
-  stage: deploy
+  stage: build
   trigger: germs-dev/cv
   only: [main]
