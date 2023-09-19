@@ -13,26 +13,28 @@ Patching the roof up was an unexpected expense.
 
 Do all your fixtures and fittings the same colour? If you go for brass taps,
 say, does everything else match: sockets, window handles, ceiling roses, plug
-holes, light switches?
+holes, light switches? You will be surprised how many things are steel...
 
 Put the washing machine right next to the dryer. Think about which side your
 toilet roll holder will be on. An outside tap is really useful if you have a
 patio/garden.
 
 ## Building controls - signing off
+
 If building control have asked for a sound test you might need to get it done
-before the floor goes down. If the pavement has been damaged during the build
+_before_ the floor goes down. If the pavement has been damaged during the build
 you may be asked to repair it. However, your normal builder might not be able
 to do it.
 
-Double the sounds insulation between floors. In fact, triple it! The acceptable
+Double the sound insulation between floors. In fact, triple it! The acceptable
 minimum dictated by the sound test isn't acceptable for people, especially if
 there are kids running around upstairs.
 
 ## Finances
-Be very cautious about taking on extra debt before applying for a mortgage. A
+
+Be cautious about taking on extra debt before applying for a mortgage. A
 credit card might get you through the build but a maxed credit card won't look
-good on your credit record. If possible borrow money from friends/family and
+good on your credit record. If possible, borrow money from friends/family and
 zero those unsightly credit cards.
 
 Development loans: expect to pay 1% a month.
@@ -116,6 +118,7 @@ Fortunately our builder was really savvy and challenged anything that didn't
 make sense.
 
 ## Doors
+
 See these
 [handles](https://www.ironmongerydirect.co.uk/product/morello-chichester-lever-door-handles-on-rose-satin-nickel-648373).
 
@@ -159,6 +162,7 @@ Went for stone tiles but remember you may need have to treat/seal them before
 they are laid.
 
 ## References
+
 - [EICR](https://www.propertyinvestmentproject.co.uk/blog/landlords-requirements-for-electrical-safety/)
 - [Light bulbs](https://www.edwardsandhope.co.uk/xxl-filament-led-lightbulb)
 - [GB Construction](https://www.brighton-construction.co.uk/)
