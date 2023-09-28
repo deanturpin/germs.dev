@@ -13,9 +13,11 @@
 1. [![](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/scripts/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/scripts/-/pipelines/latest) [Command line OpenAI wrapper](https://turpin.cloud/)
 
+<!--
 #### R
 
 1. [![](https://gitlab.com/deanturpin/tradeR/badges/main/pipeline.svg)](https://gitlab.com/deanturpin/tradeR/pipelines/latest) [Currency plotting in R](https://deanturpin.gitlab.io/tradeR/)
+-->
 
 #### Web
 
