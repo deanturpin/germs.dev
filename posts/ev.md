@@ -13,4 +13,3 @@ However, domestic voltage is, of course, 240V; so does this mean the actual powe
 |---|---|---|
 | 3.5kW | 16A | 233V |
 | 7kW | 30A | 219V |
-
