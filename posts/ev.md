@@ -15,3 +15,20 @@ However, domestic voltage is, of course, 240V; so does this mean the actual powe
 | Home | 7kW | 30A | 219V (AC) |
 | Supercharger | 250kW | 520A | 480 (DC) |
 
+## Connectors
+
+- [CCS2 "Combo 2"](https://en.wikipedia.org/wiki/Combined_Charging_System) (Combined Charging Connector) -- what a design this is!
+- IEC Type II -- the normal one you'll see everywhere
+
+## Tesla Model Y
+
+- Battery capacity 82 kWh
+- Driving range 336 miles
+- Efficiency 271 Wh/miles
+
+## Third party
+
+- https://tessories.uk/
+- https://www.tesery.com/
+- https://shop.tesla.com/
+
