@@ -45,4 +45,15 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 - [Tesla shop](https://shop.tesla.com/)
 - [EV Accessories](https://evaccessories.co.uk/)
 
+## Camping
+
+- https://www.amazon.co.uk/dp/B0BL7VMHKY?ref_=cm_sw_r_apan_dp_4TWBNWEJ5E2K3JEA9BM8
+
+## Tariffs
+
+- https://lovemyev.com/explore/ev-tariffs/charge-anytime-vs-octopus-intelligent
+
+## Developers
+
+- [Unoffical Tesla API](https://www.teslaapi.io/vehicles/commands)
 
