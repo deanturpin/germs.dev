@@ -57,3 +57,14 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 - [Unoffical Tesla API](https://www.teslaapi.io/vehicles/commands)
 
+## Cleaning
+
+- https://www.youtube.com/watch?v=yT0iEZCcmNA
+- ONR
+- Two buckets
+- Sponge
+- Wheel cleaners
+- Tyre cleaners
+- Microfibre
+- Karcher car cleaning
+
