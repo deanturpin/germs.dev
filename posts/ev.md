@@ -105,3 +105,17 @@ For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/
 
 - Spray bottle with ONR mixture
 - MF towel (500gsm)
+
+## Solar panels
+
+- https://www.tesla.com/referral/jeremiah22519
+
+## Repairs
+
+- https://revive-uk.com/territory/brighton/alloy-wheel-repair/
+
+## Protection
+
+- Ceramic polish
+- https://www.amazon.co.uk/AlloyGator-Replacement-Profile-Protectors-replacement/
+
