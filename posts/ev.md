@@ -106,6 +106,10 @@ For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/
 - Spray bottle with ONR mixture
 - MF towel (500gsm)
 
+### Brands
+
+- https://www.infinitywax.com/
+
 ## Solar panels
 
 - https://www.tesla.com/referral/jeremiah22519
