@@ -53,6 +53,11 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 - https://lovemyev.com/explore/ev-tariffs/charge-anytime-vs-octopus-intelligent
 
+## Protection
+
+- Ceramic polish
+- PPF
+
 ## Software developers
 
 - [Unoffical Tesla API](https://www.teslaapi.io/vehicles/commands)
