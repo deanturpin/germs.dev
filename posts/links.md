@@ -1,11 +1,3 @@
----
-title: Links
-date: 2021-04-24
-tags:
-- links
-- bio
----
-
 # Links
 
 See my [Wikipedia contributions](http://tools.wmflabs.org/guc/?user=Dean+Turbo)

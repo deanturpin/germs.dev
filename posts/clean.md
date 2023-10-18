@@ -69,3 +69,7 @@ For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/
 - autoglym atc for door jams
 - infinity wax 10% off with code EPIC
 - [Traffic film remover](https://www.jennychem.com/collections/traffic-film-removers/products/tfr-special-non-caustic-wax)
+- https://fb.watch/nJrU1kytTY/
+- [Wheel dips](https://www.dipyourcar.com/collections/wheel-kits-by-color/products/shadow-black-hyperdip-wheel-kit?variant=5630996356&fbclid=IwAR0DZK-yhcBSsW94hoNdrYYRAo3Xi7-6gzpEJ7ZL3L86ukv7lbsGmXCHa9Y)
+- [Sam's detailing towel](https://www.samsdetailing.co.uk/products/drying-towel?fbclid=IwAR2CQ86OernaGAjsXlkomcS16ggyHdrwgBlv4IIy5ZX1TeJxv462dQY76ro_aem_Aaeazxkf5BmqUkzHggHV7PSiB_g9GRrLvPv_sJivaL6472ipLLDjAUeYNhzxcxyxDokM3KWZMhglPNZG9diwbkRy&utm_source=facebook&utm_medium=paid&campaign_id=23857344821250629&ad_id=23857344821300629)
+
