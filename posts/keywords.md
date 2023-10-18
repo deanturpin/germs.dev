@@ -7,7 +7,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Build__: VS Code, QtCreator, Visual Studio, GitHub Copilot, GNU Make, CMake
 - __Source control__: Git, Subversion
 - __CI/CD__: GitLab CI, Google Cloud, Jenkins
-- __API__: CryptoCompare, OpenAI, gSOAP
+- __API__: CryptoCompare, MarketStack, OpenAI, gSOAP
 - __UI__: Qt, JUCE, MFC
 - __Unit test/profiling__: Google Benchmark, Google Test, gprof, TDD
 - __Networking__: Wireshark, Asterisk, OSI (TCP/UDP)
