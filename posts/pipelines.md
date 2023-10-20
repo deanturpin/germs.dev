@@ -28,6 +28,7 @@
 
 #### Misc
 
+1. [![](https://gitlab.com/germs-dev/pjsip/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/pjsip/-/pipelines/latest) [pjsip built using cmake's ExternalProject](https://gitlab.com/germs-dev/pjsip)
 1. [![](https://gitlab.com/germs-dev/energy/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/energy/-/pipelines/latest) [Haskell energy usage calculations](https://energy.turpin.cloud/)
 1. [![](https://gitlab.com/germs-dev/quotations/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/quotations/-/pipelines/latest) [Curated list of tech quotes](https://quotations.germs.dev/)
 1. [![](https://gitlab.com/germs-dev/skills/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/skills/-/pipelines/latest) [Skills timeline generator in R](https://skills.turpin.dev/)
