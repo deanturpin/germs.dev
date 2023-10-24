@@ -10,6 +10,13 @@
 - Bincho
 - 64 Degrees
 
+### To try
+
+- https://www.carne-hove.co.uk/
+- Rockwater
+- Cin Cin
+- The Flint House
+
 ## 2021
 
 - Goemon (ramen)
@@ -33,19 +40,4 @@
 - Lucky Khao (Thai)
 - Shelter Hall
 - Cyan (main restaurant in The Grand)
-
-## Haven't been but would like to!
-
-- Rockwater
-- Cin Cin
-- The Flint House
-
-<!--
-## Cocktails
-
-- The Plotting Parlour
-- Artists' Residence
-- L'Atelier du Vin
-- The Grand
--->
 
