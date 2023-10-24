@@ -62,6 +62,16 @@ For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/
 
 - <https://www.infinitywax.com/>
 
+## Cloths
+
+- https://www.cleanandshiny.co.uk/collections/the-rag-company
+
+## Vacuum
+
+- [Ridgid](https://www.amazon.co.uk/RIDGID-VAC3000-Portable-3-Gallon-Horsepower/)
+- [Speedex](https://www.speedexwireless.com/products/speedex-wireless-vacuum-cleaner)
+- [Fanttik](https://www.amazon.co.uk/Fanttik-V8-Mate-Cordless-Ultra-Lightweight/dp/B0B9447P5P)
+
 ## To investigate
 
 - filtered water
