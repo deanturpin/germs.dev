@@ -4,5 +4,5 @@ Commercially I develop using C++17, so I feel it is important to explore the lat
 
 Currently a reviewer/TE on an unpublished C++ book aimed at junior developers.
 
-See my personal projects: `https://deanturp.in/`
+See my personal projects: [https://deanturp.in/](https://deanturp.in/).
 
