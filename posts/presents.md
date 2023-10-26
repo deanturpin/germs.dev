@@ -15,13 +15,58 @@
 - [Sneaker Town](https://www.sneakertown.com/)
 - [Sneaker Lab](https://www.sneakerlab.com/)
 - [Sneaker Politics](https://sneakerpolitics.com/)
+- [Allbirds](https://www.allbirds.co.uk/)
+- [No Bull](https://www.nobullproject.com/)
+- [Farfetch](farfetch.com)
+
+## Shoes
+
+- [GH Bass](https://www.ghbass-eu.com/)
+
 
 ## Clothes
 
+- [Wasted Paris](https://wasted.fr/)
+- [The Couture Club](https://www.thecoutureclub.com/)
+- [Wasted Heroes](https://www.wastedheroes-shop.com/collections/side-smiley)
 - [Sophie Darling](https://www.sophiedarling.com/): cool printed jackets
 - Stussy
 - [Worn On TV](https://wornontv.net/loot/nicholas/)
 - [The Rake](https://therake.com/): expensive, but cool
+- [Cos](https://www.cosstores.com/)
+- Oklahomamam clouds scarf
+- [YMC](https://www.youmustcreate.com/)
+- [The Ragged Priest](https://www.theraggedpriest.com/)
+- [The Kooples](https://www.thekooples.com/uk_en/)
+- [All Saints](https://www.allsaints.com/)
+- [ssense](https://www.ssense.com/en-gb)
+- [Hayley Menzies](https://www.hayleymenzies.com/)
+- [Wolf & Badger](https://www.wolfandbadger.com/uk/)
+
+## Makeup
+
+- [Culture Hustle](https://www.culturehustle.com/)
+- [Cult Beauty](https://www.cultbeauty.co.uk/)
+- [Charlotte Tilbury](https://www.charlottetilbury.com/uk/): good for lipsticks
+- [Glossier](https://www.glossier.com/uk/en_gb): good for skincare
+- [Nars](https://www.narscosmetics.co.uk/en_GB/home): good for blushes
+- [MAC](https://www.maccosmetics.co.uk/): good for lipsticks
+- [Bobbi Brown](https://www.bobbibrown.co.uk/): good for lipsticks
+- [Fenty Beauty](https://www.fentybeauty.com/): good for lipsticks
+- [Huda Beauty](https://www.hudabeauty.com/): good for lipsticks
+- [Pat McGrath Labs](https://www.patmcgrath.com/): good for lipsticks
+- [Anastasia Beverly Hills](https://www.anastasiabeverlyhills.com/): good for lipsticks
+- [Urban Decay](https://www.urbandecay.co.uk/en_GB/home): good for lipsticks
+- [Drops of Youth](https://www.thebodyshop.com/en-gb/face/serums-treatments/drops-of-youth-youth-concentrate/p/p000136): good for skincare
+
+## Hair
+
+- [Simon Webster Hair](https://www.simonwebsterhair.com/get-in-touch)
+
+## Skin care
+
+- [Absolute Collagen](https://www.absolutecollagen.com/)
+
 
 ## Jewelery
 
@@ -43,3 +88,17 @@
 - [Taylor Morris](https://www.taylormorriseyewear.com/)
 - [Oscar Deen](https://www.oscardeen.com/products/fraser-m-series-treacle?variant=40400330817618)
 - [Monc](https://www.monclondon.com/)
+
+## Alcohol
+
+- [Blackcurrent Rum](https://www.friarydrinks.co.uk/products/blackcurrant-rum)
+- [El Rayo Tequila](https://elrayotequila.com/): can get it in Sainsbury's
+
+
+## Final touch
+
+- Flowers
+- [Prestige Flowers](https://www.prestigeflowers.co.uk/): flowers
+- [Prestat](https://www.prestat.co.uk/): chocolates
+- [Hotel Chocolat](https://www.hotelchocolat.com/uk/): chocolates
+- Card
