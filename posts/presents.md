@@ -1,4 +1,6 @@
-# Present ideas
+# Presents
+
+Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Sneakers
 
