@@ -25,7 +25,6 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 - [GH Bass](https://www.ghbass-eu.com/)
 
-
 ## Clothes
 
 - [Wasted Paris](https://wasted.fr/)
@@ -69,6 +68,9 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 - [Absolute Collagen](https://www.absolutecollagen.com/)
 
+## Spa
+
+- [South Lodge](https://www.exclusive.co.uk/the-spa-at-south-lodge/)
 
 ## Jewelery
 
