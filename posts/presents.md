@@ -19,7 +19,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Sneaker Politics](https://sneakerpolitics.com/)
 - [Allbirds](https://www.allbirds.co.uk/)
 - [No Bull](https://www.nobullproject.com/)
-- [Farfetch](farfetch.com)
+- [Farfetch](https://www.farfetch.com/)
 
 ## Shoes
 
@@ -43,6 +43,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [ssense](https://www.ssense.com/en-gb)
 - [Hayley Menzies](https://www.hayleymenzies.com/)
 - [Wolf & Badger](https://www.wolfandbadger.com/uk/)
+- [Flannels](https://www.flannels.com/)
 
 ## Makeup
 
@@ -74,15 +75,16 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Jewelery
 
-- [Missoma gold](https://www.missoma.com/products/zenyu-fan-necklace-18ct-gold-plated
+- [Missoma gold](https://www.missoma.com/products/zenyu-fan-necklace-18ct-gold-plated)
 - The Octopus Ring
-- [The Great Frog](https://www.thegreatfroglondon.com/): cool silver rings
-
+- [The Great Frog](https://www.thegreatfroglondon.com/) -- slightly macabre
+- [Stargaze](https://stargazejewelry.com/collections/drop-02)
 
 ## Home
 
 - [Peugeot Saveurs](https://uk.peugeot-saveurs.com/en/bali-palais-des-epices-bali-black-cast-iron-pepper-mill-and-its-salt-cellar-as-a-gift-box.html)
 - [The White Company](https://www.thewhitecompany.com/uk/): candles, diffusers, etc.
+- [Thicket Design](https://thicketdesign.net/)
 
 ## Sunglasses
 
@@ -97,7 +99,6 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 - [Blackcurrent Rum](https://www.friarydrinks.co.uk/products/blackcurrant-rum)
 - [El Rayo Tequila](https://elrayotequila.com/): can get it in Sainsbury's
-
 
 ## Final touch
 
