@@ -44,6 +44,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Hayley Menzies](https://www.hayleymenzies.com/)
 - [Wolf & Badger](https://www.wolfandbadger.com/uk/)
 - [Flannels](https://www.flannels.com/)
+- [Never Fully Dressed](https://www.neverfullydressed.com/)
 
 ## Makeup
 
@@ -79,6 +80,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - The Octopus Ring
 - [The Great Frog](https://www.thegreatfroglondon.com/) -- slightly macabre
 - [Stargaze](https://stargazejewelry.com/collections/drop-02)
+- [7879](https://7879.co/) -- pure gold
 
 ## Home
 

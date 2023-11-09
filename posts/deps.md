@@ -1,29 +1,20 @@
----
-title: Managing project dependencies
-date: 2020-08-25
-tags:
-- git
-- config control
-- dependencies
-- svn
----
-
 # Managing project dependencies
 
-It's difficult to choose a dependency management tool without first-hand
-experience, so I'm using a few to manage my own projects.
+It's difficult to choose a dependency management tool without first-hand experience, so I'm using a few to manage my own projects.
 
 > tl;dr: currently using a monorepo.
 
 ---
 
 ## Evaluated
-- [git subtrees](https://turpin.dev/post/git-subtrees)
-- [git submodules](https://turpin.dev/post/git-submodules)
-- [Android Repo](https://turpin.dev/post/android-repo)
-- [Subversion](https://turpin.dev/post/subversion-to-git-migration)
+
+- [git subtrees](https://turpin.one/post/git-subtrees)
+- [git submodules](https://turpin.one/post/git-submodules)
+- [Android Repo](https://turpin.one/post/android-repo)
+- [Subversion](https://turpin.one/post/subversion-to-git-migration)
 
 ## To be evaluated
+
 - Just one big repo
 - [Tundra](https://github.com/deplinenoise/tundra)
 - [Apache Maven](https://en.wikipedia.org/wiki/Apache_Maven)
@@ -40,3 +31,4 @@ experience, so I'm using a few to manage my own projects.
 ## References
 - [Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)
 - [In quest of the ultimate build tool](http://blog.ltgt.net/in-quest-of-the-ultimate-build-tool/)
+

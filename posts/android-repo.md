@@ -1,13 +1,3 @@
----
-title: Android Repo
-subtitle: Managing project dependencies
-date: 2020-08-25
-tags:
-- git
-- config control
-- dependencies
----
-
 # Android Repo
 
 There are lots of tutorials on how to initialise a repo but then what? The
