@@ -8,10 +8,10 @@ It's difficult to choose a dependency management tool without first-hand experie
 
 ## Evaluated
 
-- [git subtrees](https://turpin.one/posts/git-subtrees)
 - [git submodules](https://turpin.one/posts/git-submodules)
 - [Android Repo](https://turpin.one/posts/android-repo)
 - [Subversion](https://turpin.one/posts/subversion-to-git-migration)
+- git subtrees
 
 ## To be evaluated
 
