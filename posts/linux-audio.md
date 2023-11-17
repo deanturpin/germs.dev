@@ -16,8 +16,3 @@ _Note: this no longer works in the app in 2023._
 - Navigate to `/Android/data/com.aspiro.tidal/cache/okhttp` in a file browser
 - Open a terminal here (the full path will be something crazy)
 - `grep -r "X-Tidal-Token"`
-
-## Tesla
-
-- [Tesla audio](https://www.focal.com/en/t3y-new-tesla-compatible-kits)
-

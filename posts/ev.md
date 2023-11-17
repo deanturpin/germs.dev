@@ -1,8 +1,6 @@
 # Electric car resources
 
-Observations and tips, with a focus on my own experiences with a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y).
-
-- [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range)
+Observations and tips, with a focus on my own experiences owning a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y). There is also a [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range) with slightly shorter range
 
 ## Comparison of charger powers
 
@@ -13,7 +11,7 @@ Note the supercharger is DC and uses those two large pins at the bottom of the c
 | Description  | Power | Current | mph  | Voltage |
 |---           |---    |---      |---   |---      |
 | Wall plug    | 2.3kW |         | 8    | 240V    |
-| Lampost      | 3.7kW | 16A     | 14   | 240V    |
+| Lamppost     | 3.7kW | 16A     | 14   | 240V    |
 | Home         | 7.4kW | 32A     | 28   | 240V    |
 | 3-phase      | 11kW  |         | 42   |         |
 | 3-phase      | 32kW  |         | 42   |         |
@@ -38,6 +36,14 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 - Driving range 336 miles
 - Efficiency 271 Wh/miles
 
+| Model | Range | Efficiency | Battery capacity | Power per mile |
+|---    |---    |---         | ---              | ---            |
+| Model Y RWD | 303 miles | 250 Wh/miles | 75 kWh | 250 W/mile |
+| Model Y AWD LR | 336 miles | 271 Wh/miles | 82 kWh | 271 W/mile |
+| Model Y AWD Performance | 303 miles | 271 Wh/miles | 82 kWh | 271 W/mile |
+
+82000 / 271 = 302.5 miles
+
 ## Third party
 
 - [Tessories](https://tessories.uk/)
@@ -53,11 +59,6 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 - https://lovemyev.com/explore/ev-tariffs/charge-anytime-vs-octopus-intelligent
 
-## Protection
-
-- Ceramic polish
-- PPF
-
 ## Software developers
 
 - [Unoffical Tesla API](https://www.teslaapi.io/vehicles/commands)
@@ -70,8 +71,12 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 - https://revive-uk.com/territory/brighton/alloy-wheel-repair/
 
+## Audio
+
+- [Focal](https://www.focal.com/en/t3y-new-tesla-compatible-kits)
+
 ## Protection
 
+- PPF
 - Ceramic polish
-- https://www.amazon.co.uk/AlloyGator-Replacement-Profile-Protectors-replacement/
-
+- <https://www.amazon.co.uk/AlloyGator-Replacement-Profile-Protectors-replacement/>
