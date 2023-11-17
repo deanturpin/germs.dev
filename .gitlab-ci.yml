@@ -15,15 +15,17 @@ build web pages:
 
     # Replace tags
     - COMMIT_MESSAGE=$(git log --pretty=oneline -n 1 | cut -d\  -f2-)
+    - readonly TODAY=$(date --rfc-3339=date)
+    - sed -i s/{TODAY}/$TODAY/g posts/tech_stack.md
 
     # Construct readme page from other pages
     - cat posts/keywords.md    > README.md
     - cat posts/projects.md    >> README.md
     - cat posts/websites.md    >> README.md
-    - cat posts/toolbox.md     >> README.md
+    - cat posts/tech_stack.md  >> README.md
     - cat posts/skills.md      >> README.md
     - cat posts/influential.md >> README.md
-    - echo '---' >> README.md
+    - echo ___                 >> README.md
 
     # Get build machine info for page footer
     - source /etc/os-release
