@@ -5,6 +5,7 @@ cache:
 
 # the 'pages' job will deploy and build your site to the 'public' path
 build web pages:
+  
   # requiring the environment of NodeJS 10
   image: node:10
   stage: build
