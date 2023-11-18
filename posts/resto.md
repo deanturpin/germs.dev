@@ -2,6 +2,24 @@
 
 ## 2023
 
+### November
+
+#### Zoilo £££
+
+Perfectly good Italian near Selfridges.
+
+#### Maison Bab ££
+
+Gyros style kebabs, quick and tasty.
+
+#### The Clove Club £££££
+
+Two-star in Michelin in Shoreditch. I had to add another pound to my rating system for this one!
+
+#### Dishoom (King's Cross) £££
+
+Very slick Indian chain; quick and tasty.
+
 ### October
 
 - Etch
