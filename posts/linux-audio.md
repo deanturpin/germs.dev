@@ -28,6 +28,13 @@ _Note: this no longer works in the app in 2023._
 Additionally, if your DAC isn't changing sample rate (or is stuck on 48000) you can do it on the command line.
 
 ```bash
+# dump all settings
+pw-metadata -n settings n
+```
+
+```bash
+# set clock rate
 pw-metadata -n settings 0 clock.force-rate 44100
+pw-metadata -n settings 0 clock.allowed-rates = [44100,48000,96000]
 ```
 
