@@ -16,3 +16,18 @@ _Note: this no longer works in the app in 2023._
 - Navigate to `/Android/data/com.aspiro.tidal/cache/okhttp` in a file browser
 - Open a terminal here (the full path will be something crazy)
 - `grep -r "X-Tidal-Token"`
+
+## Mimi on Tidal web player
+
+- Insert DragonFly DAC
+- Install Mimi and test your hearing
+- Create account
+- Install the Mimi Chrome extension and log in
+- Enable in the extension and enjoy Tidal with your hearing profile
+
+Additionally, if your DAC isn't changing sample rate (or is stuck on 48000) you can do it on the command line.
+
+```bash
+pw-metadata -n settings 0 clock.force-rate 44100
+```
+

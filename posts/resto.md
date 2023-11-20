@@ -1,4 +1,4 @@
-# Brighton restaurants
+# Restaurants
 
 ## 2023
 
@@ -22,11 +22,11 @@ Very slick Indian chain; quick and tasty.
 
 ### October
 
-- Etch
-- [Furna](https://furnarestaurant.co.uk/)
-- Wild Flor
-- Bincho
-- 64 Degrees
+- Etch ££££
+- [Furna](https://furnarestaurant.co.uk/) ££££
+- Wild Flor ££
+- Bincho ££
+- 64 Degrees ££££
 
 ### To try
 
@@ -37,7 +37,7 @@ Very slick Indian chain; quick and tasty.
 
 ## 2021
 
-- Goemon (ramen)
+- Goemon (ramen) £
 - Aji Sushi - 27/09/21
 - [Halisco](https://www.facebook.com/HaliscoRestaurant/) (Mexican) - 21/09/21
 - atTEN (small plates) - 22/09/21
@@ -58,4 +58,3 @@ Very slick Indian chain; quick and tasty.
 - Lucky Khao (Thai)
 - Shelter Hall
 - Cyan (main restaurant in The Grand)
-
