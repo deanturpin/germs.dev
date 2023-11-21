@@ -38,3 +38,17 @@ pw-metadata -n settings 0 clock.force-rate 44100
 pw-metadata -n settings 0 clock.allowed-rates = [44100,48000,96000]
 ```
 
+```bash
+┌──────────────────────┐
+│Tidal (Chrome player) │
+└──────────┬───────────┘
+           │
+┌──────────▼───────────┐
+│Mimi                  │
+└──────────┬───────────┘
+           │
+┌──────────▼───────────┐
+│Easy Effects          │
+└──────────────────────┘
+```
+
