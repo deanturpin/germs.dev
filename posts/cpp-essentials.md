@@ -3,6 +3,7 @@
 ## C++14
 
 ## Auto
+
 Type inference is a game changer. Essentially you can simplify complicated (or
 unknown) type declarations with `auto`. But it can be a balance of convenience
 over readability.
