@@ -1,8 +1,20 @@
 # Restaurants
 
+| Key | Price per head with refreshments |
+| --- | --- |
+| £ | £15 |
+| ££ | £30 |
+| £££ | £60 |
+| ££££ | £120 |
+| £££££ | £240 |
+
 ## 2023
 
 ### November
+
+#### Plateau £££
+
+Back to form for this French sharing plates restaurant in Brighton.
 
 #### Zoilo £££
 
@@ -22,11 +34,11 @@ Very slick Indian chain; quick and tasty.
 
 ### October
 
-- Etch ££££
+- Etch ££££ -- tough call between Etch and Furna, but Etch just the newboy
 - [Furna](https://furnarestaurant.co.uk/) ££££
 - Wild Flor ££
-- Bincho ££
-- 64 Degrees ££££
+- Bincho ££ -- it's always hard to get in here, defo book
+- [64 Degrees](https://64degrees.co.uk/) ££££ -- fine dining by acclaimed chef Michael Bremner
 
 ### To try
 
@@ -37,7 +49,7 @@ Very slick Indian chain; quick and tasty.
 
 ## 2021
 
-- Goemon (ramen) £
+- Goemon (ramen)
 - Aji Sushi - 27/09/21
 - [Halisco](https://www.facebook.com/HaliscoRestaurant/) (Mexican) - 21/09/21
 - atTEN (small plates) - 22/09/21
@@ -53,7 +65,6 @@ Very slick Indian chain; quick and tasty.
 - The Ivy
 - Little Fish Market
 - [Block](https://blockbar.co.uk)
-- [64 Degrees](https://64degrees.co.uk/) (fine dining by acclaimed chef Michael Bremner)
 - Murmur (seafront fine dining, 64 Degrees' sister restaurant)
 - Lucky Khao (Thai)
 - Shelter Hall
