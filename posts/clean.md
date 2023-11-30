@@ -1,6 +1,32 @@
 # Car cleaning
 
+## Forward
+
+I have managed to exist for five decades without getting too excited about cleaning things, and then I bought a new car and I've gone all in!
+
+
+## Spot cleaning
+
+For quick cleaning of light dirt, road detritus and bird scat. Just removing the worst of it before it becomes caked on prior to the proper weekend wash.
+
+See [YouTube](https://www.youtube.com/watch?v=5Y_8Z6KkOgQ).
+
+Also see [Jeremiah Jones](https://www.youtube.com/watch?v=G_9_0ElVChU).
+
+- Premixed ONR in a spray bottle at 1:128
+- Spray the offending area with force to try to remove without contact
+- Leave to dwell for a couple of minutes
+- Drag a fresh microfibre towel across the area... no rubbing!
+
 ## My current process
+
+- Snowfoam with Kärcher lance
+- Rinse
+- Two bucket method with shampoo
+- Rinse
+- Finish with drying towel
+
+## My previous process (before ceramic)
 
 - Rinse
 - Snow foam
@@ -11,7 +37,7 @@
 
 ## Two buckets with ONR
 
-- <https://www.youtube.com/watch?v=yT0iEZCcmNA>
+See [YouTube](https://www.youtube.com/watch?v=yT0iEZCcmNA)
 
 - ONR
 - Two buckets
@@ -19,7 +45,7 @@
 - Wheel cleaners
 - Tyre cleaners
 - Microfibre
-- Karcher car cleaning
+- Kärcher car cleaning
 - Two buckets with ONR
 
 ## Full wash
