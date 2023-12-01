@@ -4,7 +4,6 @@
 
 I have managed to exist for five decades without getting too excited about cleaning things, and then I bought a new car and I've gone all in!
 
-
 ## Spot cleaning
 
 For quick cleaning of light dirt, road detritus and bird scat. Just removing the worst of it before it becomes caked on prior to the proper weekend wash.
