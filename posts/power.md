@@ -1,6 +1,6 @@
-# Power and batteries and chargers
+# Power
 
-I've been upping my charging game of late (December 2023) and here's what I'm running at the mo.
+And batteries and chargers and things.
 
 ## Nothing Phone (2)
 
