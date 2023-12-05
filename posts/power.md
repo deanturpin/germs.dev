@@ -92,13 +92,15 @@ Measured using the app CPU X.
 
 ## Converting between Watts and Amps
 
-- Volts × Amps = Watts
+> Volts × Amps = Watts
+
+- 12V × 25.6Ah = 307.2Wh
 - 4182mV × +8738mA = 36.5W
 - 4312mV × -200mA = -0.9W
 
 ## Linux tools
 
-```bash
+```text
 $ acpi
 Battery 0: Discharging, 99%, 01:45:58 remaining
 ```
