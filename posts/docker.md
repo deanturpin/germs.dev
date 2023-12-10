@@ -1,14 +1,3 @@
----
-title: Docker
-subtitle: Crib sheet
-date: 2021-05-05
-tags:
-- docker
-- cli
-- vm
-- linux
----
-
 # Docker
 
 ## Play with Docker
