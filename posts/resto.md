@@ -10,35 +10,25 @@
 
 ## 2023
 
+### December
+
+- The New Club (££): top notch Sunday roasts by the seaside
+
 ### November
 
-#### Plateau £££
-
-Back to form for this French sharing plates restaurant in Brighton.
-
-#### Zoilo £££
-
-Perfectly good Italian near Selfridges.
-
-#### Maison Bab ££
-
-Gyros style kebabs, quick and tasty.
-
-#### The Clove Club £££££
-
-Two-star in Michelin in Shoreditch. I had to add another pound to my rating system for this one!
-
-#### Dishoom (King's Cross) £££
-
-Very slick Indian chain; quick and tasty.
+- Plateau (£££): back to form for this French sharing plates restaurant in Brighton
+- Zoilo (£££): perfectly good steakhouse near Selfridges
+- Maison Bab (££): gyros style kebabs, quick and tasty.
+- The Clove Club (£££££): two-star in Michelin in Shoreditch. I had to add another pound to my rating system for this one!
+- Dishoom (King's Cross) (£££): very slick Indian chain; quick and tasty
 
 ### October
 
-- Etch ££££ -- tough call between Etch and Furna, but Etch just the newboy
-- [Furna](https://furnarestaurant.co.uk/) ££££
-- Wild Flor ££
-- Bincho ££ -- it's always hard to get in here, defo book
-- [64 Degrees](https://64degrees.co.uk/) ££££ -- fine dining by acclaimed chef Michael Bremner
+- Etch (££££) -- tough call between Etch and Furna, but Etch just pips the new boy
+- [Furna](https://furnarestaurant.co.uk/) (££££)
+- Wild Flor (££)
+- Bincho (££): it's always hard to get in here, defo book
+- [64 Degrees](https://64degrees.co.uk/) (££££): fine dining by acclaimed chef Michael Bremner
 
 ### To try
 
@@ -46,6 +36,8 @@ Very slick Indian chain; quick and tasty.
 - Rockwater
 - Cin Cin
 - The Flint House
+
+---
 
 ## 2021
 

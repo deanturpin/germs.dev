@@ -1,6 +1,7 @@
 # Software developer side hustles to keep your skills fresh
 
 ## COVID-19
+
 Analyse Covid-19 and save the World. See [Kaggle's covid
 challenges](https://www.kaggle.com/covid19) and fetch daily data from [Pomber
 on GitHub](https://github.com/pomber/covid19) (e.g., [these Bokeh
@@ -24,17 +25,17 @@ Write a tool to stress your cores and make a pattern. Perhaps a video?
 ## Algorithms
 Write an algorithm visualisation tool. (And implement the algorithms too.)
 
-## Learn Blender
-You can get stuff done with [SketchUp](https://www.sketchup.com/) but just cut
-to the chase and learn [Blender](https://www.blender.org/). It's a really steep
-learning curve but one day you'll have to build something and it will be
-invaluable. See a [short film made with
-Blender](https://www.youtube.com/watch?v=DVXEYksoE6c).
+## Learn a 3D modelling tool
+
+It's just really useful for all sorts: building a house, moving office, 3D printing...
+
+You can get stuff done with [SketchUp](https://www.sketchup.com/) but if you want to go in then learn [Blender](https://www.blender.org/). It's a really steep learning curve but one day you'll have to build something and it will be invaluable. See a [short film made with Blender](https://www.youtube.com/watch?v=DVXEYksoE6c).
+
+Alternatively script it quickly with [OpenSCAD](https://openscad.org/) and get back to the programming.
 
 ## It's complicated...
-Listen to ["Understanding Complexity" by Scott E.
-Page](https://www.audible.co.uk/pd/Understanding-Complexity-Audiobook/1629976849)
-to whet your appetite. See various [complexity-based
+
+Listen to ["Understanding Complexity" by Scott E.  Page](https://www.audible.co.uk/pd/Understanding-Complexity-Audiobook/1629976849) to whet your appetite. See various [complexity-based
 projects](/post/complexity).
 
 ## Create your own scripting language
