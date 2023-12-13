@@ -12,6 +12,7 @@
 
 ### December
 
+- Burnt Orange (£££): excellent sharing plates with a Middle Eastern twist
 - The New Club (££): top notch Sunday roasts by the seaside
 
 ### November
@@ -19,13 +20,13 @@
 - Plateau (£££): back to form for this French sharing plates restaurant in Brighton
 - Zoilo (£££): perfectly good steakhouse near Selfridges
 - Maison Bab (££): gyros style kebabs, quick and tasty.
-- The Clove Club (£££££): two-star in Michelin in Shoreditch. I had to add another pound to my rating system for this one!
+- The Clove Club (£££££): two-star in Michelin in Shoreditch... I had to add another pound to my rating system for this one!
 - Dishoom (King's Cross) (£££): very slick Indian chain; quick and tasty
 
 ### October
 
-- Etch (££££) -- tough call between Etch and Furna, but Etch just pips the new boy
-- [Furna](https://furnarestaurant.co.uk/) (££££)
+- Etch (££££): tough call between Etch and Furna, but Etch just pips the new boy
+- [Furna](https://furnarestaurant.co.uk/) (££££): the newest fine dining in Brighton
 - Wild Flor (££)
 - Bincho (££): it's always hard to get in here, defo book
 - [64 Degrees](https://64degrees.co.uk/) (££££): fine dining by acclaimed chef Michael Bremner
