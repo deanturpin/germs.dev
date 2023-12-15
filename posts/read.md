@@ -2,6 +2,8 @@
 
 ## _Book_ books (made of actual paper)
 
+- [The Climate Book -- Greta Thunberg](https://www.amazon.co.uk/gp/product/0241547474/) 
+- [Building Low Latency Applications with C++: Develop a complete low latency trading ecosystem from scratch using modern C++ -- Sourav Ghosh](https://www.amazon.co.uk/gp/product/1837639353)
 - C++ Concurrency in Action -- Anthony Williams 
 - Learn You a Haskell for Great Good!: A Beginner's Guide: A Beginner's Guide to Haskell
 - Practical Watch Repairing -- Donald de Carlo
