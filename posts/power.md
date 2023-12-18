@@ -104,3 +104,9 @@ Measured using the app CPU X.
 $ acpi
 Battery 0: Discharging, 99%, 01:45:58 remaining
 ```
+
+## References
+
+- https://manhattanproducts.eu/pages/usb-c-pd-charging-everything-you-need-to-know
+- https://www.androidauthority.com/usb-power-delivery-806266/
+
