@@ -49,5 +49,5 @@ pages:
 
 Trigger CV:
   stage: build
-  trigger: germs-dev/cv
+  trigger: deanturpin/cv2
   only: [main]
