@@ -19,5 +19,3 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Dev__: Agile, Jira, Slack
 - __Education__: Computer Science BSc. 2:2 from Manchester University
 
-___
-
