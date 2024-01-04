@@ -13,7 +13,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Unit test/profiling__: Google Benchmark, Google Test, gprof
 - __Networking__: Wireshark/PCAP, Asterisk, OSI (TCP/UDP)
 - __CPU__: Intel, ARM, SPARC
-- __OS__: Ubuntu, Windows 11, Solaris, VxWorks
+- __OS__: Debian (Ubuntu, Kali), Alpine, Windows 11, Unix (Solaris), VxWorks
 - __Database__: PostgreSQL, MariaDB, DBeaver
 - __Documentation__: 11ty, MkDocs, Doxygen, Mermaid, Confluence
 - __Dev__: Agile, Jira, Slack
