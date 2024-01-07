@@ -8,6 +8,12 @@
 | ££££ | £120 |
 | £££££ | £240 |
 
+## 2025
+
+### January
+
+- Carne (£££): solid meat specialist in Hove
+
 ## 2023
 
 ### December
