@@ -19,10 +19,17 @@ Note the supercharger is DC and uses those two large pins at the bottom of the c
 
 See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [evbox.com](https://evbox.com/uk-en/electric-cars/tesla/tesla-model-y).
 
-## Charger locations
+## Charger locations in Brighton
 
 - [Electric Brighton charging points map](https://electricbrighton.com/)
 - [Zap Map](https://www.zap-map.com/)
+
+The street chargers include free parking but there are some inside car parks where you have to pay for both!
+
+### Apps
+
+- All providers on Zapmap: https://play.google.com/store/apps/details?id=com.zapmap.zapmap
+- Most of the Brighton street chargers are Blink: https://play.google.com/store/apps/details?id=com.ov.electricblue
 
 ## Connectors
 
