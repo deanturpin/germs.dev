@@ -24,5 +24,7 @@ docker run -it gcc
 
 # Remove all images
 docker images -q | xargs docker rmi --force
-```
 
+# Or... much nicer
+docker system prune 
+```

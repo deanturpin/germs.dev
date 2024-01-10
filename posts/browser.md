@@ -1,9 +1,9 @@
-# Imagine you're a browser...
+# Imagine you're a browser
 
-An example of technologies encountered when a browser requests a page from a
-server. In this case the browser is running on a laptop connected by Wi-Fi.
+An example of technologies encountered when a browser requests a page from a server. In this case the browser is running on a laptop connected by Wi-Fi.
 
 ## Forming a request
+
 - User types a URL into the browser: github.com
 - Host performs DNS resolution to convert the URL into an IP address (the web
 server)
@@ -26,6 +26,7 @@ can be forwarded to the next gateway
 must translate the local to the WAN network (NAT)
 
 ## Reaching the server
+
 - Upon reaching the destination the server will probably send a redirect to the
 HTTPS version of the website (.dev domains are HSTS preload whitelisted)
 - This is vulnerable to a man-in-the-middle attack so browser have a whitelist
@@ -37,15 +38,18 @@ authority
 - For public websites the browser has a predefined set of authorities
 
 ## Reading the page
+
 The browser might receive static HTML but more commonly dynamic code will run
 on the host and make further requests in the background: REST, web sockets.
 
 ## Back end
+
 - Virtual machines
 - AWS, Azure, Google Cloud
 - Load balancing
 
 ## What's the client running?
+
 - Public Key Infrastructure (PKI)
 - Including public/private keys
 - Digital certificates
@@ -55,6 +59,7 @@ on the host and make further requests in the background: REST, web sockets.
 - Key length
 
 ## Browser considerations
+
 - Cross platform
 - Static page or dynamic HTML5?
 - Rest
