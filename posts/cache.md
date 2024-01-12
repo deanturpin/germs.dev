@@ -15,7 +15,6 @@ individual bytes, the entire cache line will be invalidated in all caches.
 Another definition is: "a multiprocessor is cache consistent if all writes to
 the same memory location are performed in some sequential order".
 
-
 - [TLB](https://en.wikipedia.org/wiki/Translation_lookaside_buffer)
 - [Content-addressable
 memory](https://en.wikipedia.org/wiki/Content-addressable_memory)
@@ -166,11 +165,13 @@ time/program = instructions/program _ cycles/instruction _ time/cycle
 CPI = CPI_ideal + CPI_stall
 
 ## CPI_stall contributors
+
 - Data hazards
 - Control hazards: branches, exceptions
 - Memory latency: cache misses
 
 ## References
+
 - https://github.com/rollbear/cache-friendly-samples/blob/master/bheap_aux.cpp
 - [Crunching bytes](http://msinilo.pl/blog2/post/p425/)
 - [Speculative execution](https://en.wikipedia.org/wiki/Speculative_execution)
