@@ -8,10 +8,11 @@
 | ££££ | £120 |
 | £££££ | £240 |
 
-## 2025
+## 2024
 
 ### January
 
+- SIX (££): slick brunch and dinner in a cool bit of Hove, pooch friendly too
 - Carne (£££): solid meat specialist in Hove
 
 ## 2023
