@@ -26,5 +26,5 @@ docker run -it gcc
 docker images -q | xargs docker rmi --force
 
 # Or... much nicer
-docker system prune 
+docker system prune <<< y
 ```
