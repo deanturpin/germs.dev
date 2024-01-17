@@ -27,6 +27,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Colorful Standard](colorfulstandard.com)
 - [Wasted Paris](https://wasted.fr/)
 - [The Couture Club](https://www.thecoutureclub.com/)
 - [Wasted Heroes](https://www.wastedheroes-shop.com/collections/side-smiley)
