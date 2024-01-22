@@ -2,9 +2,11 @@
 
 Senior software engineer with 20+ years of commercial experience. Motivated self-learner, advocate of modern C++, Linux, automation and knowledge sharing. Open to relocation.
 
+[https://turpin.dev/](https://turpin.dev/)
+
 - __Languages__: C++23, Python, Bash; OOP, Functional
 - __Design__: Multithreading, Data Structures, Algorithms, low-latency
-- __Build__: VS Code, QtCreator, Visual Studio, GitHub GNU Make, CMake, GitHub Copilot
+- __Build__: VS Code, QtCreator, Visual Studio, Make, CMake, GitHub Copilot
 - __Source control__: Git, Subversion
 - __CI/CD__: Docker, GitLab CI, Google Cloud, Jenkins
 - __API__: CryptoCompare, MarketStack, OpenAI, gSOAP
