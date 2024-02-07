@@ -73,5 +73,6 @@ Divide the dough into 6 balls and roll out to a diameter of about 7 inches as ev
 - Apple cider vinegar
 - Avocado oil
 - Spring onion
-- Hot sauce to taste
+- Serve on toast
+- Add hot sauce to taste
 
