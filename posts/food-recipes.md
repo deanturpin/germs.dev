@@ -1,13 +1,9 @@
----
-title: Recipes
-date: 2020-05-17
-tags:
-- recipe
----
-
 # Recipes
+
 ## Chicken curry
+
 ### Marinade
+
 - Blend 6 cloves of garlic with equal quanitity of ginger
 - Add 2 tbsp of the garlic and ginger mix to the chicken
 - 1/2 tsp turmeric
@@ -17,6 +13,7 @@ tags:
 - Mustard oil
 
 ### Sauce
+
 - Onion
 - Oil (mustard or rapeseed)
 - Salt (brings out the moisture so it caramelises quicker)
@@ -31,7 +28,9 @@ tags:
 - Cook on mendium heat for half an hour
 
 ## Spicy pie
+
 ### Dough
+
 - 240g whole Spelt flour (I had some whole and some white so used both)
 - 1/2 tsp fine salt
 - 80ml coconut oil melted (I used a mix of Coconut, Olive and Rapeseed)
@@ -39,6 +38,7 @@ tags:
 Sift the flour and salt into a bowl, pour in the oil and mix in with a fork. Add a little water at a time and mix together with hands, kneading until it comes together. Don't overwork! Cover with a damp tea towel and rest at room temp for an hour.
 
 ### Beef Filling
+
 - 500g minced beef
 - 1 onion finely chopped
 - 2 garlic cloves crushed
@@ -64,3 +64,14 @@ Oven at 200 C, line a baking tray.
 Divide the dough into 6 balls and roll out to a diameter of about 7 inches as evenly as poss. Put some filling on one side of the circle then fold the other side over and press the edges with a fork. Brush with a beaten egg.
 
 20 - 25 minutes later, hello patties!
+
+## Mackeral bun sice
+
+- One fillet of smoked mackeral
+- Grated beetroot
+- Lemon
+- Apple cider vinegar
+- Avocado oil
+- Spring onion
+- Hot sauce to taste
+
