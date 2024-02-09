@@ -90,7 +90,13 @@ The street chargers include free parking but there are some inside car parks whe
 
 ## Return to an ICE
 
-Observations after driving an electric car for a while. This is comparing a 2023 Tesla Model Y long range with a 2022 Mercedes petrol.
+Observations after driving an electric car for a while. This is comparing a 2023  with a 2022 Mercedes petrol.
+
+### Cars
+
+- Tesla Model Y long range 2023
+- Mercedes C 200 SPORT MHEV 2022 (petrol)
+- Mercedes CLC 220 2008 (diesel)
 
 | Feature | Tesla | Mercedes |
 |---      |---    |---       |
@@ -99,4 +105,5 @@ Observations after driving an electric car for a while. This is comparing a 2023
 | "don't pull out now!" warning | On screen in peripheral vision | A little primative, but very effective! Especially when you reversing into a road |
 | Turning | Quite large | Tighter |
 | Steering | Medium | Very light |
-
+| Reversing camera | Good | Awful super wide angle |
+| Navigation | Good | Very cluttered |
