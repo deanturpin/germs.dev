@@ -1,6 +1,6 @@
 # Electric car resources
 
-Observations and tips, with a focus on my own experiences owning a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y). There is also a [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range) with slightly shorter range
+Observations and tips, with a focus on my own experiences owning a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y). There is also a [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range) with a slightly shorter range (but goes like stink).
 
 ## Comparison of charger powers
 
@@ -87,3 +87,16 @@ The street chargers include free parking but there are some inside car parks whe
 - PPF
 - Ceramic polish
 - <https://www.amazon.co.uk/AlloyGator-Replacement-Profile-Protectors-replacement/>
+
+## Return to an ICE
+
+Observations after driving an electric car for a while. This is comparing a 2023 Tesla Model Y long range with a 2022 Mercedes petrol.
+
+| Feature | Tesla | Mercedes |
+|---      |---    |---       |
+| Acceleration | Instance torque in an EV | Unresponsive but sounds nice |
+| Braking | Regen is great | Brakes are still really sharp after two years |
+| "don't pull out now!" warning | On screen in peripheral vision | A little primative, but very effective! Especially when you reversing into a road |
+| Turning | Quite large | Tighter |
+| Steering | Medium | Very light |
+

@@ -10,6 +10,10 @@
 
 ## 2024
 
+### February
+
+- Etci (£££): pronounced: "et-chi", best kebab in Brighton?! Posh sit-down affair, very tasty and you won't go home hungry
+
 ### January
 
 - SIX (££): slick brunch and dinner in a cool bit of Hove, pooch friendly too
