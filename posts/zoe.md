@@ -20,4 +20,6 @@ On final thing for UK testers: if you start on a Friday you won't actually be ab
 
 ## Second day
 
-TBC
+The blue (cookie) turtle reared it's head at 11:30am. Well, it wasn't exactly blue but I'm taking that as a sign. You have to start logging your food from today, but the app refused to let me! Turned out you had to go back and complete all the induction exercises first.
+
+Had a couple of beers and a Twix and saw the glucose shoot up to almost the top of the green range. Hopefully that was the Twix.
