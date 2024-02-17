@@ -4,6 +4,41 @@
 
 I have managed to exist for five decades without getting too excited about cleaning things, and then I bought a new car and I've gone all in!
 
+## My current process
+
+### Tools
+
+- Meguiars RG203 5 Gallon Yellow Bucket x 2
+- Meguiars X3003 Professional Grit Guard x 2
+- Halfords lance
+- Kärcher K2 Compact
+- Waterproof gloves
+
+### Cloths
+
+- E.T™ Ultra Absorbent Washable Exterior Wash Mitt/Pad
+- RESERVOIR™ Ultra Absorbent 900GSM Microfibre Drying Towel - Grey
+- VERSATOWEL™ Ultra Plush 400GSM Microfibre Cloths - Orange (for inside)
+- VERSATOWEL™ Ultra Plush 400GSM Microfibre Cloths - Blue (for outside)
+- The Rag Company Waffle Weave glass towels
+
+### Wheels
+
+- Meguiars Ultimate Wheel Cleaner
+- Wheel brush
+
+### Paint
+
+- Infinity Wax citrus pre-wash
+- Infinity Wax powerfoam snowfoam
+- Infinity Wax pure shampoo
+
+### Interior
+
+- Car Gods interior detailer
+
+---
+
 ## Spot cleaning
 
 For quick cleaning of light dirt, road detritus and bird scat. Just removing the worst of it before it becomes caked on prior to the proper weekend wash.
@@ -16,14 +51,6 @@ Also see [Jeremiah Jones](https://www.youtube.com/watch?v=G_9_0ElVChU).
 - Spray the offending area with force to try to remove without contact
 - Leave to dwell for a couple of minutes
 - Drag a fresh microfibre towel across the area... no rubbing!
-
-## My current process
-
-- Snowfoam with Kärcher lance
-- Rinse
-- Two bucket method with shampoo
-- Rinse
-- Finish with drying towel
 
 ## My previous process (before ceramic)
 
