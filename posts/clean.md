@@ -21,6 +21,7 @@ I have managed to exist for five decades without getting too excited about clean
 - VERSATOWEL™ Ultra Plush 400GSM Microfibre Cloths - Orange (for inside)
 - VERSATOWEL™ Ultra Plush 400GSM Microfibre Cloths - Blue (for outside)
 - The Rag Company Waffle Weave glass towels
+- P&S Rags to Riches Microfiber Detergent
 
 ### Wheels
 
@@ -29,9 +30,9 @@ I have managed to exist for five decades without getting too excited about clean
 
 ### Paint
 
-- Infinity Wax citrus pre-wash
-- Infinity Wax powerfoam snowfoam
-- Infinity Wax pure shampoo
+- Infinity Wax Citrus Pre-wash Concentrate
+- Infinity Wax Powerfoam Snowfoam
+- Infinity Wax Pure Shampoo
 
 ### Interior
 
