@@ -16,10 +16,11 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 ## Blink chargers
 
-Outline of the process below. However, it is a bit error prone and a couple of times I've just given up, but the free parking whilst charging is great. They do get ICEd quite often -- perhaps because they're relatively discrete -- which doesn't happen on the very clearly marked green EV bays in town.
+Outline of the process below. However, it is a bit error prone and a couple of times I've just given up, but the free parking whilst charging is great. They do get ICEd quite often -- perhaps because they're relatively discrete -- which doesn't happen on the very clearly-marked green EV bays in town.
 
 - Register online and add a payment card
 - Install the app
+- Uses the standard Type II connector
 - Find a charger and "check in" to the correct charger (check the ID above the socket)
 - Wait for it to churn with a blank screen for a bit...
 - You will then get charged £50 (so you need at least that much in the bank)
