@@ -1,10 +1,16 @@
-# Car cleaning
-
-## Forward
+# Cleaning
 
 I have managed to exist for five decades without getting too excited about cleaning things, and then I bought a new car and I've gone all in!
 
-## My current process
+## Shoes
+
+[Jason Markk](https://www.jasonmarkk.com/) products for foaming cleaner, brush and repellent. Use a microfibre cloth to dry, such as VERSATOWEL™ Ultra Plush 400GSM Microfibre.
+
+## Watches and jewellery
+
+You cannot go wrong with an [ultrasonic cleaner](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/).
+
+## Car
 
 ### Tools
 
@@ -40,7 +46,7 @@ I have managed to exist for five decades without getting too excited about clean
 
 ---
 
-## Spot cleaning
+### Spot cleaning
 
 For quick cleaning of light dirt, road detritus and bird scat. Just removing the worst of it before it becomes caked on prior to the proper weekend wash.
 
@@ -62,70 +68,29 @@ Also see [Jeremiah Jones](https://www.youtube.com/watch?v=G_9_0ElVChU).
 - Wipe down with microfibre (single bucket and lots of cloths)
 - Dry with the wrong towel (bought a wax buff not a drying towel)
 
-## Two buckets with ONR
+### Two buckets method
 
-See [YouTube](https://www.youtube.com/watch?v=yT0iEZCcmNA)
+Standard two bucket method with grit guards.
 
-- ONR
-- Two buckets
-- Sponge
-- Wheel cleaners
-- Tyre cleaners
-- Microfibre
-- Kärcher car cleaning
-- Two buckets with ONR
+### One bucket method
 
-## Full wash
+One bucket with shampoo and lots of cloths.
 
-- Tar and bug remover
-- P&S brake buster
-- Old wheel cleaning brush
-- Green bristle brush for rims
-- Hyrdro-sylx ceramic window cleaner
-
-## Big red sponge method
-
-For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/watch?v=G_9_0ElVChU).
-
-- 2 x 5 gallon buckets with grit guard (Chemical Guys)
-- Optimum No Rinse (ONR)
-- Spray bottle
-- Big red sponge with slits: if it's a new sponge, soak it in ONR for 24 hours
-- Microfibre towels (edgeless and tagless)
-- 300gsm MF for wheels
-- Sealant or wax (Optiseal) -- every three to six months
-- Optimum car wax regularly
-- Distilled water
-- Top to bottom, front to back: least dirty to most dirty
-- Don't wipe in circles! Horizontally only on one side of the sponge, very lightly, then other side of sponge, then rinse
-- Once panel is done, dry with MF towel (light coloured waffle weave to highlight dirt)
-- Or dry with Optiseal, two sprays per panel, start wiping where you sprayed (500gsm MF towel)
-- Last two panels should be rocker panels and back bumper
-
-## Tyres and wheels
-
-- Rims: spray with ONR and wipe with MF towel (200gsm)
-
-## To keep in the car
-
-- Spray bottle with ONR mixture
-- MF towel (500gsm)
-
-## Brands
+### Brands
 
 - <https://www.infinitywax.com/>
 
-## Cloths
+### Cloths
 
 - https://www.cleanandshiny.co.uk/collections/the-rag-company
 
-## Vacuum
+### Vacuum
 
 - [Ridgid](https://www.amazon.co.uk/RIDGID-VAC3000-Portable-3-Gallon-Horsepower/)
 - [Speedex](https://www.speedexwireless.com/products/speedex-wireless-vacuum-cleaner)
 - [Fanttik](https://www.amazon.co.uk/Fanttik-V8-Mate-Cordless-Ultra-Lightweight/dp/B0B9447P5P)
 
-## To investigate
+### To investigate
 
 - filtered water
 - drying aid
@@ -135,4 +100,3 @@ For regular washing of light dirt, via [Jeremiah Jones](https://www.youtube.com/
 - https://fb.watch/nJrU1kytTY/
 - [Wheel dips](https://www.dipyourcar.com/collections/wheel-kits-by-color/products/shadow-black-hyperdip-wheel-kit?variant=5630996356&fbclid=IwAR0DZK-yhcBSsW94hoNdrYYRAo3Xi7-6gzpEJ7ZL3L86ukv7lbsGmXCHa9Y)
 - [Sam's detailing towel](https://www.samsdetailing.co.uk/products/drying-towel?fbclid=IwAR2CQ86OernaGAjsXlkomcS16ggyHdrwgBlv4IIy5ZX1TeJxv462dQY76ro_aem_Aaeazxkf5BmqUkzHggHV7PSiB_g9GRrLvPv_sJivaL6472ipLLDjAUeYNhzxcxyxDokM3KWZMhglPNZG9diwbkRy&utm_source=facebook&utm_medium=paid&campaign_id=23857344821250629&ad_id=23857344821300629)
-
