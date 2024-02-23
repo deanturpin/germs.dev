@@ -25,6 +25,10 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 - IEC Type II -- the normal one you'll see everywhere
 - [CHAdeMO](https://en.wikipedia.org/wiki/CHAdeMO) -- weird one that you need an adapter for
 
+## Home chargers
+
+- [Anderson EV: nicely designed](https://andersen-ev.com/)
+
 ## Tesla Model Y
 
 - Battery capacity 82 kWh
