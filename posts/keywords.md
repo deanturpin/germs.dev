@@ -4,7 +4,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 
 [https://turpin.dev/](https://turpin.dev/)
 
-- __Languages__: C++23, Python, Bash; OOP, Functional
+- __Languages__: C++26, Python, Bash; OOP, Functional
 - __Design__: Multithreading, Data Structures, Algorithms, low-latency
 - __Build__: VS Code, QtCreator, Visual Studio, Make, CMake, Ninja, GitHub Copilot
 - __Source control__: Git, Subversion
