@@ -12,6 +12,7 @@
 
 ### February
 
+- Bonsai Plant Kitchen (£££): very stylish Japanese skewers, and you would not know it was vegan
 - Etci (£££): pronounced: "et-chi", best kebab in Brighton?! Posh sit-down affair, very tasty and you won't go home hungry
 
 ### January
