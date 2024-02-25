@@ -1,6 +1,8 @@
-# EV myths and misconceptions
+# EV myths
 
-It's odd that you have to be armed with counter arguments for owning a electric car. But here we are! Information has been gathered from various sources -- references at the end -- and then paraphrased by me; and it basically serves as a personal crib sheet.
+It's a curious thing that we must be prepared with counter arguments for owning a electric car. But here we are! The following information has been gathered from various sources -- references in each section -- and then paraphrased by me; and it basically serves as a personal crib sheet.
+
+The kindest thing we can do is quote facts with references.
 
 ## EVs don't use green energy
 
@@ -30,17 +32,44 @@ But, you can get get home tariffs that cost 10p per unit, making it £8.20 for a
 
 ## You use the road, you should pay road tax
 
+Road tax is a particularly spicy topic for the trolls, and it has a history as long and dull as the topic of taxation itself.
+
+It's usually goes along the lines of "road tax is a tax for using the roads" and inevitably comes around to the unfairness of push bikes.
+
+"Vehicle Excise Duty [...] is an annual tax levied as an excise duty, and which must be paid for most types of powered vehicles."
+
+<https://en.m.wikipedia.org/wiki/Vehicle_Excise_Duty>
+It is obviously a stretch to consider a pedal bike as a motor vehicle?
+
+<https://en.m.wikipedia.org/wiki/Vehicle_Excise_Duty>
+
+> It's not based on emissions.
+
+It's based entirely on emissions.
+
 > "I pay my road tax"
 
-Actually you don't as road tax was abolished in 1937. What you pay is "Vehicle Excise Duty" -- which is still incorrectly referred to as "road tax" -- and it was introduced by Tony Blair to incentivise buying smaller engines. It's a tax on *cars* not roads: i.e., nothing to do with wearing the roads out. However, rather than tax fuel directly -- which would have probably caused an uprising -- it was based on car *emissions*: a "pollution tax", if you will. And all the bands are defined by CO2 emissions: zero emissions resulting in £0 tax. Until 2025.
+Actually you don't as road tax was abolished in 1937. What you pay is "Vehicle Excise Duty" -- which is still incorrectly referred to as "road tax" -- and it was revised by Tony Blair to incentivise buying smaller engines. It's a tax on *cars* not roads: i.e., nothing to do with wearing the roads out. However, rather than tax fuel directly -- which would have probably caused an uprising -- it was based on car *emissions*: a "pollution tax", if you will. And all the bands are defined by CO2 emissions: zero emissions resulting in £0 tax. Until 2025.
 
-The measure being introduced in 2025 removes the £0 Band A bracket, to order to "equalise the treatment" of ICE and EV. And also removes one of the incentives to go electric.
+The measure being introduced in 2025 removes the £0 Band A bracket, in order to "equalise the treatment" of ICE and EV. And also removes one of the incentives to go electric.
 
 It aligns with the current government's weakening of the green agenda. (And sadly, similarly, the shadow cabinet.)
 
-The move is predicted to boost the Treasury's coffers by £500m per year from 2025.
+The move is predicted to boost the Treasury's coffers by £500m every year from 2025.
 
 > The government will continue to use the tax system to support the transition to electric vehicles, including using favourable first-year VED rates for the lowest-emission cars; favourable Company Car Tax rates for low-emission vehicles, and through generous first year capital allowances for zero-emissions cars and vans as well as for EV chargepoint equipment. The government will also continue to support the transition to EVs more broadly, including through the continuation of the plug in van grant and banning the sale of new petrol and diesel cars and vans from 2030.
+
+Finally, road repairs are paid for out of the general taxation pot, which everybody contributes to -- even those without cars -- not just VED.
+
+### Push bikes
+
+Whilst it's a push to consider a pedal bike as a motor vehicle, this is a common argument.
+
+> Bike should pay road tax for road wear
+
+- OK, lets's explore that: how much do you think bikes should pay?
+
+Weirdly £10 a year is a common figure.
 
 ## The grid couldn't handle everyone charging at once
 
@@ -57,6 +86,16 @@ ICE vehicles are also affected by the weather and the only reason they are warm 
 ## Cold weather 2: EVs have a shorter range in winter
 
 Very true. All batteries are affected by the cold.
+
+## They catch on fire
+
+OK, so even if they did -- they are very much less likely to catch fire than an ICE vehicle -- how many burning cars do you see? I'm not sure I've ever seen one. So it's probably not worth worrying about. And it's odd that people trust electric buses and taxis to not spontaneously combust but not privates cars. What about milk floats?
+
+ICE vehicles contain: sparks, oxygen and fuel; basically a rolling fire triangle.
+
+## EVs production is more damaging to the environment
+
+Queue photo of opencast mine. It's not without irony that the ICE proponents highlight mining for EV materials, where do they think petrol comes from?!
 
 ## References
 
