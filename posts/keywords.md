@@ -17,7 +17,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __CPU__: Intel, ARM, SPARC
 - __OS__: Debian (Ubuntu, Raspian, Kali), Alpine, Windows 11, Unix (Solaris), VxWorks
 - __Database__: PostgreSQL, MariaDB, DBeaver
-- __Documentation__: 11ty, MkDocs, Doxygen, Mermaid, Confluence
+- __Documentation__: MkDocs, Doxygen, Mermaid, Confluence
 - __Dev__: Agile, Jira, Slack
 - __Education__: Computer Science BSc. 2:2 from Manchester University
 
