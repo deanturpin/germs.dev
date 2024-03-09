@@ -10,6 +10,15 @@
 
 ## 2024
 
+## March
+
+- Mina -- Bilbao (££££): outstanding Michelin-starred Basque cuisine by the river
+- Sagarra -- Bilbao (£££):
+- Aura -- Bilbao (££):
+- Pincho bar -- Bilbao (££): very good pintxos
+- Lacom Penta -- Bilbao (££): tbd
+- Cote -- Brighton (££): solid French chain
+
 ### February
 
 - Bonsai Plant Kitchen (£££): very stylish Japanese skewers, and you would not know it was vegan
