@@ -6,9 +6,11 @@ Selecting a laptop for running Logic.
 
 > Long time user with a big gap, looking to get back into it. I worked a lot with versions 6, 7, Express... Thinking about a MacBook Pro but not sure how much to spend. I always seemed to be fighting the CPU in the past, but does modern Logic make use of the more capable graphics cards on the top tier laptops?
 
-## Peripherals
+## MacBook Pro configuration
 
-[![](https://mermaid.ink/img/pako:eNqFVP9q2zAQfhUhKGyQZHbi5hel0CyFhTZla8MKw1AU62JrtSUjy129JO-x99mL7WTnh5u2Wf6Ipfu-u-90d9KSBooDHdJQszQi17e-JPir_k9OyDVLjUqrbcKCuVKPS59OWTDC1dlcn3_V6tOF0D5dvyCRZrNJzNz94NNZlEsOeq5iQ1yffnyL1z7gtd_irVBrheTOAbnzZtCfLHhE4hdgPI2UhNKATATPSYRW9x2BiCfCOo6nk4reJFxkacwKtHpX2837GWYciXdjolEEtI1RBsn4Q8C0xdzZiCBud2WUXbXvhQZOODyJALLKWmaKPiMoQI8LyRIRkPGMuL2eQ1Bun4YIkHb798_4ktzM3IsdAM_mIbKyl88GtGQxyYzSLISaK7cnnopAqyulwx0Q5sIwbV1jCIxG5cqyI7CcC4UDcWG_dhyERI0FC2A_EErachjLsBuB4tnLY9_gcYlRJGJPUBmfhCziB5ak6Prdrgmut90owR3AoWrrQRljyDISKCkxcaFkVq8Fabaaq3uxEKtt8_a1tpM4UhmQb59Jz3FKTWSP4hyMUiY6cElUnoGtnf3-j_wIxVxVI3C1WR5zORiLV4cpi0_ObEmw-a9sm1YdmM9X08l4sip7XscsZNvzkt_C1GStO6t9Z2r54T0vG1N61eyzSMgwIxPCYnsXCqJ-bcDMFDFUs00WIo6HsQgjE2qAV4T2MYI9xXE8OApvrm5JwTshQ6jDVRVqIG3QBHTCBMcXc2mpPjURJNj5IS45LFgeG5_6co1Ulht1V8iADo3OoUHzlDMDY8HwrU3ocMHiDK0pk3S4pM902B44LafTdgYD1-n3ep7XoAUduj2v1el6rtfp9V331DtdN-hvpTCA0-oOBu1Bt48-fa97etrfalxye8t2ElBup9VDX773peyPMorNbf0PRQ7opA?type=png)](https://mermaid.live/edit#pako:eNqFVP9q2zAQfhUhKGyQZHbi5hel0CyFhTZla8MKw1AU62JrtSUjy129JO-x99mL7WTnh5u2Wf6Ipfu-u-90d9KSBooDHdJQszQi17e-JPir_k9OyDVLjUqrbcKCuVKPS59OWTDC1dlcn3_V6tOF0D5dvyCRZrNJzNz94NNZlEsOeq5iQ1yffnyL1z7gtd_irVBrheTOAbnzZtCfLHhE4hdgPI2UhNKATATPSYRW9x2BiCfCOo6nk4reJFxkacwKtHpX2837GWYciXdjolEEtI1RBsn4Q8C0xdzZiCBud2WUXbXvhQZOODyJALLKWmaKPiMoQI8LyRIRkPGMuL2eQ1Bun4YIkHb798_4ktzM3IsdAM_mIbKyl88GtGQxyYzSLISaK7cnnopAqyulwx0Q5sIwbV1jCIxG5cqyI7CcC4UDcWG_dhyERI0FC2A_EErachjLsBuB4tnLY9_gcYlRJGJPUBmfhCziB5ak6Prdrgmut90owR3AoWrrQRljyDISKCkxcaFkVq8Fabaaq3uxEKtt8_a1tpM4UhmQb59Jz3FKTWSP4hyMUiY6cElUnoGtnf3-j_wIxVxVI3C1WR5zORiLV4cpi0_ObEmw-a9sm1YdmM9X08l4sip7XscsZNvzkt_C1GStO6t9Z2r54T0vG1N61eyzSMgwIxPCYnsXCqJ-bcDMFDFUs00WIo6HsQgjE2qAV4T2MYI9xXE8OApvrm5JwTshQ6jDVRVqIG3QBHTCBMcXc2mpPjURJNj5IS45LFgeG5_6co1Ulht1V8iADo3OoUHzlDMDY8HwrU3ocMHiDK0pk3S4pM902B44LafTdgYD1-n3ep7XoAUduj2v1el6rtfp9V331DtdN-hvpTCA0-oOBu1Bt48-fa97etrfalxye8t2ElBup9VDX773peyPMorNbf0PRQ7opA)
+[![](https://mermaid.ink/img/pako:eNqFVf1O2zAQf5WTpUmbRLumFPohBKIUaQiKBlRDmiohN74mHokdOU5HRnmPvc9ebOeEpKEwlj8S-36_-z7Hj8zXAtmIBYYnIVxczxXQU74_fIALnlidlNuY-wut7x_nbMr9Ma0OFubwq9Gfj6WZs6cXJGi1WmAX3sc5m4WZEmgWOrLgzdmnt3jdLV73Td4P7t8T8QtykYRaYSEgJoGHEFbS1HuluaYo1xCKWDr1yfSsVGqBkGkS8ZykvfNq85br0kAqiHgzAUOu0DgbhZFU3PncOMybjYFwtyus1GW8lQYFCFxJH9NS2oiXNMeYo5nkisfSh8kMvH6_A-R0E4z0iXb95_fkFC5n3nENpFYbHiCBpw8WjeJRJWroCpf4VPpGn2sTwD3mC10F6RhBJi03zkaEvjUUQympCTwTUlPnj93X9V0qcrbkPm46r5Ukx6mrkXW0WvKyFpdUA7AaQr7CUriSKo_ueJyQ6je3BlpXLSrAGhBYdnyrthGmKfhaKYpeavWqxG6-xjpFuDqBfqdT2G631uMoQ6u1DddVs6tUstRVdOq-_yNXxST--aau76oo7qp0eXwDC5rgLKn4t3IpG9St8XmVX9EUOHDzmYRcWR2v3Zxsg1Uvt8SH6-nZ5GxdTEcTc9CmdS-U2hSjarRvvWldSaQTXx6J5wncpFAhhamGfBZKFaRwBjxyxyoH_VNVg51H2DwmsJRRNIpkENrAIP6D1n2P5nJ9H_ffhZ__CAWFMlQBNuGyTC_AOs-rDNNG60jSghOuKHGTKcAVmty6UoANjc6CEDgI7d8fNei3IbfAFzqjN9SjBa6L9RAesR0Wo4m5FPRTf3Tac2ZDjGmMR7QUuORZZOdsrp6IyjOrb3Lls5E1Ge6wLBHc4kRyug5iNlryKCVpwhUbPbIHNuoOO-3ObrczHHqdQb_f6-2wnI28fq-9u9_zerv9geft9faedtgvrclAp70_HHaH-wPSGfT29_YGlY9T4eardoHFdlreRcWVVLj9XlhxsT39BZArIVg?type=png)](https://mermaid.live/edit#pako:eNqFVf1O2zAQf5WTpUmbRLumFPohBKIUaQiKBlRDmiohN74mHokdOU5HRnmPvc9ebOeEpKEwlj8S-36_-z7Hj8zXAtmIBYYnIVxczxXQU74_fIALnlidlNuY-wut7x_nbMr9Ma0OFubwq9Gfj6WZs6cXJGi1WmAX3sc5m4WZEmgWOrLgzdmnt3jdLV73Td4P7t8T8QtykYRaYSEgJoGHEFbS1HuluaYo1xCKWDr1yfSsVGqBkGkS8ZykvfNq85br0kAqiHgzAUOu0DgbhZFU3PncOMybjYFwtyus1GW8lQYFCFxJH9NS2oiXNMeYo5nkisfSh8kMvH6_A-R0E4z0iXb95_fkFC5n3nENpFYbHiCBpw8WjeJRJWroCpf4VPpGn2sTwD3mC10F6RhBJi03zkaEvjUUQympCTwTUlPnj93X9V0qcrbkPm46r5Ukx6mrkXW0WvKyFpdUA7AaQr7CUriSKo_ueJyQ6je3BlpXLSrAGhBYdnyrthGmKfhaKYpeavWqxG6-xjpFuDqBfqdT2G631uMoQ6u1DddVs6tUstRVdOq-_yNXxST--aau76oo7qp0eXwDC5rgLKn4t3IpG9St8XmVX9EUOHDzmYRcWR2v3Zxsg1Uvt8SH6-nZ5GxdTEcTc9CmdS-U2hSjarRvvWldSaQTXx6J5wncpFAhhamGfBZKFaRwBjxyxyoH_VNVg51H2DwmsJRRNIpkENrAIP6D1n2P5nJ9H_ffhZ__CAWFMlQBNuGyTC_AOs-rDNNG60jSghOuKHGTKcAVmty6UoANjc6CEDgI7d8fNei3IbfAFzqjN9SjBa6L9RAesR0Wo4m5FPRTf3Tac2ZDjGmMR7QUuORZZOdsrp6IyjOrb3Lls5E1Ge6wLBHc4kRyug5iNlryKCVpwhUbPbIHNuoOO-3ObrczHHqdQb_f6-2wnI28fq-9u9_zerv9geft9faedtgvrclAp70_HHaH-wPSGfT29_YGlY9T4eardoHFdlreRcWVVLj9XlhxsT39BZArIVg)
+
+## MacBook Air configuration
 
 ## Responses
 
@@ -33,12 +35,16 @@ We agreed that the £1500 Air was the same spec as the £2000 Pro (bar HD size),
 
 ## Specs
 
-### Air
-
-- 8-Core CPU
-- 10-Core GPU
-- 16GB Unified Memory
-- 512GB SSD Storage footnote
+| Model | CPU | GPU | RAM | Storage | Display | Thunderbolt ports | Headphone | HDMI | SDXC | Price |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Air | 8 | 10 | 16    | 512GB | 13.6" | 2 | yes | no | no |       £1499 |
+| Air | 8 | 10 | 16    | 512GB | 15.3" | 2 | yes | no | no |       £1699 |
+| Pro | 8 | 10 | 16    | 1TB   | 14" XDR |   2 | yes | yes | yes | £2099 |
+| Pro | 11 | 14 | 18 |   512GB | 14" XDR | 3 | yes | yes | yes |   £2099 |
+| Pro |  12 | 18 | 18 | 1TB    | 14" XDR | 3 | yes | yes | yes |   £2499 |
+| Pro |  12 | 18 | 18 | 512GB    | 16" XDR | 3 | yes | yes | yes | £2599 |
+| Pro | 14 | 30 | 36 | 1TB    | 14" XDR  | 3 | yes | yes | yes |   £3299 |
+| Pro | 14 | 30 | 36 | 1TB    | 16" XDR  | 3 | yes | yes | yes |   £3599 |
 
 ## Questions
 
