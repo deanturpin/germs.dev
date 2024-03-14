@@ -40,6 +40,11 @@ We agreed that the £1500 Air was the same spec as the £2000 Pro (bar HD size),
 - 16GB Unified Memory
 - 512GB SSD Storage footnote
 
+## Questions
+
+- Are Bluetooth MIDI keyboards a thing?
+- Do people use docks?
+
 ## DACs
 
 - Currently got [this one](https://www.audioquest.com/dacs/dragonfly/dragonfly-cobalt)
