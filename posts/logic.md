@@ -8,9 +8,11 @@ Selecting a laptop for running Logic.
 
 ## MacBook Pro configuration
 
-[![](https://mermaid.ink/img/pako:eNqFVf1O2zAQf5WTpUmbRLumFPohBKIUaQiKBlRDmiohN74mHokdOU5HRnmPvc9ebOeEpKEwlj8S-36_-z7Hj8zXAtmIBYYnIVxczxXQU74_fIALnlidlNuY-wut7x_nbMr9Ma0OFubwq9Gfj6WZs6cXJGi1WmAX3sc5m4WZEmgWOrLgzdmnt3jdLV73Td4P7t8T8QtykYRaYSEgJoGHEFbS1HuluaYo1xCKWDr1yfSsVGqBkGkS8ZykvfNq85br0kAqiHgzAUOu0DgbhZFU3PncOMybjYFwtyus1GW8lQYFCFxJH9NS2oiXNMeYo5nkisfSh8kMvH6_A-R0E4z0iXb95_fkFC5n3nENpFYbHiCBpw8WjeJRJWroCpf4VPpGn2sTwD3mC10F6RhBJi03zkaEvjUUQympCTwTUlPnj93X9V0qcrbkPm46r5Ukx6mrkXW0WvKyFpdUA7AaQr7CUriSKo_ueJyQ6je3BlpXLSrAGhBYdnyrthGmKfhaKYpeavWqxG6-xjpFuDqBfqdT2G631uMoQ6u1DddVs6tUstRVdOq-_yNXxST--aau76oo7qp0eXwDC5rgLKn4t3IpG9St8XmVX9EUOHDzmYRcWR2v3Zxsg1Uvt8SH6-nZ5GxdTEcTc9CmdS-U2hSjarRvvWldSaQTXx6J5wncpFAhhamGfBZKFaRwBjxyxyoH_VNVg51H2DwmsJRRNIpkENrAIP6D1n2P5nJ9H_ffhZ__CAWFMlQBNuGyTC_AOs-rDNNG60jSghOuKHGTKcAVmty6UoANjc6CEDgI7d8fNei3IbfAFzqjN9SjBa6L9RAesR0Wo4m5FPRTf3Tac2ZDjGmMR7QUuORZZOdsrp6IyjOrb3Lls5E1Ge6wLBHc4kRyug5iNlryKCVpwhUbPbIHNuoOO-3ObrczHHqdQb_f6-2wnI28fq-9u9_zerv9geft9faedtgvrclAp70_HHaH-wPSGfT29_YGlY9T4eardoHFdlreRcWVVLj9XlhxsT39BZArIVg?type=png)](https://mermaid.live/edit#pako:eNqFVf1O2zAQf5WTpUmbRLumFPohBKIUaQiKBlRDmiohN74mHokdOU5HRnmPvc9ebOeEpKEwlj8S-36_-z7Hj8zXAtmIBYYnIVxczxXQU74_fIALnlidlNuY-wut7x_nbMr9Ma0OFubwq9Gfj6WZs6cXJGi1WmAX3sc5m4WZEmgWOrLgzdmnt3jdLV73Td4P7t8T8QtykYRaYSEgJoGHEFbS1HuluaYo1xCKWDr1yfSsVGqBkGkS8ZykvfNq85br0kAqiHgzAUOu0DgbhZFU3PncOMybjYFwtyus1GW8lQYFCFxJH9NS2oiXNMeYo5nkisfSh8kMvH6_A-R0E4z0iXb95_fkFC5n3nENpFYbHiCBpw8WjeJRJWroCpf4VPpGn2sTwD3mC10F6RhBJi03zkaEvjUUQympCTwTUlPnj93X9V0qcrbkPm46r5Ukx6mrkXW0WvKyFpdUA7AaQr7CUriSKo_ueJyQ6je3BlpXLSrAGhBYdnyrthGmKfhaKYpeavWqxG6-xjpFuDqBfqdT2G631uMoQ6u1DddVs6tUstRVdOq-_yNXxST--aau76oo7qp0eXwDC5rgLKn4t3IpG9St8XmVX9EUOHDzmYRcWR2v3Zxsg1Uvt8SH6-nZ5GxdTEcTc9CmdS-U2hSjarRvvWldSaQTXx6J5wncpFAhhamGfBZKFaRwBjxyxyoH_VNVg51H2DwmsJRRNIpkENrAIP6D1n2P5nJ9H_ffhZ__CAWFMlQBNuGyTC_AOs-rDNNG60jSghOuKHGTKcAVmty6UoANjc6CEDgI7d8fNei3IbfAFzqjN9SjBa6L9RAesR0Wo4m5FPRTf3Tac2ZDjGmMR7QUuORZZOdsrp6IyjOrb3Lls5E1Ge6wLBHc4kRyug5iNlryKCVpwhUbPbIHNuoOO-3ObrczHHqdQb_f6-2wnI28fq-9u9_zerv9geft9faedtgvrclAp70_HHaH-wPSGfT29_YGlY9T4eardoHFdlreRcWVVLj9XlhxsT39BZArIVg)
+[![](https://mermaid.ink/img/pako:eNqFVW1P2zAQ_isnS0ibRqumLfRFiIlS0BAU8VINaaqE3PhoPBI7cmxGRvkf-z_7YzsnpITysn5I7XueO_vuHtsPLNQC2ZAtDE8jOLmYKaBf-d3YgBOeWp2W04SHc61vH2ZswsMRjeDM6Bl7fIFCo9EAOw8-zdg0ckqgmevYQjBjn9_itdd47Td5P3l4S8RvyEUaaYWFgZgE7kJUWbPgleeSdriESCTSu48nR6VTA4TM0pjnZO0eV5O3li4DZIKIl2MwtBQaH6MIkonrkBuPBdMREO5n70ex885atp2CvCr2lTQoQOCdDDErrbXkyHeEOZpxrngiQxhPIej1WmUTqjVlSLSLv3_GB3A6DfZWQGa14Qsk8ODeolE8rkw1X-GrNJGh0cfaLOAW87muZ7Rw0nLjY8QYWkN7KC0rAndCatLHoQ5dZqTFnbnZ3Y-5QWu_QPvM4LNctJK0gcwX1nq3leVlTU6pFmA1RPwOS-OdVHl8zZOUXL_7MdC46msBrgCBpUzWahxjlkGolaIspFavSu1FOdIZwvk-9FqtInazsRzFDq3WNlpWva1ScZmv7MT__49cFZX4x8_1_dBFcV-l071LmJPsXVrxr-SNrFHXZPQqv6I5sOPlmEZcWZ0svV7Wwaqna-bd5eRofLQsVFLHPPTcuhdOTdqjqrVv-dy6ard0UZQn6UmLT8a2NzbKQLXEppFUiwyOgMf-JOagf6lK3nmM9cMCNzKOh7FcRHZhEN-htT-i-Uw_xsMP4afjX1AoO1WlV8JlkV6AqzzPHWa1xpGlAftcUeLGKcA7NLn1pQAbGe0WEXAQOrz9WqNfRdwCn2tHX1gJC3wPVxKs8w9dTMfl6WYp9lPkF9L17wyyTZagSbgU9FI8eLcZsxEmpPYhDQXecBfbGZupR6JyZ_VlrkI2tMbhJnOp4BbHktMbk1TGlCs2fGD3bNgetJqtTrs1GAStfq_X7W6ynA2DXrfZ2e4G3U6vHwRb3a3HTfZba_JvNbcHg_Zgu08-_e721la_WuJAeBWy4Q2PM1oCi-mkfN-KZ65Y9kcRxe_i8R9EbDxZ?type=png)](https://mermaid.live/edit#pako:eNqFVW1P2zAQ_isnS0ibRqumLfRFiIlS0BAU8VINaaqE3PhoPBI7cmxGRvkf-z_7YzsnpITysn5I7XueO_vuHtsPLNQC2ZAtDE8jOLmYKaBf-d3YgBOeWp2W04SHc61vH2ZswsMRjeDM6Bl7fIFCo9EAOw8-zdg0ckqgmevYQjBjn9_itdd47Td5P3l4S8RvyEUaaYWFgZgE7kJUWbPgleeSdriESCTSu48nR6VTA4TM0pjnZO0eV5O3li4DZIKIl2MwtBQaH6MIkonrkBuPBdMREO5n70ex885atp2CvCr2lTQoQOCdDDErrbXkyHeEOZpxrngiQxhPIej1WmUTqjVlSLSLv3_GB3A6DfZWQGa14Qsk8ODeolE8rkw1X-GrNJGh0cfaLOAW87muZ7Rw0nLjY8QYWkN7KC0rAndCatLHoQ5dZqTFnbnZ3Y-5QWu_QPvM4LNctJK0gcwX1nq3leVlTU6pFmA1RPwOS-OdVHl8zZOUXL_7MdC46msBrgCBpUzWahxjlkGolaIspFavSu1FOdIZwvk-9FqtInazsRzFDq3WNlpWva1ScZmv7MT__49cFZX4x8_1_dBFcV-l071LmJPsXVrxr-SNrFHXZPQqv6I5sOPlmEZcWZ0svV7Wwaqna-bd5eRofLQsVFLHPPTcuhdOTdqjqrVv-dy6ard0UZQn6UmLT8a2NzbKQLXEppFUiwyOgMf-JOagf6lK3nmM9cMCNzKOh7FcRHZhEN-htT-i-Uw_xsMP4afjX1AoO1WlV8JlkV6AqzzPHWa1xpGlAftcUeLGKcA7NLn1pQAbGe0WEXAQOrz9WqNfRdwCn2tHX1gJC3wPVxKs8w9dTMfl6WYp9lPkF9L17wyyTZagSbgU9FI8eLcZsxEmpPYhDQXecBfbGZupR6JyZ_VlrkI2tMbhJnOp4BbHktMbk1TGlCs2fGD3bNgetJqtTrs1GAStfq_X7W6ynA2DXrfZ2e4G3U6vHwRb3a3HTfZba_JvNbcHg_Zgu08-_e721la_WuJAeBWy4Q2PM1oCi-mkfN-KZ65Y9kcRxe_i8R9EbDxZ)
 
 ## MacBook Air configuration
+
+[![](https://mermaid.ink/img/pako:eNqFk21vmzAQx7-KZanSJiUREBICLyY1S6VNbaZtjVSp4o3BF_BibGSbrTTNd9-FlDR92MoLcz7_fD7_77ylueZAE1oYVpfk6meqCH6H8eyMXLHa6fowrVieab3ZpnTJ8jla5FyYlO6erZLhcEhc5n9I6apsFAeTaemIn9KPb3HBCy54k_vF8g2CX4DxutQKOgeSuPiJlL3X-qk6Jn4jDHDC4bfIwR68JyAGm0MLZtEqVomcLFbEjyKPfDf6mIB12rACEL24c2AUk73riHBha8laRMLLftItPktDgrUk10pB7oRWr7LZazDXFsiPzyTyvO5eo-HDXDbgtHblQ6_FozC6sfuslvv_e_AG2kwzw5G_fDTf26KYRfrb-TXJUOWm7vkbsRYn6AulX90Pe6CrXS_L04ZVKVRhyVfCpEERWqL_qF7yVsJpnchaSJlIUZSuMAD_wIL_YX0fdQiWT2H9FB3QCkzFBMfW3-7xlLoSKtQzQZPDmjXSpTRVO0RZ4_R1q3KaONPAgDY1Zw4WguGjqWiyZtKit2aKJlt6R5Mg9kbeOPDi2PdmURSGA9rSxI_C0Xga-uE4mvn-JJzsBvReawzgjaZxHMTTGe6ZhdPJZNafccEFttzxCOimy8OL7R5ud-xtF2Wf2-4v2xs3-g?type=png)](https://mermaid.live/edit#pako:eNqFk21vmzAQx7-KZanSJiUREBICLyY1S6VNbaZtjVSp4o3BF_BibGSbrTTNd9-FlDR92MoLcz7_fD7_77ylueZAE1oYVpfk6meqCH6H8eyMXLHa6fowrVieab3ZpnTJ8jla5FyYlO6erZLhcEhc5n9I6apsFAeTaemIn9KPb3HBCy54k_vF8g2CX4DxutQKOgeSuPiJlL3X-qk6Jn4jDHDC4bfIwR68JyAGm0MLZtEqVomcLFbEjyKPfDf6mIB12rACEL24c2AUk73riHBha8laRMLLftItPktDgrUk10pB7oRWr7LZazDXFsiPzyTyvO5eo-HDXDbgtHblQ6_FozC6sfuslvv_e_AG2kwzw5G_fDTf26KYRfrb-TXJUOWm7vkbsRYn6AulX90Pe6CrXS_L04ZVKVRhyVfCpEERWqL_qF7yVsJpnchaSJlIUZSuMAD_wIL_YX0fdQiWT2H9FB3QCkzFBMfW3-7xlLoSKtQzQZPDmjXSpTRVO0RZ4_R1q3KaONPAgDY1Zw4WguGjqWiyZtKit2aKJlt6R5Mg9kbeOPDi2PdmURSGA9rSxI_C0Xga-uE4mvn-JJzsBvReawzgjaZxHMTTGe6ZhdPJZNafccEFttzxCOimy8OL7R5ud-xtF2Wf2-4v2xs3-g)
 
 ## Responses
 
@@ -34,22 +36,16 @@ We agreed that the £1500 Air was the same spec as the £2000 Pro (bar HD size),
 - [MacBook Pro](https://www.apple.com/uk/shop/buy-mac/macbook-pro/14-inch)
 
 ## Specs
-
-| Model | CPU | GPU | RAM | Storage | Display | Thunderbolt ports | Headphone | HDMI | SDXC | Price |
+| Model | CPU | GPU | RAM | Storage | Display | Thunderbolt ports | Price | Headphone | HDMI | SDXC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Air | 8 | 10 | 16    | 512GB | 13.6" | 2 | yes | no | no |       £1499 |
-| Air | 8 | 10 | 16    | 512GB | 15.3" | 2 | yes | no | no |       £1699 |
-| Pro | 8 | 10 | 16    | 1TB   | 14" XDR |   2 | yes | yes | yes | £2099 |
-| Pro | 11 | 14 | 18 |   512GB | 14" XDR | 3 | yes | yes | yes |   £2099 |
-| Pro |  12 | 18 | 18 | 1TB    | 14" XDR | 3 | yes | yes | yes |   £2499 |
-| Pro |  12 | 18 | 18 | 512GB    | 16" XDR | 3 | yes | yes | yes | £2599 |
-| Pro | 14 | 30 | 36 | 1TB    | 14" XDR  | 3 | yes | yes | yes |   £3299 |
-| Pro | 14 | 30 | 36 | 1TB    | 16" XDR  | 3 | yes | yes | yes |   £3599 |
-
-## Questions
-
-- Are Bluetooth MIDI keyboards a thing?
-- Do people use docks?
+| Air | 8 | 10 | 16 | 512GB | 13.6" | 2 | £1499 | &#10003; |||
+| Air | 8 | 10 | 16 | 512GB | 15.3" | 2 | £1699 | &#10003; |||
+| Pro | 8 | 10 | 16 | 1TB | 14" XDR | 2 | £2099 | &#10003; | &#10003; | &#10003; |
+| Pro | 11 | 14 | 18 | 512GB | 14" XDR | 3 | £2099 | &#10003; | &#10003; | &#10003; |
+| Pro | 12 | 18 | 18 | 1TB | 14" XDR | 3 | £2499 | &#10003; | &#10003; | &#10003; |
+| Pro | 12 | 18 | 18 | 512GB | 16" XDR | 3 | £2599 | &#10003; | &#10003; | &#10003; |
+| Pro | 14 | 30 | 36 | 1TB | 14" XDR | 3 | £3299 | &#10003; | &#10003; | &#10003; |
+| Pro | 14 | 30 | 36 | 1TB | 16" XDR | 3 | £3599 | &#10003; | &#10003; | &#10003; |
 
 ## DACs
 
