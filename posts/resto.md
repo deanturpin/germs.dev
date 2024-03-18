@@ -12,11 +12,12 @@
 
 ## March
 
+- Ola -- Bilbao (££££): Michelin-starred food in a really curious building (never got to the bottom of what it was)
 - Mina -- Bilbao (££££): outstanding Michelin-starred Basque cuisine by the river
-- Sagarra -- Bilbao (£££):
+- Adador Sagarra -- Bilbao (£££): cracking steak and wine in the old town
 - Aura -- Bilbao (££):
-- Pincho bar -- Bilbao (££): very good pintxos
-- Lacom Penta -- Bilbao (££): tbd
+- Zaharra Plaza nueva -- Bilbao (££): very good pintxos
+- Basauri Elkartegia -- Bilbao (££): three course lunch on an industrial estate, if you've ended up in this end of town you are far from the tourist trail!
 - Cote -- Brighton (££): solid French chain
 
 ### February
