@@ -32,7 +32,7 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 ## Tesla Model Y
 
 - Battery capacity 82 kWh
-- Driving range 336 miles
+- Driving range 336 miles (this has been downgraded in 2024)
 - Efficiency 271 Wh/miles
 
 | Model | Range | Efficiency | Battery capacity | Power per mile |
@@ -50,9 +50,10 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 - [Tesla shop](https://shop.tesla.com/)
 - [EV Accessories](https://evaccessories.co.uk/)
 
-## Camping
+## Camping in the Tesla
 
-- https://www.amazon.co.uk/dp/B0BL7VMHKY?ref_=cm_sw_r_apan_dp_4TWBNWEJ5E2K3JEA9BM8
+- [Camping Privacy Curtains Especially Designed for Tesla Model Y](https://www.amazon.co.uk/TESBEAUTY-Curtains-Sunshade-Upgraded-Distinctive/dp/B0B1WZJWR8/ref=dp_fod_sccl_3/257-3695261-1079115?pd_rd_w=Sd8zS&content-id=amzn1.sym.fd0b82fb-e9ae-42a5-94a3-41ec499cc326&pf_rd_p=fd0b82fb-e9ae-42a5-94a3-41ec499cc326&pf_rd_r=7T983VGM031Z0895DENM&pd_rd_wg=92lAv&pd_rd_r=d5faa8d3-0415-43f4-8271-1c244ee65fba&pd_rd_i=B0B1WZJWR8&th=1)
+- [LOSTHORIZON 4.5”Thick Self Inflating Sleeping Pad for Tesla Model Y](https://www.amazon.co.uk/dp/B0BL7VMHKY?ref_=cm_sw_r_apan_dp_4TWBNWEJ5E2K3JEA9BM8)
 
 ## Tariffs
 
