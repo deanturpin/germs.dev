@@ -32,10 +32,18 @@ So I had a chat to an actual user at the Apple Store in Brighton.
 
 We agreed that the £1500 Air was the same spec as the £2000 Pro (bar HD size), but the Pro has a bit more connectivity (extra USB-C and HDMI) and a "low impedence" headphone socket for my posh cans (which I normally use with a USB DAC, but I might just go dirty Bluetooth on my travels anyway). The Pro also has fans but he said he'd never heard them spin whilst using Logic: hoist with his own petard, perhaps?
 
+You can see some preconfigured models here:
+
 - [MacBook Air](https://www.apple.com/uk/shop/buy-mac/macbook-air/13-inch-m3)
 - [MacBook Pro](https://www.apple.com/uk/shop/buy-mac/macbook-pro/14-inch)
 
+However, I didn't realise for quite a while that you can add a 1TB disk to a MacBook Air for £200 (as none of the example configurations had a 1TB HD): I assumed it didn't fit in the case! So you _can_ get the Air to the same spec as the Pro -- in terms of HD and RAM -- for £400 less. The Pro, of course, has a better screen.
+
+- Configure your [Air](https://www.apple.com/uk/shop/buy-mac/macbook-air/13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-512gb)
+- Configure your [Pro](https://www.apple.com/uk/shop/buy-mac/macbook-pro/14-inch-space-grey-apple-m1-pro-chip-with-8-core-cpu-and-14-core-gpu-16gb-memory-1tb)
+
 ## Specs
+
 | Model | CPU | GPU | RAM | Storage | Display | Thunderbolt ports | Price | Headphone | HDMI | SDXC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Air | 8 | 10 | 16 | 512GB | 13.6" | 2 | £1499 | &#10003; |||
