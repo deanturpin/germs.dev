@@ -1,4 +1,4 @@
 # Top level domains
 
-[![](https://germs.dev/hosts.svg)](https://germs.dev/hosts.svg)
+[![top level domains](https://ping.germs.dev/hosts.svg)](https://ping.germs.dev/hosts.svg)
 
