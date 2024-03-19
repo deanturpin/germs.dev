@@ -1,5 +1,7 @@
 # Restaurants
 
+All restaurants in Brighton unless otherwise specified.
+
 | Key | Price per head with refreshments |
 | --- | --- |
 | £ | £15 |
@@ -12,13 +14,13 @@
 
 ## March
 
-- Ola -- Bilbao (££££): Michelin-starred food in a really curious building (never got to the bottom of what it was)
-- Mina -- Bilbao (££££): outstanding Michelin-starred Basque cuisine by the river
-- Adador Sagarra -- Bilbao (£££): cracking steak and wine in the old town
-- Aura -- Bilbao (££):
-- Zaharra Plaza nueva -- Bilbao (££): very good pintxos
-- Basauri Elkartegia -- Bilbao (££): three course lunch on an industrial estate, if you've ended up in this end of town you are far from the tourist trail!
-- Cote -- Brighton (££): solid French chain
+- Ola, Bilbao (££££): Michelin-starred food in a really curious building (never got to the bottom of what it was)
+- Mina, Bilbao (££££): outstanding Michelin-starred Basque cuisine by the river
+- Adador Sagarra, Bilbao (£££): cracking steak and wine in the old town
+- Aura, Bilbao (££):
+- Zaharra Plaza nueva, Bilbao (££): very good pintxos
+- Basauri Elkartegia, Bilbao (££): three course lunch on an industrial estate, if you've ended up in this end of town you are far from the tourist trail!
+- Côte, Brighton (££): solid French chain
 
 ### February
 
@@ -40,10 +42,10 @@
 ### November
 
 - Plateau (£££): back to form for this French sharing plates restaurant in Brighton
-- Zoilo (£££): perfectly good steakhouse near Selfridges
-- Maison Bab (££): gyros style kebabs, quick and tasty.
-- The Clove Club (£££££): two-star in Michelin in Shoreditch... I had to add another pound to my rating system for this one!
-- Dishoom (King's Cross) (£££): very slick Indian chain; quick and tasty
+- Zoilo, London (£££): perfectly good steakhouse near Selfridges
+- Maison Bab, London (££): gyros style kebabs, quick and tasty.
+- The Clove Club, London (£££££): two-star in Michelin in Shoreditch... I had to add another pound to my rating system for this one!
+- Dishoom (King's Cross), London (£££): very slick Indian chain; quick and tasty
 
 ### October
 
@@ -53,14 +55,14 @@
 - Bincho (££): it's always hard to get in here, defo book
 - [64 Degrees](https://64degrees.co.uk/) (££££): fine dining by acclaimed chef Michael Bremner
 
-### To try
+### September
 
-- https://www.carne-hove.co.uk/
-- Rockwater
-- Cin Cin
-- The Flint House
+No dining? What?!
 
----
+### August
+
+- Rocco, Lisbon (£££): a very slick Italian, styled much like The Ivy in the UK
+- Bar da Praia, Odeceixe (££): great spot overlooking the river (was getting slightly nippy after sunset), very prompt service and some cheeky pinchos: namely the Gilda, of which I could have eaten many
 
 ## 2021
 

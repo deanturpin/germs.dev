@@ -77,7 +77,3 @@ TBC
 ## TBC2, Ericeira, Portugal (August 2023)
 
 TBC
-
-## Furna, Brighton, UK (TBC)
-
-Third visit and almost certainly the most exciting food I've had in Brighton this year.
