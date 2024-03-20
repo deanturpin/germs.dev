@@ -1,7 +1,5 @@
 # Restaurants
 
-All restaurants in Brighton unless otherwise specified.
-
 | Key | Price per head with refreshments |
 | --- | --- |
 | £ | £15 |
@@ -12,7 +10,7 @@ All restaurants in Brighton unless otherwise specified.
 
 ## 2024
 
-## March
+### March
 
 - Ola, Bilbao (££££): Michelin-starred food in a really curious building (never got to the bottom of what it was)
 - Mina, Bilbao (££££): outstanding Michelin-starred Basque cuisine by the river
