@@ -36,5 +36,6 @@ brew install duf tmux vim neofetch
 
 ## Benchmarks
 
-Compile [clang](https://gitlab.com/deanturpin/clang/-/blob/main/Dockerfile) from scratch in 22 minutes.
+- Compare my [work laptop CPU](https://www.cpubenchmark.net/compare/5749vs3814/Apple-M3-8-Core-vs-Intel-i7-1165G7)
+- Compile [clang](https://gitlab.com/deanturpin/clang/-/blob/main/Dockerfile) from scratch in 22 minutes.
 
