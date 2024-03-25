@@ -1,6 +1,5 @@
 # Money habits
 
-
 1. Pay yourself first
 1. Don't get confortable with bad debt, save 10% before you pay the bills
 1. You need a 3-6 months stockpile (buffer)
