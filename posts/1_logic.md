@@ -70,5 +70,5 @@ However, I didn't realise for quite a while that you can add a 1TB disk to a Mac
 
 ## Performance
 
-So RAM appears to be the bottleneck, not HD size. If you don't start much on login you can get the "ambient" RAM usage down to 28%. Logic barely even tickles the CPU.
+So RAM appears to be the bottleneck, not HD size. If you don't start much on login you can get the quiescent RAM usage down to 30% of 16GB. Logic barely even tickles the CPU.
 
