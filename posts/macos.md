@@ -23,7 +23,7 @@ brew update
 Via `brew`.
 
 ```bash
-brew install duf tmux vim neofetch google-benchmark stats entr watch
+brew install duf tmux vim neofetch google-benchmark stats entr watch ag
 ```
 
 ## GUI applications
