@@ -30,3 +30,11 @@ Via `brew`.
 brew install duf tmux vim neofetch
 ```
 
+## Monitoring
+
+- Hot application for task bar temperature monitoring
+
+## Benchmarks
+
+Compile [clang](https://gitlab.com/deanturpin/clang/-/blob/main/Dockerfile) from scratch in 22 minutes.
+

@@ -14,8 +14,8 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __UI__: Qt, JUCE, MFC
 - __Unit test/profiling__: Google Benchmark, Google Test, gprof
 - __Networking__: Wireshark/PCAP, Asterisk, OSI (TCP/UDP)
-- __CPU__: Intel, ARM, SPARC
-- __OS__: Debian (Ubuntu, Raspian, Kali), Alpine, Windows 11, Unix (Solaris), VxWorks
+- __CPU__: Intel, ARM (M3, RPi), SPARC
+- __OS__: Ubuntu, macOS, Alpine, Windows 11, Unix (Solaris), VxWorks
 - __Database__: PostgreSQL, MariaDB, DBeaver
 - __Documentation__: MkDocs, Doxygen, Mermaid, Confluence
 - __Dev__: Agile, Jira, Slack
