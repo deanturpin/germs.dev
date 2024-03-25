@@ -68,3 +68,7 @@ However, I didn't realise for quite a while that you can add a 1TB disk to a Mac
 - [VOLT 476P](https://www.gak.co.uk/en/universal-audio-volt-476p-audio-interface/957640)
 - SSL 12
 
+## Performance
+
+So RAM appears to be the bottleneck, not HD size. If you don't start much on login you can get the "ambient" RAM usage down to 28%.
+
