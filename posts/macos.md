@@ -34,6 +34,16 @@ brew install duf tmux vim neofetch google-benchmark stats entr watch ag
 
 - Hot application for task bar temperature monitoring
 
+## RAM usage
+
+Based on a proportion of 16GB RAM.
+
+| Application | Typical RAM usage (%) |
+|-|-|
+| Baseline (nothing running) | 30 |
+| Tidal | 5 |
+| Chrome (20 tabs) | 12 |
+
 ## Benchmarks
 
 - Compare my [work laptop CPU](https://www.cpubenchmark.net/compare/5749vs3814/Apple-M3-8-Core-vs-Intel-i7-1165G7)
