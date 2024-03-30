@@ -14,9 +14,9 @@ brew update
 ### Apps to install
 
 - [Homebrew](https://brew.sh/)
-- https://www.warp.dev/
 - [Docker Engine](https://docs.docker.com/engine/install/)
 - [Tidal](https://offer.tidal.com/download?lang=en)
+- [VS Code](https://code.visualstudio.com/docs/?dv=darwinarm64)
 
 ### Command line installs
 
@@ -25,14 +25,6 @@ Via `brew`.
 ```bash
 brew install duf tmux vim neofetch google-benchmark stats entr watch ag
 ```
-
-## GUI applications
-
-- [VS Code](https://code.visualstudio.com/docs/?dv=darwinarm64)
-
-## Monitoring
-
-- Hot application for task bar temperature monitoring
 
 ## RAM usage
 
