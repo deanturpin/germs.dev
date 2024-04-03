@@ -72,3 +72,11 @@ However, I didn't realise for quite a while that you can add a 1TB disk to a Mac
 
 So RAM appears to be the bottleneck, not HD size. If you don't start much on login you can get the quiescent RAM usage down to 30% of 16GB. Logic barely even tickles the CPU.
 
+## Migrating old projects
+
+Logic 6 didn't seem to bother putting file headers or extensions on bounces so I had to convert all unknown files into something useful.
+
+```bash
+for file in *; do [[ $file =~ .*\..* ]] || ffmpeg -f s24be -ar 44100 -ac 1 -i "$file" "$file.wav"; done
+```
+
