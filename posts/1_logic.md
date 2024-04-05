@@ -58,15 +58,17 @@ However, I didn't realise for quite a while that you can add a 1TB disk to a Mac
 | Pro | 14 | 30 | 36 | 1TB | 14" XDR | 3 | £3299 | &#10003; | &#10003; | &#10003; |
 | Pro | 14 | 30 | 36 | 1TB | 16" XDR | 3 | £3599 | &#10003; | &#10003; | &#10003; |
 
-## USB-C audio interfaces
+## Final configuration
 
-£400-ish options.
-
-- [Audient ID44](https://musictech.com/reviews/studio-recording-gear/audient-id44-mkii-review/)
-- Focusrite Scarlett
-- [RME Babyface Pro](https://www.soundonsound.com/reviews/rme-babyface-pro-fs)
-- [VOLT 476P](https://www.gak.co.uk/en/universal-audio-volt-476p-audio-interface/957640)
-- SSL 12
+| Device | Description | RRP |
+|-|-|-|
+| MacBook Air M3 16GB RAM 512GB HD | Laptop | 1499 |
+| Volt | Audio interface | 349 |
+| BeyerDynamic DT 1770 | Closed-back headphones | 300 |
+| UA MIDI keyboard | USB-C keyboard | 89 |
+| Rode Nt1A | Condenser mic | |
+| Stagg mic cable | | |
+| Mic stand | | |
 
 ## Performance
 
@@ -74,9 +76,12 @@ So RAM appears to be the bottleneck, not HD size. If you don't start much on log
 
 ## Migrating old projects
 
-Logic 6 didn't seem to bother putting file headers or extensions on bounces so I had to convert all unknown files into something useful.
+Logic 6 didn't bother putting file headers or even extensions on bounces so I had to convert all unknown files into something useful. Format was guessed by importing the raw audio data into Audacity with various options until the waveform looked sensible.
+
+Script to convert all files without extensions in the current directory into WAVs.
 
 ```bash
-for file in *; do [[ $file =~ .*\..* ]] || ffmpeg -f s24be -ar 44100 -ac 1 -i "$file" "$file.wav"; done
+for file in *; do
+    [[ $file =~ .*\..* ]] || ffmpeg -f s24be -ar 44100 -ac 1 -i "$file" "$file.wav"
+done
 ```
-
