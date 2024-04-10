@@ -21,8 +21,8 @@ Google Cloud,
 GoogleTest/Benchmark,
 gprof,
 Linux kernel 6.8,
-Darwin kernel 23.4
-GitHub Copilot,
+Darwin kernel 23.4,
+Copilot,
 Python 3.12.2,
 Docker 26,
 Logic Pro 10.8.1
