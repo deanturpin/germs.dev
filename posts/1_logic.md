@@ -85,3 +85,12 @@ for file in *; do
     [[ $file =~ .*\..* ]] || ffmpeg -f s24be -ar 44100 -ac 1 -i "$file" "$file.wav"
 done
 ```
+
+## Tutorials
+
+- [10 tricks](https://www.youtube.com/watch?v=T9i_N7IG_nk)
+
+## Shops
+
+- [Studio Spares](https://www.studiospares.com/#6a9b/fullscreen/m=and&p=4&q=mic+stand+desk)
+
