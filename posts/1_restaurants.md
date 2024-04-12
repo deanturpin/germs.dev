@@ -10,6 +10,10 @@
 
 ## 2024
 
+### April
+
+- No No Please, Brighton (£££): the hotest new restaurant on Preston Street; bring your spicy trousers, this is going to be _busy_ in summer
+
 ### March
 
 - Ola, Bilbao (££££): Michelin-starred food in a really curious building (never got to the bottom of what it was)
@@ -22,24 +26,24 @@
 
 ### February
 
-- Bonsai Plant Kitchen (£££): very stylish Japanese skewers, and you would not know it was vegan
-- Etci (£££): pronounced: "et-chi", best kebab in Brighton?! Posh sit-down affair, very tasty and you won't go home hungry
+- Bonsai Plant Kitchen, Brighton (£££): very stylish Japanese skewers, and you would not know it was vegan
+- Etci, Brighton (£££): pronounced: "et-chi", best kebab in Brighton?! Posh sit-down affair, very tasty and you won't go home hungry
 
 ### January
 
-- SIX (££): slick brunch and dinner in a cool bit of Hove, pooch friendly too
-- Carne (£££): solid meat specialist in Hove
+- SIX, Hove (££): slick brunch and dinner in a cool bit of Hove, pooch friendly too
+- Carne, Hove (£££): solid meat specialist in Hove
 
 ## 2023
 
 ### December
 
-- Burnt Orange (£££): excellent sharing plates with a Middle Eastern twist
-- The New Club (££): top notch Sunday roasts by the seaside
+- Burnt Orange, Brighton (£££): excellent sharing plates with a Middle Eastern twist
+- The New Club, Brighton (££): top notch Sunday roasts by the seaside
 
 ### November
 
-- Plateau (£££): back to form for this French sharing plates restaurant in Brighton
+- Plateau (£££), Brighton: back to form for this French sharing plates restaurant in Brighton
 - Zoilo, London (£££): perfectly good steakhouse near Selfridges
 - Maison Bab, London (££): gyros style kebabs, quick and tasty.
 - The Clove Club, London (£££££): two-star in Michelin in Shoreditch... I had to add another pound to my rating system for this one!
@@ -47,15 +51,15 @@
 
 ### October
 
-- Etch (££££): tough call between Etch and Furna, but Etch just pips the new boy
-- [Furna](https://furnarestaurant.co.uk/) (££££): the newest fine dining in Brighton
-- Wild Flor (££)
-- Bincho (££): it's always hard to get in here, defo book
-- [64 Degrees](https://64degrees.co.uk/) (££££): fine dining by acclaimed chef Michael Bremner
+- Etch, Brighton (££££): tough call between Etch and Furna, but Etch just pips the new boy
+- [Furna](https://furnarestaurant.co.uk/), Brighton (££££): the newest fine dining in Brighton
+- Wild Flor, Hove (££)
+- Bincho, Brighton (££): it's always hard to get in here, defo book
+- [64 Degrees](https://64degrees.co.uk/), Brighton (££££): fine dining by acclaimed chef Michael Bremner
 
 ### September
 
-No dining? What?!
+No dining? Wait... what?!
 
 ### August
 
