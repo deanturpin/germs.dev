@@ -12,6 +12,7 @@
 
 ### April
 
+- Permit Room, Brighton (£££): we finally get our own one! Pretty much the same as London but right in the middle of town
 - No No Please, Brighton (£££): the hotest new restaurant on Preston Street; bring your spicy trousers, this is going to be _busy_ in summer
 
 ### March
