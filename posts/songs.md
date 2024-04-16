@@ -1,18 +1,21 @@
 # Dean Turpin songs
 
 ## Infectious diseases
+
 ```
 Dbsus2 C#m Dbsus2 C#m
 B A Am E
 ```
 
 ## Over shoes
+
 ```
 D Dm A F
 Bm E A E
 ```
 
 ## Isolation station
+
 ```
 Verse
 C Em Am G
@@ -24,11 +27,13 @@ G# G# G13 G13
 ```
 
 ## Trousers
+
 ```
 Bb6 Em Bb6 Em
 ```
 
 ## Lemon drizzle
+
 ```
 C C C C
 G6 G6 G6 G6
@@ -37,6 +42,7 @@ E E E E
 ```
 
 ## Hopes
+
 ```
 # Verse
 C C C C
@@ -55,6 +61,7 @@ Dm Dm G G
 ```
 
 ## Once more with skanking
+
 ```
 G F C C
 G F C C7
@@ -63,17 +70,20 @@ G# G# G G
 ```
 
 ## Riverine
+
 ```
 Cmaj7 A7sus2 Cmaj7 A7sus2
 Em Em G G
 ```
 
 ## Hallo 5/4
+
 ```
 Am Dm C Baug E
 ```
 
 ## Goats
+
 ```
 Verse
 E E E F#m9
@@ -87,6 +97,7 @@ B7 B7 B7 B7
 ```
 
 ## Driving licence
+
 Asus2 is Asus2#11.
 ```
 E E E F#m9
@@ -95,11 +106,13 @@ B7 B7
 ```
 
 ## Untitled
+
 ```
 Eadd9 Am6 Baug Em(add9)
 ```
 
 ## Pag
+
 ```
 Verse
 Am Am C C F F E E
@@ -132,6 +145,7 @@ A E A A
 ```
 
 ## You know, you know?
+
 ```
 Verse
 A Amaj7 A7 D
@@ -149,6 +163,7 @@ A A E E
 ```
 
 ## Pink shorts and red wine
+
 ```
 Dmaj7 A E A
 Dmaj7 A F#m E
@@ -166,6 +181,7 @@ Fmaj7 Fmaj7 Baug E7 E7
 ```
 
 ## Slow song
+
 Picked.
 ```
 Em C Am Baug
@@ -177,6 +193,7 @@ E D C B
 ```
 
 ## Careful now (down with this sort of thing)
+
 ```
 E7 Fmaj7 F#m7 G6
 G#dim A7 D7 G
@@ -200,6 +217,7 @@ Dm C Dm G7
 ```
 
 ## Wintersun
+
 ```
 Verse
 C B Am Am
@@ -229,6 +247,7 @@ D A F F7
 ```
 
 ## Gayatri Mantra (version)
+
 See [Wikipedia](https://en.wikipedia.org/wiki/Gayatri_Mantra).
 
 ```
@@ -237,6 +256,7 @@ Em Em Em A A A
 ```
 
 ## Zivjeli
+
 A Croatian drinking song.
 
 ```
@@ -247,5 +267,6 @@ Fm Cm D G G7
 ```
 
 ## References
+
 - [Songs with interesting major/minor key changes](https://turpin.dev/post/songs2/)
-- [Oolimo guitar chord analyser](https://www.oolimo.com/guitarchords/analyze)
+- [Oolimo guitar chord analyser](https://www.oolimo.com/)
