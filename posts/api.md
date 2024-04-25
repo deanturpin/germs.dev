@@ -11,6 +11,7 @@
 
 ## Finance
 
+- [ProfitView](https://profitview.net/)
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 - [Alpaca](https://alpaca.markets/)
 - [Onanda](https://www.oanda.com/)
