@@ -23,7 +23,7 @@ brew update
 Via `brew`.
 
 ```bash
-brew install duf tmux vim neofetch google-benchmark stats entr watch ag
+brew install duf tmux vim neofetch google-benchmark stats entr watch ag fzf
 ```
 
 ## RAM usage

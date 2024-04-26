@@ -16,7 +16,7 @@ DBeaver,
 vim,
 pjsip 2.14,
 VS Code,
-CMake 3.28.3,
+CMake 3.29
 Google Cloud,
 GoogleTest/Benchmark,
 gprof,
