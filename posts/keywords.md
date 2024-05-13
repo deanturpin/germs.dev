@@ -18,6 +18,6 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Database__: PostgreSQL, MariaDB, DBeaver
 - __Documentation__: MkDocs, Doxygen, Mermaid, Confluence
 - __Audio__: Logic, Audacity, SIP, PCM, XMPP
-- __Dev__: Agile, Jira, Slack
+- __Productivity__: Agile, Jira, Slack
 - __Education__: Computer Science BSc. 2:2 from Manchester University
 
