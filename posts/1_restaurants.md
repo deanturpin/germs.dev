@@ -10,6 +10,11 @@
 
 ## 2024
 
+### May
+
+- Wagamama (£££): super-consistent chain with good cocktails
+- Burger bros (£): still the best in Brighton
+
 ### April
 
 - Rustico, Brighton (££): my favourite pizza restaurant at the moment! Great Neapolitan food
