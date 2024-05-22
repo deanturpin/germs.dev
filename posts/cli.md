@@ -1,4 +1,4 @@
-# Linux CLI tricks
+cmak# Linux CLI tricks
 
 # Send a string to an IP/port
 ```bash
