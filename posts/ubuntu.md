@@ -1,6 +1,7 @@
 # Upgrading Ubuntu
 
 ## Get your current install up-to-date
+
 ```bash
 sudo apt update
 sudo apt full-upgrade
@@ -8,16 +9,19 @@ sudo apt autoremove
 ```
 
 ## Edit upgrade strategy
+
 ```bash
 sudo vi /etc/update-manager/release-upgrades
 ```
 
 Change this:
+
 ```bash
 Prompt=lts
 ```
 
 To this:
+
 ```bash
 Prompt=normal
 ```
@@ -28,4 +32,3 @@ Note the `-d` to [get it done](https://linuxconfig.org/how-to-upgrade-ubuntu-to-
 ```bash
 sudo do-release-upgrade -d 
 ```
-

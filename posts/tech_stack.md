@@ -24,6 +24,6 @@ Linux kernel 6.8,
 Darwin kernel 23.4,
 Copilot,
 Python 3.12.2,
-Docker 26,
+Docker 26.1.3,
 Logic Pro 10.8.1
 
