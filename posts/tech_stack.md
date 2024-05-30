@@ -3,7 +3,7 @@
 [Refreshed {TODAY}]
 
 C++26,
-Ubuntu 24.04,
+Ubuntu 24.10,
 macOS 14.5,
 g++ 15,
 clang++ 19,
@@ -12,7 +12,6 @@ GitLab CI,
 Qt 5.15,
 Wirehshark,
 bash 5.2,
-DBeaver,
 vim,
 pjsip 2.14,
 VS Code,
@@ -25,5 +24,5 @@ Darwin kernel 23.4,
 Copilot,
 Python 3.12.2,
 Docker 26.1.3,
-Logic Pro 10.8.1
+Logic Pro 11
 
