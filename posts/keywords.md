@@ -15,7 +15,7 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 - __Networking__: Wireshark, libpcap, Asterisk, OSI (TCP/UDP)
 - __CPU__: Intel, ARM, SPARC
 - __OS__: Ubuntu, macOS, Alpine, Windows 11, Unix (Solaris), VxWorks
-- __Database__: PostgreSQL, MariaDB, DBeaver
+- __Database__: PostgreSQL, MariaDB
 - __Documentation__: MkDocs, Doxygen, Mermaid, Confluence
 - __Audio/Video__: Logic, Audacity, SIP, PCM, XMPP, ONVIF
 - __Productivity__: Agile, Jira, Slack
