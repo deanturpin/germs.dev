@@ -1,22 +1,10 @@
----
-title: Modern C++ migration
-subtitle: Welcome to the std::promised land
-date: 2019-06-13
-tags:
-- cpp
-- oop
-- migration
-- revision
-- graduate
-- regex
----
-
 # Modern C++ migration
+
 > Welcome to the `std::promised` land
 
 ## Auto
-Type inference is a game changer. Essentially you can simplify complicated (or
-unknown) type declarations with `auto`. But it can be a balance of convenience
+
+Type inference is a game changer. Essentially you can simplify complicated (or unknown) type declarations with `auto`. But it can be a balance of convenience
 over readability.
 
 ```cpp
