@@ -19,7 +19,7 @@ CMake 3.29
 Google Cloud,
 GoogleTest/Benchmark,
 gprof,
-Linux kernel 6.8,
+Linux kernel 6.8.0,
 Darwin kernel 23.4,
 Copilot,
 Python 3.12.2,
