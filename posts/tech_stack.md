@@ -25,4 +25,5 @@ Copilot,
 Python 3.12.2,
 Docker 26.1.3,
 Logic Pro 11
+Asterisk 20.6.0
 
