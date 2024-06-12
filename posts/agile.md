@@ -72,7 +72,7 @@ they are pacing toward their goal.
 Not critical that they occur on the same day.
 - Wednesday is a good start sprint day.
 - Scope bound versus time bound.
-- Burn up isn't part of Scrum framework but is effective.
+- Burn up isn't part of Scrum framework but it is effective: gives you visibility of things added after the sprint has started
 - The `product owner` is the only one who sets the direction of the team.
 
 ## Sprint Review
