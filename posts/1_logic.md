@@ -90,6 +90,15 @@ for file in *; do
 done
 ```
 
+## Project file sizes
+
+00:05:30 duration song rip
+
+| rate (KHz) | rip | stems | bounce |
+|-|-|-|
+| 44.1 | 131 | 486 | 84 |
+| 96 | 259 | 1210 | 239 |
+
 ## Tutorials
 
 - [10 tricks](https://www.youtube.com/watch?v=T9i_N7IG_nk)
