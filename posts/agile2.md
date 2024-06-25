@@ -13,7 +13,7 @@ Ten steps to happiness.
 | Plan and estimate as a team | There's no I in Agile |
 | Standup: what I did yesterday, what I'm doing today, any blockers | Extended discussions must be between interested parties only and after the standup |
 | Estimate in complexity | Humans good at comparing task sizes; time-based estimates only work if you've done exactly the same job before |
-| 10% of your time should be refining the backlog | |
+| 10% of your time should be refining the backlog | You don't have to have a dedicated group session for this |
 
 ## Complexities
 
