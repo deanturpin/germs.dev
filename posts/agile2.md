@@ -4,10 +4,10 @@ Ten steps to happiness.
 
 | Too long | Didn't read |
 |-|-|
-| Do the hard bit first | It feels like progress picking those "low hanging fruit" but you've still got to chop that tree down |
-| Release automatically every sprint | Otherwise it will become your full-time job |
+| Do the hard bit first | It feels like progress picking those "low hanging fruit", but you've still got to chop that tree down |
+| Release automatically every sprint | Otherwise it will become somebody's full-time job |
 | Do the bits that improve users' lives right now | And "users" could be the devops team, but somebody else needs to be using it as soon as it's committed |
-| Stop doing the bits that nobody asked for | It may have seemed like a good idea once, but so do lots of things; obviously products need guidance and vision, but don't be afraid of abandoning something that isn't doesn't improve somebody's life right now |
+| Stop doing the bits that nobody asked for | It may have seemed like a good idea once, but so do lots of things; products need guidance and vision, but don't be afraid of abandoning something that isn't doesn't improve somebody's workflow/life right now |
 | Eat your own dog food | If you're not using your software to do a job, then you're not testing it properly |
 | Dev, scrum master and product owner are different roles for >1 person | When you've under pressure fixing code, the other roles will be neglected |
 | Plan and estimate as a team | There's no I in Agile |
