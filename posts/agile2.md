@@ -20,6 +20,7 @@ Ten steps to happiness.
 If you roughly break down a task, it's quite nice to order the sub-tasks in terms of complexity. And it helps direct you to which bits need breaking down further. Once they are broken down, they are more likely to be shared between the team: we are empowering the team to select tasks, not handing out jobs to individuals. Similarly, the total complexity points is the only metric that is reported; not who did the most.
 
 > Q. What if I have 200 simple file edits to do?
+
 > A. Then you have a boring afternoon ahead of you, or you write a script so you don't have to.
 
-Breaking down tasks into smaller actions is highly encouraged, as low-complexity jobs unlikely to be blocked or prolonged by the unforeseen/unknown; a 13-point task with no detail has an increased likelihood of slipping into the next sprint. But when a task is incomplete, always re-estimate: we are measuring how good we are at _completing what we promised_; otherwise you just end up tracking the inexorable passage of time.
+Breaking down tasks into smaller actions is highly encouraged as low-complexity jobs are unlikely to be blocked or prolonged by the unforeseen/unknown. E.g., a 13-point task with no detail has an increased likelihood of slipping into the next sprint. But when a task is incomplete, always re-estimate: we are measuring how good we are at _completing what we promised_; otherwise you just end up tracking the inexorable passage of time.
