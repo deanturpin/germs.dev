@@ -10,6 +10,10 @@
 
 ## 2024
 
+### June
+
+- No No Please, Brighton (£££): second time here and they hadn't run out of beef stew, delicious!
+
 ### May
 
 - Wagamama (£££): super-consistent chain with good cocktails
