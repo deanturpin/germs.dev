@@ -12,7 +12,7 @@
 
 ### June
 
-- No No Please, Brighton (£££): second time here and they hadn't run out of beef stew, delicious!
+- No No Please, Brighton (££): second time here and they hadn't run out of beef stew, delicious!
 
 ### May
 
