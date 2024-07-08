@@ -23,7 +23,7 @@ Linux kernel 6.8.0,
 Darwin kernel 23.4,
 Copilot,
 Python 3.12.2,
-Docker 26.1.3,
+Docker 26.1.4,
 Logic Pro 11,
 rekordbox 7.0.1.0021,
 Asterisk 20.6.0

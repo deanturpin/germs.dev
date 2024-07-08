@@ -14,6 +14,7 @@ Ten steps to happiness.
 | Estimate in complexity points | Humans are great at comparing task _sizes_; time-based estimates only work if you've done exactly the same job before |
 | 10% of your time should be refining the backlog | You don't have to have a dedicated group session for this |
 | Do the hard bit first | It feels like progress picking those "low hanging fruit", but you've still got to chop that tree down |
+| Don't add tickets for admin | You're tracking dev done not hours in the day |
 
 ## Complexity-based estimation
 
