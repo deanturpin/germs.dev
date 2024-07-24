@@ -10,5 +10,3 @@
 - [Cpp quiz](https://cppquiz.org/)
 - [Teach yourself C++ in 45 years](https://germs-dev.gitlab.io/cs/)
 
-
-
