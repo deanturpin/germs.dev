@@ -2,6 +2,7 @@
 
 ## _Book_ books (made of actual paper)
 
+- [The Art of Writing Efficient Programs](https://www.amazon.co.uk/Art-Writing-Efficient-Programs-optimizations/dp/1800208111/) -- Fedor G. Pikus
 - First Steps in Music Theory (grades 1 to 5) -- Eric Taylor
 - [The Climate Book -- Greta Thunberg](https://www.amazon.co.uk/gp/product/0241547474/) 
 - [Building Low Latency Applications with C++: Develop a complete low latency trading ecosystem from scratch using modern C++ -- Sourav Ghosh](https://www.amazon.co.uk/gp/product/1837639353)

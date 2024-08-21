@@ -28,3 +28,10 @@ docker images -q | xargs docker rmi --force
 # Or... much nicer
 docker system prune <<< y
 ```
+
+## Streamlining your images
+
+```bash
+apt clean distclean autoclean autoremove
+```
+
