@@ -27,6 +27,10 @@ Outline of the process below. However, it is a bit error prone and a couple of t
 - When you disconnect the car you will be refunded the difference
 - Works out about 61p per kWh
 
+## PodPoint
+
+Much slicker than Blink but of course you need another app. There's a couple at the Goldstone retail park and the Amex stadium.
+
 ## Connectors
 
 - [CCS2 "Combo 2"](https://en.wikipedia.org/wiki/Combined_Charging_System) (Combined Charging Connector) -- what a design this is!
