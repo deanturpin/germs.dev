@@ -10,6 +10,7 @@
 
 - 10 mins to bounce a 90 minute mix
 - 5 mins to upload (1GB file) to MixCloud, 5 mins to "process" before it can be published
+- See [upload rules](https://help.mixcloud.com/hc/en-us/articles/360004031080-What-are-the-Featured-Artist-Rules-and-why-is-my-upload-unavailable-for-copyright-reasons)
 
 ## Resources
 
