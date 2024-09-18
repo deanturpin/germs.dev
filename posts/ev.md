@@ -120,3 +120,4 @@ Observations after driving an electric car for a while. This is comparing a 2023
 | Steering | Medium | Very light |
 | Reversing camera | Good | Awful super wide angle |
 | Navigation | Good | Very cluttered |
+
