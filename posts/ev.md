@@ -13,7 +13,7 @@ Because I've either test driven, researched or just like the look of. Ordered in
 | Jaguar/iPace | Feels more solid than a Tesla, tech a little lacking; feels like a grown up car |
 | Tesla/Model X | The biggest of the bunch but they do look quite similar to the uninitiated |
 | Tesla/Model Y | Slightly engorged Model 3, more roomy with a proper hatchback |
-| Tesla/Model 3 | Handles better than the X and has a boot |
+| Tesla/Model 3 | Handles better than the Y and has a boot |
 | VW/iD3 | First EV I drove and almost bought it on the spot, but the tech is not a patch on the Model Y |
 | BMW/i3 | Inexplicably no longer inproduction, popular but I thought the steering was heavy |
 | Abarth | Big heritage, that's all I know |
