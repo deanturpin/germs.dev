@@ -2,6 +2,26 @@
 
 Observations and tips, with a focus on my own experiences owning a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y). There is also a [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range) with a slightly shorter range (but goes like stink).
 
+## Cars I have an opinion on
+
+Because I've either test driven, researched or just like the look of. Ordered in rough order of cost.
+
+| Make/Model | Notes |
+|-|-|
+| Porsche/Taycan | Big money, looks great |
+| Lotus/Electre | Slighty less money, also looks very fancy |
+| Jaguar/iPace | Feels more solid than a Tesla, tech a little lacking; feels like a grown up car |
+| Tesla/Model X | The biggest of the bunch but they do look quite similar to the uninitiated |
+| Tesla/Model Y | Slightly engorged Model 3, more roomy with a proper hatchback |
+| Tesla/Model 3 | Handles better than the X and has a boot |
+| VW/iD3 | First EV I drove and almost bought it on the spot, but the tech is not a patch on the Model Y |
+| BMW/i3 | Inexplicably no longer inproduction, popular but I thought the steering was heavy |
+| Abarth | Big heritage, that's all I know |
+| Peugeot/308 | Nice-looking small car, petrol version is very pleasant to drive |
+| Renault/Zoe | Very popular, certainly not a looker |
+| Skoda/TBC | Tiny EV |
+| Citroen/Ami | Impossibly quite, absolutely filthy to drive, probably alright if you lived on the beach |
+
 ## Comparison of charger powers
 
 > DC power = voltage x current

@@ -15,4 +15,6 @@
 ## Resources
 
 - [The Reel World Scoring for Pictures, Television, and Video Games, Third Edition Jeff Rona - Foreword by Peter Golub](https://rowman.com/ISBN/9781538137758/The-Reel-World-Scoring-for-Pictures-Television-and-Video-Games-Third-Edition)
+- [Soundcloud mixes](https://checkout.soundcloud.com/artist?ref=t100)
+
 
