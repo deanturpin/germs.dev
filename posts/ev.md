@@ -63,6 +63,8 @@ See [Tesla Supercharger](https://en.wikipedia.org/wiki/Tesla_Supercharger) and [
 
 82000 / 271 = 302.5 miles
 
+The Y is a big car. With an equally impressively large turning circle too! (I don't know if this is a general torquey EV thing: i.e., not having sloppy steering lest you end up in a hedge.) You have to be patient parking them too; have a close look at the alloy wheels when you pass one next. (I have only scuffed one in a year but that was when I was under duress.)
+
 ## Third party
 
 - [Tessories](https://tessories.uk/)
