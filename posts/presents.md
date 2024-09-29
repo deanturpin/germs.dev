@@ -23,6 +23,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Shoes
 
+- [Basq](https://basqcompany.com/pages/women-men): trainers made with recycled materials
 - [GH Bass](https://www.ghbass-eu.com/)
 
 ## Clothes
