@@ -14,12 +14,16 @@ supermarkets have very little incentive change.
 And, ironically, how it used to be.
 
 ## Infinity Foods
+
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
 is loose and they have an excellent in-house bakery. They also sell
 biodegradable [toothbrushes](https://www.brushwithbamboo.com/) and [bin
 bags](http://d2w.net).
 
 ## hiSbe Food CIC (how it Should be)
+
+> This may have closed TBC 10/10/24
+
 The go-to place for package-free shopping. A large choice of produce in
 help-yourself hoppers, either take your own jars or use their paper bags. They
 also sell a selection of "loose" cleaning products: washing up liquid, fabric
@@ -33,6 +37,7 @@ charges up to 20/Kg for a 100g bar of Green and Blacks and you have to do
 something with the packaging.
 
 ## Taj
+
 All major supermarkets pack their greens in plastic but Taj offer bundles of
 [spinach](images/spinach_taj.jpg) with no packaging bar a rubber band (which you
 can repurpose or make into an awesome [rubber band ball](images/rubberband_ball.jpg).)
@@ -47,19 +52,19 @@ Taj hack: they don't offer paper bags unless you're buying a takeaway curry. But
 the bread section has paper baguette bags hanging up so use them!
 
 ## Bluebird Tea Company
+
 A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
 for bringing your own pot. Smells great in there.
 
-## La Cave à Fromage
-Specialist cheese shop and very supportive of the cause.
-
 ## The Food Shed
+
 Another zero waste warrior Brighton Open Market. Lots of loose products
 available and a 10% discount for using your own containers.
 
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
+
 First things first: make sure to take a [flask](images/waitrose_free_coffee.jpg)
 for the free coffee.
 
@@ -83,11 +88,13 @@ Waitrose also offer a range of organic apples, sealed in plastic with a choice
 of carbon footprint: Argentina, Chile or New Zealand.
 
 ## TK Maxx
+
 TK is quite a good place to pick up [items](images/socks.jpg) with minimal
 packaging. Although you do feel a bit "shop lifty" walking out with an unbagged
 jacket. I guess it just takes time.
 
 # Bread
+
 Bread should only really only come from a proper baker like [Real
 Pâtisserie](images/bread_real_patisserie.jpg). You can actually buy their bread
 from Taj but it mostly comes in those perforated plastic bread bags. Other
@@ -95,11 +102,13 @@ breads of note are from [hisBe](images/bread_hisbe.jpg) and
 [Silo](images/bread_silo.jpg).
 
 # Changes
+
 Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
 for Tossers](http://www.trashisfortossers.com/)/[Alchemy
   Flow](https://www.facebook.com/AlchemyandFlow/) in 2014:
 
 ## Homemade food/drink
+
 * Bread
 * Kimchi/sauerkraut
 * Milk kefir
@@ -107,6 +116,7 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 * Home brew beer and wine
 
 ## Packaging
+
 * Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
 * Buying loose where possible ([hisBe](http://hisbe.co.uk/))
 * Refusing products with non-recyclable packaging
@@ -114,12 +124,14 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 * Keep a zero waste pot at work
 
 ## Foraging
+
 * Interest in mushrooms (although not confident enough to eat them yet)
 * Foraging easy wild ingredients (wild garlic)
 
 # Every day ingredients
 
 ## Oil
+
 Coconut is a highly versatile oil for all cooking and I also use it as a daily
 moisturiser. The 500g jars are a really useful size to reuse.
 
@@ -450,3 +462,19 @@ affectionately known as "growlers" from their shop on East Street. If purchasing
 tins of beer then don't choose those with six-pack rings. Ten packs come in a
 cardboard box with no plastic. Or go to the pub. Or brew your own!
 
+## References
+
+- http://www.therogueginger.com/?m=1
+- http://www.plasticfreejuly.org
+- http://treadingmyownpath.com
+- http://www.onegreenplanet.org/
+- http://onegreenplanet.org/crushplastic
+- http://myplasticfreelife.com
+- https://theplasticfreechef.com/avoiding-plastic/
+- https://plasticmanners.com/refuseplastic/
+- http://www.trashisfortossers.com/2014/02/10-ways-to-adopt-zero-waste-lifestyle.html?m=1
+- http://allatonce.org/plastic-free-top10
+- http://www.zerowastehome.com/
+- http://www.ethicalconsumer.org/ethicalreports/ethical-finance/moveyourmoneyscorecard.aspx
+- http://www.iflscience.com/environment/going-veggie-would-cut-global-food-emissions-two-thirds-and-save-millions-lives-new
+- http://www.iflscience.com/editors-blog/here-s-why-you-should-never-throw-away-silica-bags
