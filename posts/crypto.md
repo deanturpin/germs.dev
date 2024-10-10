@@ -49,6 +49,102 @@ purpose should be used.
 
 RED is plaintext -- unencrypted -- BLACK is ciphertext. Can also be applied to physical connections.
 
+- one time pad "gold standard in entropy"
+- Engima
+- https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+- Asymmetric 
+- make the attacker take longer to decipher the message than the message is worth
+- weakest point is always the operator: the simpler and automatic the cryptography, the less likely the operator is going to make a mistake
+- block ciphers work on rounds
+- key schedule (shift, XOR, multiply)
+- Claude E. Shannon
+# confusion
+- relationship between key and cipher text
+- small change in the key results in a large change in each of the round keys
+
+# Diffusion
+- relationship between originla message ciphertext
+- small change in hte message -> large change in ciphertext
+
+# cipher block chaining (CBC)
+- Every block in the messsage depends on all of the blocks that came before
+
+## Initialisation vector
+- Random starting point for block cipher
+
+## DES - one of the earliest block ciphers
+- 56 bit key length (64 less 8 bits of parity)
+- 3DES (triple) has 168 bits but is low
+- CBC and IV
+
+## AES - advanced encrytpion standard (Rijndael)
+- 128, 192, or 256
+- 16 bit block size
+- Rounds: shift, XOR, multiply
+- S-Box (lookup table)
+- Rotate columns
+- NSA TS level
+- Provides diffusion and confusion
+
+## RSA
+
+## Enigma
+- 47.1 bits in plug board
+- 4.7 x 3 = 14.1 bits in rotors
+- Total entropy 61.2 - 64 bits of entropy
+- No diffusion
+- Predicatable key changes (little confusion)
+
+# Compression
+- Information content of english teext
+Compressed ASCII theoretical 7.5 - 16 % of size
+- in practice 40 size
+- Squeeze out redundancy, preserve information
+
+##Encryption
+- mask the existing patterns in the message with infor from the key
+
+# Error correctoin
+- checksums, check error transmissions
+- Correct errors
+- DES adds error correction with encrtpion, but this weakens the encryption
+
+# Ordering
+Compression first: compression alg employs redundnancy in message, effective compression. Compression removes patters, therefore the compressed text is more diffused through the ciphertext.
+
+- Compression
+- Encryption
+- Error correction during transmission
+
+# Diffie-Hellman
+- Man in the middle vulnerability
+
+# Asymmetic algorithms
+- Public key: means of identification
+- Private key: method of proof
+
+## Pair of functions
+- f(x) function
+- f-1(x) inverse function
+- Message m
+- Ciphertext c = f(m) [public key]
+- f-1(c) = m [private key]
+
+## Exponation in a modulus
+- Hard to find the root
+- Easy to find the modulus
+
+- Public key, private key
+
+# References
+- https://en.wikipedia.org/wiki/Forward_secrecy
+- Because of the reuse of primes, generating precomputation for just one prime would break two-thirds of VPNs and a quarter of all SSH servers globally. 
+
+# No repudiation
+
+# Signing - proof of origin
+# Confidentiality
+
 ## References
 
 - PBKDF2
