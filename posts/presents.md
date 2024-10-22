@@ -24,6 +24,8 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 ## Shoes
 
 - [Basq](https://basqcompany.com/pages/women-men): trainers made with recycled materials
+- [Vivo barefoot](https://www.vivobarefoot.com/uk/)
+- [Nike Dunk](https://www.nike.com/gb/w/dunk-shoes-90aohzy7ok)
 - [GH Bass](https://www.ghbass-eu.com/)
 
 ## Clothes
