@@ -89,6 +89,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Peugeot Saveurs](https://uk.peugeot-saveurs.com/en/bali-palais-des-epices-bali-black-cast-iron-pepper-mill-and-its-salt-cellar-as-a-gift-box.html)
 - [The White Company](https://www.thewhitecompany.com/uk/): candles, diffusers, etc.
 - [Thicket Design](https://thicketdesign.net/)
+- [Elephant candlestick](https://www.hi-werns.com/uk/Candle-holder-parrot-on-elephant-pink-blue-white/54381)
 
 ## Sunglasses
 
