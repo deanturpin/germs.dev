@@ -60,7 +60,7 @@ Let's introduce andother vowel.
 Note the hook beneath the first character in सुप्त (supine). Individually we have स (S), उ (U), प (P) and अ (T). In this context the उ (U) has a simpler form and hangs effortlessly from the leading स (S).
 
 ## Pose name construction
-Each pose has a name and is suffixed with आसन. E.g., "boat pose" consists of नाव "nav" (boat) and आसन "asana" (pose). However, when the two words come together the leading A in asana takes another form: नावासन "navasana" (boat pose) - the V is pronounced without the bottom teeth touching the top lip. This is called डंडा "danda" (stick). If you've attended an Indian wedding you may be familiar with the derived word and stick dance named डंडिया "[dandiya](https://en.wikipedia.org/wiki/Dandiya_Raas)".
+Each pose has a name and is suffixed with आसन. E.g., "boat pose" consists of नाव "nav" (boat) and आसन "asana" (pose). However, when the two words come together the leading A in asana takes another form: नावासन "navasana" (boat pose) - the V is pronounced without the bottom teeth touching the top lip, halfway betwween a V and W in English. This is called डंडा "danda" (stick). If you've attended an Indian wedding you may be familiar with the derived word and stick dance named डंडिया "[dandiya](https://en.wikipedia.org/wiki/Dandiya_Raas)".
 
 ## Alphabets
 Strictly speaking Indic languages use [abugidas](https://en.wikipedia.org/wiki/Abugida) but let's stick with alphabet. You can learn the alphabet in a couple of weeks but you have to use it to keep it in your head. Perhaps transliterate a daily newspaper headline or use a Hindi calendar.

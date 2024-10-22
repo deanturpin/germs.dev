@@ -48,6 +48,8 @@ Even if you don't end up pushing to a repo like [GitLab](https://gitlab.com/). I
 
 JavaScript and Python are quite similar to C++ syntactically but also in mindset. Try Haskell and blow your mind.
 
+Additionally, annoyingly, it's tempting to want to be the bleeding edge in a particular language but industry is six years behind so it probably won't help your job hunting. Just learn another language.
+
 ## Keep your head in the cloud
 
 Register with a cloud provider, spin up a VM and compile things. Cloud computing isn't going away and just doing this alone exercises a whole heap of

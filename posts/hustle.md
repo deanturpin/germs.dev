@@ -15,11 +15,13 @@ spend it on a
 [VPN](https://www.expressrefer.com/refer-friend?referrer_id=51231154&utm_campaign=referrals&utm_medium=copy_link&utm_source=referral_dashboard).
 
 ## Finance
+
 The finance industry offers a great source of data to wrangle and also the
 promise of making some of it (money I mean). See [Crypto
 Compare](https://www.cryptocompare.com/).
 
 ## ascii2cpu
+
 Write a tool to stress your cores and make a pattern. Perhaps a video?
 
 ## Algorithms
