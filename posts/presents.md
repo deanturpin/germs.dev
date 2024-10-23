@@ -30,6 +30,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Chris Simpson](https://picturesthatigoneanddone.com/collections/clothing)
 - [Colorful Standard](colorfulstandard.com)
 - [Wasted Paris](https://wasted.fr/)
 - [The Couture Club](https://www.thecoutureclub.com/)

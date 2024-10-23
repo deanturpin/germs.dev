@@ -10,6 +10,10 @@
 
 ## 2024
 
+### October
+
+- [Naninella](https://www.nanninellapizzeria.co.uk/) (££): first time back since they reopened! Best pizza in Brighton?
+
 ### June
 
 - No No Please, Brighton (££): second time here and they hadn't run out of beef stew, delicious!
