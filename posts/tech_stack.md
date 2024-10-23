@@ -26,5 +26,6 @@ Python 3.12.2,
 Docker 26.1.4,
 Logic Pro 11,
 rekordbox 7.0.1.0021,
-Asterisk 20.6.0
+Asterisk 20.6.0,
+go 1.23.2
 
