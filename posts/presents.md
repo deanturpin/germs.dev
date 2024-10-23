@@ -47,7 +47,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [All Saints](https://www.allsaints.com/)
 - [ssense](https://www.ssense.com/en-gb)
 - [Hayley Menzies](https://www.hayleymenzies.com/)
-- [Wolf & Badger](https://www.wolfandbadger.com/uk/)
+- [Wolf \& Badger](https://www.wolfandbadger.com/uk/)
 - [Flannels](https://www.flannels.com/)
 - [Never Fully Dressed](https://www.neverfullydressed.com/)
 
