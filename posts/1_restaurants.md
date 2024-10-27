@@ -12,6 +12,7 @@
 
 ### October
 
+- Solera (££): went here years ago and pleased that it's still there! Solid tapas but you have to go somewhere else for dessert
 - [Naninella](https://www.nanninellapizzeria.co.uk/) (££): first time back since they reopened! Best pizza in Brighton?
 
 ### June
