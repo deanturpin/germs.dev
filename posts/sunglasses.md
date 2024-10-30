@@ -1,6 +1,7 @@
 # Sunglasses
 
 - https://www.jacquesmariemage.com/
+- https://cubitts.com/products/panton?variant=40942896644261
 
 ## ID websites
 
