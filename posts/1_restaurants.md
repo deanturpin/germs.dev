@@ -12,8 +12,19 @@
 
 ### October
 
+- Dilsk @ Drakes (££££): fine dining on the prom... but is it as good as Furna?! (Not this time but still very nice.)
 - Solera (££): went here years ago and pleased that it's still there! Solid tapas but you have to go somewhere else for dessert
 - [Naninella](https://www.nanninellapizzeria.co.uk/) (££): first time back since they reopened! Best pizza in Brighton?
+
+### August
+
+- Sol i LLuna, Gandia, Spain (££): very chilled paella on the beach
+- L'Estibador, Valenica, Spain (£££): finer dining on yet another lovely beach
+
+### July
+
+- La Taska Sidrería, Valencia, Spain: very nice resto in town, with fancy cider pump on the table if you like that sort of thing
+- Begin: Jungla, Valenica, Spain (£££): stylish and remarkably good value
 
 ### June
 
