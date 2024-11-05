@@ -81,18 +81,20 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Jewelery
 
-- [Missoma gold](https://www.missoma.com/products/zenyu-fan-necklace-18ct-gold-plated)
+- [Missoma gold](https://www.missoma.com/products/zenyu-fan-necklace-18ct-gold-plated) -- tops 14ct
 - The Octopus Ring
-- [The Great Frog](https://www.thegreatfroglondon.com/) -- slightly macabre
-- [Stargaze](https://stargazejewelry.com/collections/drop-02)
-- [7879](https://7879.co/) -- pure gold
+- [The Great Frog](https://www.thegreatfroglondon.com/) -- slightly macabre, silver only
+- [7879](https://7879.co/) -- pure gold, most expensive: solid
+- [Stargaze](https://stargazejewelry.com/collections/drop-02), least expensive
 
 ## Home
 
 - [Peugeot Saveurs](https://uk.peugeot-saveurs.com/en/bali-palais-des-epices-bali-black-cast-iron-pepper-mill-and-its-salt-cellar-as-a-gift-box.html)
 - [The White Company](https://www.thewhitecompany.com/uk/): candles, diffusers, etc.
-- [Thicket Design](https://thicketdesign.net/)
 - [Elephant candlestick](https://www.hi-werns.com/uk/Candle-holder-parrot-on-elephant-pink-blue-white/54381)
+- [Stackable cat glasses](https://doiydesign.com/products/kitty-ginger/)
+
+<!-- - [Thicket Design](https://thicketdesign.net/) -->
 
 ## Sunglasses
 
@@ -105,7 +107,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Alcohol
 
-- [Blackcurrent Rum](https://www.friarydrinks.co.uk/products/blackcurrant-rum)
+- [Friary](https://www.friarydrinks.co.uk/)
 - [El Rayo Tequila](https://elrayotequila.com/): can get it in Sainsbury's
 
 ## Final touch
