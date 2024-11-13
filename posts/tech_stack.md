@@ -3,7 +3,7 @@
 [Refreshed {TODAY}]
 
 C++26,
-Ubuntu 24.10,
+Ubuntu 25.04,
 macOS 15.0.1,
 g++ 15,
 clang++ 19,

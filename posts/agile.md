@@ -68,7 +68,7 @@ master` is also responsible for ensuring that planning occurs.
 ## Meeting the sprint goal
 - Teams who manually update their burn down chart show more awareness of how
 they are pacing toward their goal.
-- Invest 10 % of time in refining of backlog. Nice Friday afternoon activity.
+- Invest 10% of time in refining of backlog. Nice Friday afternoon activity.
 Not critical that they occur on the same day.
 - Wednesday is a good start sprint day.
 - Scope bound versus time bound.

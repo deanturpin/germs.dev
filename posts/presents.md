@@ -85,6 +85,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - The Octopus Ring
 - [The Great Frog](https://www.thegreatfroglondon.com/) -- slightly macabre, silver only
 - [7879](https://7879.co/) -- pure gold, most expensive: solid
+- [Sarah Layton](https://sarahlayton.co.uk/) -- gold plated
 - [Stargaze](https://stargazejewelry.com/collections/drop-02), least expensive
 
 ## Home
