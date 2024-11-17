@@ -95,7 +95,11 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Elephant candlestick](https://www.hi-werns.com/uk/Candle-holder-parrot-on-elephant-pink-blue-white/54381)
 - [Stackable cat glasses](https://doiydesign.com/products/kitty-ginger/)
 
-<!-- - [Thicket Design](https://thicketdesign.net/) -->
+
+## Art
+
+- [Thicket Design](https://thicketdesign.com/shop)
+- [Prescription](https://www.prescriptionart.com/products/pattern-up-soak-up-those-lies)
 
 ## Sunglasses
 
