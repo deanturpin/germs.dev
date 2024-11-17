@@ -102,6 +102,7 @@ done
 ## Tutorials
 
 - [10 tricks](https://www.youtube.com/watch?v=T9i_N7IG_nk)
+- [Working with external synths](https://www.youtube.com/watch?v=cQ-anN9uwzY)
 
 ## Shops
 
