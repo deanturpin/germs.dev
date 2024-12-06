@@ -8,6 +8,12 @@
 | ££££ | £120 |
 | £££££ | £240 |
 
+## Would like to visit
+
+- pearly cow
+- el bullilo
+- voya
+
 ## 2024
 
 ### October

@@ -99,6 +99,11 @@ done
 | 44.1 | 131 | 486 | 84 |
 | 96 | 259 | 1210 | 239 |
 
+## Mini synths
+
+- https://www.amazon.co.uk/IK-Multimedia-dual-filter-synthesizer-connections/dp/B0CB8P7CQN
+
+
 ## Tutorials
 
 - [10 tricks](https://www.youtube.com/watch?v=T9i_N7IG_nk)
