@@ -35,3 +35,18 @@ docker system prune <<< y
 apt clean distclean autoclean autoremove
 ```
 
+## Optimising container sizes
+
+- Use Alpine version of base container
+- Stable layers go at the top
+- Make use of .dockerignore (check how much is transferred to build context)
+- Consolidate series of commands that install and remove artifacts: previous layers are immutable
+- Use multi-stage containers to copy only build assets into final container
+
+### Tools
+
+- dive
+- slim
+
+See https://www.youtube.com/watch?v=t779DVjCKC
+
