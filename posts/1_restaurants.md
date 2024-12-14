@@ -16,6 +16,10 @@
 
 ## 2024
 
+### December
+
+- The Set (££££): super consistent fine dining; they've been around a long time... best set menu in Brighton?!
+
 ### October
 
 - Dilsk @ Drakes (££££): fine dining on the prom... but is it as good as Furna?! (Not this time but still very nice.)
