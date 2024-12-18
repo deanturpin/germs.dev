@@ -16,6 +16,11 @@ Ten steps to happiness.
 | Do the hard bit first | It feels like progress picking those "low hanging fruit", but you've still got to chop that tree down |
 | Don't add tickets for admin | You're tracking dev done not hours in the day |
 
+
+<!--
+The first rule of Agile: Agile meetings are for discussing work not how to do Agile
+-->
+
 ## Complexity-based estimation
 
 If you roughly break down a task, it's quite nice to order the sub-tasks in terms of complexity. And it helps direct you to which bits need breaking down further. Once they are broken down, they are more likely to be shared between the team: we are empowering the team to select tasks, not handing out jobs to individuals. Similarly, the total complexity points is the only metric that is reported; not who did the most.

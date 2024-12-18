@@ -4,6 +4,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Sneakers
 
+- [Hoff](https://thehoffbrand.com/): very colourful, interesting designs
 - [Diverge](https://www.diverge-sneakers.com/): custom, two week turnaround
 - [Laced](https://www.laced.com/)
 - [Sneakersnstuff](https://www.sneakersnstuff.com/en/): good for Nike
