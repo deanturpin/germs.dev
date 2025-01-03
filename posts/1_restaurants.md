@@ -18,6 +18,7 @@
 
 ### December
 
+- The Set (££££): NYE brunch
 - The Windmill (££): Really solid sirloin steak sharing dish for Sunday roast. Slightly contentious pigs in blankets for some but I loved them!
 - The Set (££££): super consistent fine dining; they've been around a long time... best set menu in Brighton?!
 
