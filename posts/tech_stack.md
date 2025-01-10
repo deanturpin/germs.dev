@@ -4,7 +4,7 @@
 
 C++26,
 Ubuntu 25.04,
-macOS 15.1.1,
+macOS 15.2,
 g++ 15,
 clang++ 19,
 clang-format,
@@ -24,7 +24,7 @@ Darwin kernel 23.4,
 Copilot,
 Python  3.13.0,
 Docker 27.2.1,
-Logic Pro 11.1,
+Logic Pro 11.1.2,
 rekordbox 7.0.7,
 Asterisk 20.6.0,
 go 1.23.2
