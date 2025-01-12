@@ -14,6 +14,10 @@
 - el bullilo
 - voya
 
+## 2025
+
+- The Barley Mow, Polegate (£££): first of the year! A decent burger and the lambiest roast lamb I've eaten for a while
+
 ## 2024
 
 ### December
