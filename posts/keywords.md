@@ -4,11 +4,11 @@ Senior software engineer with 20+ years of commercial experience. Motivated self
 [https://turpin.dev/](https://turpin.dev/)
 -->
 
-- __Languages__: C++26, Python, Bash, Go; OOP, Functional
+- __Languages__: C++23, Python, Bash, Go; OOP, Functional
 - __Design__: Multithreading, Data Structures, Algorithms, low-latency
 - __Build__: VS Code, QtCreator, Visual Studio, GNU Make, CMake, Ninja, Copilot
 - __Source control__: Git, Subversion
-- __CI/CD__: GitLab, GitHub, Docker, Google Cloud, Jenkins, Ansible
+- __CI/CD__: GitLab, GitHub, Docker, Google Cloud, Jenkins
 - __API__: CryptoCompare, MarketStack, OpenAI, gSOAP, REST, FIX
 - __UI__: Qt, JUCE, MFC
 - __Unit test/profiling__: Google Benchmark, Google Test, gprof, regex
