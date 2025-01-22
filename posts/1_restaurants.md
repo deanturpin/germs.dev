@@ -16,7 +16,8 @@
 
 ## 2025
 
-- The Barley Mow, Polegate (£££): first of the year! A decent burger and the lambiest roast lamb I've eaten for a while
+- The Coalshed (££): lunch at the new location on North Street; they were overrun so service was a little slow but a had a decent steak (even on the set menu)
+- The Barley Mow, Polegate (£££): first restaurant of the year! A decent burger and the lambiest roast lamb I've eaten for a while
 
 ## 2024
 
