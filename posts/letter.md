@@ -101,3 +101,8 @@ E.g., opening your laptop takes one second.
 ## Use ChatGPT
 
 As a supercharged search engine, to check your code for bugs and within your IDE to learn about the language and streamline any repetitive coding (like defining benchmarks and unit tests).
+
+## Don't be afraid to change your mind
+
+It can sometimes be difficult to back out of an idea/solution -- especially if you've already invested some time in it -- but do not double down on it to save face! A week of wasted work is better than a lifetime of pain.
+
