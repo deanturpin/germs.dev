@@ -59,9 +59,9 @@ excellent transferable skills. In fact you don't even have to provision a VM, ju
 
 Make sure to credit your colleagues for any help they give you (probably at standup).
 
-## Trigger's broom
+## Trigger's broom
 
-Everything you write will be rewritten; you just have to decide whether to do it iteratively when you want or all at once when you least expect it.
+Everything you write will be rewritten one day: you just have to decide whether to do it iteratively when you want, or all at once when you don't.
 
 ## Implement the basics and then optimise
 
