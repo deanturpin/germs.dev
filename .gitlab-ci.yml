@@ -20,7 +20,7 @@ build web pages:
     - sed -i s/{TODAY}/$TODAY/g posts/tech_stack.md
 
     # Construct readme page from other pages
-    - echo $'# Dean Turpin -- Senior Integration Software Engineer | Tech lead\n' > README.md
+    - echo $'# Dean Turpin -- Senior Integration Software Engineer | Team lead\n' > README.md
     - cat posts/keywords.md    >> README.md
     - cat posts/projects.md    >> README.md
     - cat posts/websites.md    >> README.md
