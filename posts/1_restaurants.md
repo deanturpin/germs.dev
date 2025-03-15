@@ -16,6 +16,12 @@
 
 ## 2025
 
+### March
+
+- English's (£££): first time I've been despite it being open for decades! Cracking lobster wontons and fish and chips
+
+### January
+
 - The Coalshed (££): lunch at the new location on North Street; they were overrun so service was a little slow but a had a decent steak (even on the set menu)
 - The Barley Mow, Polegate (£££): first restaurant of the year! A decent burger and the lambiest roast lamb I've eaten for a while
 
