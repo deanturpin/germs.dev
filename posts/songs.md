@@ -131,7 +131,7 @@ Goodnight good night good night
 
 I'm here to hold you tight
 
-We'll dream out the day
+We'll dream in the day
 
 And sleep out the night
 
