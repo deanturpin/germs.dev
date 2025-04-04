@@ -17,7 +17,7 @@ bash 5.2,
 vim,
 pjsip 2.14,
 VS Code,
-CMake 3.31.6,
+CMake 3.31.6
 Linux kernel 6.11.0,
 Darwin kernel 23.4,
 Copilot,

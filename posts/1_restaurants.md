@@ -11,13 +11,13 @@
 ## Would like to visit
 
 - pearly cow
-- el bullilo
 - voya
 
 ## 2025
 
 ### March
 
+- Bill's, Lewes (££): cheeky burger for lunch! Very busy but still got a seat
 - English's (£££): first time I've been despite it being open for decades! Cracking lobster wontons and fish and chips
 
 ### January
