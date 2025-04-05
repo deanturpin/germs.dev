@@ -15,6 +15,10 @@
 
 ## 2025
 
+### April
+
+- Jamun (££): great town centre Indian street food
+
 ### March
 
 - Bill's, Lewes (££): cheeky burger for lunch! Very busy but still got a seat
