@@ -17,6 +17,8 @@
 
 ### April
 
+- Joe's Burgers (£): my go-to takeaway burger in Brighton
+- Wild Flor (£££): beef tartare and bavette were exceptional!
 - Jamun (££): great town centre Indian street food
 
 ### March
