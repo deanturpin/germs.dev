@@ -99,10 +99,6 @@ done
 | 44.1 | 131 | 486 | 84 |
 | 96 | 259 | 1210 | 239 |p
 
-## VST plugins
-
-- https://sampleson.com/tronic.html
-
 ## Mini synths
 
 - https://www.amazon.co.uk/IK-Multimedia-dual-filter-synthesizer-connections/dp/B0CB8P7CQN
@@ -111,6 +107,16 @@ done
 
 - [10 tricks](https://www.youtube.com/watch?v=T9i_N7IG_nk)
 - [Working with external synths](https://www.youtube.com/watch?v=cQ-anN9uwzY)
+
+## Alternative DAWs
+
+- https://www.bitwig.com/overview/
+
+## Plugins
+
+- https://sampleson.com/tronic.html
+- RANDOM
+- https://www.fabfilter.com/shop/essentials-bundle (how much?!)
 
 ## Shops
 

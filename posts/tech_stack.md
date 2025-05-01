@@ -23,6 +23,6 @@ Darwin kernel 23.4,
 Copilot,
 Python 3.13.2,
 Logic Pro 11.1.2,
-rekordbox 7.0.7,
+rekordbox 7.1.1,
 Asterisk 22.2.0,
 
