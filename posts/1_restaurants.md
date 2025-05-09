@@ -8,12 +8,11 @@
 | ££££ | £120 |
 | £££££ | £240 |
 
-## Would like to visit
-
-- pearly cow
-- voya
-
 ## 2025
+
+### May
+
+- Roti King (££): new Malaysian kid on the block, excellent Beef Rendang and layered roti
 
 ### April
 
