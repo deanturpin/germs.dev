@@ -1,4 +1,4 @@
-## Just versus Equal Temperament
+# Just versus Equal Temperament
 
 | Note      | Equal Temperament (Hz) | Just Intonation (Hz) | Interval          | Equal Temp. Ratio | Just Int. Ratio |
 |-----------|------------------------|----------------------|--------------------|-------------------|------------------|
@@ -15,3 +15,9 @@
 | A♯4/B♭4  | 466.16                 | 466.16               | Minor Seventh      | $ \sqrt[12]{2^{10}} $ (approximately 1.781) | 17:12            |
 | B4        | 493.88                 | 493.88               | Major Seventh      | $ \sqrt[12]{2^{11}} $ (approximately 1.887) | 7:4              |
 | C5        | 523.25                 | 523.25               | Octave             | 2:1               | 2:1              |
+
+
+## References
+
+- https://www.youtube.com/watch?v=idg1kU1D6Pc
+- [Is modern music out of tune?](https://www.youtube.com/watch?v=bCYcS57eCqs)
