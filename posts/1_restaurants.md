@@ -12,6 +12,8 @@
 
 ### May
 
+- [Naninella](https://www.nanninellapizzeria.co.uk/) (££): had standard Diavola and this amazing deep fried pizza crust thing with a bowl of amazing sauce
+- Only Me (£): decent inexpensive Chinese 
 - Roti King (££): new Malaysian kid on the block, excellent Beef Rendang and layered roti
 
 ### April
