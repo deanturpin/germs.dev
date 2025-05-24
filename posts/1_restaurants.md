@@ -12,7 +12,9 @@
 
 ### May
 
-- [Naninella](https://www.nanninellapizzeria.co.uk/) (££): had standard Diavola and this amazing deep fried pizza crust thing with a bowl of amazing sauce
+- Stadio Atrium, Bucharest (££): excellent small plates
+- Wahaca, Brighton (££): super reliable Mexican in the North Laine
+- [Naninella](https://www.nanninellapizzeria.co.uk/) (££): had standard Diavola and this amazing deep fried pizza crust thing with a bowl of awesome sauce
 - Only Me (£): decent inexpensive Chinese 
 - Roti King (££): new Malaysian kid on the block, excellent Beef Rendang and layered roti
 
