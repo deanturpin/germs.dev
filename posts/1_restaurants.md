@@ -10,6 +10,10 @@
 
 ## 2025
 
+### June
+
+- The Set (£££): never disappoints, ever better when it's half price for Midweek Madness!
+
 ### May
 
 - Stadio Atrium, Bucharest (££): excellent small plates
