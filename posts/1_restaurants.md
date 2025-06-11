@@ -12,6 +12,7 @@
 
 ### June
 
+- Wild Flor (£££): can't beat a top table half price dinner!
 - The Set (£££): never disappoints, ever better when it's half price for Midweek Madness!
 
 ### May
