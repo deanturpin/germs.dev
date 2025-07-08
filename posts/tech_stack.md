@@ -4,7 +4,7 @@
 
 C++26,
 Ubuntu 25.04,
-macOS 15.2
+macOS 15.5
 g++ 15,
 clang++ 19,
 clang-format,
