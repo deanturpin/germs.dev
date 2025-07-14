@@ -10,6 +10,11 @@
 
 ## 2025
 
+### July
+
+- Burger & Lobster (££)
+- Fatto a Mano (££)
+
 ### June
 
 - Wild Flor (£££): can't beat a top table half price dinner!
