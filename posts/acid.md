@@ -16,7 +16,6 @@
 
 See [YouTube](https://www.youtube.com/watch?v=W1cpim5EAqI).
 
-
 ```text
 G down
 A# up
