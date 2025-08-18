@@ -4,5 +4,7 @@ Commercially I develop using C++17, so I feel it is important to explore the lat
 
 Projects cover subjects such as PCAP processing, audio analysis, trading strategy backtesting and OpenAI. I believe a solid foundation in ubiquitous languages such as Bash and Python is essential in CI and cloud computing; I have an interest in a more functional approach offered by compile-time programming; and I consider profiling and benchmarking an integral and continuous part of the development process for low-latency applications.
 
+Currently reviewing "C++ Memory Management" by Patrice Roy for Packt Publishing.
+
 [https://turpin.dev/](https://turpin.dev/)
 
