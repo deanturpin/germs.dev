@@ -10,6 +10,11 @@
 
 ## 2025
 
+### August
+
+- Pod Burger (££): great burger, new go-to
+- Dilsk (£££): second visit on top table discount and it was almost reasonable! Some great dishes, maybe coulda popped the three desserts in one bowl as we were feeling quite tired...
+
 ### July
 
 - Burger & Lobster (££)

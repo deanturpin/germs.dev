@@ -49,8 +49,8 @@ artists dream and drew them from far and wide,]
 
 My sister and I have had our portraits painted and drawn many times over the
 years, And have spent hours sitting for the artists, one of the most famous
-ones was whistler - who was also commissioned to paint a portrait of Winston
-Churchill, my sisters portrait was in black but mine was in pastel colours
+ones was Whistler - who was also commissioned to paint a portrait of Winston
+Churchill, my sister's portrait was in black but mine was in pastel colours
 which I still have and hope to be able to scan to enter in my book.
 
 My father worked on the lighthouse 92 hours on 92 off and his time off was
