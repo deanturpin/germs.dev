@@ -10,6 +10,8 @@
 
 ## 2025
 
+- The Ginger Fox (££): best pub food around I reckon
+
 ### August
 
 - Pod Burger (££): great burger, new go-to
@@ -27,6 +29,7 @@
 
 ### May
 
+- The Ginger Fox (££): excellent burger after a lovely walk down from The Dyke
 - Stadio Atrium, Bucharest (££): excellent small plates
 - Wahaca, Brighton (££): super reliable Mexican in the North Laine
 - [Naninella](https://www.nanninellapizzeria.co.uk/) (££): had standard Diavola and this amazing deep fried pizza crust thing with a bowl of awesome sauce
