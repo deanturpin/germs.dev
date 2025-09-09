@@ -1,4 +1,5 @@
 # Algorithms 
+
 See CppCon 2018: Jonathan Boccara: [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=2olsGf6JIkU).
 
 ## Secret runes
