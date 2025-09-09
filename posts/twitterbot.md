@@ -32,12 +32,16 @@ Cloud](https://console.cloud.google.com/compute/instances).
 # Installation
 Connect to your instance and install the essentials.
 
+```bash
 sudo apt update && sudo apt install rubygems --yes && sudo gem install twurl
+```
 
 # Authentication
 Authenticate your instance with the two keys you saved earlier. There's quite a cool PIN exchange with Twitter too.
 
+```bash
 twurl authorize --consumer-key xxxxxxxx --consumer-secret xxxxxxxx
+```
 
 This will write your authentication details into ~/.twurl which you can copy to another machine and use without reauthenticating.
 

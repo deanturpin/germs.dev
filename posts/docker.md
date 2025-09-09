@@ -3,7 +3,7 @@
 ## Install on Linux
 
 ```bash
-Docker install
+# Docker install
 sudo apt update
 sudo apt install --yes docker.io
 sudo systemctl start docker
@@ -18,7 +18,7 @@ docker run hello-world
 
 ## Commands
 
-```
+```bash
 # Run image and jump into it
 docker run -it gcc
 

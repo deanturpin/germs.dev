@@ -60,7 +60,7 @@ std::cout << (sizeof a) << "n";
 std::cout << (sizeof b) << "n";
 }
 ```
-```
+```text
 Program returned: 0
 1
 8
@@ -115,7 +115,7 @@ https://godbolt.org/z/5G9zcd3KP
 ### Assembly
 Note the vtable section. Adding the virtual keyword generates a lot more code.
 
-```
+```asm
 main: # @main
 push rbp
 mov rbp, rsp

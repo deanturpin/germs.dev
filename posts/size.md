@@ -8,7 +8,7 @@ prefixes](https://en.wikipedia.org/wiki/Metric_prefix#List_of_SI_prefixes). If
 CPUs are topping out at gigahertz then single operations aren't going to
 subceed the order of nanoseconds.
 
-```
+```text
                         1 000  kilo | milli .001
                     1 000 000  mega | micro .000 001
                 1 000 000 000  giga | nano  .000 000 001

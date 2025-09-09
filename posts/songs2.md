@@ -9,7 +9,7 @@ tags:
 # Songs of note
 
 # A Forest -- The Cure
-```
+```text
 Verse
 Am C F Dm
 
@@ -18,7 +18,7 @@ B C F# F
 ```
 
 # Lullaby -- The Cure
-```
+```text
 Verse
 C#m7 C#m7 C#m7 C#m7
 Amaj7 Amaj7 Amaj7 Amaj7
@@ -29,7 +29,7 @@ Amaj7 Amaj7 Amaj7 Amaj7
 ```
 
 # Road To Nowhere -- Talking Heads
-```
+```text
 E E E E
 C#m C#m C#m C#m
 A A A A
@@ -37,7 +37,7 @@ B B E E
 ```
 
 # Drive -- Aimee Mann
-```
+```text
 Verse
 C Cmaj7 C C
 C Cmaj7 C C
@@ -52,7 +52,7 @@ Em F C G
 ```
 
 # She's Always A Woman -- Billy Joel
-```
+```text
 Verse
 A D A D D
 D G D G G

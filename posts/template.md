@@ -69,7 +69,7 @@ std::integral_constant // wrap constant with its type
 ## std::bool_constant // template alias
 true_type and false_type are called nullary metafunctions because they have no params.
 
-```
+```cpp
 true_type::value
 false_type::value
 ```
@@ -134,7 +134,7 @@ A template is a C++ entity that defines one of the following:
 - value metatfunctions use variable templates ending with "\_v"
 
 # Explicit spectialisation
-```
+```cpp
 template <> // explicit speciailisation
 ```
 
@@ -153,7 +153,7 @@ same result in light of cv qualifiers.
 For any given type T, exactle one of the primary type categories shall yield
 `true_type`.
 
-```
+```cpp
 is_void
 is_null_pointer
 is_integral

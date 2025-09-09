@@ -30,11 +30,11 @@ cmake --target clean bin
 
 It will choose a kit, but it's useful to see what you have available:
 
-```
+```text
 Command-P... CMake: Scan for kits
 ```
 
-```
+```text
 [kit] Found Kit (trusted): GCC 14.1.0 aarch64-apple-darwin23
 [kit] Found Kit (trusted): GCC 14.1.0 aarch64-apple-darwin23
 [kit] Found Kit (trusted): Clang 19.0.0git arm64-apple-darwin23.5.0
@@ -45,11 +45,11 @@ Command-P... CMake: Scan for kits
 
 And build it.
 
-```
+```text
 Command-P... CMake: build
 ```
 
-```
+```text
 [main] Building folder: wispa 
 [build] Starting build
 [proc] Executing command: /opt/homebrew/bin/cmake --build /Users/deanturpin/wispa/build --config Debug --target all --

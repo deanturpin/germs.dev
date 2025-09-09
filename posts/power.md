@@ -100,7 +100,7 @@ Measured using the app CPU X.
 
 ## Linux tools
 
-```text
+```bash
 $ acpi
 Battery 0: Discharging, 99%, 01:45:58 remaining
 ```

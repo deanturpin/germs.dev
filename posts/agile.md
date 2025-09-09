@@ -39,7 +39,7 @@ Estimate against work that's already been performed. New backlog? Estimate
 against a known thing. It might be useful to build up and maintain a list of
 example tasks and complexities.
 
-```
+```text
 1. One line change in a config file.
 2. Multiple line change in a config file.
 3. One line change in a compiled file.
@@ -101,7 +101,7 @@ Remove rough estimates from backlog prior to sprint planning.
 - Feature list? Action > result > object
 
 ## User stories
-```
+```text
 As a <role> I want <feature> so that <benefit>.
 Given <context> when <something happens> then <desired result>.
 ```

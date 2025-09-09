@@ -21,10 +21,14 @@ HTTPS page and dumps the decrypted TLS traffic to the terminal. Also runs in
 [Play with Docker](https://labs.play-with-docker.com/).
 
 ## Pull and run
+
+```bash
 docker run --net host deanturpin/ssldump
+```
 
 ## Dockerfile
-```docker
+
+```dockerfile
 FROM kalilinux/kali-linux-docker
 RUN apt update
 RUN apt install -y chromium
@@ -39,7 +43,7 @@ ssldump -dX -S d -i $(ip route | head -1 | cut -d' ' -f5) -l ~/ssl.log 2> /dev/n
 ```
 
 ## Excerpts
-```
+```text
 ---------------------------------------------------------------
 5 61 0.1292 (0.0014) C>S application_data
 ---------------------------------------------------------------
@@ -53,7 +57,7 @@ Accept-Encoding: gzip, deflate^M
 Cookie: logged_in=no^M
 ^M
 ```
-```
+```text
 ---------------------------------------------------------------
 7 45 0.1298 (0.0150) S>C application_data
 ---------------------------------------------------------------

@@ -24,7 +24,7 @@ only IPv4 enabled.
 
 You don't need to enter something for every field.
 
-```
+```text
 Name ee1
 APN everywhere
 MCC 234

