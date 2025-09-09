@@ -109,24 +109,24 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 
 ## Homemade food/drink
 
-* Bread
-* Kimchi/sauerkraut
-* Milk kefir
-* Soft cheese
-* Home brew beer and wine
+- Bread
+- Kimchi/sauerkraut
+- Milk kefir
+- Soft cheese
+- Home brew beer and wine
 
 ## Packaging
 
-* Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
-* Buying loose where possible ([hisBe](http://hisbe.co.uk/))
-* Refusing products with non-recyclable packaging
-* Stopped buying energy gels/sports supplements
-* Keep a zero waste pot at work
+- Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
+- Buying loose where possible ([hisBe](http://hisbe.co.uk/))
+- Refusing products with non-recyclable packaging
+- Stopped buying energy gels/sports supplements
+- Keep a zero waste pot at work
 
 ## Foraging
 
-* Interest in mushrooms (although not confident enough to eat them yet)
-* Foraging easy wild ingredients (wild garlic)
+- Interest in mushrooms (although not confident enough to eat them yet)
+- Foraging easy wild ingredients (wild garlic)
 
 # Every day ingredients
 
@@ -178,13 +178,13 @@ In the week newspapers are OK but inexplicably at the weekend the
 food/environment pullouts come in a plastic bag.
 # Inspiration
 
-* Zero waste superstar Lauren Singer: http://www.trashisfortossers.com/
-* The zero waste restaurant, the only things that leave are diners and compost:
+- Zero waste superstar Lauren Singer: http://www.trashisfortossers.com/
+- The zero waste restaurant, the only things that leave are diners and compost:
   http://www.silobrighton.com/
-* Small scale plastic processing kits: http://preciousplastic.com/
-* Plastic Soup Foundation: https://www.facebook.com/PlasticSoupFoundation
-* http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
-* https://www.wsj.com/articles/SB122238422541876879
+- Small scale plastic processing kits: http://preciousplastic.com/
+- Plastic Soup Foundation: https://www.facebook.com/PlasticSoupFoundation
+- http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
+- https://www.wsj.com/articles/SB122238422541876879
 
 ## Six month review
 (Inspired by Lauren Singer's zero waste jar.)
@@ -229,7 +229,7 @@ Sainsbury's @sainsburys  Jan 12 2016:
 replace them free of charge if they become damaged." 
 
 ## Alternative recycling companies
-* http://www.magpie.coop/services/greenbox
+- http://www.magpie.coop/services/greenbox
 # Q&A
 
 Disclaimer: I do actually eat animals but I think it's important to challenge
@@ -367,12 +367,12 @@ comes out of our taps.
 I've been thinking about this [granola](images/granola.jpg) for a while. It's quite hard to buy dried
 fruit without also buying a plastic bag.
 
-* 300g large oats
-* 60g cacao nibs
-* 60g dried goji berries
-* 60g Silverspoon UK-grown caster sugar (paper bag)
-* 60g Surrey honey
-* 60g coconut oil
+- 300g large oats
+- 60g cacao nibs
+- 60g dried goji berries
+- 60g Silverspoon UK-grown caster sugar (paper bag)
+- 60g Surrey honey
+- 60g coconut oil
 
 Combine everything bar the berries (lest they burn), spread on a tray and cook
 at 200C for 8 minutes until brown (give it a stir around halfway through). I
@@ -414,10 +414,10 @@ But it's really easy to [get involved](images/kimchi1.jpg).
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
 packaging. So why not make your own?
 
-* 100% red cabbage (loose, Infinity Foods)
-* 25% wild garlic (wild, The Downs)
-* 1.6% salt
-* 1% red chilli (loose, Taj)
+- 100% red cabbage (loose, Infinity Foods)
+- 25% wild garlic (wild, The Downs)
+- 1.6% salt
+- 1% red chilli (loose, Taj)
 
 Chop everything and mix in the salt. Crush with your hands to get the juices
 flowing (if it's a particularly tough cabbage you might need to use a pestle).
@@ -436,11 +436,11 @@ like the taste on a certain day move it to the fridge to slow it down.
 ## Fermented salsa
 A very quick ferment that goes with [anything](images/fermented_salsa2.jpg).
 
-* Two large tomatoes, coarsely chopped
-* Half as much onion as toms, 5mm dice
-* Two garlic cloves, finely chopped
-* A few radishes, finely sliced
-* One red chilli, finely sliced
+- Two large tomatoes, coarsely chopped
+- Half as much onion as toms, 5mm dice
+- Two garlic cloves, finely chopped
+- A few radishes, finely sliced
+- One red chilli, finely sliced
 
 The denser the vegetable the finer it needs cutting.
 
