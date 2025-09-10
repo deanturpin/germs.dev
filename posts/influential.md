@@ -2,7 +2,7 @@
 
 Technologies that have had a positive, lasting impact on me as a developer.
 
-- __2025__: ghostty, FastHosts VPS
+- __2025__: ghostty, FastHosts VPS, Claude CLI/Code
 - __2024__: gcc/clang from source, C++ modules, `constexpr` cmath, Dev Containers, Codespaces, ChatGPT voice, -Wnrvo
 - __2023__: Google Benchmark, Haskell, ChatGPT, AVX, Copilot, OpenSCAD
 - __2022__: SIP, GitBook, Compiler Explorer (on prem), GitLab (on prem), GitLab service desk, git worktrees, FIX, `constexpr` (for UB), GoogleTest, VS Code web IDE
