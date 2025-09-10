@@ -6,5 +6,3 @@ Projects cover subjects such as PCAP processing, audio analysis, trading strateg
 
 Currently reviewing "C++ Memory Management" by Patrice Roy for Packt Publishing.
 
-[https://turpin.dev/](https://turpin.dev/)
-
