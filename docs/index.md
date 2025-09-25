@@ -5,6 +5,7 @@
 Welcome to my online logbook, maintained since 2009.
 
 This portfolio contains 250+ technical articles covering:
+
 - **C++ Development** - Modern features, best practices, performance optimisation
 - **Audio Engineering** - DSP, real-time processing, music technology
 - **System Architecture** - Low-latency design, multithreading, data structures
