@@ -12,6 +12,12 @@
 
 - The Ginger Fox (££): best pub food around I reckon
 
+### September
+
+- The Grill, Glasgow (££): Ajay Kumar's on-the-flame basement restaurant
+- Swadish (£££): Ajay Kumar's flagship Indian restaurant in Glasgow, omg
+- The Spanish Butcher, Glasgow (£££): cracking steakhouse in the city centre, bring your elastic pants
+
 ### August
 
 - Pod Burger (££): great burger, new go-to
