@@ -36,6 +36,7 @@ int main() {
 	a.i_can_change = 5;
 }
 ```
+
 https://godbolt.org/z/4rWqxb4oq
 
 ## Unit testing

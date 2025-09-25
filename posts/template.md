@@ -28,6 +28,7 @@ typedef T* type;
 ```
 
 # Template args can be types or numbers
+
 ```cpp
 template <size_t N> struct IsEven {
 enum { value = (N %2 ) ? 0 : 1 };
@@ -134,11 +135,13 @@ A template is a C++ entity that defines one of the following:
 - value metatfunctions use variable templates ending with "\_v"
 
 # Explicit spectialisation
+
 ```cpp
 template <> // explicit speciailisation
 ```
 
 # Printing the type
+
 ```cpp
 std::cout << typeid(Type1).name() << 'n';
 ```
@@ -184,6 +187,7 @@ So...
 - Value types are always copies
 
 These generate the same code:
+
 ```cpp
 template <typename T>
 T func(T t) {
@@ -229,6 +233,7 @@ template <unsigned M, unsigned N>
 ```
 
 Suppply base case with a specialisation
+
 ```cpp
 template <unsigned M>
 struct gcd<M, 0>{
@@ -248,6 +253,7 @@ struct gcd<M, 0>{
 See also [Walter E. Brown](https://www.youtube.com/watch?v=Am2is2QCvxY).
 
 ## Identity metafunction
+
 ```cpp
 template <class T>
 struct type_is {using type = T};
@@ -281,6 +287,7 @@ using false_type = bool_constant<false>;
 - `bool_constant`
 
 # First parameter packs
+
 ```cpp
 template <class T, class... P0toN>
 struct is_one_of; // declaration not implementation
@@ -293,6 +300,7 @@ struct is_one_of<T, T, P1toN...> : true_type{};
 struct is_one_of<T, P0, P1toN>
 : is_one_of<T, P1toN...>{};
 ```
+
 # Not evaluated
 `sizeof`, `typeid`, `decltype` and `noexcept` are never evaluated, not even at compile time.
 - No code is generated

@@ -1,6 +1,7 @@
 # C++ recipes
 
 # Operating over a whole container using ranges (C++20)
+
 ```cpp
 #include <vector>
 #include <algorithm>
@@ -26,14 +27,17 @@ int main() {
 ```
 
 Generates:
+
 ```text
 0 0 0 0
 -1 -1 -1 -1
 1804289383 846930886 1681692777 1714636915
 ```
+
 https://godbolt.org/z/31196Kz5z
 
 # Zip two containers
+
 ```cpp
 #include <iostream>
 #include <vector>
@@ -55,6 +59,7 @@ int main() {
   { std::cout << p.first << ", " << p.second << "n"; });
   }
 ```
+
 https://godbolt.org/z/7rE9qnjar
 
 # Get the file name out of a path
@@ -96,6 +101,7 @@ int main() {
 ```
 
 # Easy timestamp string
+
 ```cpp
 const auto now = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
 std::string time = ctime(&now);
@@ -106,6 +112,7 @@ if (!time.empty())
 ```
 
 # A mostly immutable class without declaring everything const
+
 ```cpp
 int main() {
   const struct mostly_immutable {
@@ -120,6 +127,7 @@ a.i_can_change = 5;
 ```
 
 # Using the return value of a std::for_each
+
 ```cpp
 #include <vector>
 #include <string>
@@ -160,9 +168,11 @@ int main() {
   plus_minus_zero({1, 2, -1, 5, 0, 0});
 }
 ```
+
 https://godbolt.org/z/3r79z733P
 
 # Parallel std::accumulate
+
 ```cpp
 #include <vector>
 #include <numeric>
@@ -174,9 +184,11 @@ const std::vector<int> vec{1, 23, 4, 5, 6, 7, 8};
   return std::reduce(std::execution::par_unseq, vec.cbegin(), vec.cend(), int{});
 }
 ```
+
 https://godbolt.org/z/dEv4TTb6e
 
 # Print a space between elements and a new line at the end
+
 ```cpp
 #include <vector>
 #include <iostream>
@@ -189,9 +201,11 @@ for (size_t i = 0; const auto v : vec)
   std::cout << v << (++i == vec.size() ? "n" : " ");
 }
 ```
+
 https://godbolt.org/z/qEnGocPGW
 
 # Removing container elements in C++20
+
 ```cpp
 #include <vector>
 #include <iostream>
@@ -217,9 +231,11 @@ int main() {
   return vec.size();
 };
 ```
+
 https://godbolt.org/z/7xs6johW8
 
 # Check an associative container has an element in C++20
+
 ```cpp
 #include <map>
 
@@ -234,9 +250,11 @@ int main() {
   return m.contains(4) ? 1 : 0;
 }
 ```
+
 https://godbolt.org/z/defjerKhd
 
 # Get permutations of a container
+
 ```cpp
 #include <iostream>
 #include <vector>
@@ -256,5 +274,6 @@ int main() {
   }
 }
 ```
+
 https://godbolt.org/z/sc8GY6dT8
 

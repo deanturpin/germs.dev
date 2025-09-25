@@ -12,6 +12,7 @@ tags:
 
 ## OS config
 ### Linux proc
+
 ```bash
 echo 600 > /proc/sys/net/ipv4/tcp_keepalive_time
 echo 60 > /proc/sys/net/ipv4/tcp_keepalive_intvl
@@ -28,16 +29,19 @@ TCP_KEEPINTVL: overrides tcp_keepalive_intvl
 ```
 
 Peek data to check socket is open.
+
 ```
 recv(sock, &buf, 1, MSG_PEEK | MSG_DONTWAIT);
 ```
 
 Linux only
+
 ```
 MSG_DONTWAIT: set blocking per recv call
 ```
 
 ## Windows PowerShell script
+
 ```
 while (1) {clear; echo hello; netstat -n -a | select-string 2300; sleep 1}
 ```

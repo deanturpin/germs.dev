@@ -1,6 +1,7 @@
 # Random
 
 # Via the (Linux) filesystem
+
 ```cpp
 int r;
 std::ifstream("/dev/urandom").read(reinterpret_cast<char*>(&r), sizeof r);

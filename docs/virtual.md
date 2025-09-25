@@ -60,11 +60,13 @@ std::cout << (sizeof a) << "n";
 std::cout << (sizeof b) << "n";
 }
 ```
+
 ```text
 Program returned: 0
 1
 8
 ```
+
 https://godbolt.org/z/Wen6EP9Wx
 
 ## Virtual base classes
@@ -100,9 +102,11 @@ int main() {
 std::unique_ptr<C> a = std::make_unique<D>();
 }
 ```
+
 https://godbolt.org/z/Gnee41v4M
 
 ## vtables
+
 ```cpp
 int main() {
 struct A {
@@ -110,6 +114,7 @@ virtual void blah(){;}
 } a;
 }
 ```
+
 https://godbolt.org/z/5G9zcd3KP
 
 ### Assembly

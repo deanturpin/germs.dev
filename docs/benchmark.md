@@ -1,16 +1,19 @@
 # Google benchmark
 
 ## Install on Ubuntu
+
 ```bash
 sudo apt install libbenchmark-dev
 ```
 
 ## Compiler/linker options
+
 ```bash
 -std=c++23 -lbenchmark -lpthread -DNDEBUG
 ```
 
 ## Example
+
 ```cpp
 #include <benchmark/benchmark.h>
 
@@ -53,6 +56,7 @@ BENCHMARK_MAIN();
 See [Godbolt](https://godbolt.org/z/ro4qr5Wza).
 
 ## Output
+
 ```bash
 ASM generation compiler returned: 0
 Execution build compiler returned: 0

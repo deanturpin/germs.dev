@@ -12,6 +12,7 @@ middle two elements
 - Continuous: infinite number of values
 
 ## Probability density functions
+
 ```text
 P(|Y - 2| < .1) is equivalent to P(1.9 < Y < 2.1)
 ```

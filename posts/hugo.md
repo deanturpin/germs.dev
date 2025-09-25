@@ -29,6 +29,7 @@ Let's Encrypt. You'll be instructed to add a special TXT DNS record to prove
 you own the domain so get back to Google Domains and add that.
 
 The string will be something like:
+
 ```
 _gitlab-pages-verification-code TXT gitlab-pages-verification-code=ba313925ceeca3fee58a1b5130ea8222
 DNS record name ^^^^^^^^^^^^^^^ DNS record text ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

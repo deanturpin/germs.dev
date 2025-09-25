@@ -101,6 +101,7 @@ Remove rough estimates from backlog prior to sprint planning.
 - Feature list? Action > result > object
 
 ## User stories
+
 ```text
 As a <role> I want <feature> so that <benefit>.
 Given <context> when <something happens> then <desired result>.

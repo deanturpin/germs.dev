@@ -24,6 +24,7 @@ exceeds the underlying vector capacity then we could be corrupting existing
 valid data just by quietly copying it around.
 
 ## Other ways to add elements to a vector
+
 ```cpp
 #include <string>
 #include <vector>

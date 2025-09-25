@@ -2,18 +2,22 @@
 
 # Equivalent commands
 ## Commit and push to server
+
 ```bash
 svn commit -m 'blah'
 ```
+
 ```bash
 git commit -m 'blah'
 git push
 ```
 
 ## Checkout
+
 ```bash
 svn checkout <repo>
 ```
+
 ```bash
 git clone <repo>
 ```

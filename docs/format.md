@@ -41,6 +41,7 @@ print_container();
 ```
 
 Output:
+
 ```
 alignof 1 sizeof 4
 alignof 1 sizeof 5

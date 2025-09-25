@@ -19,6 +19,7 @@ Screenshot is highlighting the major 3rd of an A chord: 440, 550 and 660Hz. Note
 See the source on [GitHub](https://github.com/deanturpin/KEYnote).
 
 ## Note mapping
+
 ```cpp
 #include <iostream>
 #include <map>

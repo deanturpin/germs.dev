@@ -12,6 +12,7 @@ tags:
 # PowerShell
 
 # Get-Content (alias gc)
+
 ```bash
 cat file.txt
 tail file.txt

@@ -7,6 +7,7 @@ struct bird {
 
 bird in = bird(bird(bird(bird(bird()))));
 ```
+
 https://coliru.stacked-crooked.com/a/5c0ff3f3d2d99bea
 
 The destructor is called _once!_

@@ -99,6 +99,7 @@ B7 B7 B7 B7
 ## Driving licence
 
 Asus2 is Asus2#11.
+
 ```text
 E E E F#m9
 G6 G6 Cmaj7 Cmaj7
@@ -183,11 +184,13 @@ Fmaj7 Fmaj7 Baug E7 E7
 ## Slow song
 
 Picked.
+
 ```text
 Em C Am Baug
 ```
 
 ## A choice of fabrics
+
 ```text
 E D C B
 ```

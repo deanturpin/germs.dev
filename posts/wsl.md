@@ -23,11 +23,13 @@ VM on the side.
 
 # Accessing the WSL filesystem
 Access WSL from Windows:
+
 ```bash
 \wsl$Ubuntu-20.04
 ```
 
 Access the host from WSL
+
 ```bash
 /mnt/c/Users
 ```

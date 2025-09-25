@@ -74,6 +74,7 @@ See https://www.bobswatches.com/omega/serial-numbers
 | 131.009  | 1965   | 601   |
 
 ## Reference codes
+
 ```
 BA Yellow gold
 BC White gold

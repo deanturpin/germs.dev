@@ -9,6 +9,7 @@ cat ~/.ssh/id_rsa.pub
 ```
 
 ## Testing your ssh connection setup
+
 ```bash
 $ ssh  git@gitlab.com
 PTY allocation request failed on channel 0
@@ -17,16 +18,19 @@ Connection to gitlab.com closed.
 ```
 
 If this hangs, set this:
+
 ```bash
 export SSH_AUTH_SOCK=
 ```
 
 ## This combo is OK.
+
 ```bash
 OpenSSH_8.4p1 Debian-5+deb11u1, OpenSSL 1.1.1n  15 Mar 2022
 ```
 
 On Debian
+
 ```
  neofetch
        _,met$$$$$gg.          djturpin@ubuntu-c3-4
@@ -55,6 +59,7 @@ echo $SSH_AUTH_SOCK
 
 ## This combo is not good
 Hang in rekey.
+
 ```bash
 $ ssh -Tvvv git@gitlab.com |& head
 OpenSSH_9.0p1 Ubuntu-1ubuntu7.1, OpenSSL 3.0.5 5 Jul 2022

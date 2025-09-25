@@ -23,6 +23,7 @@ docker run --rm -d -p 443:8080 deanturpin/http
 docker run --rm -d -p 8080:8080 deanturpin/http
 
 ## Dockerfile
+
 ```docker
 FROM ubuntu
 RUN apt update --yes
@@ -33,6 +34,7 @@ CMD ./serve.py
 ```
 
 ## Python script
+
 ```python
 #!/usr/bin/env python
 

@@ -20,6 +20,7 @@ xxd example.wav | head -10
 ```
 
 ## Bash
+
 ```bash
 #!/bin/bash
 
@@ -43,6 +44,7 @@ done | graph -T png
 ```
 
 ## JavaScript
+
 ```js
 <input type="file" id="pcm" /><br>
 <p id="status"></p>

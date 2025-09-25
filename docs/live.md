@@ -7,6 +7,7 @@ If you only want to create Windows 10 live USB then you can you use the
 Otherwise...
 
 ## WSL
+
 ```
 sudo mkdir /mnt/g
 sudo mount -t drvfs g: /mnt/g

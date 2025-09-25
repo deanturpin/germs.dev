@@ -47,10 +47,12 @@ Relational databases are "Excel on steroids"
 - JSONB
 
 ### Examples
+
 ```sql
 SELECT -- id, name, price -- FROM -- product
 SELECT -- fields -- FROM -- table
 ```
+
 ### Commands
 - INSERT
 - JOIN

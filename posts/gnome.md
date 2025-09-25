@@ -5,12 +5,14 @@ title: Gnome
 # Fixing a broken Gnome
 
 Rename:
+
 ```bash
 ~/.config
 ~/.local
 ```
 
 Try removing X config files:
+
 ```bash
 % tree /usr/share/X11/xorg.conf.d                   /usr/share/X11/xorg.conf.d
 /usr/share/X11/xorg.conf.d

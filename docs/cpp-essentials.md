@@ -137,6 +137,7 @@ something else. Note we don't need to define what `f` is thanks to `auto`.
 ```cpp
 auto f = std::async(std::launch::async, complicated);
 ```
+
 When we're ready, we block to get the value. We could change the return type of
 `complicated()` and nothing else needs to change.
 
@@ -224,6 +225,7 @@ default entries.
 ```cpp
 std::deque<std::optional> options{0, 1, 2, 3, 4};
 ```
+
 Then make the one at the back undefined.
 
 ```cpp
@@ -231,6 +233,7 @@ options.back() = {};
 ```
 
 And count the valid entries with the help of a lambda expression.
+
 ```cpp
 const auto c = std::count_if(std::cbegin(options), std::cend(options),
 [](const auto &o) { return o; });
@@ -243,6 +246,7 @@ You might declare intermediate variables to make the first/second more meaningfu
 std::pair<std::string, std::string> chuckle{"to me", "to you"};
 std::cout << chuckle.first << ", " << chuckle.second << "n";
 ```
+
 But you can also do it in one expression with structured bindings.
 
 ```cpp
@@ -259,6 +263,7 @@ ideal world everything would be constant -- like
 it’s a balance of reason and getting things done.
 
 ### Standard literals
+
 ```cpp
 using namespace std::complex_literals;
 using namespace std::string_literals;

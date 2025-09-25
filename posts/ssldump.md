@@ -43,6 +43,7 @@ ssldump -dX -S d -i $(ip route | head -1 | cut -d' ' -f5) -l ~/ssl.log 2> /dev/n
 ```
 
 ## Excerpts
+
 ```text
 ---------------------------------------------------------------
 5 61 0.1292 (0.0014) C>S application_data
@@ -57,6 +58,7 @@ Accept-Encoding: gzip, deflate^M
 Cookie: logged_in=no^M
 ^M
 ```
+
 ```text
 ---------------------------------------------------------------
 7 45 0.1298 (0.0150) S>C application_data

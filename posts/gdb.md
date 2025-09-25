@@ -12,6 +12,7 @@ tags:
 # GDB
 
 ## Adding debug symbols
+
 ```bash
 gcc -g hello.c
 gdb a.out
@@ -44,6 +45,7 @@ b 9
 - ctrl p/n - command history
 
 ## Python interpreter built in (since version 7)
+
 ```
 import os
 print(os.pid())

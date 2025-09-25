@@ -4,6 +4,7 @@
 > Latest version here: https://flags.germs.dev/
 
 ## Standard g++
+
 ```
 --std=c++2b --all-warnings --extra-warnings --pedantic-errors -Werror
 ```

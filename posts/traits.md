@@ -26,5 +26,6 @@ int main() {
   vec.emplace_back(std::make_unique<B>());
 }
 ```
+
 https://godbolt.org/z/KbGG1v63M
 

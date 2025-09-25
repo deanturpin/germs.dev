@@ -11,6 +11,7 @@ It's also really annoying searching for information on something called "repo"!
 ---
 
 # Repo basics
+
 ```bash
 # Configure from remote URL (note default.xml is at the top level)
 repo init -u repoURL

@@ -9,6 +9,7 @@ tags:
 # Songs of note
 
 # A Forest -- The Cure
+
 ```text
 Verse
 Am C F Dm
@@ -18,6 +19,7 @@ B C F# F
 ```
 
 # Lullaby -- The Cure
+
 ```text
 Verse
 C#m7 C#m7 C#m7 C#m7
@@ -29,6 +31,7 @@ Amaj7 Amaj7 Amaj7 Amaj7
 ```
 
 # Road To Nowhere -- Talking Heads
+
 ```text
 E E E E
 C#m C#m C#m C#m
@@ -37,6 +40,7 @@ B B E E
 ```
 
 # Drive -- Aimee Mann
+
 ```text
 Verse
 C Cmaj7 C C
@@ -52,6 +56,7 @@ Em F C G
 ```
 
 # She's Always A Woman -- Billy Joel
+
 ```text
 Verse
 A D A D D
@@ -66,6 +71,7 @@ D G D
 ```
 
 # Mystify Me -- INXS
+
 ```
 Verse
 Dm Am G F
@@ -164,6 +170,7 @@ F F F G
 ```
 
 # Cosmic Dancer -- T. Rex
+
 ```
 Verse
 G Em G Em
@@ -174,11 +181,13 @@ Am Am D D
 ```
 
 # Push & Pull -- Nikka Costa
+
 ```
 C Am Em G
 ```
 
 # Songbird -- Oasis
+
 ```
 G G G F#m
 Em Em Em F#m
@@ -200,6 +209,7 @@ Fm G# Cm B
 ```
 
 # Where the wild roses grow - Nick Cave and Kylie Minogue
+
 ```
 Chorus
 Gm Gm Cm Gm Gm Gm A# A# D D
@@ -213,6 +223,7 @@ Gm Gm A# A# Cm Cm D D D7 D7
 ```
 
 # Memorial -- Devendra Banhart
+
 ```
 Verse
 A Bm D A
@@ -222,6 +233,7 @@ E E F#m F#m
 ```
 
 # Toothpaste kisses -- The Maccabees
+
 ```
 Verse
 A C#m7 A C#m7
@@ -243,12 +255,14 @@ Bm Bm E E
 |E|0|0| | |
 
 With capo on fret 2.
+
 ```
 E E E E7
 A Fm A Fm
 ```
 
 # Hurt -- Nine Inch Nails (Johnny Cash version)
+
 ```
 Verse
 Am Am C D

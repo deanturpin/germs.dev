@@ -9,6 +9,7 @@ tags:
 # The Fibonacci Sequence
 
 ## Bash
+
 ```bash
 #!/bin/bash
 
@@ -29,6 +30,7 @@ echo -e sh\t$(fibonacci 14)
 ```
 
 ## C
+
 ```c
 #include <stdio.h>
 
@@ -52,6 +54,7 @@ fibonacci( n - 1ul ) + fibonacci( n - 2ul )
 ```
 
 ## Haskell
+
 ```haskell
 #!/usr/bin/runhaskell
 
@@ -64,6 +67,7 @@ main = putStrLn ("hst" ++ show (fibonacci 14))
 ```
 
 ## Lua
+
 ```lua
 #!/usr/bin/lua5.3
 
