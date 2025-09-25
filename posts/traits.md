@@ -21,7 +21,7 @@ static_assert(std::has_virtual_destructor<B>::value);
 
 int main() {
   std::vector<std::unique_ptr<struct A>> vec;
-  
+
   vec.emplace_back(std::make_unique<A>());
   vec.emplace_back(std::make_unique<B>());
 }

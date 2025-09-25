@@ -52,7 +52,7 @@ RED is plaintext -- unencrypted -- BLACK is ciphertext. Can also be applied to p
 - one time pad "gold standard in entropy"
 - Engima
 - https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
-- Asymmetric 
+- Asymmetric
 - make the attacker take longer to decipher the message than the message is worth
 - weakest point is always the operator: the simpler and automatic the cryptography, the less likely the operator is going to make a mistake
 - block ciphers work on rounds
@@ -138,7 +138,7 @@ Compression first: compression alg employs redundnancy in message, effective com
 
 # References
 - https://en.wikipedia.org/wiki/Forward_secrecy
-- Because of the reuse of primes, generating precomputation for just one prime would break two-thirds of VPNs and a quarter of all SSH servers globally. 
+- Because of the reuse of primes, generating precomputation for just one prime would break two-thirds of VPNs and a quarter of all SSH servers globally.
 
 # No repudiation
 

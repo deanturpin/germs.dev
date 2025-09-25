@@ -29,7 +29,7 @@ Macbook Pro M2, 32 gb ram.
 
 ## Articles and groups
 
-Various articles below, but [this video](https://www.youtube.com/watch?v=i8NnPmK2MZo) was the clincher that 
+Various articles below, but [this video](https://www.youtube.com/watch?v=i8NnPmK2MZo) was the clincher that
 
 - [Apple Insider comparison of Pro and Air](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison)
 - [Apple Logic Pro X Users Group](https://www.facebook.com/groups/543628065696081)

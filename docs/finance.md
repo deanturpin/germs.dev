@@ -7,7 +7,7 @@
 > immediate purchase (bid) for stocks, futures contracts, options, or currency
 > pairs in some auction scenario. The size of the bid–ask spread in a security
 > is one measure of the liquidity of the market and of the size of the
-> transaction cost.[1] If the spread is 0 then it is a frictionless asset. 
+> transaction cost.[1] If the spread is 0 then it is a frictionless asset.
 
 See [Bid-ask spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread).
 

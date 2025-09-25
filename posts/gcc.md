@@ -3,7 +3,7 @@
 The date in the version is set here.
 
 ```bash
-$ cat gcc/DATESTAMP 
+$ cat gcc/DATESTAMP
 20240203
 ```
 

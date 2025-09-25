@@ -9,7 +9,7 @@ int main() {
     uint8_t : 8;
     uint32_t x;
   } __attribute__((packed));
-  
+
   fmt::print("alignof {} sizeof {}n", alignof(S::x), sizeof(S::x));
   fmt::print("alignof {} sizeof {}n", alignof(S), sizeof(S));
 }

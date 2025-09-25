@@ -50,7 +50,7 @@ Command-P... CMake: build
 ```
 
 ```text
-[main] Building folder: wispa 
+[main] Building folder: wispa
 [build] Starting build
 [proc] Executing command: /opt/homebrew/bin/cmake --build /Users/deanturpin/wispa/build --config Debug --target all --
 [build] [3/4  25% :: 1.037] Building CXX object CMakeFiles/wispa.dir/src/oui.cxx.o

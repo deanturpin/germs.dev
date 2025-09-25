@@ -13,13 +13,13 @@ int main() {
     for (size_t i = 0; const auto&v : vec)
       std::cout << v << (++i == vec.size() ? "n" : " ");
   };
-  
+
   std::vector<int> v(4);
   printy(v);
-  
+
   std::ranges::fill(v, -1);
   printy(v);
-  
+
   std::ranges::generate(v, std::rand);
   printy(v);
 }
@@ -43,14 +43,14 @@ https://godbolt.org/z/31196Kz5z
 int main() {
   const std::vector<int> a{1, 2, 3};
   const std::vector<int> b{4, 5, 6};
-  
+
   std::vector<std::pair<int, int>> zipped;
   zipped.reserve(a.size());
-  
+
   const auto zipper = [](const auto& a, const auto& b){ return std::make_pair(a, b); };
-  
+
   std::transform(cbegin(a), cend(a), cbegin(b), back_inserter(zipped), zipper);
-  
+
   std::ranges::for_each(zipped, [](const auto& p)
   { std::cout << p.first << ", " << p.second << "n"; });
   }
@@ -69,7 +69,7 @@ int main() {
 
   const std::string full_path = "one/two.jpg";
   const std::string just_the_file_name = full_path.substr(full_path.find_last_of('/') + 1);
-  
+
   std::cout << """ << just_the_file_name << ""n";
 }
 ```
@@ -139,7 +139,7 @@ auto plus_minus_zero(const std::initializer_list<int> &list) {
       else
         ++results_.zeroes_;
     }
-  
+
     struct {
       size_t positives_{};
       size_t negatives_{};
@@ -149,7 +149,7 @@ auto plus_minus_zero(const std::initializer_list<int> &list) {
   };
 
   const auto results = std::for_each(std::cbegin(list), std::cend(list), func{}).results_;
-  
+
   std::cout << std::fixed << std::setprecision(6)
     << results.positives_ / results.size_ << "n"
     << results.negatives_ / results.size_ << "n"
@@ -205,15 +205,15 @@ int main() {
 
   std::vector<size_t> vec{1, 2, 3, 4, 5, 6, 6, 7};
   printy(vec);
-  
+
   std::erase(vec, 1);
   printy(vec);
-  
+
   vec.erase(vec.begin() + 2, vec.end());
   printy(vec);
-  
+
   // also erase_if
-  
+
   return vec.size();
 };
 ```
@@ -230,7 +230,7 @@ int main() {
   {2, 2},
   {3, 2},
   };
-  
+
   return m.contains(4) ? 1 : 0;
 }
 ```
@@ -244,7 +244,7 @@ https://godbolt.org/z/defjerKhd
 
 int main() {
   std::vector<int> vec{1, 2, 3};
-  
+
   const auto printy = [](const auto &vec) {
     for (size_t i = 0; const auto& v : vec)
       std::cout << v << (++i == vec.size() ? "n" : " ");

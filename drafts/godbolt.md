@@ -1,7 +1,7 @@
 # Compiler explorer installation
 
 - Create GCP Linux VM with 8GB RAM
-- Install whatever version of compilers you wish to support 
+- Install whatever version of compilers you wish to support
 
 ```bash
 git clone https://github.com/compiler-explorer/compiler-explorer.git
@@ -9,7 +9,7 @@ sudo apt install --yes npm make
   sudo npm cache clean -f
 
 
-curl -sL https://deb.nodesource.com/setup_14.x  | sudo bash - 
+curl -sL https://deb.nodesource.com/setup_14.x  | sudo bash -
    28  sudo apt update nodejs
    29  sudo apt install nodejs
    30  nodejs --version

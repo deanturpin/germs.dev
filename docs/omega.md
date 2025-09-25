@@ -26,7 +26,7 @@ title: Omega watches
 | Number | 1st Digit | 2nd Digit | 3rd Digit |
 | --- | --- | --- | --- |
 | 1 | Gent’s Watch - leather strap| Manual winding without second | Non-water-resistant |
-| 2 | Gent’s Jewelry Watch | Manual winding small second | Non-water-resistant calendar | 
+| 2 | Gent’s Jewelry Watch | Manual winding small second | Non-water-resistant calendar |
 | 3 | Gent’s Watch - bracelet | Manual winding center second 	| Non-water-resistant chronometer |
 | 4 | Gent’s Jewelry Bracelet Watch | Manual winding chronograph | Non-water-resistant chronometer calendar |
 | 5 | Lady’s Watch | Self-winding with second | Water-resistant |
@@ -41,7 +41,7 @@ See https://www.bobswatches.com/omega/serial-numbers
 | Reference | Detail | Calibre |
 | --- | --- | --- |
 | 121.001  | 1964 Mechanical ||
-| 125.007  | 1964 Seamaster 30 || 
+| 125.007  | 1964 Seamaster 30 ||
 | 131.6412 | GENEVE 9ct SOLID GOLD 17 JEWELS | 601 |
 | 131.019  | Genève | 601 |
 | 132.0019 | | 613 |
@@ -65,7 +65,7 @@ See https://www.bobswatches.com/omega/serial-numbers
 | 166.098  | | 1481 |
 | 166.0117 | Geneve Gold Men's Watch | |
 | 166.0163 | 1972 | |
-| 166.0169 | | 1022 | 
+| 166.0169 | | 1022 |
 | | | |
 | 161.009  | 1965 automatic dress watch | 522 |
 | 131.019  | Genève | 601   |
@@ -118,7 +118,7 @@ TL Titanium and pink gold combination
 | 166.0163 cal ? - 1972 S&R | £175 |
 | 166.0169 cal 1xxx Day/ Date Mens Wristwatch Circa 1972/3 Working Well | £229 |
 | 166.0169 Cal 1022 - Geneve Automatic yellow dial | £389 |
-| 166.0169 Cal 1022  | £215 | 
+| 166.0169 Cal 1022  | £215 |
 | cal 1481 - Omega Geneva Automatic S&R | £285.00 |
 | OMEGA CONSTELLATION AUTOMATIC WRISTWATCH | £440 |
 | 18ct Century 552 | £735 |

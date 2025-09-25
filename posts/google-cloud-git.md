@@ -4,7 +4,7 @@
 https://gitlab.com/-/profile/keys
 
 ```bash
-ssh-keygen 
+ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
@@ -28,28 +28,28 @@ OpenSSH_8.4p1 Debian-5+deb11u1, OpenSSL 1.1.1n  15 Mar 2022
 
 On Debian
 ```
- neofetch 
-       _,met$$$$$gg.          djturpin@ubuntu-c3-4 
-    ,g$$$$$$$$$$$$$$$P.       -------------------- 
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64 
- ,$$P'              `$$$.     Host: Google Compute Engine 
-',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-21-cloud-amd64 
-`d$$'     ,$P"'   .    $$$    Uptime: 8 mins 
- $$P      d$'     ,    $$P    Packages: 332 (dpkg) 
- $$:      $$.   -    ,d$$'    Shell: bash 5.1.4 
- $$;      Y$b._   _,d$P'      Terminal: /dev/pts/0 
- Y$$.    `.`"Y$$$$P"'         CPU: Intel Xeon Platinum 8481C (4) @ 2.699GHz 
- `$$b      "-.__              Memory: 120MiB / 7956MiB 
+ neofetch
+       _,met$$$$$gg.          djturpin@ubuntu-c3-4
+    ,g$$$$$$$$$$$$$$$P.       --------------------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64
+ ,$$P'              `$$$.     Host: Google Compute Engine
+',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-21-cloud-amd64
+`d$$'     ,$P"'   .    $$$    Uptime: 8 mins
+ $$P      d$'     ,    $$P    Packages: 332 (dpkg)
+ $$:      $$.   -    ,d$$'    Shell: bash 5.1.4
+ $$;      Y$b._   _,d$P'      Terminal: /dev/pts/0
+ Y$$.    `.`"Y$$$$P"'         CPU: Intel Xeon Platinum 8481C (4) @ 2.699GHz
+ `$$b      "-.__              Memory: 120MiB / 7956MiB
   `Y$$
-   `Y$$.                                              
-     `$$b.                                            
+   `Y$$.
+     `$$b.
        `Y$$b.
           `"Y$b._
               `"""
 ```
 
 ```
-echo $SSH_AUTH_SOCK 
+echo $SSH_AUTH_SOCK
 /tmp/ssh-FY0M4AWdBE/agent.693
 ```
 

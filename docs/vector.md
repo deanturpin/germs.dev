@@ -35,14 +35,14 @@ int main() {
     std::string last_name_;
     size_t id_{};
   };
-  
+
   std::vector<customer> db;
-  
+
   db.emplace_back("hi", "there", 10);
   db.push_back({"bye", "now", 11});
   db.push_back(customer{"bye", "now", 11});
   db.emplace_back(customer{"bye", "now", 11});
-  
+
   return db.size();
 }
 ```

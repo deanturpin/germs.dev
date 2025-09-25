@@ -5,7 +5,7 @@ Expensive things I'd like but have no idea when I'm likely to be able to afford 
 - Remarkable 2 tablet
 
 ## Watches
-- Omega Speedmaster 
+- Omega Speedmaster
 - Datejust 41 Oyster in Oystersteel
 - Rolex Oyster Perpetual 41
 - Vulcain Cricket

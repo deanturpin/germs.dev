@@ -1,8 +1,8 @@
 # Mercedes CLC resources
 
 ```text
-Frequently Asked Questions. Preguntas frecuentes. Häufig gestellte Fragen. Często Zadawane Pytania. Часто задаваемые вопросы. Domande frequenti. 
-Questions fréquemment posées. Често задавани въпроси.  Συχνές Ερωτήσεις. أسئلة مكررة. 
+Frequently Asked Questions. Preguntas frecuentes. Häufig gestellte Fragen. Często Zadawane Pytania. Часто задаваемые вопросы. Domande frequenti.
+Questions fréquemment posées. Често задавани въпроси.  Συχνές Ερωτήσεις. أسئلة مكررة.
 **Interior bulb sizes
 **https://facebook.com/.../12725.../permalink/718720878755613/
 **Rear number plate bulbs

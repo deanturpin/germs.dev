@@ -50,7 +50,7 @@ G slide
 
 9 B
 10 G slide accent
-11 G 
+11 G
 12 B
 
 13 G slide accent

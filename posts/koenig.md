@@ -4,7 +4,7 @@
 > set of rules for looking up the unqualified function names in function-call
 > expressions, including implicit function calls to overloaded operators. These
 > function names are looked up in the namespaces of their arguments in addition
-> to the scopes and namespaces considered by the usual unqualified name lookup. 
+> to the scopes and namespaces considered by the usual unqualified name lookup.
 
 See [ADL](https://en.cppreference.com/w/cpp/language/adl).
 

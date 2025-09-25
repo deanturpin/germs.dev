@@ -10,7 +10,7 @@ title: Rolex
 - Date of issue: c.1969
 - Serial number example: 2615***
 - Inside case back: MONTRES ROLEX S.A. 6426
-- Dial: ROLEX / OYSTER / Precision / - T SWISS T - 
+- Dial: ROLEX / OYSTER / Precision / - T SWISS T -
 - https://www.vintagegoldwatches.com/product/rolex-precision-18ct-1950/
 
 ### Examples
@@ -18,7 +18,7 @@ title: Rolex
 - https://www.ebay.co.uk/itm/265628592342
 
 ## Daytona
-> The Rolex Cosmograph Daytona is a mechanical chronograph wristwatch designed to meet the needs of racing drivers by measuring elapsed time and calculating average speed. Its name refers to Daytona, Florida, where racing flourished in the early 20th century. It has been manufactured by Rolex since 1963 in three distinct generations (or series); the second series was introduced in 1988, and the third in 2000. While cosmetically similar, the second series introduced a self-winding movement (the first series is hand-wound), and the third series brought manufacture of the movement in-house to Rolex. 
+> The Rolex Cosmograph Daytona is a mechanical chronograph wristwatch designed to meet the needs of racing drivers by measuring elapsed time and calculating average speed. Its name refers to Daytona, Florida, where racing flourished in the early 20th century. It has been manufactured by Rolex since 1963 in three distinct generations (or series); the second series was introduced in 1988, and the third in 2000. While cosmetically similar, the second series introduced a self-winding movement (the first series is hand-wound), and the third series brought manufacture of the movement in-house to Rolex.
 
 https://en.wikipedia.org/wiki/Rolex_Daytona
 
@@ -31,7 +31,7 @@ https://en.wikipedia.org/wiki/Rolex_Daytona
 https://en.wikipedia.org/wiki/Rolex_GMT_Master_II
 
 ## Milgauss
-> The Rolex Oyster Perpetual Milgauss is a wristwatch model introduced by Rolex in 1956 with model number 6541. The Milgauss was advertised as "designed to meet the demands of the scientific community working around electromagnetic fields". 
+> The Rolex Oyster Perpetual Milgauss is a wristwatch model introduced by Rolex in 1956 with model number 6541. The Milgauss was advertised as "designed to meet the demands of the scientific community working around electromagnetic fields".
 
 https://en.wikipedia.org/wiki/Rolex_Milgauss
 

@@ -30,7 +30,7 @@ See [days of the week](https://www.learncroatian.eu/blog/days-of-week-croatian).
 3. treći
 
 ## Misc
-- Cancel - Odustani 
+- Cancel - Odustani
 - OK - Otključaj
 - Da - yes
 - Ne - no

@@ -226,7 +226,7 @@ this mean they can't be recycled in store?"
 
 Sainsbury's @sainsburys  Jan 12 2016:
 "@deanturbo Hi Dean, they're made of recycled material and are recyclable, we'll
-replace them free of charge if they become damaged." 
+replace them free of charge if they become damaged."
 
 ## Alternative recycling companies
 - http://www.magpie.coop/services/greenbox
@@ -317,7 +317,7 @@ These include:
 ## Lids
 > Yes as the lids are made from different plastics so can contaminate the
 > recycling. Please wash and squash your plastic bottles and put them in your
-> recycling box without lids. 
+> recycling box without lids.
 
 And come contradictory advice from Twitter:
 
@@ -427,7 +427,7 @@ bottom of the bowl.
 Pack into a glass jar leaving about 20% expansion space and close the lid.
 
 Keep out of the sunlight, it should start to bubble by day two. Taste it after a
-week. Is it delicious? If so, eat on homemade bread with aioli. 
+week. Is it delicious? If so, eat on homemade bread with aioli.
 
 The flavour profile evolves over the course of a few weeks. If you manage to not
 eat it all you'll notice the taste drops off after a few weeks. If you really

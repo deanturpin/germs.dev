@@ -11,8 +11,8 @@ So, how about a "good deed" token? You can't buy your way in like those Bitcoin 
 
 Just to get a feel for the scale of the task.
 
-- Take somebody to the supermarket 
-- Give somebody a lift into town 
+- Take somebody to the supermarket
+- Give somebody a lift into town
 - Hang a picture
 - Mow the lawn
 

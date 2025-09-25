@@ -21,28 +21,28 @@ sudo apt install libbenchmark-dev
 
 static void BM_Vectorpush(benchmark::State& state) {
     std::vector<int> x;
-    for (auto _ : state) 
+    for (auto _ : state)
         x.insert(x.begin(), 1);
 }
 BENCHMARK(BM_Vectorpush);
 
 static void BM_Listpush(benchmark::State& state) {
     std::list<int> x;
-    for (auto _ : state) 
+    for (auto _ : state)
         x.insert(x.begin(), 1);
 }
 BENCHMARK(BM_Listpush);
 
 static void BM_Setappend(benchmark::State& state) {
     std::set<int> x;
-    for (auto _ : state) 
+    for (auto _ : state)
         x.insert(1);
 }
 BENCHMARK(BM_Setappend);
 
 static void BM_UnorderedSetappend(benchmark::State& state) {
     std::unordered_set<int> x;
-    for (auto _ : state) 
+    for (auto _ : state)
         x.insert(1);
 }
 BENCHMARK(BM_UnorderedSetappend);
