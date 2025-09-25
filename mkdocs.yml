@@ -4,8 +4,8 @@ site_author: Dean Turpin
 site_description: Online logbook and portfolio since 2009
 
 # Repository
-repo_name: deanturpin/deanturpin
-repo_url: https://gitlab.com/germs-dev/deanturpin
+repo_name: deanturpin/germs.dev
+repo_url: https://github.com/deanturpin/germs.dev
 
 # Configuration
 theme:
