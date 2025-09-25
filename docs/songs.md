@@ -271,5 +271,5 @@ Fm Cm D G G7
 
 ## References
 
-- [Songs with interesting major/minor key changes](/posts/songs2/)
+- [Songs with interesting major/minor key changes](/songs2/)
 - [Oolimo guitar chord analyser](https://www.oolimo.com/)

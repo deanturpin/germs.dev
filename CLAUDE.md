@@ -4,44 +4,44 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a GitBook-based personal portfolio and technical blog site for Dean Turpin, deployed via GitLab CI. The site is built from markdown posts in the `posts/` directory and automatically generates a README from selected posts.
+This is a MkDocs-based personal portfolio and technical blog site for Dean Turpin, deployed via GitHub Actions. The site is built from markdown files in the `docs/` directory.
 
 ## Build and Deployment
 
-The project uses GitLab CI with GitBook 3.2.3 to build static pages:
+The project uses GitHub Actions with MkDocs to build static pages:
 
 ```bash
-# Install GitBook locally (Node 10 required)
-npm install gitbook-cli -g
-gitbook fetch 3.2.3
-gitbook install
+# Install MkDocs locally
+pip install -r requirements.txt
 
 # Build site locally
-gitbook build . public
+mkdocs build
+
+# Serve locally for development
+mkdocs serve
 ```
 
 The CI pipeline automatically:
-- Concatenates key posts to create README.md
-- Generates SUMMARY.md from all posts
-- Builds static site with GitBook
-- Deploys to GitLab Pages
+- Builds static site with MkDocs
+- Runs markdown linting
+- Deploys to GitHub Pages
 
 ## Repository Structure
 
-- `posts/` - Contains 250+ markdown articles on technical topics
+- `docs/` - Contains 250+ markdown articles and documentation
 - `drafts/` - Work-in-progress posts
-- `.gitlab-ci.yml` - CI/CD pipeline configuration
-- Key posts that form the README:
-  - `posts/keywords.md` - Technical skills and tools
-  - `posts/projects.md` - C++ experience and side projects
-  - `posts/websites.md` - Online presence links
-  - `posts/tech_stack.md` - Current technology stack (auto-dated)
-  - `posts/skills.md` - Skills timeline visualisation
-  - `posts/influential.md` - Influential resources
+- `.github/workflows/deploy.yml` - GitHub Actions CI/CD pipeline
+- `mkdocs.yml` - MkDocs configuration
+- Key pages in navigation:
+  - `docs/keywords.md` - Technical skills and tools
+  - `docs/projects.md` - C++ experience and side projects
+  - `docs/websites.md` - Online presence links
+  - `docs/tech_stack.md` - Current technology stack
+  - `docs/skills.md` - Skills timeline visualisation
+  - `docs/influential.md` - Influential resources
 
 ## Development Notes
 
-- The README.md is auto-generated from posts - do not edit directly
-- Tech stack dates are replaced with `{TODAY}` placeholder in CI
-- Site footer includes build metadata and quote of the day
-- GitBook version is pinned to 3.2.3 for stability
+- All content is in the `docs/` directory for MkDocs
+- The README.md is generated during build from key documentation files
+- Site is deployed to GitHub Pages automatically on push to main branch
