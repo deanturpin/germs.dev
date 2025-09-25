@@ -1,0 +1,9 @@
+# Alternative Linux commands that have usurped the default
+
+- `mtr` - a fancy `tracepath`
+- `ag` - an improved `grep`
+- `bat` - `cat` with syntax highlighting
+- `duf` - readable `df`
+- `fzf` - fuzzy `find`
+- `tldr` - example based man page
+
