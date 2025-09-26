@@ -1,3 +1,10 @@
+---
+tags:
+  - ubuntu
+  - linux
+  - operating-systems
+---
+
 # Upgrading Ubuntu
 
 ## Get your current install up-to-date
@@ -28,6 +35,7 @@ Prompt=normal
 ```
 
 ## Let's do this!
+
 Note the `-d` to [get it done](https://linuxconfig.org/how-to-upgrade-ubuntu-to-21-04).
 
 ```bash

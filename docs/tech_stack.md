@@ -1,6 +1,12 @@
-# Current tech stack
+---
+tags:
+  - tools
+  - cpp
+  - programming-languages
+  - operating-systems
+---
 
-[Refreshed {TODAY}]
+# Current tech stack
 
 C++26,
 Ubuntu 25.04,

@@ -1,6 +1,11 @@
 ---
 title: TMP
 draft: true
+tags:
+  - cpp
+  - programming-languages
+  - modern-features
+  - algorithms
 ---
 
 # TMP

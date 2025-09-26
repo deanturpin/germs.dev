@@ -1,3 +1,10 @@
+---
+tags:
+  - networking
+  - tools
+  - linux
+---
+
 # Network analysis
 
 For the purposes of this exercise we're not employing any [nefarious
@@ -9,7 +16,7 @@ will at least show you some other active IPs on the network. You want to get
 "in the way" of as much data as possible so if you can run these tests on the
 router then even better.
 
-# ip
+## ip
 Find out what your IP is.
 
 ```bash
@@ -55,7 +62,7 @@ default via 172.20.10.1 dev wlp1s0 proto dhcp metric 600
 172.20.10.0/28 dev wlp1s0 proto kernel scope link src 172.20.10.3 metric 600
 ```
 
-# Subnet masks
+## Subnet masks
 The config above is using a 28-bit netmask, therefore there are only 4 bits available for hosts. This allows more subnets but doesn't make for terribly clear decimal IP ranges. However, there are plenty of online and command line subnet calculators around.
 
 ipcalc 172.20.10.3/28
@@ -72,7 +79,8 @@ HostMax: 172.20.10.14 10101100.00010100.00001010.0000 1110
 Broadcast: 172.20.10.15 10101100.00010100.00001010.0000 1111
 Hosts/Net: 14 Class B, Private Internet
 
-# ping
+## ping
+
 Exploratory ping of hosts on the network. You can ping hosts individually or use a bash script.
 
 for host in 172.20.10.{1..5}; do ping -c 1 $host > /dev/null && echo $host responded; done
@@ -82,7 +90,8 @@ Of the five IPs tested only my own IP and the gateway responded.
 172.20.10.1 responded
 172.20.10.3 responded
 
-# tcpdump
+## tcpdump
+
 `tcpdump` is a command line equivalent of [Wireshark](https://en.wikipedia.org/wiki/Wireshark). Use it to snoop packets and get a feel for what's on the network. Note I've used the interface listed by `ip` above.
 
 sudo tcpdump -n -i wlp1s0
@@ -96,7 +105,8 @@ listening on wlp1s0, link-type EN10MB (Ethernet), capture size 262144 bytes
 11:09:30.523066 IP6 fe80::149b:c888:82d2:712 > fe80::ffda:eabe:b8f3:59d9: ICMP6, neighbor solicitation, who has fe80::ffda:eabe:b8f3:59d9, length 32
 11:09:30.523151 IP6 fe80::ffda:eabe:b8f3:59d9 > fe80::149b:c888:82d2:712: ICMP6, neighbor advertisement, tgt is fe80::ffda:eabe:b8f3:59d9, length 24
 
-# nmap
+## nmap
+
 > __Disclaimer__: definitely don’t run ```nmap``` on your wider company network. If your IT department has the [means to detect it](https://en.wikipedia.org/wiki/Intrusion_detection_system) they will likely take a dim view of such suspicious behaviour and it may even contravene your terms of employment. That said...
 
 Port scanning attempts to make connections on a list of ports to establish which services are available (and potentially exploitable). You could approximate it with a single `curl` command.
@@ -111,7 +121,8 @@ Or scan all hosts on the subnet (less quietly) and dump the results to an XML fi
 
 nmap -vv -A -oX scan.xml 172.20.10.1/28
 
-# tracepath
+## tracepath
+
 `tracepath` lists all the intermediate hosts encountered _en route_ to the target. We could check the route to the outside world.
 
 Tracing `localhost` shows it doesn't go anywhere.
@@ -136,7 +147,8 @@ We first hit the gateway and then some hosts that aren't responding to pings (po
 5: no reply
 6: 172.217.169.69 48.345ms asymm 7
 
-# Exercises
+## Exercises
+
 1. Record all IPs between your desk and a machine in the lab. Also try from another office or floor.
 1. Describe the lab subnet using CIDR notation.
 1. List all protocols and IPs seen in the lab.
@@ -144,4 +156,3 @@ We first hit the gateway and then some hosts that aren't responding to pings (po
 1. Draw a network topology of the lab and show how it connects to the main network. Hint: the router will have at least two network interfaces.
 1. Log packets with during an `nmap` scan (to see how much conspicuous traffic _you_ are generating). You could use `tcpdump` or Wireshark.
 1. What are the availble host IP addresses for subnet `192.168.109.0/27`?
-

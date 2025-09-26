@@ -40,7 +40,9 @@ nav:
   - Tech Stack: tech_stack.md
   - Skills: skills.md
   - Influential: influential.md
+  - Tags: tags.md
 
 # Plugins
 plugins:
   - search
+  - tags

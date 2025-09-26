@@ -1,3 +1,11 @@
+---
+tags:
+  - food
+  - restaurants
+  - reviews
+  - travel
+---
+
 # Restaurants
 
 | Key | Price per head with refreshments |
@@ -10,13 +18,12 @@
 
 ## 2025
 
-- The Ginger Fox (££): best pub food around I reckon
-
 ### September
 
 - The Grill, Glasgow (££): Ajay Kumar's on-the-flame basement restaurant
 - Swadish (£££): Ajay Kumar's flagship Indian restaurant in Glasgow, omg
 - The Spanish Butcher, Glasgow (£££): cracking steakhouse in the city centre, bring your elastic pants
+- The Ginger Fox (££): best pub food around I reckon
 
 ### August
 

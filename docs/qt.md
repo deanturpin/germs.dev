@@ -1,3 +1,11 @@
+---
+tags:
+  - qt
+  - cpp
+  - tools
+  - frameworks
+---
+
 # Qt
 
 ## Versions

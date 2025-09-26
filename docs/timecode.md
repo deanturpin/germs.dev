@@ -21,4 +21,3 @@ HOURS:MINUTES:SECONDS:FRAMES
 - https://blog.frame.io/2017/07/17/timecode-and-frame-rates/
 - https://en.wikipedia.org/wiki/Linear_timecode
 - https://en.wikipedia.org/wiki/Vertical_interval_timecode
-
