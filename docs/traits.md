@@ -1,11 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - oop
-  - modern-features
----
-
 # Using type traits to check all the esoteric OOP rules
 
 ```cpp

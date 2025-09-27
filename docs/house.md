@@ -1,14 +1,3 @@
----
-tags:
-  - property
-  - housing
-  - home-improvement
-  - lifestyle
----
-
-
-
-
 ## Independent
 
 - [rightmove](https://www.rightmove.co.uk/news/house-price-index/)

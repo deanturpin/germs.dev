@@ -1,11 +1,3 @@
----
-tags:
-  - complex-systems
-  - simulation
-  - computer-science
-  - modelling
----
-
 # Complex systems
 
 ## Complexity projects

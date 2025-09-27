@@ -1,11 +1,3 @@
----
-tags:
-  - watches
-  - luxury
-  - investment
-  - lifestyle
----
-
 # Automatic watches
 ## Brands that appreciate in value
 - Rolex

@@ -1,11 +1,3 @@
----
-tags:
-  - tools
-  - budget
-  - comparison
-  - reviews
----
-
 # Cheap tool comparison
 
 ## Hand levers

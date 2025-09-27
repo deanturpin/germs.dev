@@ -1,11 +1,3 @@
----
-tags:
-  - development-tools
-  - ide
-  - visual-studio
-  - programming
----
-
 # IDEs
 
 ## Visual Studio

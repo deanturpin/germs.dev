@@ -1,10 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - modern-features
----
-
 # Get a `std::move` on
 
 - You cannot move from a const thing: not allowed to mutate

@@ -1,11 +1,3 @@
----
-tags:
-  - artificial-intelligence
-  - chatgpt
-  - nlp
-  - openai
----
-
 # What is ChatGPT?
 
 According to OpenAI:

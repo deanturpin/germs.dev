@@ -1,13 +1,3 @@
----
-tags:
-  - business
-  - customer-service
-  - service-design
-  - operations
----
-
-
-
 Don't fiddle with the date wheel between 9pm and 4am. If it has a [phantom date](https://calibercorner.com/phantom-date/) then good luck!
 
 ## Procedure

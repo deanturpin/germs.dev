@@ -1,10 +1,3 @@
----
-tags:
-  - swift
-  - programming-languages
-  - mobile-development
----
-
 # Swift
 See [the Swift docs](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 

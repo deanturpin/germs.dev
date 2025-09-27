@@ -1,12 +1,3 @@
----
-title: Coding without coding
-subtitle: Tools that will improve your code so you don't have to
-date: 2021-06-22
-tags:
-- cpp
-- programming
----
-
 # Coding without coding
 Tools that will improve your code so you don't have to.
 

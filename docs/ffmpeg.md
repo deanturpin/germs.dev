@@ -1,6 +1,4 @@
----
-title: FFMPEG examples
----
+# FFMPEG examples
 
 ---
 tags:

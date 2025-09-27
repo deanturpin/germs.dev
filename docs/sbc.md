@@ -1,11 +1,3 @@
----
-tags:
-  - hardware
-  - single-board-computers
-  - raspberry-pi
-  - embedded
----
-
 # Single board computers
 
 ## Projects

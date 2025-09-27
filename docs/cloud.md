@@ -1,14 +1,3 @@
----
-title: Cloud computing
-date: 2019-09-15
-tags:
-- revision
-- cloud
-- linux
-- vm
-- cli
----
-
 # Cloud computing
 
 - [Play With Docker](https://labs.play-with-docker.com/)

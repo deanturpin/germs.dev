@@ -1,15 +1,3 @@
----
-
-title: KEYnote
-subtitle: A Linux JUCE application that extracts the peak FTT bin from a live audio recording and reports the closest note
-date: 2019-07-26
-tags:
-- linux
-- juce
-- cpp
-- audio
----
-
 # KEYnote
 
 Screenshot is highlighting the major 3rd of an A chord: 440, 550 and 660Hz. Note the FFT bin is not a precise pitch so the closest concert pitch is displayed.

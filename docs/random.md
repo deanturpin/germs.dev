@@ -1,14 +1,3 @@
----
-tags:
-  - programming
-  - random-numbers
-  - algorithms
-  - mathematics
----
-
-
-
-
 # Via the (Linux) filesystem
 
 ```cpp

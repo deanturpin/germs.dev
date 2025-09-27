@@ -1,11 +1,3 @@
----
-tags:
-  - linux
-  - usb
-  - live-boot
-  - systems
----
-
 # USB live boot
 
 ## Windows host

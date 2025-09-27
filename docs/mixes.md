@@ -1,11 +1,3 @@
----
-tags:
-  - music-production
-  - djing
-  - streaming
-  - platforms
----
-
 # Publishing mixes
 
 | Platform | Free |

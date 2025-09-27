@@ -1,12 +1,3 @@
----
-title: Mobile frequency allocation
-date: 2019-11-01
-tags:
-- wireless
-- mobile
-- networks
----
-
 # Mobile frequency allocation
 
 ## GSM

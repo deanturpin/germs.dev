@@ -1,11 +1,3 @@
----
-tags:
-  - containers
-  - tools
-  - devops
-  - linux
----
-
 # Docker
 
 ## Install on Linux

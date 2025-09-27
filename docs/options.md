@@ -1,14 +1,3 @@
----
-tags:
-  - finance
-  - options-trading
-  - derivatives
-  - investment
----
-
-
-
-
 ```makefile
 # Standard
 --std=c++2a --all-warnings --extra-warnings

@@ -1,10 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - modern-features
----
-
 # C++ features
 
 > Moved to [turpin.dev](https://turpin.dev/).

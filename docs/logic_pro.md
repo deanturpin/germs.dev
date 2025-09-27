@@ -1,11 +1,3 @@
----
-tags:
-  - music-production
-  - audio-tech
-  - reviews
-  - hardware
----
-
 # Logic Pro
 
 Selecting a laptop for running Logic.

@@ -1,11 +1,3 @@
----
-tags:
-  - food
-  - restaurants
-  - reviews
-  - travel
----
-
 # Restaurants
 
 | Key | Price per head with refreshments |

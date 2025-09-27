@@ -1,11 +1,3 @@
----
-tags:
-  - energy
-  - home-appliances
-  - efficiency
-  - sustainability
----
-
 # Home appliance energy usage
 
 Charges for Brighton on 12/01/22. See [Octopus energy rates](https://octopus.energy/go/rates/) for your postcode.

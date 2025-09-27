@@ -1,14 +1,6 @@
----
-title: gpio
-subtitle: on a Raspberry pi
-date: 2021-11-10
-tags:
-- rpi
-- linux
-- gpio
----
+# GPIO
 
-# gpio
+GPIO on a Raspberry Pi
 
 ```bash
 gpio readall

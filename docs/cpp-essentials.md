@@ -1,14 +1,3 @@
----
-tags:
-  - cpp
-  - programming
-  - essentials
-  - reference
----
-
-
-
-
 ## C++14
 
 ## Auto

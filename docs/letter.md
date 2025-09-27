@@ -1,11 +1,3 @@
----
-tags:
-  - opinion
-  - open-letter
-  - writing
-  - personal
----
-
 # An open letter
 
 Things I've learned in 20+ years as a software engineer.

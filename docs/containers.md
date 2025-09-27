@@ -1,14 +1,3 @@
----
-tags:
-  - docker
-  - containers
-  - devops
-  - deployment
----
-
-
-
-
 ChatGPT says:
 1. Memory Management: Allocating and deallocating memory for the container and its elements must be handled properly.
 1. Element Access: Containers must provide efficient means of accessing elements, such as indexing and iterators.

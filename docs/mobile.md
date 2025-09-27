@@ -1,12 +1,3 @@
----
-title: Mobile phone repair tips
-date: 2021-12-27
-tags:
-- mobile
-- phone
-- repair
----
-
 # Mobile phone repair tips
 
 Tips by SR, renowned horologist and raconteur.

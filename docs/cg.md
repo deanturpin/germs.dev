@@ -1,14 +1,3 @@
----
-title: CG resources
-subtitle: Resources and vocabulary
-date: 2020-10-25
-tags:
-- 3d
-- blender
-- modelling
-- cgi
----
-
 # CG resources
 
 ## HDR

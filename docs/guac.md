@@ -1,14 +1,3 @@
----
-title: Apache Guacamole
-subtitle: Installation and configuration
-date: 2021-07-30
-tags:
-- apache
-- linux
-- rdp
-- vnc
----
-
 # Apache Guacamole
 
 ```bash

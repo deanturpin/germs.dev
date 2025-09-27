@@ -1,11 +1,3 @@
----
-tags:
-  - gcc
-  - compilers
-  - tools
-  - build-systems
----
-
 # Build gcc from source
 
 The date in the version is set here.

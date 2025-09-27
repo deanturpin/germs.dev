@@ -1,14 +1,3 @@
----
-tags:
-  - food
-  - restaurants
-  - portugal
-  - travel
----
-
-
-
-
 ## Rocco, Lisbon, Portugal (August 2023)
 
 A very slick Italian, styled much like The Ivy in the UK. Of course there was the standard confusion with the starters (which I have come to accept is me) but overall it was pretty solid. We did, however, have have massive fomo after seeing the seemingly outrageously expensive "mushroom pasta" be served behind us. The pasta was finished by swished around _in_ a hollowed out Parmesan round, and topped with a very generous portion of shaved dark truffle.

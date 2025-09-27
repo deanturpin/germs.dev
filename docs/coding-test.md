@@ -1,14 +1,3 @@
----
-tags:
-  - programming
-  - interviews
-  - coding-tests
-  - algorithms
----
-
-
-
-
 1. Listen: usually all the information in the question is useful
 1. Example: make examples larger, avoid special cases
 1. Brute force: better to have brute force than nothing at all; don't necessarily code it, maybe just state the runtime

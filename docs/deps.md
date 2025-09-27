@@ -1,14 +1,3 @@
----
-tags:
-  - programming
-  - dependencies
-  - package-management
-  - development
----
-
-
-
-
 It's difficult to choose a dependency management tool without first-hand experience, so I'm using a few to manage my own projects.
 
 > tl;dr: currently using a monorepo and CMake's `ExternalProject_Add`

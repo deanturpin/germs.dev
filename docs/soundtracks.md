@@ -1,11 +1,3 @@
----
-tags:
-  - music-production
-  - film-scoring
-  - logic-pro
-  - audio
----
-
 # Soundtracks
 
 Editing soundtracks in Logic, all examples with a two hour movie.

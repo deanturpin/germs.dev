@@ -1,13 +1,3 @@
----
-title: Cyber-security resources
-date: 2020-05-10
-tags:
-- revision
-- cyber
-- security
-- hacking
----
-
 # Cyber-security resources
 ## Search tools
 - Use different search engines

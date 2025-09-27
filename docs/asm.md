@@ -1,10 +1,3 @@
----
-tags:
-  - asm
-  - programming-languages
-  - compilers
----
-
 # Assembly
 See [article](https://queue.acm.org/detail.cfm?id=3372264) by Matt Godbolt.
 

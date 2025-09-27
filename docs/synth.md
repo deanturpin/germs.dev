@@ -1,11 +1,3 @@
----
-tags:
-  - synthesizers
-  - music-production
-  - analogue
-  - audio
----
-
 # Analogue synthesis
 
 ## Oscillators

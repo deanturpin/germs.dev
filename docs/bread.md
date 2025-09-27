@@ -1,11 +1,3 @@
----
-tags:
-  - baking
-  - bread
-  - recipes
-  - food
----
-
 # Miso-seaweed bread
 
 ## Ingredients

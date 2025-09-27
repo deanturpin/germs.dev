@@ -1,10 +1,3 @@
----
-tags:
-  - networking
-  - tools
-  - linux
----
-
 # Network analysis
 
 For the purposes of this exercise we're not employing any [nefarious

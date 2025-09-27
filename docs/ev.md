@@ -1,11 +1,3 @@
----
-tags:
-  - automotive
-  - electric-vehicles
-  - tesla
-  - lifestyle
----
-
 # Electric car resources
 
 Observations and tips, with a focus on my own experiences owning a [Tesla Model Y](https://en.wikipedia.org/wiki/Tesla_Model_Y). There is also a [Tesla performance](https://accelerationtimes.com/models/tesla-model-y-dual-motor-long-range) with a slightly shorter range (but goes like stink).

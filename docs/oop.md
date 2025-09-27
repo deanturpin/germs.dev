@@ -1,11 +1,3 @@
----
-tags:
-  - oop
-  - programming-languages
-  - design-patterns
-  - cpp
----
-
 # OOP I did it again
 
 OOP is a programming paradigm based on the concept of "objects", which may

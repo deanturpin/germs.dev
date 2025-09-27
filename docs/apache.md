@@ -1,13 +1,3 @@
----
-title: Run Apache
-subtitle: In Docker
-date: 2020-12-04
-tags:
-- apache
-- docker
-- linux
----
-
 # Run Apache
 
 ```bash

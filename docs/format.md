@@ -1,12 +1,3 @@
----
-title: std::format
-subtitle: Examples and observations
-date: 2021-09-23
-tags:
-- cpp
-- format
----
-
 # std::format
 
 ```cpp

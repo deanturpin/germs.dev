@@ -1,10 +1,3 @@
----
-tags:
-  - data-structures
-  - algorithms
-  - programming-languages
----
-
 # Data structures
 
 The conventional wisdom for when to use a linked list over contiguous storage

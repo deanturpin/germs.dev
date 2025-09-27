@@ -1,11 +1,3 @@
----
-tags:
-  - languages
-  - croatian
-  - reference
-  - learning
----
-
 # Croatian crib sheet
 
 ## Numbers

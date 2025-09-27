@@ -1,14 +1,3 @@
----
-tags:
-  - linux
-  - kernel
-  - versions
-  - systems
----
-
-
-
-
 ```bash
 $ cat /etc/issue
 Ubuntu 21.04 \n \l

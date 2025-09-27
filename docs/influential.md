@@ -1,11 +1,3 @@
----
-tags:
-  - tools
-  - programming-languages
-  - skills
-  - technology
----
-
 # Influential technology
 
 Technologies that have had a positive, lasting impact on me as a developer.

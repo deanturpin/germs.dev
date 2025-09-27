@@ -1,14 +1,3 @@
----
-title: Gardening
-subtitle: Pots and raised beds
-date: 2020-06-17
-tags:
-- gardening
-- plants
-- botany
-- fruit
----
-
 # Gardening
 
 ## Growing in pots

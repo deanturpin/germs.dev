@@ -1,11 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - recipes
-  - algorithms
----
-
 # C++ recipes
 
 # Operating over a whole container using ranges (C++20)

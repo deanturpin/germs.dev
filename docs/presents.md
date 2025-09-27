@@ -1,11 +1,3 @@
----
-tags:
-  - gifts
-  - shopping
-  - lifestyle
-  - recommendations
----
-
 # Presents
 
 Inspiration for presents. Some of the shops are in Brighton, UK.

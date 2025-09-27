@@ -1,14 +1,3 @@
----
-tags:
-  - finance
-  - banking
-  - money
-  - financial-services
----
-
-
-
-
 Challenger banks are small, recently created retail banks that compete directly
 with the longer-established banks in the country, sometimes by specialising in
 areas underserved by the "big four" banks (Barclays, HSBC, Lloyds Banking

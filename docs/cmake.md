@@ -1,11 +1,3 @@
----
-tags:
-  - cmake
-  - build-systems
-  - tools
-  - cpp
----
-
 # CMake
 
 ## Key commands

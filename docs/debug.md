@@ -1,11 +1,3 @@
----
-title: Debuggers
-date: 2021-10-16
-tags:
-- debug
-- compiler
----
-
 # Debuggers
 ## Call frames
 - Parameters passed to the function

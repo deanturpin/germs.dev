@@ -1,11 +1,3 @@
----
-tags:
-  - acid-house
-  - music-production
-  - tb-03
-  - electronic-music
----
-
 # Acid tracks
 
 ## Drivers for TB-03

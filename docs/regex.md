@@ -1,10 +1,3 @@
----
-tags:
-  - regex
-  - tools
-  - programming-languages
----
-
 # regex
 
 Regular expressions: whilst they are completely unreadable to the uninitiated, once you find your way in they are a pleasingly concise syntax capable of expressing very complex patterns.

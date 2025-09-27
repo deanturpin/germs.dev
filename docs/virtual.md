@@ -1,14 +1,3 @@
----
-tags:
-  - cpp
-  - virtual-functions
-  - oop
-  - programming
----
-
-
-
-
 > Virtual functions are used to achieve runtime polymorphism
 https://www.educba.com/virtual-keyword-in-c-plus-plus/
 

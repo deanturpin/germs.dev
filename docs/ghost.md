@@ -1,13 +1,3 @@
----
-title: Ghost blog
-subtitle: Install Ghost in a Google Cloud instance
-date: 2019-06-12 19:50:05
-tags:
-- linux
-- google cloud
-- bash
----
-
 # Ghost blog
 
 > Prerequisites: basic knowledge of the Linux command line, domain names and DNS.

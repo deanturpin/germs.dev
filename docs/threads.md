@@ -1,11 +1,3 @@
----
-tags:
-  - threads
-  - cpp
-  - programming-languages
-  - parallelism
----
-
 # Multi-threading
 
 Multi-threaded concepts are important: e.g., atomics, locks, issues with

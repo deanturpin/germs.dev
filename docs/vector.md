@@ -1,14 +1,3 @@
----
-tags:
-  - cpp
-  - stl
-  - data-structures
-  - performance
----
-
-
-
-
 How many times is the destructor for the "fax" class called below after
 populating a five element STL vector?
 

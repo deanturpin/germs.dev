@@ -1,11 +1,3 @@
----
-tags:
-  - bash
-  - shell
-  - prompt
-  - productivity
----
-
 # Turbo charge your bash prompt
 
 ## Bash prompt variables

@@ -1,12 +1,3 @@
----
-title: Video formats
-date: 2019-10-15
-tags:
-- video
-- codec
-- bitrate
----
-
 # Video formats
 
 See formats on [encoding.com](https://www.encoding.com/formats/).

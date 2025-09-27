@@ -1,11 +1,3 @@
----
-tags:
-  - big-data
-  - data-science
-  - datasets
-  - analytics
----
-
 # Sources of big data
 
 ## Big data communities and platforms

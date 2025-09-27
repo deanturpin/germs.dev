@@ -1,12 +1,3 @@
----
-title: WSL 2
-subtitle: Linux without running a VM
-date: 2020-09-04
-tags:
-- linux
-- wsl
----
-
 # WSL 2
 
 See also [Ubuntu](/post/ubuntu).

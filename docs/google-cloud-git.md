@@ -1,11 +1,3 @@
----
-tags:
-  - google-cloud
-  - cloud-computing
-  - git
-  - devops
----
-
 # Working in a Google Cloud VM
 
 ## Keygen

@@ -1,15 +1,6 @@
----
-title: योग
-subtitle: Learning Sanskrit through Yoga
-date: 2019-10-07
-tags:
-- sanskrit
-- yoga
-- hindi
-- language
----
-
 # योग
+
+Learning Sanskrit through Yoga
 
 ## Forward
 > I originally began learning ગુજરાતી (Gujarati) around 2001 as a means to better understand my family heritage. But it has since expanded into an appreciation of other Indic languages and even right-to-left writing systems such as Arabic and Urdu.

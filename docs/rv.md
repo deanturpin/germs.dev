@@ -1,11 +1,3 @@
----
-tags:
-  - motorhomes
-  - travel
-  - lifestyle
-  - vehicles
----
-
 # Motorhomes
 
 - https://www.rpmotorhomes.com/layout-options

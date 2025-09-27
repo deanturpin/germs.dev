@@ -1,11 +1,3 @@
----
-tags:
-  - statistics
-  - mathematics
-  - data-analysis
-  - academic
----
-
 # What does it all mean?
 
 ## Means

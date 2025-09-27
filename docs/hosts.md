@@ -1,14 +1,3 @@
----
-tags:
-  - networking
-  - dns
-  - hosts-file
-  - systems
----
-
-
-
-
 `tracehost` is a bash script that parses a standard hosts files and generates
 an SVG. The script accepts a standard system hosts file format but actually it
 only cares about the first host or IP on a line. In fact any line format may be

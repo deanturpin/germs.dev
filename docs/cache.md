@@ -1,14 +1,3 @@
----
-tags:
-  - programming
-  - caching
-  - performance
-  - systems
----
-
-
-
-
 Small amounts of unusually fast memory (Data D$, Instruction I$, Translation Lookaside Buffer TLB), cache misses, speculatively prefetch, does it fit in cache (small is fast), no time/space tradeoff at hardware level, locality counts (stay in the cache), predictability helps.
 
 A modern multi-core machine will have a multi-level cache hierarchy, where the faster and smaller caches belong to individual processors. When one processor modifies a value in its cache, other processors cannot use the old value any more. That memory location will be invalidated in all of the caches.

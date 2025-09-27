@@ -1,11 +1,3 @@
----
-tags:
-  - music-theory
-  - education
-  - sight-reading
-  - music
----
-
 # Sight reading
 
 Resources for learning to read music properly.

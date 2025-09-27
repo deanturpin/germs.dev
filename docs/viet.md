@@ -1,14 +1,3 @@
----
-title: Southern Vietnamese
-subtitle: Resources and vocabulary
-date: 2020-02-22
-tags:
-- language
-- vietnam
-- learn
-- translate
----
-
 # Southern Vietnamese
 
 ## Slang

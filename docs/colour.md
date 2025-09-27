@@ -1,14 +1,3 @@
----
-title: Colour chords
-subtitle: What does orange sound like?
-date: 2020-01-22
-tags:
-- photography
-- photo
-- music
-- colour
----
-
 # Colour chords
 
 Have you ever wondered what the equivalent of a chord is in light: i.e., can we see them and do they look nice? Like 300+400+500Hz makes a sweet sound for the ears.

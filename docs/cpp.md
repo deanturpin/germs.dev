@@ -1,11 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - oop
-  - modern-features
----
-
 # Modern C++
 
 ## Modules (C++20)

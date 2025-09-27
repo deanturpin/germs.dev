@@ -1,11 +1,3 @@
----
-tags:
-  - education
-  - self-learning
-  - online-courses
-  - programming
----
-
 # Teach yourself things
 
 ## Subscription-based

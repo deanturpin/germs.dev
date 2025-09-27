@@ -1,19 +1,3 @@
----
-title: Decrypting TLS traffic
-subtitle: In Firefox
-date: 2020-11-01
-tags:
-- firefox
-- browser
-- tls
-- ssl
-- security
-- kali
-- linux
-- docker
-- hacking
----
-
 # Decrypting TLS traffic
 
 A Docker image that runs Chromium headless with `SSLKEYLOGFILE` set, opens an

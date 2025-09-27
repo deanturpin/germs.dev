@@ -1,11 +1,3 @@
----
-tags:
-  - airbnb
-  - property-management
-  - hospitality
-  - business
----
-
 # Airbnb changeover
 
 ## Doors

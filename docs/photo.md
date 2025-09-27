@@ -1,11 +1,3 @@
----
-tags:
-  - photography
-  - tips
-  - portrait-photography
-  - techniques
----
-
 # Taking photos of groups of people
 
 People are drawn to walls when lining up for a photo. But while the "firing

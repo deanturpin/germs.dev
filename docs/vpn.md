@@ -1,18 +1,6 @@
----
-title: Ports blocked over VPN
-subtitle: Or are they?
-date: 2021-02-08
-tags:
-- linux
-- vpn
-- ssh
-- git
-- apn
-- tether
-- ee
----
+# Ports Blocked Over VPN
 
-# Ports blocked over VPN
+Or are they?
 
 A problem that has followed me around for the last two jobs: I can't access the
 git server using ssh authentication when I'm tethered. Yet cloning via https is

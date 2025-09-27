@@ -1,14 +1,3 @@
----
-tags:
-  - agile
-  - project-management
-  - methodologies
-  - development
----
-
-
-
-
 ## Roles
 - Dev team
 - Product owner

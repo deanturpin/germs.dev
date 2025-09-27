@@ -1,11 +1,3 @@
----
-tags:
-  - finance
-  - quantitative-analysis
-  - mathematics
-  - careers
----
-
 # Quants
 
 > In quant trading, we rely on mathematical models, commonly called alphas,

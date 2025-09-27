@@ -1,11 +1,3 @@
----
-tags:
-  - meta
-  - tags
-  - organization
-  - taxonomy
----
-
 # Tags
 
 Browse content by topic tags.

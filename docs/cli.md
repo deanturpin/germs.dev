@@ -1,11 +1,3 @@
----
-tags:
-  - linux
-  - cli
-  - shell
-  - tips
----
-
 # Linux CLI Tricks
 
 ## Send a String to an IP/Port

@@ -1,11 +1,3 @@
----
-title: Songs of note
-date: 2020-05-06
-tags:
-- music
-- guitar
----
-
 # Songs of note
 
 # A Forest -- The Cure

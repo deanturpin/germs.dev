@@ -1,10 +1,3 @@
----
-tags:
-  - haskell
-  - programming-languages
-  - functional
----
-
 # Haskell cheat sheet
 
 Also see [this Haskell cheat sheet](https://jutge.org/doc/haskell-cheat-sheet.pdf).

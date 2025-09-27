@@ -1,11 +1,3 @@
----
-tags:
-  - algorithms
-  - data-structures
-  - hashing
-  - computer-science
----
-
 # Hashing
 ## Hash tables
 A hash table (hash map) is a data structure that implements an associative

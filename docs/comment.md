@@ -1,11 +1,3 @@
----
-title: No comment
-subtitle: Leaving commented code
-date: 2020-12-13
-tags:
-- programming
----
-
 # No comment
 What are the alternatives to leaving commented old code in a codebase as a
 reference? Many times I've been saved by something that had been commented, but

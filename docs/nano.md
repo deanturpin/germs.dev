@@ -1,11 +1,3 @@
----
-tags:
-  - performance
-  - computer-science
-  - timing
-  - systems
----
-
 # How long is a nanosecond?
 
 Find equivalent operations in seconds for your environment. See also [size](/post/size). Repeat this exercise for size rather than speed.

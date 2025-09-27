@@ -1,11 +1,3 @@
----
-tags:
-  - automotive
-  - tesla
-  - electric-vehicles
-  - tips
----
-
 # Tesla tips and tricks
 
 - You can share a Google Maps location with the Tesla app to navigate there

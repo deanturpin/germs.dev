@@ -1,12 +1,3 @@
----
-title: Heterogenous programming
-date: 2020-04-26
-tags:
-- revision
-- gpu
-- cpu
----
-
 # Heterogenous programming
 
 - [Sycl 1](https://github.com/KhronosGroup/SyclParallelSTL) - pronounced "sickle"

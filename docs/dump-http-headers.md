@@ -1,15 +1,3 @@
----
-title: Simple Python web server
-subtitle: To report browser headers
-date: 2020-11-01
-tags:
-- firefox
-- browser
-- python
-- linux
-- docker
----
-
 # Simple Python web server
 
 My work Firefox ESR browser seemed to be giving up my username (I.e., half of

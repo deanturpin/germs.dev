@@ -1,14 +1,3 @@
----
-tags:
-  - geography
-  - flags
-  - countries
-  - reference
----
-
-
-
-
 > tl;dr
 > Latest version here: https://flags.germs.dev/
 

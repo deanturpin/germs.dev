@@ -1,11 +1,3 @@
----
-tags:
-  - programming
-  - parallelism
-  - computer-science
-  - performance
----
-
 # Parallelism
 
 ## Kinds of parallelism

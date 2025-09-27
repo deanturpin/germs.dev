@@ -1,15 +1,6 @@
----
-title: GDB
-subtitle: Debugger crib sheet
-date: 2020-09-25
-tags:
-- debugging
-- gdb
-- c++
-- cpp
----
-
 # GDB
+
+Debugger crib sheet
 
 ## Adding debug symbols
 

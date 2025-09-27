@@ -1,18 +1,10 @@
----
-tags:
-  - skills
-  - programming-languages
-  - cpp
-  - tools
----
-
 # Dean Turpin
 
 ## Senior Integration Software Engineer | Team Lead
 
 Welcome to my online logbook, maintained since 2009.
 
-[cpp](tags#cpp) | [tools](tags#tools) | [music-production](tags#music-production) | [hardware](tags#hardware) | [reviews](tags#reviews) | [programming-languages](tags#programming-languages) | [audio-tech](tags#audio-tech) | [operating-systems](tags#operating-systems) | [algorithms](tags#algorithms) | [containers](tags#containers)
+[cpp](tags#cpp) | [programming](tags#programming) | [programming-languages](tags#programming-languages) | [tools](tags#tools) | [lifestyle](tags#lifestyle) | [systems](tags#systems) | [linux](tags#linux) | [performance](tags#performance) | [music-production](tags#music-production) | [finance](tags#finance) | [algorithms](tags#algorithms) | [audio](tags#audio) | [reviews](tags#reviews) | [reference](tags#reference) | [luxury](tags#luxury) | [investment](tags#investment) | [development](tags#development) | [automotive](tags#automotive) | [skills](tags#skills) | [networking](tags#networking)
 
 ## Programming & Development
 

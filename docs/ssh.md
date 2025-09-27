@@ -1,15 +1,3 @@
----
-title: But does it ssh?
-subtitle: Using an old tablet to login to a Google Cloud instance
-date: 2019-06-27
-tags:
-- linux
-- google cloud
-- ssh
-- tablet
-- bash
----
-
 # But does it ssh?
 
 Making use of an old Amazon Fire tablet and a cheap Bluetooth keyboard to login

@@ -1,11 +1,3 @@
----
-tags:
-  - gardening
-  - plants
-  - tropicals
-  - growing
----
-
 # Growing mangos
 
 Mangos are notoriously difficult to grow in non-tropical climates -- Kew

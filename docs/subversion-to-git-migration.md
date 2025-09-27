@@ -1,14 +1,3 @@
----
-tags:
-  - git
-  - svn
-  - migration
-  - version-control
----
-
-
-
-
 # Equivalent commands
 ## Commit and push to server
 

@@ -1,11 +1,3 @@
----
-tags:
-  - shopping
-  - black-friday
-  - economics
-  - retail
----
-
 # Blackout Friday
 
 Hit it to the man by withdrawing cash and spending it locally: is it effective?

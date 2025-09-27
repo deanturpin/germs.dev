@@ -1,14 +1,3 @@
----
-title: PowerShell
-subtitle: Equivalents to common bash commands
-date: 2021-07-16
-tags:
-- bash
-- cli
-- linux
-- powershell
----
-
 # PowerShell
 
 # Get-Content (alias gc)

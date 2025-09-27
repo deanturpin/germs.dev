@@ -1,11 +1,3 @@
----
-tags:
-  - cpp
-  - programming-languages
-  - tools
-  - profiling
----
-
 # Google benchmark
 
 ## Install on Ubuntu

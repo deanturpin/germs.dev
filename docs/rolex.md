@@ -1,14 +1,4 @@
----
-title: Rolex
----
-
----
-tags:
-  - watches
-  - rolex
-  - luxury
-  - investment
----
+# Rolex
 
 
 
