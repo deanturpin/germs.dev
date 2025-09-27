@@ -1,3 +1,13 @@
+---
+tags:
+  - cpp
+  - boost
+  - libraries
+  - programming
+---
+
+
+
 You have to be wary of using third-party libraries, especially when there's so
 much good stuff in the core library! But if you must, consider constraining it
 to a subsystem rather than letting it creep throughout the codebase.

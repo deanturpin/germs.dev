@@ -1,3 +1,9 @@
+---
+tags:
+  - hardware
+  - electronics
+---
+
 # Hardware
 
 ## Adiabatic circuits

@@ -1,3 +1,11 @@
+---
+title: Yeah but no but
+subtitle: Categorising utterances
+date: 2020-04-19
+tags:
+- linguistics
+---
+
 # Yeah but no but
 
 | Negative | Uncertain | Positive | Exclamation |

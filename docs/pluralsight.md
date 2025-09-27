@@ -1,3 +1,13 @@
+---
+tags:
+  - education
+  - online-learning
+  - pluralsight
+  - programming
+---
+
+
+
 - C++ - 244
 - Using the Scrum Framework - 216
 - Networking Fundamentals (N10-007) - 200

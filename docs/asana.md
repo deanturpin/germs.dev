@@ -1,3 +1,14 @@
+---
+tags:
+  - productivity
+  - project-management
+  - tools
+  - workflows
+---
+
+
+
+
 ```csv
 Transliteration,Sanskrit,English,Description,URL,Type,Variation
 Sukhasana| Yogasana | Svastikasana,सुखासन| स्वस्तिकासन,Auspicious| Lucky mark,,,Warm up,

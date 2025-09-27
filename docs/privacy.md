@@ -1,3 +1,11 @@
+---
+tags:
+  - privacy
+  - legal
+  - gdpr
+  - compliance
+---
+
 # Privacy notice
 
 No ads. Encrypt everything. Cookies will only make you fat.

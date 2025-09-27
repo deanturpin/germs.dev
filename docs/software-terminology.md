@@ -1,3 +1,11 @@
+---
+tags:
+  - programming
+  - terminology
+  - reference
+  - glossary
+---
+
 # Software terminology
 
 ## Acronyms

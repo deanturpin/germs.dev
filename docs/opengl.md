@@ -1,3 +1,13 @@
+---
+title: OpenGL
+subtitle: Crib sheet
+date: 2021-05-26
+tags:
+- OpenGL
+- graphics
+- gpu
+---
+
 # OpenGL
 
 # Fundamentals

@@ -1,6 +1,15 @@
-# Mandelbrot
+---
+title: Mandelbrot
+subtitle: In Python
+date: 2021-10-20
+tags:
+- maths
+- python
+- godbolt
+- cpp
+---
 
-In Python
+# Mandelbrot
 
 Godbolt does Python! (And lots of other languages...)
 

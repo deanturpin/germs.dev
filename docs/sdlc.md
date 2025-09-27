@@ -1,3 +1,12 @@
+---
+title: SDLC
+subtitle: Software development life cycle
+date: 2019-09-15
+tags:
+- revision
+- design
+---
+
 # SDLC
 
 ## Waterfall versus agile

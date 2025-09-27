@@ -1,3 +1,15 @@
+---
+title: Create a Twitter bot
+subtitle: Using twurl and Google Cloud
+date: 2019-09-11T10:09:01+01:00
+tags:
+- linux
+- google cloud
+- Twitter
+- bash
+- cli
+---
+
 # Create a Twitter bot
 
 > Prerequisites: a Twitter account, moderate command line and Google Cloud experience.

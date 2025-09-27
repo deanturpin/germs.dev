@@ -1,3 +1,13 @@
+---
+tags:
+  - audio
+  - pcm
+  - digital-audio
+  - technical
+---
+
+
+
 Inspect the hex with `xxd`, a WAV header is 42 bytes and is then followed by
 the sample data.
 

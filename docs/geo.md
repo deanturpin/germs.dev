@@ -1,3 +1,11 @@
+---
+title: Geospacial
+date: 2020-12-05
+tags:
+- geo
+- geospacial
+---
+
 # Geospacial
 
 - "[GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) is an open standard format

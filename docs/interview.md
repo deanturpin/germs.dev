@@ -1,3 +1,14 @@
+---
+tags:
+  - careers
+  - interviews
+  - job-searching
+  - programming
+---
+
+
+
+
 The [Amazon tech interview
 topics](https://www.amazon.jobs/en-gb/landing_pages/p-software-development-topics)
 is a great guide to whet your appetite. Know your language standards,

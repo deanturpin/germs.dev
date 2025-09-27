@@ -1,3 +1,11 @@
+---
+tags:
+  - djing
+  - music-production
+  - technology
+  - beat-sync
+---
+
 # Beat sync
 
 So there's a lot of a fuss about the BEAT SYNC button on modern DJ decks. Obviously I'm biased towards tech, but you have to use the tools! In fact civilisation itself is measured on its ability to manufacture devices to make our lives easier. It's like buying a hammer and hitting the nail with your fist. In the dark. The end result is the same but the journey is arduous.

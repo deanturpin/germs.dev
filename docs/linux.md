@@ -1,3 +1,10 @@
+---
+tags:
+  - linux
+  - operating-systems
+  - tools
+---
+
 # Debugging stuck Linux processes
 
 - htop

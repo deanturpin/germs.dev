@@ -1,3 +1,11 @@
+---
+tags:
+  - wishlist
+  - luxury
+  - gear
+  - lifestyle
+---
+
 # My precious
 Expensive things I'd like but have no idea when I'm likely to be able to afford them.
 

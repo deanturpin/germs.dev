@@ -1,3 +1,11 @@
+---
+tags:
+  - fashion
+  - eyewear
+  - accessories
+  - lifestyle
+---
+
 # Sunglasses
 
 - https://www.jacquesmariemage.com/

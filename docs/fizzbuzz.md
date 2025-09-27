@@ -1,4 +1,15 @@
-# FizzBuzz
+---
+title: FizzBuzz
+draft: true
+---
+
+---
+tags:
+  - programming
+  - algorithms
+  - interview-questions
+  - coding-challenges
+---
 
 
 

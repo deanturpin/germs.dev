@@ -1,3 +1,11 @@
+---
+title: The Fibonacci Sequence
+subtitle: In different languages
+date: 2019-11-02
+tags:
+- maths
+---
+
 # The Fibonacci Sequence
 
 ## Bash

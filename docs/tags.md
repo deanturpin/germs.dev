@@ -1,10 +1,267 @@
+---
+tags:
+  - meta
+  - tags
+  - organization
+  - taxonomy
+---
+
 # Tags
 
 Browse content by topic tags.
 
-## 3d (1 files)
+## -- (250 files)
 
+- [3D Graphics and Modeling](3d-graphics.md)
+- [3D printing resoures](3d.md)
+- [Acid tracks](acid.md)
+- [Agile](agile.md)
+- [Agile2](agile2.md)
+- [AI singers](ai_music.md)
+- [Airbnb changeover](airbnb.md)
+- [Algorithms](algorithms.md)
+- [C++ memory alignment](align.md)
+- [Repo basics](android-repo.md)
+- [Run Apache](apache.md)
+- [APIs](api.md)
+- [Home appliance energy usage](appliance.md)
+- [Asana](asana.md)
+- [Assembly](asm.md)
+- [Bandwidth](bandwidth.md)
+- [Bank](bank.md)
+- [Barefoot](barefoot.md)
+- [Beat sync](beatsync.md)
+- [Google benchmark](benchmark.md)
+- [What's the best programming language?](best.md)
+- [Sources of big data](big.md)
+- [Bird](bird.md)
+- [Blackout Friday](blackout.md)
+- [Blender](blender.md)
+- [Bmx](bmx.md)
+- [James Bond watches](bond.md)
+- [Boost](boost.md)
+- [Miso-seaweed bread](bread.md)
+- [EV in Brighton](brighton-ev.md)
+- [Brighton Media](brighton-media.md)
+- [Imagine you're a browser](browser.md)
+- [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
+- [Builders](builders.md)
+- [Cache](cache.md)
+- [Cameras](cameras.md)
 - [CG resources](cg.md)
+- [What is ChatGPT?](chatgtp.md)
+- [Cheap tool comparison](cheap.md)
+- [Chess](chess.md)
+- [Mercedes CLC resources](clc.md)
+- [Clean](clean.md)
+- [Linux CLI Tricks](cli.md)
+- [Cli2](cli2.md)
+- [Cloud computing](cloud.md)
+- [CMake](cmake.md)
+- [Coding Test](coding-test.md)
+- [Coffee](coffee.md)
+- [Colour chords](colour.md)
+- [No comment](comment.md)
+- [Online compilers](compilers.md)
+- [Complex systems](complexity.md)
+- [Containers](containers.md)
+- [Software dev in a large corp versus a small company](corp.md)
+- [Cpp Essentials](cpp-essentials.md)
+- [C++ features](cpp-features.md)
+- [Modern C++](cpp.md)
+- [Croatian crib sheet](croatian.md)
+- [Cryptography](crypto.md)
+- [Blockchain](cryptocurrency.md)
+- [Cyber-security resources](cyber.md)
+- [Data structures](data-structures.md)
+- [DAW](daw.md)
+- [Databases](db.md)
+- [Debuggers](debug.md)
+- [Deps](deps.md)
+- [Design patterns](design-patterns.md)
+- [Detailing](detailing.md)
+- [Diamond](diamond.md)
+- [Learning circular breathing](didgeridoo.md)
+- [Configuring a custom domain with a GitHub Pages website](dns.md)
+- [Docker](docker.md)
+- [Dog/child](dog-child.md)
+- [Maksikanagasana](dragonfly.md)
+- [Simple Python web server](dump-http-headers.md)
+- [E-bikes](e-bikes.md)
+- [Training and outside interests](ed.md)
+- [Eu](eu.md)
+- [EV myths](ev-myths.md)
+- [Electric car resources](ev.md)
+- [Exceptions in destructors](exceptions.md)
+- [Fast](fast.md)
+- [Favourite C++ features](fav.md)
+- [The federal preserve](fed.md)
+- [The Fibonacci Sequence](fibonacci-sequence.md)
+- [Finance](finance.md)
+- [Fixed](fixed.md)
+- [Flags](flags.md)
+- [Recipes](food.md)
+- [std::format](format.md)
+- [Website hosting](free.md)
+- [Mobile frequency allocation](freq.md)
+- [Fundraising](fundraising.md)
+- [Funeral](funeral.md)
+- [Gan](gan.md)
+- [Gardening](garden.md)
+- [Build gcc from source](gcc.md)
+- [GDB](gdb.md)
+- [Geospacial](geo.md)
+- [Ghost blog](ghost.md)
+- [Git Submodules](git-submodules.md)
+- [Git](git.md)
+- [Fixing a broken Gnome](gnome.md)
+- [Godbolt](godbolt.md)
+- [Minimum clubs to get around a golf course](golf.md)
+- [Good Will Coin](goodwill.md)
+- [Working in a Google Cloud VM](google-cloud-git.md)
+- [gpio](gpio.md)
+- [Heterogenous programming](gpu.md)
+- [GRASP](grasp.md)
+- [Apache Guacamole](guac.md)
+- [Shiny guitar make it better](guitars.md)
+- [Hallmarks](hallmark.md)
+- [Hardware](hardware.md)
+- [Hashing](hashing.md)
+- [Haskell cheat sheet](haskell.md)
+- [Headphone amps](headphones.md)
+- [Coding without coding](helpers.md)
+- [Hosts](hosts.md)
+- [Hotels](hotels.md)
+- [House](house.md)
+- [Hugo](hugo.md)
+- [Software developer side hustles to keep your skills fresh](hustle.md)
+- [IDEs](ide.md)
+- [The cost of inconvenience](inconvenience.md)
+- [Dean Turpin](index.md)
+- [Influential technology](influential.md)
+- [Interior design resources](interiors.md)
+- [Interview](interview.md)
+- [TCP/IP](ip.md)
+- [Just versus Equal Temperament](just.md)
+- [Stayin' alive...](keepalive.md)
+- [Install Linux 6 on Ubuntu 2023](kernel.md)
+- [KEYnote](keynote.md)
+- [Keywords](keywords.md)
+- [Koenig](koenig.md)
+- [Lessons](lessons.md)
+- [An open letter](letter.md)
+- [Linux limits](limits.md)
+- [xy](links.md)
+- [dump all settings](linux-audio.md)
+- [Linux Version](linux-version.md)
+- [Debugging stuck Linux processes](linux.md)
+- [USB live boot](live.md)
+- [Logic Pro](logic_pro.md)
+- [Macos](macos.md)
+- [Mandelbrot](mandelbrot.md)
+- [Growing mangos](mango.md)
+- [The lighthouse keeper's son](mem.md)
+- [Publishing mixes](mixes.md)
+- [Mobile phone repair tips](mobile.md)
+- [Modern C++ migration](modern.md)
+- [Money Habits](money-habits.md)
+- [Get a `std::move` on](move.md)
+- [How long is a nanosecond?](nano.md)
+- [Network analysis](network.md)
+- [Security through absurdity](obscure.md)
+- [OOP I did it again](oop.md)
+- [OpenGL](opengl.md)
+- [Standard](options.md)
+- [Os](os.md)
+- [Parallelism](parallelism.md)
+- [Fetch some samples](pcm.md)
+- [Pentest](pentest.md)
+- [Taking photos of groups of people](photo.md)
+- [Pi](pi.md)
+- [Pipelines](pipelines.md)
+- [Front garden](plants.md)
+- [Playlists](playlists.md)
+- [Pluralsight](pluralsight.md)
+- [Power](power.md)
+- [PowerShell](powershell.md)
+- [My precious](precious.md)
+- [Presents](presents.md)
+- [Privacy notice](privacy.md)
+- [C++ profiling](profiling.md)
+- [C++ experience and side-projects](projects.md)
+- [Turbo charge your bash prompt](prompt.md)
+- [Property](property.md)
+- [Qt](qt.md)
+- [Quants](quant.md)
+- [You can't always want what you get](quotes.md)
+- [Via the (Linux) filesystem](random.md)
+- [Shooting raw images on the Huawei P30 Pro](raw.md)
+- [Courses and books (and things to watch)](read.md)
+- [Readme](README.md)
+- [C++ recipes](recipes.md)
+- [regex](regex.md)
+- [Remote](remote.md)
+- [Watch repairs](repairs.md)
+- [mount and unmount partitions](reset.md)
+- [Restaurants Portugal](restaurants-portugal.md)
+- [Restaurants](restaurants.md)
+- [Rogue](rogue.md)
+- [The Rules of Code](rules.md)
+- [Motorhomes](rv.md)
+- [योग](sanskrit.md)
+- [Single board computers](sbc.md)
+- [SDLC](sdlc.md)
+- [Linux security](sec.md)
+- [Service](service.md)
+- [Container homes](shed.md)
+- [Sight reading](sight-reading.md)
+- [Skills timeline](skills.md)
+- [Software terminology](software-terminology.md)
+- [Solid](solid.md)
+- [Verse](songs.md)
+- [Songs of note](songs2.md)
+- [Sorting](sorting.md)
+- [Soundtracks](soundtracks.md)
+- [Spec](spec.md)
+- [But does it ssh?](ssh.md)
+- [Decrypting TLS traffic](ssldump.md)
+- [Use of static in C++](static.md)
+- [What does it all mean?](stats.md)
+- [The Last Straw](straw.md)
+- [Equivalent commands](subversion-to-git-migration.md)
+- [Sunglasses](sunglasses.md)
+- [Swift](swift.md)
+- [Analogue synthesis](synth.md)
+- [The art of tea](tea.md)
+- [Current tech stack](tech_stack.md)
+- [TMP](template.md)
+- [Tesla tips and tricks](tesla.md)
+- [Multi-threading](threads.md)
+- [Timecode](timecode.md)
+- [Top10](top10.md)
+- [Trading Platforms](trading-platforms.md)
+- [Teach yourself things](training.md)
+- [Using type traits to check all the esoteric OOP rules](traits.md)
+- [Travis CI](travis-ci.md)
+- [Tuning Linux](tuning.md)
+- [Create a Twitter bot](twitterbot.md)
+- [Upgrading Ubuntu](ubuntu.md)
+- [Unreal game engine](unreal.md)
+- [Vector](vector.md)
+- [Version](version.md)
+- [Video formats](video-formats.md)
+- [Southern Vietnamese](viet.md)
+- [Virtual](virtual.md)
+- [Ports blocked over VPN](vpn.md)
+- [Automatic watches](watch.md)
+- [Website builders](website-builders.md)
+- [Top level domains](websites.md)
+- [Wedding](wedding.md)
+- [Colour wheels](wheel.md)
+- [WSL 2](wsl.md)
+- [Yeah but no but](yeah.md)
+- [Yogr](yogr.md)
+- [Zoe](zoe.md)
 
 ## 3d-graphics (1 files)
 
@@ -14,13 +271,10 @@ Browse content by topic tags.
 
 - [3D printing resoures](3d.md)
 
-## OpenGL (1 files)
+## 3d (2 files)
 
-- [OpenGL](opengl.md)
-
-## Twitter (1 files)
-
-- [Create a Twitter bot](twitterbot.md)
+- [3D Graphics and Modeling](3d-graphics.md)
+- [CG resources](cg.md)
 
 ## academic (1 files)
 
@@ -55,13 +309,13 @@ Browse content by topic tags.
 ## algorithms (8 files)
 
 - [Algorithms](algorithms.md)
-- [C++ recipes](recipes.md)
 - [Coding Test](coding-test.md)
 - [Data structures](data-structures.md)
 - [Hashing](hashing.md)
+- [Via the (Linux) filesystem](random.md)
+- [C++ recipes](recipes.md)
 - [Sorting](sorting.md)
 - [TMP](template.md)
-- [Via the (Linux) filesystem](random.md)
 
 ## alignment (1 files)
 
@@ -93,8 +347,8 @@ Browse content by topic tags.
 
 ## apache (2 files)
 
-- [Apache Guacamole](guac.md)
 - [Run Apache](apache.md)
+- [Apache Guacamole](guac.md)
 
 ## api (1 files)
 
@@ -115,27 +369,27 @@ Browse content by topic tags.
 ## artificial-intelligence (3 files)
 
 - [AI singers](ai_music.md)
-- [Gan](gan.md)
 - [What is ChatGPT?](chatgtp.md)
+- [Gan](gan.md)
 
 ## asm (1 files)
 
 - [Assembly](asm.md)
 
-## audio (8 files)
-
-- [Analogue synthesis](synth.md)
-- [DAW](daw.md)
-- [dump all settings](linux-audio.md)
-- [Fetch some samples](pcm.md)
-- [Headphone amps](headphones.md)
-- [KEYnote](keynote.md)
-- [Soundtracks](soundtracks.md)
-- [Timecode](timecode.md)
-
 ## audio-tech (1 files)
 
 - [Logic Pro](logic_pro.md)
+
+## audio (8 files)
+
+- [DAW](daw.md)
+- [Headphone amps](headphones.md)
+- [KEYnote](keynote.md)
+- [dump all settings](linux-audio.md)
+- [Fetch some samples](pcm.md)
+- [Soundtracks](soundtracks.md)
+- [Analogue synthesis](synth.md)
+- [Timecode](timecode.md)
 
 ## automation (1 files)
 
@@ -143,11 +397,11 @@ Browse content by topic tags.
 
 ## automotive (7 files)
 
-- [Detailing](detailing.md)
-- [Electric car resources](ev.md)
 - [EV in Brighton](brighton-ev.md)
-- [EV myths](ev-myths.md)
 - [Mercedes CLC resources](clc.md)
+- [Detailing](detailing.md)
+- [EV myths](ev-myths.md)
+- [Electric car resources](ev.md)
 - [Tesla tips and tricks](tesla.md)
 - [Zoe](zoe.md)
 
@@ -165,11 +419,11 @@ Browse content by topic tags.
 
 ## bash (5 files)
 
-- [But does it ssh?](ssh.md)
-- [Create a Twitter bot](twitterbot.md)
 - [Ghost blog](ghost.md)
 - [PowerShell](powershell.md)
 - [Turbo charge your bash prompt](prompt.md)
+- [But does it ssh?](ssh.md)
+- [Create a Twitter bot](twitterbot.md)
 
 ## beat-sync (1 files)
 
@@ -199,8 +453,9 @@ Browse content by topic tags.
 
 - [Blackout Friday](blackout.md)
 
-## blender (2 files)
+## blender (3 files)
 
+- [3D Graphics and Modeling](3d-graphics.md)
 - [Blender](blender.md)
 - [CG resources](cg.md)
 
@@ -227,8 +482,8 @@ Browse content by topic tags.
 
 ## books (2 files)
 
-- [Courses and books (and things to watch)](read.md)
 - [Koenig](koenig.md)
+- [Courses and books (and things to watch)](read.md)
 
 ## boost (1 files)
 
@@ -253,13 +508,13 @@ Browse content by topic tags.
 
 ## brighton (2 files)
 
-- [Brighton Media](brighton-media.md)
 - [EV in Brighton](brighton-ev.md)
+- [Brighton Media](brighton-media.md)
 
 ## browser (2 files)
 
-- [Decrypting TLS traffic](ssldump.md)
 - [Simple Python web server](dump-http-headers.md)
+- [Decrypting TLS traffic](ssldump.md)
 
 ## browsers (1 files)
 
@@ -271,8 +526,8 @@ Browse content by topic tags.
 
 ## build-systems (2 files)
 
-- [Build gcc from source](gcc.md)
 - [CMake](cmake.md)
+- [Build gcc from source](gcc.md)
 
 ## builders (1 files)
 
@@ -284,14 +539,14 @@ Browse content by topic tags.
 - [Fundraising](fundraising.md)
 - [Service](service.md)
 
-## c (1 files)
-
-- [Linux limits](limits.md)
-
 ## c++ (2 files)
 
 - [Favourite C++ features](fav.md)
 - [GDB](gdb.md)
+
+## c (1 files)
+
+- [Linux limits](limits.md)
 
 ## caching (1 files)
 
@@ -307,10 +562,10 @@ Browse content by topic tags.
 
 ## careers (4 files)
 
-- [Interview](interview.md)
-- [Quants](quant.md)
 - [Software dev in a large corp versus a small company](corp.md)
 - [Software developer side hustles to keep your skills fresh](hustle.md)
+- [Interview](interview.md)
+- [Quants](quant.md)
 
 ## cars (1 files)
 
@@ -344,19 +599,19 @@ Browse content by topic tags.
 
 ## cli (5 files)
 
+- [Linux CLI Tricks](cli.md)
 - [Cli2](cli2.md)
 - [Cloud computing](cloud.md)
-- [Create a Twitter bot](twitterbot.md)
-- [Linux CLI Tricks](cli.md)
 - [PowerShell](powershell.md)
-
-## cloud (1 files)
-
-- [Cloud computing](cloud.md)
+- [Create a Twitter bot](twitterbot.md)
 
 ## cloud-computing (1 files)
 
 - [Working in a Google Cloud VM](google-cloud-git.md)
+
+## cloud (1 files)
+
+- [Cloud computing](cloud.md)
 
 ## cloudflare (1 files)
 
@@ -370,13 +625,13 @@ Browse content by topic tags.
 
 - [Video formats](video-formats.md)
 
-## coding (1 files)
-
-- [The Rules of Code](rules.md)
-
 ## coding-tests (1 files)
 
 - [Coding Test](coding-test.md)
+
+## coding (1 files)
+
+- [The Rules of Code](rules.md)
 
 ## coffee (1 files)
 
@@ -397,9 +652,9 @@ Browse content by topic tags.
 
 ## comparison (3 files)
 
+- [What's the best programming language?](best.md)
 - [Cheap tool comparison](cheap.md)
 - [Os](os.md)
-- [What's the best programming language?](best.md)
 
 ## compiler (1 files)
 
@@ -408,9 +663,9 @@ Browse content by topic tags.
 ## compilers (4 files)
 
 - [Assembly](asm.md)
+- [Online compilers](compilers.md)
 - [Build gcc from source](gcc.md)
 - [Godbolt](godbolt.md)
-- [Online compilers](compilers.md)
 
 ## complex-systems (1 files)
 
@@ -431,8 +686,8 @@ Browse content by topic tags.
 
 ## construction (2 files)
 
-- [Builders](builders.md)
 - [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
+- [Builders](builders.md)
 
 ## container-homes (1 files)
 
@@ -457,39 +712,39 @@ Browse content by topic tags.
 
 ## cpp (36 files)
 
-- [Boost](boost.md)
-- [C++ experience and side-projects](projects.md)
-- [C++ features](cpp-features.md)
 - [C++ memory alignment](align.md)
-- [C++ profiling](profiling.md)
-- [C++ recipes](recipes.md)
+- [Google benchmark](benchmark.md)
+- [Boost](boost.md)
 - [CMake](cmake.md)
-- [Coding without coding](helpers.md)
+- [Online compilers](compilers.md)
 - [Cpp Essentials](cpp-essentials.md)
-- [Current tech stack](tech_stack.md)
-- [Dean Turpin](index.md)
+- [C++ features](cpp-features.md)
+- [Modern C++](cpp.md)
 - [Duff's device](duff.md)
 - [Exceptions in destructors](exceptions.md)
 - [Favourite C++ features](fav.md)
+- [std::format](format.md)
 - [GDB](gdb.md)
-- [Get a `std::move` on](move.md)
 - [Godbolt](godbolt.md)
-- [Google benchmark](benchmark.md)
+- [Coding without coding](helpers.md)
+- [Dean Turpin](index.md)
 - [KEYnote](keynote.md)
 - [Keywords](keywords.md)
 - [Koenig](koenig.md)
 - [Mandelbrot](mandelbrot.md)
-- [Modern C++](cpp.md)
 - [Modern C++ migration](modern.md)
-- [Multi-threading](threads.md)
-- [Online compilers](compilers.md)
+- [Get a `std::move` on](move.md)
 - [OOP I did it again](oop.md)
 - [Pipelines](pipelines.md)
+- [C++ profiling](profiling.md)
+- [C++ experience and side-projects](projects.md)
 - [Qt](qt.md)
+- [C++ recipes](recipes.md)
 - [Sorting](sorting.md)
-- [std::format](format.md)
-- [TMP](template.md)
 - [Use of static in C++](static.md)
+- [Current tech stack](tech_stack.md)
+- [TMP](template.md)
+- [Multi-threading](threads.md)
 - [Using type traits to check all the esoteric OOP rules](traits.md)
 - [Vector](vector.md)
 - [Virtual](virtual.md)
@@ -529,8 +784,8 @@ Browse content by topic tags.
 
 ## cybersecurity (2 files)
 
-- [Pentest](pentest.md)
 - [Security through absurdity](obscure.md)
+- [Pentest](pentest.md)
 
 ## cycling (2 files)
 
@@ -570,8 +825,8 @@ Browse content by topic tags.
 
 ## debugging (2 files)
 
-- [C++ profiling](profiling.md)
 - [GDB](gdb.md)
+- [C++ profiling](profiling.md)
 
 ## dependencies (1 files)
 
@@ -585,45 +840,45 @@ Browse content by topic tags.
 
 - [Standard](options.md)
 
-## design (3 files)
-
-- [GRASP](grasp.md)
-- [Interior design resources](interiors.md)
-- [SDLC](sdlc.md)
-
 ## design-patterns (3 files)
 
 - [Design patterns](design-patterns.md)
 - [OOP I did it again](oop.md)
 - [Solid](solid.md)
 
+## design (3 files)
+
+- [GRASP](grasp.md)
+- [Interior design resources](interiors.md)
+- [SDLC](sdlc.md)
+
 ## desktop-environments (1 files)
 
 - [Fixing a broken Gnome](gnome.md)
-
-## development (7 files)
-
-- [Agile](agile.md)
-- [Agile2](agile2.md)
-- [Deps](deps.md)
-- [Git Submodules](git-submodules.md)
-- [Repo basics](android-repo.md)
-- [Version](version.md)
-- [What's the best programming language?](best.md)
 
 ## development-tools (2 files)
 
 - [Godbolt](godbolt.md)
 - [IDEs](ide.md)
 
+## development (7 files)
+
+- [Agile](agile.md)
+- [Agile2](agile2.md)
+- [Repo basics](android-repo.md)
+- [What's the best programming language?](best.md)
+- [Deps](deps.md)
+- [Git Submodules](git-submodules.md)
+- [Version](version.md)
+
 ## devops (6 files)
 
 - [Containers](containers.md)
 - [Docker](docker.md)
 - [Git](git.md)
+- [Working in a Google Cloud VM](google-cloud-git.md)
 - [Pipelines](pipelines.md)
 - [Travis CI](travis-ci.md)
-- [Working in a Google Cloud VM](google-cloud-git.md)
 
 ## diamonds (1 files)
 
@@ -649,10 +904,10 @@ Browse content by topic tags.
 
 ## docker (4 files)
 
-- [Containers](containers.md)
-- [Decrypting TLS traffic](ssldump.md)
 - [Run Apache](apache.md)
+- [Containers](containers.md)
 - [Simple Python web server](dump-http-headers.md)
+- [Decrypting TLS traffic](ssldump.md)
 
 ## documentation (2 files)
 
@@ -668,12 +923,12 @@ Browse content by topic tags.
 
 ## education (6 files)
 
-- [Courses and books (and things to watch)](read.md)
+- [Training and outside interests](ed.md)
 - [Lessons](lessons.md)
 - [Pluralsight](pluralsight.md)
+- [Courses and books (and things to watch)](read.md)
 - [Sight reading](sight-reading.md)
 - [Teach yourself things](training.md)
-- [Training and outside interests](ed.md)
 
 ## ee (1 files)
 
@@ -681,16 +936,16 @@ Browse content by topic tags.
 
 ## efficiency (3 files)
 
-- [Fast](fast.md)
 - [Home appliance energy usage](appliance.md)
+- [Fast](fast.md)
 - [The cost of inconvenience](inconvenience.md)
 
 ## electric-vehicles (6 files)
 
-- [E-bikes](e-bikes.md)
-- [Electric car resources](ev.md)
 - [EV in Brighton](brighton-ev.md)
+- [E-bikes](e-bikes.md)
 - [EV myths](ev-myths.md)
+- [Electric car resources](ev.md)
 - [Tesla tips and tricks](tesla.md)
 - [Zoe](zoe.md)
 
@@ -764,25 +1019,25 @@ Browse content by topic tags.
 
 - [Linux limits](limits.md)
 
-## film (1 files)
-
-- [James Bond watches](bond.md)
-
 ## film-scoring (1 files)
 
 - [Soundtracks](soundtracks.md)
+
+## film (1 files)
+
+- [James Bond watches](bond.md)
 
 ## finance (10 files)
 
 - [APIs](api.md)
 - [Bank](bank.md)
+- [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
 - [Finance](finance.md)
 - [Fixed](fixed.md)
 - [Investing online](investing.md)
 - [Money Habits](money-habits.md)
-- [Quants](quant.md)
 - [Standard](options.md)
-- [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
+- [Quants](quant.md)
 - [Trading Platforms](trading-platforms.md)
 
 ## financial-services (1 files)
@@ -791,8 +1046,8 @@ Browse content by topic tags.
 
 ## firefox (2 files)
 
-- [Decrypting TLS traffic](ssldump.md)
 - [Simple Python web server](dump-http-headers.md)
+- [Decrypting TLS traffic](ssldump.md)
 
 ## fixed-point (1 files)
 
@@ -809,10 +1064,10 @@ Browse content by topic tags.
 ## food (6 files)
 
 - [Miso-seaweed bread](bread.md)
-- [Recipes](food.md)
-- [Restaurants](restaurants.md)
-- [Restaurants Portugal](restaurants-portugal.md)
 - [The federal preserve](fed.md)
+- [Recipes](food.md)
+- [Restaurants Portugal](restaurants-portugal.md)
+- [Restaurants](restaurants.md)
 - [Yogr](yogr.md)
 
 ## footwear (1 files)
@@ -848,14 +1103,14 @@ Browse content by topic tags.
 
 - [Funeral](funeral.md)
 
-## game (1 files)
-
-- [Chess](chess.md)
-
 ## game-development (2 files)
 
 - [Rogue](rogue.md)
 - [Unreal game engine](unreal.md)
+
+## game (1 files)
+
+- [Chess](chess.md)
 
 ## games (1 files)
 
@@ -871,9 +1126,9 @@ Browse content by topic tags.
 
 ## gardening (3 files)
 
-- [Front garden](plants.md)
 - [Gardening](garden.md)
 - [Growing mangos](mango.md)
+- [Front garden](plants.md)
 
 ## gcc (1 files)
 
@@ -912,12 +1167,12 @@ Browse content by topic tags.
 
 ## git (6 files)
 
-- [Equivalent commands](subversion-to-git-migration.md)
-- [Git](git.md)
-- [Git Submodules](git-submodules.md)
-- [Ports blocked over VPN](vpn.md)
 - [Repo basics](android-repo.md)
+- [Git Submodules](git-submodules.md)
+- [Git](git.md)
 - [Working in a Google Cloud VM](google-cloud-git.md)
+- [Equivalent commands](subversion-to-git-migration.md)
+- [Ports blocked over VPN](vpn.md)
 
 ## github-pages (1 files)
 
@@ -949,9 +1204,9 @@ Browse content by topic tags.
 
 ## google cloud (3 files)
 
+- [Ghost blog](ghost.md)
 - [But does it ssh?](ssh.md)
 - [Create a Twitter bot](twitterbot.md)
-- [Ghost blog](ghost.md)
 
 ## google-cloud (1 files)
 
@@ -970,8 +1225,9 @@ Browse content by topic tags.
 
 - [Exceptions in destructors](exceptions.md)
 
-## graphics (2 files)
+## graphics (3 files)
 
+- [3D Graphics and Modeling](3d-graphics.md)
 - [OpenGL](opengl.md)
 - [Unreal game engine](unreal.md)
 
@@ -986,9 +1242,9 @@ Browse content by topic tags.
 ## hacking (4 files)
 
 - [Cyber-security resources](cyber.md)
-- [Decrypting TLS traffic](ssldump.md)
-- [Linux security](sec.md)
 - [Pentest](pentest.md)
+- [Linux security](sec.md)
+- [Decrypting TLS traffic](ssldump.md)
 
 ## hardware (4 files)
 
@@ -1056,9 +1312,9 @@ Browse content by topic tags.
 
 ## housing (3 files)
 
-- [Container homes](shed.md)
 - [House](house.md)
 - [Property](property.md)
+- [Container homes](shed.md)
 
 ## huawei (1 files)
 
@@ -1091,12 +1347,12 @@ Browse content by topic tags.
 
 ## investment (6 files)
 
-- [Automatic watches](watch.md)
 - [Diamond](diamond.md)
 - [Fundraising](fundraising.md)
-- [Property](property.md)
 - [Standard](options.md)
+- [Property](property.md)
 - [Trading Platforms](trading-platforms.md)
+- [Automatic watches](watch.md)
 
 ## james-bond (1 files)
 
@@ -1135,8 +1391,8 @@ Browse content by topic tags.
 ## language (3 files)
 
 - [Maksikanagasana](dragonfly.md)
-- [Southern Vietnamese](viet.md)
 - [योग](sanskrit.md)
+- [Southern Vietnamese](viet.md)
 
 ## languages (1 files)
 
@@ -1161,21 +1417,21 @@ Browse content by topic tags.
 
 ## lifestyle (16 files)
 
-- [Automatic watches](watch.md)
 - [Barefoot](barefoot.md)
 - [Bmx](bmx.md)
 - [Coffee](coffee.md)
-- [Container homes](shed.md)
 - [E-bikes](e-bikes.md)
 - [Electric car resources](ev.md)
-- [Front garden](plants.md)
 - [House](house.md)
-- [Motorhomes](rv.md)
+- [The cost of inconvenience](inconvenience.md)
+- [Front garden](plants.md)
 - [My precious](precious.md)
 - [Presents](presents.md)
-- [Sunglasses](sunglasses.md)
-- [The cost of inconvenience](inconvenience.md)
 - [Watch repairs](repairs.md)
+- [Motorhomes](rv.md)
+- [Container homes](shed.md)
+- [Sunglasses](sunglasses.md)
+- [Automatic watches](watch.md)
 - [Wedding](wedding.md)
 
 ## linguistics (1 files)
@@ -1188,31 +1444,31 @@ Browse content by topic tags.
 
 ## linux (26 files)
 
-- [Apache Guacamole](guac.md)
-- [But does it ssh?](ssh.md)
+- [Run Apache](apache.md)
+- [Linux CLI Tricks](cli.md)
 - [Cloud computing](cloud.md)
-- [Create a Twitter bot](twitterbot.md)
-- [Debugging stuck Linux processes](linux.md)
-- [Decrypting TLS traffic](ssldump.md)
 - [Docker](docker.md)
-- [dump all settings](linux-audio.md)
-- [Fixing a broken Gnome](gnome.md)
+- [Simple Python web server](dump-http-headers.md)
 - [Ghost blog](ghost.md)
+- [Fixing a broken Gnome](gnome.md)
 - [gpio](gpio.md)
+- [Apache Guacamole](guac.md)
 - [Install Linux 6 on Ubuntu 2023](kernel.md)
 - [KEYnote](keynote.md)
-- [Linux CLI Tricks](cli.md)
 - [Linux limits](limits.md)
-- [Linux security](sec.md)
+- [dump all settings](linux-audio.md)
 - [Linux Version](linux-version.md)
-- [Network analysis](network.md)
-- [Ports blocked over VPN](vpn.md)
-- [PowerShell](powershell.md)
-- [Run Apache](apache.md)
-- [Simple Python web server](dump-http-headers.md)
-- [Tuning Linux](tuning.md)
-- [Upgrading Ubuntu](ubuntu.md)
+- [Debugging stuck Linux processes](linux.md)
 - [USB live boot](live.md)
+- [Network analysis](network.md)
+- [PowerShell](powershell.md)
+- [Linux security](sec.md)
+- [But does it ssh?](ssh.md)
+- [Decrypting TLS traffic](ssldump.md)
+- [Tuning Linux](tuning.md)
+- [Create a Twitter bot](twitterbot.md)
+- [Upgrading Ubuntu](ubuntu.md)
+- [Ports blocked over VPN](vpn.md)
 - [WSL 2](wsl.md)
 
 ## lists (1 files)
@@ -1229,8 +1485,8 @@ Browse content by topic tags.
 
 ## local (2 files)
 
-- [Brighton Media](brighton-media.md)
 - [EV in Brighton](brighton-ev.md)
+- [Brighton Media](brighton-media.md)
 
 ## logic-pro (1 files)
 
@@ -1238,11 +1494,11 @@ Browse content by topic tags.
 
 ## luxury (5 files)
 
-- [Automatic watches](watch.md)
+- [James Bond watches](bond.md)
 - [Diamond](diamond.md)
 - [Hallmarks](hallmark.md)
-- [James Bond watches](bond.md)
 - [My precious](precious.md)
+- [Automatic watches](watch.md)
 
 ## machine-learning (1 files)
 
@@ -1254,9 +1510,9 @@ Browse content by topic tags.
 
 ## maintenance (4 files)
 
+- [Mercedes CLC resources](clc.md)
 - [Clean](clean.md)
 - [Detailing](detailing.md)
-- [Mercedes CLC resources](clc.md)
 - [Watch repairs](repairs.md)
 
 ## making (1 files)
@@ -1277,8 +1533,8 @@ Browse content by topic tags.
 
 ## maths (2 files)
 
-- [Mandelbrot](mandelbrot.md)
 - [The Fibonacci Sequence](fibonacci-sequence.md)
+- [Mandelbrot](mandelbrot.md)
 
 ## media (1 files)
 
@@ -1311,9 +1567,13 @@ Browse content by topic tags.
 
 ## migration (3 files)
 
-- [Equivalent commands](subversion-to-git-migration.md)
 - [Macos](macos.md)
 - [Modern C++ migration](modern.md)
+- [Equivalent commands](subversion-to-git-migration.md)
+
+## mobile-development (1 files)
+
+- [Swift](swift.md)
 
 ## mobile (3 files)
 
@@ -1321,9 +1581,9 @@ Browse content by topic tags.
 - [Mobile phone repair tips](mobile.md)
 - [Shooting raw images on the Huawei P30 Pro](raw.md)
 
-## mobile-development (1 files)
+## modeling (1 files)
 
-- [Swift](swift.md)
+- [3D Graphics and Modeling](3d-graphics.md)
 
 ## modelling (3 files)
 
@@ -1338,11 +1598,15 @@ Browse content by topic tags.
 ## modern-features (6 files)
 
 - [C++ features](cpp-features.md)
-- [Get a `std::move` on](move.md)
 - [Modern C++](cpp.md)
-- [TMP](template.md)
+- [Get a `std::move` on](move.md)
 - [Use of static in C++](static.md)
+- [TMP](template.md)
 - [Using type traits to check all the esoteric OOP rules](traits.md)
+
+## money-habits (1 files)
+
+- [Money Habits](money-habits.md)
 
 ## money (3 files)
 
@@ -1350,13 +1614,26 @@ Browse content by topic tags.
 - [Finance](finance.md)
 - [Investing online](investing.md)
 
-## money-habits (1 files)
-
-- [Money Habits](money-habits.md)
-
 ## motorhomes (1 files)
 
 - [Motorhomes](rv.md)
+
+## music-production (9 files)
+
+- [Acid tracks](acid.md)
+- [AI singers](ai_music.md)
+- [Beat sync](beatsync.md)
+- [DAW](daw.md)
+- [Shiny guitar make it better](guitars.md)
+- [Logic Pro](logic_pro.md)
+- [Publishing mixes](mixes.md)
+- [Soundtracks](soundtracks.md)
+- [Analogue synthesis](synth.md)
+
+## music-theory (2 files)
+
+- [Just versus Equal Temperament](just.md)
+- [Sight reading](sight-reading.md)
 
 ## music (7 files)
 
@@ -1365,25 +1642,8 @@ Browse content by topic tags.
 - [Lessons](lessons.md)
 - [Playlists](playlists.md)
 - [Sight reading](sight-reading.md)
-- [Songs of note](songs2.md)
 - [Verse](songs.md)
-
-## music-production (9 files)
-
-- [Acid tracks](acid.md)
-- [AI singers](ai_music.md)
-- [Analogue synthesis](synth.md)
-- [Beat sync](beatsync.md)
-- [DAW](daw.md)
-- [Logic Pro](logic_pro.md)
-- [Publishing mixes](mixes.md)
-- [Shiny guitar make it better](guitars.md)
-- [Soundtracks](soundtracks.md)
-
-## music-theory (2 files)
-
-- [Just versus Equal Temperament](just.md)
-- [Sight reading](sight-reading.md)
+- [Songs of note](songs2.md)
 
 ## myths (1 files)
 
@@ -1396,10 +1656,10 @@ Browse content by topic tags.
 ## networking (6 files)
 
 - [Bandwidth](bandwidth.md)
-- [Hosts](hosts.md)
 - [Imagine you're a browser](browser.md)
-- [Network analysis](network.md)
+- [Hosts](hosts.md)
 - [TCP/IP](ip.md)
+- [Network analysis](network.md)
 - [Top level domains](websites.md)
 
 ## networks (2 files)
@@ -1437,8 +1697,8 @@ Browse content by topic tags.
 
 ## oop (5 files)
 
-- [Design patterns](design-patterns.md)
 - [Modern C++](cpp.md)
+- [Design patterns](design-patterns.md)
 - [OOP I did it again](oop.md)
 - [Using type traits to check all the esoteric OOP rules](traits.md)
 - [Virtual](virtual.md)
@@ -1451,12 +1711,20 @@ Browse content by topic tags.
 
 - [What is ChatGPT?](chatgtp.md)
 
+## opengl (1 files)
+
+- [3D Graphics and Modeling](3d-graphics.md)
+
+## OpenGL (1 files)
+
+- [OpenGL](opengl.md)
+
 ## operating-systems (5 files)
 
-- [Current tech stack](tech_stack.md)
 - [Debugging stuck Linux processes](linux.md)
 - [Macos](macos.md)
 - [Os](os.md)
+- [Current tech stack](tech_stack.md)
 - [Upgrading Ubuntu](ubuntu.md)
 
 ## operations (1 files)
@@ -1465,10 +1733,10 @@ Browse content by topic tags.
 
 ## opinion (4 files)
 
-- [An open letter](letter.md)
-- [The cost of inconvenience](inconvenience.md)
-- [The Last Straw](straw.md)
 - [What's the best programming language?](best.md)
+- [The cost of inconvenience](inconvenience.md)
+- [An open letter](letter.md)
+- [The Last Straw](straw.md)
 
 ## optimization (1 files)
 
@@ -1488,8 +1756,8 @@ Browse content by topic tags.
 
 ## parallelism (2 files)
 
-- [Multi-threading](threads.md)
 - [Parallelism](parallelism.md)
+- [Multi-threading](threads.md)
 
 ## pcm (1 files)
 
@@ -1501,19 +1769,15 @@ Browse content by topic tags.
 
 ## performance (9 files)
 
-- [Bandwidth](bandwidth.md)
 - [C++ memory alignment](align.md)
-- [C++ profiling](profiling.md)
+- [Bandwidth](bandwidth.md)
 - [Cache](cache.md)
 - [Fast](fast.md)
 - [How long is a nanosecond?](nano.md)
 - [Parallelism](parallelism.md)
+- [C++ profiling](profiling.md)
 - [Tuning Linux](tuning.md)
 - [Vector](vector.md)
-
-## personal (1 files)
-
-- [An open letter](letter.md)
 
 ## personal-development (1 files)
 
@@ -1523,6 +1787,10 @@ Browse content by topic tags.
 
 - [Finance](finance.md)
 - [Money Habits](money-habits.md)
+
+## personal (1 files)
+
+- [An open letter](letter.md)
 
 ## philosophy (1 files)
 
@@ -1540,8 +1808,8 @@ Browse content by topic tags.
 
 - [Cameras](cameras.md)
 - [Colour chords](colour.md)
-- [Shooting raw images on the Huawei P30 Pro](raw.md)
 - [Taking photos of groups of people](photo.md)
+- [Shooting raw images on the Huawei P30 Pro](raw.md)
 
 ## piano (1 files)
 
@@ -1554,9 +1822,9 @@ Browse content by topic tags.
 
 ## plants (3 files)
 
-- [Front garden](plants.md)
 - [Gardening](garden.md)
 - [Growing mangos](mango.md)
+- [Front garden](plants.md)
 
 ## plastic (1 files)
 
@@ -1613,67 +1881,67 @@ Browse content by topic tags.
 
 - [Asana](asana.md)
 - [Cli2](cli2.md)
-- [Remote](remote.md)
 - [Turbo charge your bash prompt](prompt.md)
+- [Remote](remote.md)
 
 ## profiling (2 files)
 
-- [C++ profiling](profiling.md)
 - [Google benchmark](benchmark.md)
+- [C++ profiling](profiling.md)
+
+## programming-languages (23 files)
+
+- [Algorithms](algorithms.md)
+- [Assembly](asm.md)
+- [Google benchmark](benchmark.md)
+- [What's the best programming language?](best.md)
+- [C++ features](cpp-features.md)
+- [Modern C++](cpp.md)
+- [Data structures](data-structures.md)
+- [Haskell cheat sheet](haskell.md)
+- [Dean Turpin](index.md)
+- [Influential technology](influential.md)
+- [Keywords](keywords.md)
+- [Get a `std::move` on](move.md)
+- [OOP I did it again](oop.md)
+- [C++ experience and side-projects](projects.md)
+- [C++ recipes](recipes.md)
+- [regex](regex.md)
+- [Skills timeline](skills.md)
+- [Use of static in C++](static.md)
+- [Swift](swift.md)
+- [Current tech stack](tech_stack.md)
+- [TMP](template.md)
+- [Multi-threading](threads.md)
+- [Using type traits to check all the esoteric OOP rules](traits.md)
 
 ## programming (25 files)
 
 - [Boost](boost.md)
 - [Cache](cache.md)
 - [Coding Test](coding-test.md)
-- [Coding without coding](helpers.md)
+- [No comment](comment.md)
 - [Cpp Essentials](cpp-essentials.md)
 - [Deps](deps.md)
 - [Design patterns](design-patterns.md)
 - [Fixed](fixed.md)
+- [Coding without coding](helpers.md)
+- [Software developer side hustles to keep your skills fresh](hustle.md)
 - [IDEs](ide.md)
 - [Interview](interview.md)
 - [Koenig](koenig.md)
 - [Modern C++ migration](modern.md)
-- [mount and unmount partitions](reset.md)
-- [No comment](comment.md)
 - [Parallelism](parallelism.md)
 - [Pluralsight](pluralsight.md)
-- [Software developer side hustles to keep your skills fresh](hustle.md)
+- [Via the (Linux) filesystem](random.md)
+- [mount and unmount partitions](reset.md)
 - [Software terminology](software-terminology.md)
 - [Solid](solid.md)
 - [Spec](spec.md)
 - [Teach yourself things](training.md)
 - [Unreal game engine](unreal.md)
 - [Version](version.md)
-- [Via the (Linux) filesystem](random.md)
 - [Virtual](virtual.md)
-
-## programming-languages (23 files)
-
-- [Algorithms](algorithms.md)
-- [Assembly](asm.md)
-- [C++ experience and side-projects](projects.md)
-- [C++ features](cpp-features.md)
-- [C++ recipes](recipes.md)
-- [Current tech stack](tech_stack.md)
-- [Data structures](data-structures.md)
-- [Dean Turpin](index.md)
-- [Get a `std::move` on](move.md)
-- [Google benchmark](benchmark.md)
-- [Haskell cheat sheet](haskell.md)
-- [Influential technology](influential.md)
-- [Keywords](keywords.md)
-- [Modern C++](cpp.md)
-- [Multi-threading](threads.md)
-- [OOP I did it again](oop.md)
-- [regex](regex.md)
-- [Skills timeline](skills.md)
-- [Swift](swift.md)
-- [TMP](template.md)
-- [Use of static in C++](static.md)
-- [Using type traits to check all the esoteric OOP rules](traits.md)
-- [What's the best programming language?](best.md)
 
 ## project-management (3 files)
 
@@ -1683,24 +1951,24 @@ Browse content by topic tags.
 
 ## projects (3 files)
 
-- [C++ experience and side-projects](projects.md)
 - [Pi](pi.md)
 - [Pipelines](pipelines.md)
+- [C++ experience and side-projects](projects.md)
 
 ## prompt (1 files)
 
 - [Turbo charge your bash prompt](prompt.md)
 
-## property (4 files)
-
-- [Builders](builders.md)
-- [House](house.md)
-- [Property](property.md)
-- [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
-
 ## property-management (1 files)
 
 - [Airbnb changeover](airbnb.md)
+
+## property (4 files)
+
+- [The cost of heavily refurbishing a flat in Brighton in 2020](build.md)
+- [Builders](builders.md)
+- [House](house.md)
+- [Property](property.md)
 
 ## protocols (1 files)
 
@@ -1712,9 +1980,9 @@ Browse content by topic tags.
 
 ## python (3 files)
 
+- [Simple Python web server](dump-http-headers.md)
 - [Keywords](keywords.md)
 - [Mandelbrot](mandelbrot.md)
-- [Simple Python web server](dump-http-headers.md)
 
 ## qt (1 files)
 
@@ -1763,17 +2031,17 @@ Browse content by topic tags.
 
 ## recipes (5 files)
 
-- [C++ recipes](recipes.md)
 - [Miso-seaweed bread](bread.md)
 - [Recipes](food.md)
+- [C++ recipes](recipes.md)
 - [The art of tea](tea.md)
 - [Yogr](yogr.md)
 
 ## recommendations (3 files)
 
 - [Presents](presents.md)
-- [Top10](top10.md)
 - [Verse](songs.md)
+- [Top10](top10.md)
 
 ## reference (7 files)
 
@@ -1781,9 +2049,9 @@ Browse content by topic tags.
 - [Croatian crib sheet](croatian.md)
 - [Flags](flags.md)
 - [Koenig](koenig.md)
+- [xy](links.md)
 - [Software terminology](software-terminology.md)
 - [Top10](top10.md)
-- [xy](links.md)
 
 ## regex (1 files)
 
@@ -1796,6 +2064,10 @@ Browse content by topic tags.
 ## renault-zoe (1 files)
 
 - [Zoe](zoe.md)
+
+## rendering (1 files)
+
+- [3D Graphics and Modeling](3d-graphics.md)
 
 ## repair (1 files)
 
@@ -1819,8 +2091,8 @@ Browse content by topic tags.
 
 ## restaurants (2 files)
 
-- [Restaurants](restaurants.md)
 - [Restaurants Portugal](restaurants-portugal.md)
+- [Restaurants](restaurants.md)
 
 ## retail (1 files)
 
@@ -1830,23 +2102,23 @@ Browse content by topic tags.
 
 - [Cameras](cameras.md)
 - [Cheap tool comparison](cheap.md)
+- [Shiny guitar make it better](guitars.md)
 - [Hotels](hotels.md)
 - [Logic Pro](logic_pro.md)
 - [Restaurants](restaurants.md)
-- [Shiny guitar make it better](guitars.md)
 - [Zoe](zoe.md)
 
 ## revision (9 files)
 
-- [Blockchain](cryptocurrency.md)
 - [Cloud computing](cloud.md)
+- [Blockchain](cryptocurrency.md)
 - [Cyber-security resources](cyber.md)
 - [Databases](db.md)
 - [Duff's device](duff.md)
 - [Favourite C++ features](fav.md)
 - [Heterogenous programming](gpu.md)
-- [SDLC](sdlc.md)
 - [Stayin' alive...](keepalive.md)
+- [SDLC](sdlc.md)
 
 ## roguelike (1 files)
 
@@ -1873,10 +2145,10 @@ Browse content by topic tags.
 
 - [Cryptography](crypto.md)
 - [Cyber-security resources](cyber.md)
-- [Decrypting TLS traffic](ssldump.md)
-- [Linux security](sec.md)
-- [Pentest](pentest.md)
 - [Security through absurdity](obscure.md)
+- [Pentest](pentest.md)
+- [Linux security](sec.md)
+- [Decrypting TLS traffic](ssldump.md)
 
 ## self-learning (1 files)
 
@@ -1924,20 +2196,16 @@ Browse content by topic tags.
 
 ## skills (6 files)
 
-- [C++ experience and side-projects](projects.md)
+- [Training and outside interests](ed.md)
 - [Dean Turpin](index.md)
 - [Influential technology](influential.md)
 - [Keywords](keywords.md)
+- [C++ experience and side-projects](projects.md)
 - [Skills timeline](skills.md)
-- [Training and outside interests](ed.md)
 
 ## social-good (1 files)
 
 - [Good Will Coin](goodwill.md)
-
-## software (1 files)
-
-- [DAW](daw.md)
 
 ## software-development (1 files)
 
@@ -1947,6 +2215,10 @@ Browse content by topic tags.
 
 - [Design patterns](design-patterns.md)
 - [Solid](solid.md)
+
+## software (1 files)
+
+- [DAW](daw.md)
 
 ## solid-principles (1 files)
 
@@ -2004,8 +2276,8 @@ Browse content by topic tags.
 
 ## startups (2 files)
 
-- [Fundraising](fundraising.md)
 - [Software dev in a large corp versus a small company](corp.md)
+- [Fundraising](fundraising.md)
 
 ## static-sites (1 files)
 
@@ -2054,15 +2326,15 @@ Browse content by topic tags.
 - [Bandwidth](bandwidth.md)
 - [Cache](cache.md)
 - [Hosts](hosts.md)
-- [How long is a nanosecond?](nano.md)
+- [TCP/IP](ip.md)
 - [Install Linux 6 on Ubuntu 2023](kernel.md)
 - [Linux Version](linux-version.md)
-- [mount and unmount partitions](reset.md)
+- [USB live boot](live.md)
+- [How long is a nanosecond?](nano.md)
 - [Os](os.md)
 - [Power](power.md)
-- [TCP/IP](ip.md)
+- [mount and unmount partitions](reset.md)
 - [Tuning Linux](tuning.md)
-- [USB live boot](live.md)
 
 ## tablet (1 files)
 
@@ -2074,8 +2346,8 @@ Browse content by topic tags.
 
 ## tcp-ip (2 files)
 
-- [Stayin' alive...](keepalive.md)
 - [TCP/IP](ip.md)
+- [Stayin' alive...](keepalive.md)
 
 ## tea (1 files)
 
@@ -2145,25 +2417,25 @@ Browse content by topic tags.
 
 - [APIs](api.md)
 - [Asana](asana.md)
-- [Build gcc from source](gcc.md)
+- [Google benchmark](benchmark.md)
 - [Cheap tool comparison](cheap.md)
 - [Cli2](cli2.md)
 - [CMake](cmake.md)
-- [Current tech stack](tech_stack.md)
-- [Dean Turpin](index.md)
-- [Debugging stuck Linux processes](linux.md)
-- [Docker](docker.md)
-- [Git](git.md)
-- [Google benchmark](benchmark.md)
-- [Influential technology](influential.md)
-- [Network analysis](network.md)
 - [Online compilers](compilers.md)
+- [Docker](docker.md)
+- [Build gcc from source](gcc.md)
+- [Git](git.md)
+- [Dean Turpin](index.md)
+- [Influential technology](influential.md)
+- [Debugging stuck Linux processes](linux.md)
+- [Network analysis](network.md)
 - [Qt](qt.md)
 - [regex](regex.md)
 - [Remote](remote.md)
 - [Skills timeline](skills.md)
-- [Top level domains](websites.md)
+- [Current tech stack](tech_stack.md)
 - [Website builders](website-builders.md)
+- [Top level domains](websites.md)
 
 ## trading (1 files)
 
@@ -2184,9 +2456,9 @@ Browse content by topic tags.
 ## travel (4 files)
 
 - [Hotels](hotels.md)
-- [Motorhomes](rv.md)
-- [Restaurants](restaurants.md)
 - [Restaurants Portugal](restaurants-portugal.md)
+- [Restaurants](restaurants.md)
+- [Motorhomes](rv.md)
 
 ## travis-ci (1 files)
 
@@ -2205,6 +2477,10 @@ Browse content by topic tags.
 
 - [Just versus Equal Temperament](just.md)
 - [Tuning Linux](tuning.md)
+
+## Twitter (1 files)
+
+- [Create a Twitter bot](twitterbot.md)
 
 ## ubuntu (2 files)
 
@@ -2225,8 +2501,8 @@ Browse content by topic tags.
 
 ## version-control (2 files)
 
-- [Equivalent commands](subversion-to-git-migration.md)
 - [Git Submodules](git-submodules.md)
+- [Equivalent commands](subversion-to-git-migration.md)
 
 ## versioning (1 files)
 
@@ -2271,28 +2547,28 @@ Browse content by topic tags.
 
 ## watches (3 files)
 
-- [Automatic watches](watch.md)
 - [James Bond watches](bond.md)
 - [Watch repairs](repairs.md)
+- [Automatic watches](watch.md)
 
 ## web-development (3 files)
 
-- [Hugo](hugo.md)
 - [Imagine you're a browser](browser.md)
+- [Hugo](hugo.md)
 - [Website builders](website-builders.md)
 
 ## web-hosting (1 files)
 
 - [Configuring a custom domain with a GitHub Pages website](dns.md)
 
+## website-builders (2 files)
+
+- [Website builders](website-builders.md)
+- [Top level domains](websites.md)
+
 ## website (1 files)
 
 - [Website hosting](free.md)
-
-## website-builders (2 files)
-
-- [Top level domains](websites.md)
-- [Website builders](website-builders.md)
 
 ## weddings (1 files)
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - cpp
+  - memory
+  - alignment
+  - performance
+---
+
 # C++ memory alignment
 
 ```cpp

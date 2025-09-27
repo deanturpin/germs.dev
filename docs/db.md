@@ -1,3 +1,13 @@
+---
+title: Databases
+subtitle: MySQL or mongoDB?
+date: 2019-09-26
+tags:
+- revision
+- database
+- sql
+---
+
 # Databases
 ## Relational versus non-relational databases
 | SQL (relational) | NoSQL (non-relational) |

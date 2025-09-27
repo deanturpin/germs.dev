@@ -1,3 +1,11 @@
+---
+tags:
+  - cryptocurrency
+  - social-good
+  - blockchain
+  - community
+---
+
 # Good Will Coin
 
 So, how about a "good deed" token? You can't buy your way in like those Bitcoin slags, the only way to earn credit is by doing a good deed. Once you've done a good deed you can then pay somebody else for a task. Maybe you could even gift tokens?

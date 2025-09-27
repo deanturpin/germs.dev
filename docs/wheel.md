@@ -1,3 +1,12 @@
+---
+title: Colour wheels
+subtitle: Complementary colours
+date: 2020-02-23
+tags:
+- theory
+- colour
+---
+
 # Colour wheels
 
 Check out Blender Guru's ["Understanding color"](https://youtu.be/Qj1FK8n7WgY)

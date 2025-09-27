@@ -1,3 +1,12 @@
+---
+title: Dog child
+subtitle: I wonder if having a child is like owning a dog.
+date: 2019-06-18
+tags:
+- story
+- literature
+---
+
 # Dog/child
 
 At some oftentimes unexpected juncture you’re handed a helpless bundle of joy.

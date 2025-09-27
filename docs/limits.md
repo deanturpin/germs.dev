@@ -1,3 +1,12 @@
+---
+title: Linux limits
+date: 2020-11-17
+tags:
+- linux
+- c
+- filesystem
+---
+
 # Linux limits
 
 See `/usr/include/linux/limits.h`.

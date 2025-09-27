@@ -1,3 +1,11 @@
+---
+tags:
+  - music-theory
+  - tuning
+  - temperament
+  - mathematics
+---
+
 # Just versus Equal Temperament
 
 | Note      | Equal Temperament (Hz) | Just Intonation (Hz) | Interval          | Equal Temp. Ratio | Just Int. Ratio |

@@ -1,3 +1,10 @@
+---
+tags:
+  - git
+  - tools
+  - devops
+---
+
 # Git
 
 ## Remove all commits

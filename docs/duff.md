@@ -1,7 +1,11 @@
 ---
+title: Duff's device
+subtitle: Manual loop unrolling
+date: 2019-10-03
 tags:
 - revision
 - cpp
+draft: true
 ---
 
 # Duff's device

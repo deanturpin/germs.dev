@@ -1,3 +1,10 @@
+---
+tags:
+  - property
+  - construction
+  - finance
+---
+
 # The cost of heavily refurbishing a flat in Brighton in 2020
 
 Build was converting an open plan shop into residential (two bedroom flat).

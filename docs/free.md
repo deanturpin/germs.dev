@@ -1,6 +1,13 @@
-# Website Hosting
+---
+title: Website hosting
+subtitle: On the cheap...
+date: 2021-04-20
+tags:
+- website
+- hosting
+---
 
-On the cheap...
+# Website hosting
 > tl;dr -- currently using GitLab for hosting and Cloudflare for DNS
 
 ## Hugo

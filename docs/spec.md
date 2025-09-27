@@ -1,3 +1,14 @@
+---
+tags:
+  - programming
+  - specifications
+  - documentation
+  - standards
+---
+
+
+
+
 ## Keywords
 
 Initially I scan for keywords that pique my interest:

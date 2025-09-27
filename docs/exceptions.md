@@ -1,3 +1,12 @@
+---
+title: Exceptions in destructors
+date: 2019-09-26
+tags:
+- cpp
+- exceptions
+- graduate
+---
+
 # Exceptions in destructors
 In C++11 destructors [default to
 `noexcept`](https://bitbucket.org/codeimproved/qslog/issues/14/in-c-11-destructors-default-to-noexcept)

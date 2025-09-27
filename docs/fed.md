@@ -1,3 +1,14 @@
+---
+title: The federal preserve
+subtitle: "Fermentation: the art of cooking without cooking"
+date: 2019-11-01
+tags:
+- food
+- recipe
+- fermenting
+- sauerkraut
+---
+
 # The federal preserve
 ## Salt
 All these recipes use a percentage of salt to allay the progression of

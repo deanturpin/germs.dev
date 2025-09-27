@@ -1,3 +1,11 @@
+---
+tags:
+  - web-development
+  - browsers
+  - networking
+  - technology
+---
+
 # Imagine you're a browser
 
 An example of technologies encountered when a browser requests a page from a server. In this case the browser is running on a laptop connected by Wi-Fi.

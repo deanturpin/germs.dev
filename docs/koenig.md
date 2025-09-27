@@ -1,3 +1,14 @@
+---
+tags:
+  - cpp
+  - books
+  - programming
+  - reference
+---
+
+
+
+
 > Argument-dependent lookup, also known as ADL, or Koenig lookup [1], is the
 > set of rules for looking up the unqualified function names in function-call
 > expressions, including implicit function calls to overloaded operators. These

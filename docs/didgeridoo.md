@@ -1,6 +1,15 @@
-# Learning Circular Breathing
+---
+title: Learning circular breathing
+subtitle: On the didgeridoo
+date: 2020-09-13
+tags:
+- music
+- didgeridoo
+- breathing
+- meditation
+---
 
-On the didgeridoo
+# Learning circular breathing
 I've been playing for a few months so it’s time to give something back.
 
 I gave myself a month to learn circular breathing. You need to immerse yourself

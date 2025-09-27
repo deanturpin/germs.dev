@@ -1,6 +1,14 @@
-# Linux Security
+---
+title: Linux security
+subtitle: One-liners
+date: 2020-08-19
+tags:
+- security
+- linux
+- hacking
+---
 
-One-liners
+# Linux security
 
 Creating a Linux password hash like you find in `/etc/shadow`.
 

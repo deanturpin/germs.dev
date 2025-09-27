@@ -1,3 +1,14 @@
+---
+tags:
+  - raspberry-pi
+  - single-board-computers
+  - projects
+  - embedded
+---
+
+
+
+
 > Always be careful when running scripts and commands copied from the Internet.
 
 Anyway, that said...

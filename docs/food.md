@@ -1,3 +1,9 @@
+---
+tags:
+  - food
+  - recipes
+---
+
 # Recipes
 
 ## Chicken curry

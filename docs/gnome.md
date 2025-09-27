@@ -1,3 +1,12 @@
+---
+title: Gnome
+tags:
+  - linux
+  - gnome
+  - desktop-environments
+  - troubleshooting
+---
+
 # Fixing a broken Gnome
 
 Rename:

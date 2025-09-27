@@ -1,3 +1,10 @@
+---
+tags:
+  - cpp
+  - programming-languages
+  - modern-features
+---
+
 # Use of static in C++
 
 > Dependencies on static variables in different translation units are, in

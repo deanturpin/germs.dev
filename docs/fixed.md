@@ -1,3 +1,14 @@
+---
+tags:
+  - programming
+  - fixed-point
+  - mathematics
+  - finance
+---
+
+
+
+
 > Financial instruments are monetary contracts between parties. They can be
 > created, traded, modified and settled. They can be cash (currency), evidence
 > of an ownership interest in an entity or a contractual right to receive or

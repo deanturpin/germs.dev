@@ -1,3 +1,11 @@
+---
+tags:
+  - devops
+  - ci-cd
+  - travis-ci
+  - gitlab
+---
+
 # Travis CI
 
 > __tl;dr__ my use of Travis CI has been entirely superseded by [GitLab](https://gitlab.com/deanturpin), which has CI and issue tracking built in. In fact, this blog is built and hosted by [GitLab](https://gitlab.com/deanturpin/deanturpin).

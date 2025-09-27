@@ -1,3 +1,11 @@
+---
+tags:
+  - energy
+  - power
+  - systems
+  - electrical
+---
+
 # Power
 
 And batteries and chargers and things.

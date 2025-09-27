@@ -1,3 +1,14 @@
+---
+tags:
+  - audio
+  - video
+  - timecode
+  - production
+---
+
+
+
+
 ## SMPTE - Society of Motion Picture and Television Engineers
 
 HOURS:MINUTES:SECONDS:FRAMES

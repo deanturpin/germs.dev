@@ -1,3 +1,14 @@
+---
+tags:
+  - footwear
+  - health
+  - barefoot
+  - lifestyle
+---
+
+
+
+
 - Vivo Barefoot
 - https://www.revivo.com/ -- reconditioned
 - https://www.saguaro.com/

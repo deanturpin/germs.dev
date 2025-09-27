@@ -1,3 +1,10 @@
+---
+tags:
+  - ubuntu
+  - linux
+  - operating-systems
+---
+
 # Upgrading Ubuntu
 
 ## Get your current install up-to-date

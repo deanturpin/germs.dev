@@ -1,3 +1,11 @@
+---
+title: GRASP
+subtitle: General Responsibility Assignment Software Principles
+date: 2021-09-15
+tags:
+- design
+---
+
 # GRASP
 
 1. Information expert: put the responsibility of handling inputs on the class that owns the inputs (coupling, encapsulation)

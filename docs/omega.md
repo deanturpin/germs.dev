@@ -1,4 +1,14 @@
-# Omega Watches
+---
+title: Omega watches
+---
+
+---
+tags:
+  - watches
+  - omega
+  - luxury
+  - timepieces
+---
 
 
 

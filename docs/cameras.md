@@ -1,3 +1,11 @@
+---
+tags:
+  - photography
+  - cameras
+  - gear
+  - reviews
+---
+
 # Cameras
 
 ## Mobile

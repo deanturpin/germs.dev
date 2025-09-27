@@ -1,3 +1,11 @@
+---
+tags:
+  - cpp
+  - programming-languages
+  - projects
+  - skills
+---
+
 # C++ experience and side-projects
 
 Commercially I develop using C++17, so I feel it is important to explore the latest C++ features in my personal projects. I track the latest Ubuntu Docker image in my CI pipes and I publish a nightly Docker build of gcc HEAD built from source.

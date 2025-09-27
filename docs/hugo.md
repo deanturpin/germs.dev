@@ -1,3 +1,14 @@
+---
+tags:
+  - hugo
+  - static-sites
+  - web-development
+  - blogging
+---
+
+
+
+
 __NOTE: now using GitBook for this website__
 
 > Time to complete: 1 hour typing, 12 hours waiting.

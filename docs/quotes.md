@@ -1,3 +1,11 @@
+---
+title: You can't always want what you get
+subtitle: (Quotes)
+date: 2019-04-20
+tags:
+- agile
+---
+
 # You can't always want what you get
 
 - Nobody ever stopped for anybody but themselves; quitting must be as selfish as the act itself.

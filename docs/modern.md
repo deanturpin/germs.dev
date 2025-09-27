@@ -1,3 +1,11 @@
+---
+tags:
+  - cpp
+  - migration
+  - modern-cpp
+  - programming
+---
+
 # Modern C++ migration
 
 > Welcome to the `std::promised` land

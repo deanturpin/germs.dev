@@ -1,3 +1,11 @@
+---
+tags:
+  - tools
+  - cpp
+  - programming-languages
+  - operating-systems
+---
+
 # Current tech stack
 
 C++26,

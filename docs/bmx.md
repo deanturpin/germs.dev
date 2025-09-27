@@ -1,3 +1,14 @@
+---
+tags:
+  - cycling
+  - bmx
+  - sports
+  - lifestyle
+---
+
+
+
+
 ## Frame size
 See https://bikesizechart.com/bmx.
 

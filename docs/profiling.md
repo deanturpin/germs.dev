@@ -1,3 +1,11 @@
+---
+tags:
+  - cpp
+  - profiling
+  - performance
+  - debugging
+---
+
 # C++ profiling
 
 - gprof, `gprof2dot --wrap`

@@ -1,3 +1,15 @@
+---
+title: Shooting raw images on the Huawei P30 Pro
+subtitle: Observations and workflow
+date: 2020-01-22
+tags:
+- photography
+- raw
+- mobile
+- huawei
+- p30pro
+---
+
 # Shooting raw images on the Huawei P30 Pro
 
 # Prerequisites

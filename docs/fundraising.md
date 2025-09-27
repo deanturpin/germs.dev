@@ -1,3 +1,14 @@
+---
+tags:
+  - business
+  - fundraising
+  - startups
+  - investment
+---
+
+
+
+
 - Charity Bank (charity specialist, community accounts)
 - Triodos Bank (community accounts)
 - Unity Trust Bank (charity specialist, community accounts)

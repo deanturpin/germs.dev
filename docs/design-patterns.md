@@ -1,3 +1,11 @@
+---
+tags:
+  - programming
+  - design-patterns
+  - software-engineering
+  - oop
+---
+
 # Design patterns
 
 ## Categories

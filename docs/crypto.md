@@ -1,3 +1,11 @@
+---
+tags:
+  - cryptography
+  - security
+  - encryption
+  - computer-science
+---
+
 # Cryptography
 
 ## Symmetric versus asymmetric encryption

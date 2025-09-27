@@ -1,3 +1,14 @@
+---
+tags:
+  - birds
+  - birdwatching
+  - nature
+  - wildlife
+---
+
+
+
+
 ```cpp
 struct bird {
   ~bird() { std::puts("in a bird"); }

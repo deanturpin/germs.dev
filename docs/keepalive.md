@@ -1,3 +1,13 @@
+---
+title: Stayin' alive...
+subtitle: Detecting closed sockets
+date: 2019-09-25
+tags:
+- revision
+- networks
+- tcp-ip
+---
+
 # Stayin' alive...
 
 ## OS config

@@ -1,3 +1,14 @@
+---
+title: Favourite C++ features
+subtitle: And wish list
+date: 2020-12-02
+tags:
+- c++
+- cpp
+- revision
+- stl
+---
+
 # Favourite C++ features
 ## C++17
 - Boost filesystem

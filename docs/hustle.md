@@ -1,3 +1,11 @@
+---
+tags:
+  - side-hustles
+  - programming
+  - careers
+  - freelancing
+---
+
 # Software developer side hustles to keep your skills fresh
 
 ## COVID-19

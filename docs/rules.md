@@ -1,3 +1,13 @@
+---
+title: The Rules of Code
+subtitle: What lies beneath
+date: 2021-04-28
+tags:
+- rules
+- coding
+- good practice
+---
+
 # The Rules of Code
 
 <!--

@@ -1,3 +1,13 @@
+---
+title: Chess
+subtitle: Tips and tricks
+date: 2021-02-01
+tags:
+- chess
+- game
+- board game
+---
+
 # Chess
 
 ## Aims

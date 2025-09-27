@@ -1,3 +1,11 @@
+---
+tags:
+  - devops
+  - ci-cd
+  - projects
+  - cpp
+---
+
 #### C++
 
 1. [![](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Trading strategy backtester (stock/crypto)](https://cpp.run/)
