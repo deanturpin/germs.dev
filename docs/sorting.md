@@ -23,28 +23,28 @@ tags:
 
 int main() {
 
-	const auto printy = [](const auto& v) {
-		std::cout << "n";
-		std::ranges::copy(v, std::ostream_iterator<int>(std::cout, ",n"));
-	};
+    const auto printy = [](const auto& v) {
+        std::cout << "n";
+        std::ranges::copy(v, std::ostream_iterator<int>(std::cout, ",n"));
+    };
 
-	// Make container of random values
-	std::vector<int> v(4);
-	std::ranges::for_each(v, [](auto &x){ x = std::rand(); });
-	printy(v);
+    // Make container of random values
+    std::vector<int> v(4);
+    std::ranges::for_each(v, [](auto &x){ x = std::rand(); });
+    printy(v);
 
-	// Sort it
-	std::ranges::sort(v);
-	printy(v);
+    // Sort it
+    std::ranges::sort(v);
+    printy(v);
 
-	// Sort it the other way
-	std::ranges::sort(v, std::greater<int>());
-	printy(v);
+    // Sort it the other way
+    std::ranges::sort(v, std::greater<int>());
+    printy(v);
 
-	// List has its own sort
-	std::list<int> l{std::cbegin(v), std::cend(v)};
-	l.sort();
-	printy(l);
+    // List has its own sort
+    std::list<int> l{std::cbegin(v), std::cend(v)};
+    l.sort();
+    printy(l);
 }
 ```
 

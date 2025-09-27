@@ -26,14 +26,14 @@ about code when the data are immutable.
 
 ```cpp
 int main() {
-	const struct mostly_immutable {
-		int one = 1;
-		int two = 2;
-		int thr = 3;
-		mutable int i_can_change = 4;
-	} a;
+    const struct mostly_immutable {
+        int one = 1;
+        int two = 2;
+        int thr = 3;
+        mutable int i_can_change = 4;
+    } a;
 
-	a.i_can_change = 5;
+    a.i_can_change = 5;
 }
 ```
 

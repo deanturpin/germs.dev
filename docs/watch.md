@@ -36,13 +36,13 @@ tags:
 ## Timing
 |Beats per second | Vibrations per hour |
 |---|---|
-| 3	  | 10800|
-| 4	  | 14400|
-| 5	  | 18000|
+| 3      | 10800|
+| 4      | 14400|
+| 5      | 18000|
 | 5.5 | 19800 |
-| 6	  | 21600|
-| 7	  | 25200|
-| 8	  | 28800|
+| 6      | 21600|
+| 7      | 25200|
+| 8      | 28800|
 
 ## Trench watches
 > The Trench watch (wristlet) was a type of watch that came into use by the military during World War I, as pocket watches were not practical in combat. It was a transitional design between pocket watches and wristwatches, incorporating features of both.

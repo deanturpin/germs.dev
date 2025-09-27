@@ -43,12 +43,12 @@ readarray samples < <(xxd -cols $nibbles -plain -s 42 -len $(( nibbles * count )
 i=0
 for s in ${samples[*]}; do
 
-	# Extract left channel only
-	s=${s:0:4}
+    # Extract left channel only
+    s=${s:0:4}
 
-	# Shift so all values are positive
-	echo -e $i\\t$(( 16#$s + 16#ffff ))
-	(( ++i ))
+    # Shift so all values are positive
+    echo -e $i\\t$(( 16#$s + 16#ffff ))
+    (( ++i ))
 done | graph -T png
 ```
 

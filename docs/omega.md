@@ -36,7 +36,7 @@ tags:
 | --- | --- | --- | --- |
 | 1 | Gent’s Watch - leather strap| Manual winding without second | Non-water-resistant |
 | 2 | Gent’s Jewelry Watch | Manual winding small second | Non-water-resistant calendar |
-| 3 | Gent’s Watch - bracelet | Manual winding center second 	| Non-water-resistant chronometer |
+| 3 | Gent’s Watch - bracelet | Manual winding center second     | Non-water-resistant chronometer |
 | 4 | Gent’s Jewelry Bracelet Watch | Manual winding chronograph | Non-water-resistant chronometer calendar |
 | 5 | Lady’s Watch | Self-winding with second | Water-resistant |
 | 6 | Lady’s Jewelry Watch | Self-winding center second | Water-resistant calendar |
