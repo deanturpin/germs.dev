@@ -1,4 +1,13 @@
-# Creating a rogue Wi-Fi access point
+---
+tags:
+  - games
+  - roguelike
+  - game-development
+  - gaming
+---
+
+
+
 
 > Disclaimer: I think it goes without saying that you should only be doing this sort of caper on networks you own. But if nothing else it should disuade you from using public Wi-Fi networks.
 

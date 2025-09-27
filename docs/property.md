@@ -1,4 +1,13 @@
-# Property
+---
+tags:
+  - property
+  - real-estate
+  - investment
+  - housing
+---
+
+
+
 
 - Rental income – passive/residual income: make money whilst you sleep
 - Capital growth – generational wealth: leverage

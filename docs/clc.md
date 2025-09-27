@@ -1,3 +1,11 @@
+---
+tags:
+  - mercedes
+  - automotive
+  - cars
+  - maintenance
+---
+
 # Mercedes CLC resources
 
 ```text

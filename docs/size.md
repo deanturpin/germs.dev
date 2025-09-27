@@ -1,5 +1,14 @@
 
-# The magnitude of it all
+---
+tags:
+  - programming
+  - memory
+  - size-optimization
+  - performance
+---
+
+
+
 
 In 2014 [Randall Munroe](https://www.youtube.com/watch?v=I64CQp6z0Pk) estimated
 that Google stores 10 exabytes of data across all of its operations. See [list

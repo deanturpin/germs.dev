@@ -1,4 +1,13 @@
-# Caches
+---
+tags:
+  - programming
+  - caching
+  - performance
+  - systems
+---
+
+
+
 
 Small amounts of unusually fast memory (Data D$, Instruction I$, Translation Lookaside Buffer TLB), cache misses, speculatively prefetch, does it fit in cache (small is fast), no time/space tradeoff at hardware level, locality counts (stay in the cache), predictability helps.
 

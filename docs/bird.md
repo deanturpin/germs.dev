@@ -1,4 +1,13 @@
-# Bird in a bird
+---
+tags:
+  - birds
+  - birdwatching
+  - nature
+  - wildlife
+---
+
+
+
 
 ```cpp
 struct bird {

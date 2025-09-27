@@ -1,4 +1,13 @@
-# A curated list of yoga poses
+---
+tags:
+  - productivity
+  - project-management
+  - tools
+  - workflows
+---
+
+
+
 
 ```csv
 Transliteration,Sanskrit,English,Description,URL,Type,Variation

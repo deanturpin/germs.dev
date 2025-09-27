@@ -1,4 +1,13 @@
-# Managing project dependencies
+---
+tags:
+  - programming
+  - dependencies
+  - package-management
+  - development
+---
+
+
+
 
 It's difficult to choose a dependency management tool without first-hand experience, so I'm using a few to manage my own projects.
 

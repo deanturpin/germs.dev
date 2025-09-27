@@ -1,4 +1,13 @@
-# Trading platforms
+---
+tags:
+  - finance
+  - trading
+  - platforms
+  - investment
+---
+
+
+
 
 ChatGPT: List some software trading platforms
 

@@ -1,4 +1,13 @@
-# Hugo Blog
+---
+tags:
+  - hugo
+  - static-sites
+  - web-development
+  - blogging
+---
+
+
+
 
 __NOTE: now using GitBook for this website__
 

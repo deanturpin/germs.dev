@@ -2,7 +2,16 @@
 title: Rolex
 ---
 
-# Rolex
+---
+tags:
+  - watches
+  - rolex
+  - luxury
+  - investment
+---
+
+
+
 
 ## Precision
 - ref 6426

@@ -3,7 +3,16 @@ title: FizzBuzz
 draft: true
 ---
 
-# FizzBuzz
+---
+tags:
+  - programming
+  - algorithms
+  - interview-questions
+  - coding-challenges
+---
+
+
+
 
 https://godbolt.org/z/bbnEMWYKT
 

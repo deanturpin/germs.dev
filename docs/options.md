@@ -1,4 +1,13 @@
-# GCC compiler options
+---
+tags:
+  - finance
+  - options-trading
+  - derivatives
+  - investment
+---
+
+
+
 
 ```makefile
 # Standard

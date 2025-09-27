@@ -1,4 +1,13 @@
-# STL containers
+---
+tags:
+  - docker
+  - containers
+  - devops
+  - deployment
+---
+
+
+
 
 ChatGPT says:
 1. Memory Management: Allocating and deallocating memory for the container and its elements must be handled properly.

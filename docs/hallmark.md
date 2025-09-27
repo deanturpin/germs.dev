@@ -1,3 +1,11 @@
+---
+tags:
+  - jewellery
+  - precious-metals
+  - standards
+  - luxury
+---
+
 # Hallmarks
 
 ## The standard mark

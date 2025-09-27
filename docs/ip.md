@@ -1,3 +1,11 @@
+---
+tags:
+  - networking
+  - tcp-ip
+  - protocols
+  - systems
+---
+
 # TCP/IP
 
 ## Please Do Not Take Salami Pizza Away

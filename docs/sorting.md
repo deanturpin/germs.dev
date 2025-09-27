@@ -1,3 +1,11 @@
+---
+tags:
+  - algorithms
+  - sorting
+  - cpp
+  - computer-science
+---
+
 # Sorting
 - [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu - CppCon 2019](https://www.youtube.com/watch?v=FJJTYQYB1JQ).
 - [Comparison-based Lower Bounds for Sorting](https://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf)

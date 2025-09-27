@@ -1,4 +1,13 @@
-# Finance
+---
+tags:
+  - finance
+  - money
+  - economics
+  - personal-finance
+---
+
+
+
 
 ## Terminology
 > The bid–ask spread (also bid–offer or bid/ask and buy/sell in the case of a

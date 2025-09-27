@@ -1,4 +1,13 @@
-# Fundraising bank accounts
+---
+tags:
+  - business
+  - fundraising
+  - startups
+  - investment
+---
+
+
+
 
 - Charity Bank (charity specialist, community accounts)
 - Triodos Bank (community accounts)

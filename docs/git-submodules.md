@@ -1,4 +1,13 @@
-# git submodules
+---
+tags:
+  - git
+  - submodules
+  - version-control
+  - development
+---
+
+
+
 
 Are they really *that* bad? [Spoiler alert: yep, worse than you can imagine.]
 

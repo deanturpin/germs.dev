@@ -2,7 +2,16 @@
 title: FFMPEG examples
 ---
 
-# FFMPEG examples
+---
+tags:
+  - video
+  - audio
+  - ffmpeg
+  - multimedia
+---
+
+
+
 ## Rotate
 
 ```bash

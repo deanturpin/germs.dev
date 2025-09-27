@@ -1,4 +1,13 @@
-# What I'd like to see on a job spec
+---
+tags:
+  - programming
+  - specifications
+  - documentation
+  - standards
+---
+
+
+
 
 ## Keywords
 

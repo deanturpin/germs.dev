@@ -1,4 +1,13 @@
-# Fixed income trading
+---
+tags:
+  - programming
+  - fixed-point
+  - mathematics
+  - finance
+---
+
+
+
 
 > Financial instruments are monetary contracts between parties. They can be
 > created, traded, modified and settled. They can be cash (currency), evidence

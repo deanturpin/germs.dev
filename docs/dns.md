@@ -1,3 +1,11 @@
+---
+tags:
+  - dns
+  - github-pages
+  - cloudflare
+  - web-hosting
+---
+
 # Configuring a custom domain with a GitHub Pages website
 
 With DNS managed by [CloudFlare](cloudflare.com).

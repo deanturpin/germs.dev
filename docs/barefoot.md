@@ -1,4 +1,13 @@
-# Barefoot shoes
+---
+tags:
+  - footwear
+  - health
+  - barefoot
+  - lifestyle
+---
+
+
+
 
 - Vivo Barefoot
 - https://www.revivo.com/ -- reconditioned

@@ -1,3 +1,11 @@
+---
+tags:
+  - memoir
+  - family-history
+  - jersey
+  - world-war-two
+---
+
 # The lighthouse keeper's son
 
 > John James Turpin's memories of growing up in occupied Jersey at [La Corbière

@@ -1,3 +1,12 @@
+---
+tags:
+  - automotive
+  - electric-vehicles
+  - brighton
+  - charging
+  - local
+---
+
 # EV in Brighton
 
 We have a home charger. The street chargers _sometimes_ include free parking but you have to check you don't need a permit too (the signs are ambiguous); and there are some inside car parks where you have to pay for both!

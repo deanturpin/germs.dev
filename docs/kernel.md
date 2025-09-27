@@ -1,3 +1,11 @@
+---
+tags:
+  - linux
+  - kernel
+  - ubuntu
+  - systems
+---
+
 # Install Linux 6 on Ubuntu 2023
 
 > This is unproven! Careful now.

@@ -1,4 +1,13 @@
-# Preparing for a C++ interview
+---
+tags:
+  - careers
+  - interviews
+  - job-searching
+  - programming
+---
+
+
+
 
 The [Amazon tech interview
 topics](https://www.amazon.jobs/en-gb/landing_pages/p-software-development-topics)

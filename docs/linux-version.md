@@ -1,4 +1,13 @@
-# Ways to get the Linux info on the command line
+---
+tags:
+  - linux
+  - kernel
+  - versions
+  - systems
+---
+
+
+
 
 ```bash
 $ cat /etc/issue

@@ -1,4 +1,13 @@
-# Cleaning
+---
+tags:
+  - cleaning
+  - household
+  - maintenance
+  - tips
+---
+
+
+
 
 I have managed to exist for five decades without getting too excited about cleaning things, and then I bought a new car and I've gone all in!
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - systems
+  - performance
+  - networking
+  - hardware
+---
+
 # Bandwidth
 
 See the [complete

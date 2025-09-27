@@ -2,6 +2,11 @@
 title: Software dev in a large corp versus a small company
 date: 2019-11-11
 draft: true
+tags:
+  - careers
+  - software-development
+  - corporate
+  - startups
 ---
 
 # Software dev in a large corp versus a small company

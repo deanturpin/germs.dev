@@ -1,3 +1,11 @@
+---
+tags:
+  - reading
+  - education
+  - books
+  - courses
+---
+
 # Courses and books (and things to watch)
 
 ## _Book_ books (made of actual paper)

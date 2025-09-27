@@ -1,4 +1,13 @@
-# Moving back to macOS
+---
+tags:
+  - macos
+  - operating-systems
+  - apple
+  - migration
+---
+
+
+
 
 After over a decade on Linux (and a bit of Windows).
 

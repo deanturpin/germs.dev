@@ -1,3 +1,11 @@
+---
+tags:
+  - music-production
+  - software
+  - daw
+  - audio
+---
+
 # DAW
 
 ## Reaper

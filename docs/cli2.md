@@ -1,4 +1,13 @@
-# Alternative Linux commands that have usurped the default
+---
+tags:
+  - command-line
+  - cli
+  - tools
+  - productivity
+---
+
+
+
 
 - `mtr` - a fancy `tracepath`
 - `ag` - an improved `grep`

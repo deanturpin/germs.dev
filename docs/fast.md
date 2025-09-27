@@ -1,4 +1,13 @@
-# -Ogofaster
+---
+tags:
+  - performance
+  - optimization
+  - speed
+  - efficiency
+---
+
+
+
 Notes from Andrei at code::dive 2015.  Watch [the whole lecture (recommended)](https://www.youtube.com/watch?v=vrfYLlR8X8k).
 
 ## Integrals

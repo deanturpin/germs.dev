@@ -1,4 +1,13 @@
-# Zoe
+---
+tags:
+  - automotive
+  - renault-zoe
+  - electric-vehicles
+  - reviews
+---
+
+
+
 
 Diary of my Zoe tests and experiences. Started 10 Feb 2024.
 

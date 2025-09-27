@@ -1,4 +1,13 @@
-# Android Repo
+---
+tags:
+  - android
+  - git
+  - repositories
+  - development
+---
+
+
+
 
 There are lots of tutorials on how to initialise a repo but then what? The
 basics work quite well and use multiple processors to sync dependencies but

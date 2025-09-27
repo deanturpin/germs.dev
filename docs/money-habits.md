@@ -1,4 +1,13 @@
-# Money habits
+---
+tags:
+  - finance
+  - money-habits
+  - personal-finance
+  - psychology
+---
+
+
+
 
 1. Pay yourself first
 1. Don't get confortable with bad debt, save 10% before you pay the bills

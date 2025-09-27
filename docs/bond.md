@@ -1,3 +1,11 @@
+---
+tags:
+  - watches
+  - james-bond
+  - luxury
+  - film
+---
+
 # James Bond watches
 
 - Gruen precision 510

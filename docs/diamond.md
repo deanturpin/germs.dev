@@ -1,4 +1,13 @@
-# Diamonds
+---
+tags:
+  - diamonds
+  - luxury
+  - jewellery
+  - investment
+---
+
+
+
 
 Hardness is rated using the [Mohs scale](https://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness).
 

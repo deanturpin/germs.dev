@@ -1,4 +1,13 @@
-# Interview coding tests
+---
+tags:
+  - programming
+  - interviews
+  - coding-tests
+  - algorithms
+---
+
+
+
 
 1. Listen: usually all the information in the question is useful
 1. Example: make examples larger, avoid special cases
