@@ -6,8 +6,7 @@ tags:
   - wildlife
 ---
 
-
-
+# Bird Programming
 
 ```cpp
 struct bird {
