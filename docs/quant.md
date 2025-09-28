@@ -16,6 +16,8 @@ tags:
 > competitive advantage, the accuracy of estimating the magnitude of alphas in
 > a particular direction is of utmost importance for systematic traders.
 
+Alpha decay phenomenon:
+
 > One interesting phenomenon, henceforth referred to as alpha decay, is the
 > loss in predictive power of an alpha model over time. Alpha decay presents a
 > serious challenge for systematic traders as it leads to poorly-informed

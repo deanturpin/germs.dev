@@ -22,9 +22,13 @@ root@kali:/tmp $
 
 Variables described in the bash documentation:
 
-> PS1 - The primary prompt string. The default value is ‘s-v$ ’.
+> PS1 - The primary prompt string. The default value is 's-v$ '.
+
+Execution timing:
 
 > PS0 - The value of this parameter is expanded like _PS1_ and displayed by interactive shells after reading a command and before the command is executed.
+
+Command hooks:
 
 > PROMPT_COMMAND - If set, the value is interpreted as a command to execute before the printing of each primary prompt ($PS1).
 

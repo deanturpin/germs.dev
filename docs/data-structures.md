@@ -61,6 +61,8 @@ specified for a particular stack class instantiation, the standard container
 > A heap is a useful data structure when it is necessary to repeatedly remove
 > the object with the highest (or lowest) priority.
 
+Related structures:
+
 > A beap, or bi-parental heap, is a data structure where a node usually has two
 > parents
 

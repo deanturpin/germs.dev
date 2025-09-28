@@ -57,8 +57,12 @@ IPv6: 128 bit - 8 x 16 bits 3ffe:1900:4545:3:200:f8ff:fe21:67cf
 > the long-anticipated problem of IPv4 address exhaustion. IPv6 is intended to
 > replace IPv4.
 
+Address space characteristics:
+
 > Most IPv6 addresses do not occupy all of their possible 128 bits. This
 > condition results in fields that are padded with zeros or contain only zeros.
+
+Notation shortcuts:
 
 > The IPv6 addressing architecture allows you use the two-colon (::) notation
 > to represent contiguous 16-bit fields of zeros. For example, you might
@@ -68,8 +72,12 @@ IPv6: 128 bit - 8 x 16 bits 3ffe:1900:4545:3:200:f8ff:fe21:67cf
 > single 0. You can also omit any leading zeros in a field, such as changing
 > 0db8 to db8.
 
+Example abbreviation:
+
 > So the address 2001:0db8:3c4d:0015:0000:0000:1a2f:1a2b can be abbreviated as
 > 2001:db8:3c4d:15::1a2f:1a2b.
+
+Advanced notation:
 
 > You can use the two colon notation to replace any contiguous fields of all
 > zeros in the IPv6 address. For example, the IPv6 address

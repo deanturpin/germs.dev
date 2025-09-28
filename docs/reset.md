@@ -17,6 +17,8 @@ Windows 2000, 7 and 10.
 > Prerequisites: a 4GB USB stick and a machine capable of creating a USB boot
 > disk (Ubuntu is good).
 
+Time estimate:
+
 > Time to complete: half an hour to download Kali and
 > create the stick and a few minutes to reset a password.
 

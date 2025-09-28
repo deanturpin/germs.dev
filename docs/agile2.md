@@ -35,6 +35,8 @@ If you roughly break down a task, it's quite nice to order the sub-tasks in term
 
 > Q. What if I have 200 simple file edits to do?
 
+Practical response:
+
 > A. Then you have a boring afternoon ahead of you, or you write a script so you don't have to.
 
 Breaking down tasks into smaller actions is highly encouraged as low-complexity jobs are unlikely to be blocked or prolonged by the unforeseen/unknown. E.g., a 13-point task with no detail has an increased likelihood of slipping into the next sprint. But when a task is incomplete, always re-estimate: we are measuring how good we are at _completing what we promised_; otherwise you just end up tracking the inexorable passage of time.

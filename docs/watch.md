@@ -47,6 +47,8 @@ tags:
 ## Trench watches
 > The Trench watch (wristlet) was a type of watch that came into use by the military during World War I, as pocket watches were not practical in combat. It was a transitional design between pocket watches and wristwatches, incorporating features of both.
 
+Historical development:
+
 > The very first watch that somebody adapted to wear on a wrist is unknown. The first series of purpose-made men’s wristwatches was produced by Girard-Perregaux in 1880 for the German Navy During World War I numerous companies, including Omega, Longines, and others produced wristwatches for the military. These watches were of virtually identical style with an enamel dial, wide white numerals, and a luminescent radium hour hand. Often they did not bear the name of the manufacturer, though the movement, originally designed in the 1890s for ladies’ pendant watches, was marked "Swiss".
 
 https://en.wikipedia.org/wiki/Trench_watch

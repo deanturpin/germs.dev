@@ -13,8 +13,12 @@ security measure. After I got my breath back I found these quotes.
 
 > Security experts have rejected this view as far back as 1851.
 
+Historical perspective:
+
 > Rogues are very keen in their profession, and know already much more than we
 > can teach them.
+
+Modern principle:
 
 > System security should not depend on the secrecy of the implementation or its
 > components.

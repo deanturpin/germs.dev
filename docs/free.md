@@ -23,6 +23,8 @@ go pro for as little as $2 a month.
 It did amuse me that I hit two verification issues on the registration page!
 > Please use an email address from a reputable email provider (like GMail or Outlook).
 
+Password requirements:
+
 > The password may not be greater than 48 characters.
 
 ## References

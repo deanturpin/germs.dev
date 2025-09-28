@@ -69,8 +69,12 @@ http://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf
 > data sets and worst-case O(n log n) runtime due to the heap sort. Since the
 > three algorithms it uses are comparison sorts, it is also a comparison sort.
 
+Stability characteristics:
+
 > Introsort is in place and not stable.
 https://en.wikipedia.org/wiki/Introsort
+
+Memory considerations:
 
 > If additional memory is available, stable_sort remains O(n ∗ logn). However, if
 it fails to allocate, it will degrade to an O(n ∗ logn ∗ logn) algorithm.

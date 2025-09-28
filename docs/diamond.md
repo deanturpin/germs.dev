@@ -32,6 +32,8 @@ Hardness is rated using the [Mohs scale](https://en.wikipedia.org/wiki/Mohs_scal
 
 > How well a diamond has been cut (Proportions, Polish and Symmetry) determines how well light can refract through the stone and in turn, how much it will sparkle. Cut can also refer to the shape of the diamond.
 
+Brightness and grading:
+
 > As a general rule, the higher the cut grade, the brighter the diamond. Under fluorescent lighting, these diamonds (left to right) display high, moderate, and low brightness.
 The term “cut” also can describe a fashioned diamond’s shape. Shapes other than the standard round brilliant are called fancy cuts. They’re sometimes called fancy shapes or fancies. Fancy shapes also have names of their own, based on their shapes. The best known are the marquise, princess, pear, oval, heart, and emerald cut.
 

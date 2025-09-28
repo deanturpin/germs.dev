@@ -47,6 +47,8 @@ https://en.wikipedia.org/wiki/Rolex_Milgauss
 ## Submariner
 > The Rolex Oyster Perpetual Submariner is a line of sports watches designed for diving and manufactured by Rolex, and are known for their resistance to water and corrosion.[1] The first Submariner was introduced to the public in 1954 at the Basel Watch Fair.[2] It was the first watch to be waterproof up to 100m.[3] The Rolex Submariner is considered "a classic among wristwatches",[1] manufactured by one of the most widely recognized luxury brands in the world.[4][5][6][7] Due to its huge popularity, there are many homage watches by well-established watchmakers, as well as illegal counterfeits. The Rolex Submariner is part of Rolex's Oyster Perpetual line.
 
+Evolution to Sea-Dweller:
+
 > The Rolex Sea-Dweller, developed in 1967 but introduced to the general public in 1971, is a heavier-duty steel version of the Submariner, with a thicker case and crystal, as well as a date feature, sans cyclops magnifier.
 
 https://en.wikipedia.org/wiki/Rolex_Submariner
@@ -58,6 +60,8 @@ https://en.wikipedia.org/wiki/Rolex_Sea_Dweller
 
 ## Yacht-Master
 > The Rolex Yacht-Master is a luxury sports watch manufactured by Rolex and first introduced in 1992 as Reference 16628 in 18-karat yellow gold.
+
+Yacht-Master II development:
 
 > In 2007, the brand released the Rolex Yacht-Master II regatta chronograph watch, the world's first watch equipped with a programmable countdown from 1 to 10 minutes using a mechanical memory.
 

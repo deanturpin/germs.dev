@@ -25,6 +25,8 @@ Related keywords: `override`, `final`
 > of the initial declaration of a non-static member function (i.e., when it is
 > declared in the class definition).
 
+Function behaviour:
+
 > Virtual functions are member functions whose behavior can be overridden in
 > derived classes. As opposed to non-virtual functions, the overriding behavior
 > is preserved even if there is no compile-time information about the actual

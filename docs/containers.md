@@ -98,6 +98,8 @@ By default, if no container class is specified for a particular
 > The unordered_map<int, int> M is the implementation of Hash Table which makes
  the complexity of operations like insert, delete and search to Theta(1).
 
+Set implementations:
+
 > Set (set<int> s) is the implementation of Binary Search Trees.
 > Unordered set (unordered_set<int> S) is the implementation of Hash Table.
 > Multiset (multiset<int> S) is implementation of Red-Black trees.

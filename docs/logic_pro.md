@@ -29,11 +29,15 @@ Logic itself is a whopping 1.15GB but still, I've only used half of the Air's 51
 Various responses from Facebook.
 
 > I am currently working on a song with about 100+ channels, loaded with 3'rd party plugins and the processing is not even at 50%
-Macbook Pro M2, 32 gb ram.
+> Macbook Pro M2, 32 gb ram.
+
+On GPU usage:
 
 > Logic itself doesn't make much use of the GPUs. There is a company which hopes to change that (GPU AUDIO) - but at the moment, Logic is 99% CPU/RAM dependent. (once a file/sound is loaded from storage)
 
-> I’d disagree on some older machines. But with intel machines and multiple displays it made a huge difference, especially if you were scaling resolutions. I had a maxed out mini at one point that need an eGPU just to have Logic play nicely with two 27” screens. Only one and all the issues went away. It was well documented by other users when I researched it trying to troubleshoot. The apple silicon doesn’t seem to have any of the same issues, and they all have far more powerful GPU built in than any intel machines dreamed of.
+Multiple display considerations:
+
+> I'd disagree on some older machines. But with intel machines and multiple displays it made a huge difference, especially if you were scaling resolutions. I had a maxed out mini at one point that need an eGPU just to have Logic play nicely with two 27” screens. Only one and all the issues went away. It was well documented by other users when I researched it trying to troubleshoot. The apple silicon doesn’t seem to have any of the same issues, and they all have far more powerful GPU built in than any intel machines dreamed of.
 
 ## Articles and groups
 
