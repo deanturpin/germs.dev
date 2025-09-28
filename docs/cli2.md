@@ -6,8 +6,7 @@ tags:
   - productivity
 ---
 
-
-
+# Command Line Tools
 
 - `mtr` - a fancy `tracepath`
 - `ag` - an improved `grep`

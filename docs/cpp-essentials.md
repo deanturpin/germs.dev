@@ -6,8 +6,7 @@ tags:
   - reference
 ---
 
-
-
+# C++ Essentials
 
 ## C++14
 

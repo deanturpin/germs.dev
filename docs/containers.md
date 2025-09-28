@@ -6,8 +6,7 @@ tags:
   - deployment
 ---
 
-
-
+# Containers and Docker
 
 ChatGPT says:
 1. Memory Management: Allocating and deallocating memory for the container and its elements must be handled properly.

@@ -6,8 +6,7 @@ tags:
   - algorithms
 ---
 
-
-
+# Coding Test Guidelines
 
 1. Listen: usually all the information in the question is useful
 1. Example: make examples larger, avoid special cases
