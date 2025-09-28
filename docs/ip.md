@@ -33,7 +33,7 @@ backs off out of courtesy but UDP doesn't care).
 SYN stands for "synchronise". See [three-way
 handshake](https://en.wikipedia.org/wiki/Handshaking#TCP_three-way_handshake).
 
-```
+```text
 => SYN
 <= SYN-ACK
 => ACK
@@ -104,7 +104,7 @@ will improve the IP protocol:
 ## Classless Inter-Domain Routing (CIDR)
 Pronounced "cider".
 
-```
+```text
 network/mask
 192.168.109.0/24
 ```

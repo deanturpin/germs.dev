@@ -39,7 +39,7 @@ OpenSSH_8.4p1 Debian-5+deb11u1, OpenSSL 1.1.1n  15 Mar 2022
 
 On Debian
 
-```
+```text
  neofetch
        _,met$$$$$gg.          djturpin@ubuntu-c3-4
     ,g$$$$$$$$$$$$$$$P.       --------------------
@@ -60,7 +60,7 @@ On Debian
               `"""
 ```
 
-```
+```bash
 echo $SSH_AUTH_SOCK
 /tmp/ssh-FY0M4AWdBE/agent.693
 ```

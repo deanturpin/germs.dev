@@ -42,7 +42,7 @@ print_container();
 
 Output:
 
-```
+```text
 alignof 1 sizeof 4
 alignof 1 sizeof 5
 [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]

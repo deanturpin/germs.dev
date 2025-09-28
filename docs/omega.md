@@ -84,7 +84,7 @@ See https://www.bobswatches.com/omega/serial-numbers
 
 ## Reference codes
 
-```
+```text
 BA Yellow gold
 BC White gold
 BG Pink gold

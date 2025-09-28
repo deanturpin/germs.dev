@@ -27,7 +27,7 @@ https://godbolt.org/z/oPK4s15xv
 
 Returns:
 
-```
+```text
 alignof 1 sizeof 4
 alignof 1 sizeof 5
 ```

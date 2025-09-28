@@ -49,7 +49,7 @@ than a dedicated power supply -- but the headless, command line only version is 
 ## Configuring the network without a display
 - https://www.raspberrypi-spy.co.uk/2017/04/manually-setting-up-pi-wifi-using-wpa_supplicant-conf/
 
-```
+```text
 country=us
 update_config=1
 ctrl_interface=/var/run/wpa_supplicant

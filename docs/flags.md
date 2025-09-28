@@ -16,7 +16,7 @@ tags:
 
 ## Standard g++
 
-```
+```bash
 --std=c++2b --all-warnings --extra-warnings --pedantic-errors -Werror
 ```
 

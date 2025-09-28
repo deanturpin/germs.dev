@@ -31,7 +31,7 @@ subsequent builds will take a small number of minutes.
 Buy your domain from Google Domains and create a DNS A record which points to
 GitLab's IP address.
 
-```
+```text
 example.com A 35.185.44.232
 ```
 
@@ -41,7 +41,7 @@ you own the domain so get back to Google Domains and add that.
 
 The string will be something like:
 
-```
+```text
 _gitlab-pages-verification-code TXT gitlab-pages-verification-code=ba313925ceeca3fee58a1b5130ea8222
 DNS record name ^^^^^^^^^^^^^^^ DNS record text ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ```
@@ -77,7 +77,7 @@ But once you get used to it you can just create new markdown files in
 following front matter at the top of the file, you can use a simplified
 `YYYY-MM-DD` date format too if you don't care about the precise time.
 
-```
+```yaml
 ---
 title: Hugo Blog
 subtitle: Create a blog like this

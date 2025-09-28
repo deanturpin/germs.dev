@@ -16,7 +16,7 @@ Otherwise...
 
 ## WSL
 
-```
+```bash
 sudo mkdir /mnt/g
 sudo mount -t drvfs g: /mnt/g
 ```

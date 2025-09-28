@@ -22,7 +22,7 @@ echo 20 > /proc/sys/net/ipv4/tcp_keepalive_probes
 ### Registry keys
 `HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesTcpipParameters`
 
-```
+```text
 TCP_KEEPCNT: overrides tcp_keepalive_probes
 TCP_KEEPIDLE: overrides tcp_keepalive_time
 TCP_KEEPINTVL: overrides tcp_keepalive_intvl
@@ -30,19 +30,19 @@ TCP_KEEPINTVL: overrides tcp_keepalive_intvl
 
 Peek data to check socket is open.
 
-```
+```c
 recv(sock, &buf, 1, MSG_PEEK | MSG_DONTWAIT);
 ```
 
 Linux only
 
-```
+```text
 MSG_DONTWAIT: set blocking per recv call
 ```
 
 ## Windows PowerShell script
 
-```
+```powershell
 while (1) {clear; echo hello; netstat -n -a | select-string 2300; sleep 1}
 ```
 

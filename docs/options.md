@@ -24,7 +24,7 @@ tags:
 -Og
 ```
 
-```
+```text
 -fwhole-program
 
     Assume that the current compilation unit represents the whole program being compiled. All public functions and variables with the exception of main and those merged by attribute externally_visible become static functions and in effect are optimized more aggressively by interprocedural optimizers.

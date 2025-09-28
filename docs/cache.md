@@ -161,7 +161,7 @@ Design to get the most value out of every single cacheline that is read. Split a
 
 ## Performance of a program is dependent on
 
-```
+```text
 time/program = instructions/program _ cycles/instruction _ time/cycle
 ```
 

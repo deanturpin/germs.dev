@@ -46,7 +46,7 @@ b 9
 
 ## Python interpreter built in (since version 7)
 
-```
+```python
 import os
 print(os.pid())
 
