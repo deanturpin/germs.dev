@@ -17,7 +17,7 @@ Whilst at first glance the bass and treble clef are the same, why would they be?
 
 And where is middle-C? Not in the middle of either!
 
-![](https://2.bp.blogspot.com/-CpSYO-y9WKA/UPdrMBhjMEI/AAAAAAAAACI/CIJDJ2jYoHY/s1600/Screen+Shot+2013-01-16+at+9.08.17+PM.png)
+![Treble and bass clef notation showing middle C position](https://2.bp.blogspot.com/-CpSYO-y9WKA/UPdrMBhjMEI/AAAAAAAAACI/CIJDJ2jYoHY/s1600/Screen+Shot+2013-01-16+at+9.08.17+PM.png)
 
 ## Apps
 

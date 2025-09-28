@@ -20,7 +20,7 @@ tags:
 
 ## Vocal ranges
 
-![](https://www.musicalchairs.info/uploads/4/2/5/8/4258351/ranges.png)
+![Vocal range chart for different voice types](https://www.musicalchairs.info/uploads/4/2/5/8/4258351/ranges.png)
 
-![](https://www.singbetter.net/images/vocal-range-chart.jpg)
+![Piano keyboard showing vocal ranges by voice type](https://www.singbetter.net/images/vocal-range-chart.jpg)
 

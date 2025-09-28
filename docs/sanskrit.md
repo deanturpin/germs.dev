@@ -68,10 +68,10 @@ Strictly speaking Indic languages use [abugidas](https://en.wikipedia.org/wiki/A
 Via [Omniglot](https://www.omniglot.com/writing/sanskrit.htm). Compare the top row of each.
 
 ### Hindi
-![](https://www.omniglot.com/images/writing/hindi_cons.gif)
+![Hindi consonant characters chart](https://www.omniglot.com/images/writing/hindi_cons.gif)
 
 ### Sanskrit
-![](https://www.omniglot.com/images/writing/sanskrit_cons.gif)
+![Sanskrit consonant characters chart](https://www.omniglot.com/images/writing/sanskrit_cons.gif)
 
 ### Exercise
 Try typing your name into Google Translate and play around with the length of the vowels and dental/retroflex consonants using shift.

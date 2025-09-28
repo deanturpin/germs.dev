@@ -61,4 +61,4 @@ Finally hit `https://yourdomain/ghost` in your browser before anybody else does 
 
 And we're open for business.
 
-![](https://images.unsplash.com/photo-1473187983305-f615310e7daa?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjExNzczfQ)
+![Vintage typewriter on wooden desk](https://images.unsplash.com/photo-1473187983305-f615310e7daa?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjExNzczfQ)

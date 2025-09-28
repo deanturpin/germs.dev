@@ -14,7 +14,7 @@ tags:
 
 Screenshot is highlighting the major 3rd of an A chord: 440, 550 and 660Hz. Note the FFT bin is not a precise pitch so the closest concert pitch is displayed.
 
-![](https://deanturpin.github.io/KEYnote/screenshot.png)
+![KEYnote application screenshot showing FFT analysis](https://deanturpin.github.io/KEYnote/screenshot.png)
 
 See the source on [GitHub](https://github.com/deanturpin/KEYnote).
 

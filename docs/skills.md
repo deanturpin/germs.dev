@@ -7,5 +7,5 @@ tags:
 
 # Skills timeline
 
-![](https://germs-dev.gitlab.io/skills/skills.png)
+![Skills timeline visualization chart](https://germs-dev.gitlab.io/skills/skills.png)
 
