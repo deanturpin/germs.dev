@@ -9,6 +9,8 @@ tags:
 
 
 
+# Git Submodules Guide
+
 Are they really *that* bad? [Spoiler alert: yep, worse than you can imagine.]
 
 ## Adding submodules

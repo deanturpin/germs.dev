@@ -9,6 +9,8 @@ tags:
 
 
 
+# Rogue Trading Notes
+
 > Disclaimer: I think it goes without saying that you should only be doing this sort of caper on networks you own. But if nothing else it should disuade you from using public Wi-Fi networks.
 
 Download the latest [Kali Linux ISO](https://www.kali.org/downloads/) and create a [bootable USB drive](https://docs.kali.org/downloading/kali-linux-live-usb-install). Restart your computer and boot into Kali via the BIOS.

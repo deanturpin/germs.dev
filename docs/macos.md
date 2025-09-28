@@ -9,6 +9,8 @@ tags:
 
 
 
+# macOS Migration Notes
+
 After over a decade on Linux (and a bit of Windows).
 
 ## Homebrew

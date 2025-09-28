@@ -9,6 +9,8 @@ tags:
 
 
 
+# Music Lesson Resources
+
 - https://musicteachers.co.uk/brighton/piano
 - https://brightonsinginglessons.com/prices/
 

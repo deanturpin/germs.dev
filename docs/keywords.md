@@ -6,6 +6,8 @@ tags:
   - skills
 ---
 
+# Technical Skills and Keywords
+
 - __Languages__: C++23, Python, Bash; OOP, Functional
 - __Design__: Multithreading, Data Structures, Algorithms, low-latency
 - __Build__: VS Code, QtCreator, Visual Studio, GNU Make, CMake, Ninja, Copilot

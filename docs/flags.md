@@ -9,6 +9,8 @@ tags:
 
 
 
+# Compiler Flags Reference
+
 > tl;dr
 > Latest version here: https://flags.germs.dev/
 

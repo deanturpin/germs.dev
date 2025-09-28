@@ -8,6 +8,8 @@ tags:
 
 
 
+# Pluralsight Course Progress
+
 - C++ - 244
 - Using the Scrum Framework - 216
 - Networking Fundamentals (N10-007) - 200

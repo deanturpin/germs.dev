@@ -9,6 +9,8 @@ tags:
 
 
 
+# Top 10 Financial Rules
+
 > Discipline > Margin of saving money > time
 
 - Deferred gratification

@@ -9,6 +9,8 @@ tags:
 
 
 
+# Trading Platforms Overview
+
 ChatGPT: List some software trading platforms
 
 1. MetaTrader 4

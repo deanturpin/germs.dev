@@ -9,6 +9,8 @@ tags:
 
 
 
+# Raspberry Pi Setup Guide
+
 > Always be careful when running scripts and commands copied from the Internet.
 
 Anyway, that said...

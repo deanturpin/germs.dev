@@ -8,6 +8,8 @@ tags:
 
 
 
+# Funeral Arrangements Guide
+
 The death will need to be validated by a doctor. This can be done quickly in one day, but the departed may have to be taken to hospital for a coroner's report.
 
 ## Before you have the death certificate

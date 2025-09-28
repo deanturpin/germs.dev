@@ -9,6 +9,8 @@ tags:
 
 
 
+# SMPTE Timecode Guide
+
 ## SMPTE - Society of Motion Picture and Television Engineers
 
 HOURS:MINUTES:SECONDS:FRAMES

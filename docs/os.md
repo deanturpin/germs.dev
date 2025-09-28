@@ -9,6 +9,8 @@ tags:
 
 
 
+# Operating Systems Concepts
+
 ## OS scheduling strategies
 [OS process scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)
 

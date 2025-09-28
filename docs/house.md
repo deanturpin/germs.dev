@@ -9,6 +9,8 @@ tags:
 
 
 
+# House Buying Guide
+
 ## Independent
 
 - [rightmove](https://www.rightmove.co.uk/news/house-price-index/)

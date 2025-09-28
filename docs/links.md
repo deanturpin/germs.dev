@@ -9,6 +9,8 @@ tags:
 
 
 
+# Useful Links and Contributions
+
 See my [Wikipedia contributions](http://tools.wmflabs.org/guc/?user=Dean+Turbo)
 and techie tidbits (plus cat pics) on [Twitter](https://twitter.com/deanturbo).
 

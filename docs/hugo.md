@@ -9,6 +9,8 @@ tags:
 
 
 
+# Hugo Static Site Generator
+
 __NOTE: now using GitBook for this website__
 
 > Time to complete: 1 hour typing, 12 hours waiting.

@@ -9,6 +9,8 @@ tags:
 
 
 
+# Linux Version Information
+
 ```bash
 $ cat /etc/issue
 Ubuntu 21.04 \n \l
