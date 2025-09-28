@@ -6,8 +6,7 @@ tags:
   - development
 ---
 
-
-
+# Agile Methodologies
 
 ## Roles
 - Dev team

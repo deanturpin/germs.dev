@@ -6,8 +6,7 @@ tags:
   - lifestyle
 ---
 
-
-
+# Barefoot Shoes
 
 - Vivo Barefoot
 - https://www.revivo.com/ -- reconditioned

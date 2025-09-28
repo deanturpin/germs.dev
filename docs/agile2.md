@@ -6,8 +6,7 @@ tags:
   - development
 ---
 
-
-
+# Agile Project Management
 
 Ten steps to happiness.
 

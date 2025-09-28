@@ -6,8 +6,7 @@ tags:
   - workflows
 ---
 
-
-
+# Yoga Asanas
 
 ```csv
 Transliteration,Sanskrit,English,Description,URL,Type,Variation
