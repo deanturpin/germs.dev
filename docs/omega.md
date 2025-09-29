@@ -140,7 +140,7 @@ TL Titanium and pink gold combination
 
 ## References
 - [Vintage Omega watch parts](https://welwynwatchparts.co.uk/products/omega-calibre-600-601-movement-parts-used)
-- [ Ref guide](http://www.chronomaddox.com/casereferenceguide.html)
+- [Ref guide](http://www.chronomaddox.com/casereferenceguide.html)
 - [Omega serial numbers by year](http://chronomaddox.com/omega_serial_numbers.html)
 - https://www.chronomaddox.com/OmegaCaliberList.html
 - [Speedmaster serial numbers](https://est1897.co.uk/pages/omega-serial-number-guide)

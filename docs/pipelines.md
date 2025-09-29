@@ -8,7 +8,7 @@ tags:
 
 # CI/CD Pipeline Status
 
-#### C++
+## C++
 
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/bt/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/bt/-/pipelines/) [Trading strategy backtester (stock/crypto)](https://cpp.run/)
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/concurrency-support-library/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/concurrency-support-library/-/pipelines/latest) [C++ concurrency support library](https://threads.cpp.run/)

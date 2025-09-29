@@ -22,7 +22,7 @@ Firstly... there's no default package manager like apt! But there is Homebrew, w
 brew update
 ```
 
-### Apps to install
+## Apps to install
 
 - [Homebrew](https://brew.sh/)
 - [Docker Engine](https://docs.docker.com/engine/install/)

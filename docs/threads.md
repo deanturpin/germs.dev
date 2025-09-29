@@ -126,7 +126,7 @@ thread. In Windows Forms, use Control.Invoke/BeginInvoke
 1. std::generate
 
 ## References
-- [ A Fast General Purpose Lock-Free Queue for
+- [A Fast General Purpose Lock-Free Queue for
   C++](https://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++.htm)
 - [Thread safety](https://en.wikipedia.org/wiki/Thread_safety)
 - [Memory barrier](https://en.wikipedia.org/wiki/Memory_barrier)

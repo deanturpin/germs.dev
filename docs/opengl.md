@@ -20,7 +20,7 @@ tags:
 # OpenGL Shading Language -- GLSL
 Excerpts from [Wikipedia](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language).
 
-### Variable types
+## Variable types
 C has a number of basic types. GLSL uses some of these, but adds many more.
 
 ## Type qualifiers

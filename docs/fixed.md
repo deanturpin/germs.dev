@@ -19,7 +19,7 @@ tags:
 
 Fixed income trading is investing in bonds.
 
-### Types of bonds
+## Types of bonds
 - Government
 - High yield
 - Investment gradeA
