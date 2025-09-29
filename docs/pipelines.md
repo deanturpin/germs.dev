@@ -17,7 +17,7 @@ tags:
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/hear/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/hear/pipelines/latest) [Command line hearing test](https://gitlab.com/germs-dev/hear/)
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/cpp/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cpp/-/pipelines/latest) [C++ recipes](https://cpp.turpin.dev/)
 
-#### AI
+### AI
 
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/cs/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/cs/-/pipelines/) [Teach yourself C++ in 45 years](https://turpin.dev/) -- training material complemented by the OpenAI API
 1. [![CI Pipeline Status](https://gitlab.com/germs-dev/openai/badges/main/pipeline.svg)](https://gitlab.com/germs-dev/openai/-/pipelines/latest) [OpenAI sandbox](https://openai.germs.dev/)
