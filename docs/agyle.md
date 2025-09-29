@@ -21,12 +21,13 @@ The agenda for a standup is strictly:
 ## Estimation
 
 - Always re-estimate tasks before rolling them over into a sprint
-- Unless they've been dragging on for a while and you feel like you've earned those points
-- If a task it too big to estimate simply make it a full sprint task
+- Unless they've been dragging on for a while and you feel like you've really   earned those points
+- If a task is too complicated to estimate quickly, simply make it a full sprint task
 
 ## Backlog
 
-- Issues are dev tasks
+- Issues are dev tasks, not meeting placeholders, nor personal reminders
+- Apart from dentist appointments and things that you really can't forget
 
 ## Sprints
 
