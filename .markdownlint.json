@@ -8,5 +8,6 @@
   "MD032": false,   // Lists should be surrounded by blank lines - too strict for embedded lists
   "MD033": false,   // Inline HTML - needed for embedded content, iframes, etc.
   "MD047": false,   // Files should end with single newline - auto-generated files vary
-  "MD018": false    // No space after hash - some headings use compact format
+  "MD018": false,   // No space after hash - some headings use compact format
+  "MD007": false    // Unordered list indentation - YAML frontmatter uses standard 2-space indentation
 }
