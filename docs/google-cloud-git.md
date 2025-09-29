@@ -31,7 +31,7 @@ If this hangs, set this:
 export SSH_AUTH_SOCK=
 ```
 
-## This combo is OK.
+## This combo is OK
 
 ```bash
 OpenSSH_8.4p1 Debian-5+deb11u1, OpenSSL 1.1.1n  15 Mar 2022

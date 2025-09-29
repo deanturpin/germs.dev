@@ -8,7 +8,7 @@ tags:
 - tcp-ip
 ---
 
-# Stayin' alive...
+# Stayin' alive
 
 ## OS config
 ### Linux proc

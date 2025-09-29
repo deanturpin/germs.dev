@@ -24,7 +24,7 @@ tags:
 - Ticklish
 - Feel like [doing] something
 
-## Feel like...
+## Feel like
 ### cười - to laugh
 - buồn cười - funny
 

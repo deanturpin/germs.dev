@@ -23,7 +23,7 @@ tags:
 - Leave space to insert lines of code
 - Modularise up front (use a function that you haven't yet written)
 
-## B.U.D.
+## B.U.D
 - Bottlenecks
 - Unnecessary work
 - Duplicated work

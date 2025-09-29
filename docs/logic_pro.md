@@ -14,7 +14,7 @@ Selecting a laptop for running Logic.
 
 Long time user with a 15 year gap, looking to get back into it in 2024. I worked a lot with versions 6, 7, Express... thinking about a MacBook Pro but not sure how much to spend. I always seemed to be fighting the CPU in the past, but does modern Logic make use of the more capable graphics cards on the top tier laptops?
 
-## tl;dr... MacBook Air!
+## tl;dr... MacBook Air
 
 After much procrastination I have ended up with this configuration.
 

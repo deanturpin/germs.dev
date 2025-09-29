@@ -43,7 +43,7 @@ You can get stuff done with [SketchUp](https://www.sketchup.com/) but if you wan
 
 Alternatively script it quickly with [OpenSCAD](https://openscad.org/) and get back to the programming.
 
-## It's complicated...
+## It's complicated
 
 Listen to ["Understanding Complexity" by Scott E.  Page](https://www.audible.co.uk/pd/Understanding-Complexity-Audiobook/1629976849) to whet your appetite. See various [complexity-based
 projects](/post/complexity).
