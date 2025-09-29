@@ -263,8 +263,8 @@ But does it matter? You're still slaughtering and eating them. Is this for your
 benefit or the animal?
 
 ## I'm an animal lover [but I'm not a vegan]
-How can you love animals and eat _any_ of them? You love consuming animals? You
-love _some_ animals and eat the rest?
+How can you love animals and eat *any* of them? You love consuming animals? You
+love *some* animals and eat the rest?
 
 ## I just want to help the animals [but I'm not a vegan]
 You just want to help them into your belly! How can that not be hypocritical?
