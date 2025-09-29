@@ -9,6 +9,7 @@ tags:
 # Miso-seaweed bread
 
 ## Ingredients
+
 | Proportion | Ingredient | grammes |
 | --- | --- | --- |
 | 100% | Shipton Mill white organic bread flour | 500 |

@@ -10,6 +10,7 @@ tags:
 
 # Databases
 ## Relational versus non-relational databases
+
 | SQL (relational) | NoSQL (non-relational) |
 | ----------------- | ----------------------------------------------------------- |
 | Tables / schema | Humongous data, collections, documents, duplication of data |

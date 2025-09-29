@@ -37,6 +37,7 @@ Use minimum strength operations when optimising as the stronger ones are more
 costly.
 
 ## Speed hierarchy
+
 | operation | cycles |
 |---|---|
 | Comparisons | less than 1 |

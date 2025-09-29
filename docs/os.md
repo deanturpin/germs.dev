@@ -77,6 +77,7 @@ Realtime policies - fixed priority
 - [SCHED_DEADLINE](https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling)
 
 ## Memory
+
 | Top of RAM | |
 | ---------- | ----------------------- |
 | STACK | Statically allocated |

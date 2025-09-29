@@ -32,6 +32,7 @@ tags:
 52 not used.
 
 ## Reference decode
+
 | Number | 1st Digit | 2nd Digit | 3rd Digit |
 | --- | --- | --- | --- |
 | 1 | Gent’s Watch - leather strap| Manual winding without second | Non-water-resistant |
@@ -47,6 +48,7 @@ tags:
 See https://www.bobswatches.com/omega/serial-numbers
 
 ## Models
+
 | Reference | Detail | Calibre |
 | --- | --- | --- |
 | 121.001  | 1964 Mechanical ||

@@ -19,6 +19,7 @@ tags:
 - Relative/absolute pins
 
 ## Notation
+
 | Symbol | Meaning|
 | --- | --- |
 | + | Check |

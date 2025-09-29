@@ -34,6 +34,7 @@ tags:
 - https://www.hswalsh.com/
 
 ## Timing
+
 |Beats per second | Vibrations per hour |
 |---|---|
 | 3      | 10800|
