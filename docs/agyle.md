@@ -28,6 +28,10 @@ The agenda for a standup is strictly:
 
 - Issues are dev tasks
 
+## Sprints
+
+- If you're not completing enough story points you can simple double your estimates
+
 ## Jira
 
 - Jira should be as frictionless as possible and should not distract you from actually doing work
