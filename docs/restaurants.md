@@ -18,6 +18,12 @@ tags:
 
 ## 2025
 
+### October
+
+- The Skillet, Glasgow (££): cracking small plates in the West End
+- Rioja, Glasgow (£££): a taste of Spain on the Clyde!
+- Chaakoo Bombay Cafe, Glasgow (££): go here just to have the lamb thali, omg
+
 ### September
 
 - The Grill, Glasgow (££): Ajay Kumar's on-the-flame basement restaurant
