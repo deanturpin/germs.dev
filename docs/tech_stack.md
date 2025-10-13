@@ -9,26 +9,24 @@ tags:
 # Current tech stack
 
 C++26,
-Ubuntu 25.04,
+Ubuntu 25.10,
 macOS 15.6.1,
 g++ 15,
 clang++ 19,
 clang-format,
 docker 28.0.1,
-GitLab CI,
 GitHub Actions,
 Claude Code,
-Qt 5.15.2,
-Wirehshark 4.4.6,
+Qt 5.15.2 + 6,
+Wirehshark 4.6.0,
 bash 5.3,
 vim 9.1,
-pjsip 2.14,
 VS Code,
-CMake 3.31.6
-Python 3.13.2,
+CMake 4.1.1
 Logic Pro 11.2.2,
-rekordbox 7.2.3,
+rekordbox 7.2.4,
 Asterisk 22.2.0,
 Android Studio,
+Qt Creator,
 Ghostty 1.2.2
 
