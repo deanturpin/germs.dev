@@ -45,4 +45,7 @@ nav:
 # Plugins
 plugins:
   - search
-  - tags
+  - tags:
+      enabled: true
+      tags: true
+      listings: true
