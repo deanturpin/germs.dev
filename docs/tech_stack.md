@@ -24,6 +24,7 @@ vim 9.1,
 VS Code,
 CMake 4.1.1
 Logic Pro 11.2.2,
+Audacity,
 rekordbox 7.2.4,
 Asterisk 22.2.0,
 Android Studio,
