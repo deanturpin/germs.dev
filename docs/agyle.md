@@ -8,7 +8,7 @@ tags:
   - cpp
 ---
 
-# How to do an Agile
+# Agyle: how to do an Agile
 
 ## Daily standup
 
@@ -18,6 +18,7 @@ The agenda for a standup is strictly:
 - What will you do today?
 - Do you have any blockers?
 - Any traffic incidents on the way to the office
+- How to _do_ an Agile: great time to discuss established processes
 
 ## Estimation
 
@@ -37,4 +38,5 @@ The agenda for a standup is strictly:
 ## Jira
 
 - Jira should be as frictionless as possible and should not distract you from actually doing work
-- Until you introduce lots of automation and rules and then it can become your full-time jo
+- Until you introduce lots of automation and rules and then it can become your full-time job
+
