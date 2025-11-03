@@ -11,7 +11,7 @@ tags:
 C++26,
 Ubuntu 25.10,
 macOS 15.6.1,
-g++ 15,
+g++ 15.2.0,
 clang++ 19,
 clang-format,
 docker 28.0.1,

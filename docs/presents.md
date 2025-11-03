@@ -90,6 +90,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Jewelery
 
+- [Loel](https://loel.co.uk/): gold
 - [7879](https://7879.co/) -- pure gold, most expensive: solid
 - [Jeremy Hoye](https://www.jeremy-hoye.co.uk/): long-establish Brighton-based jeweler (near the station)
 - [Missoma gold](https://www.missoma.com/products/zenyu-fan-necklace-18ct-gold-plated): tops 14ct

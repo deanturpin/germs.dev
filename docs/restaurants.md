@@ -20,6 +20,7 @@ tags:
 
 ### October
 
+- Furna (££££): quite pricey but does not dissapoint!
 - Number 16, Glasgow (£££): excellent dinner
 - The Skillet, Glasgow (££): cracking small plates in the West End
 - Rioja, Glasgow (£££): a taste of Spain on the Clyde!
