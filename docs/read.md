@@ -10,6 +10,7 @@ tags:
 
 ## _Book_ books (made of actual paper)
 
+- [Electronic and Experimental Music: Technology, Music, and Culture -- Thom Holmes](https://www.taylorfrancis.com/books/mono/10.4324/9780203128428/electronic-experimental-music-thom-holmes)
 - [How Equal Temperament Ruined Harmony -- Ross W. Duffin](https://www.goodreads.com/book/show/168325.How_Equal_Temperament_Ruined_Harmony)
 - [Andrew Weatherall -- A Jockey Slut Tribute](https://www.banquetrecords.com/andrew-weatherall/a-jockey-slut-tribute/AWJST)
 - [Bad Science](https://www.amazon.co.uk/Bad-Science-Ben-Goldacre/dp/000728487X) -- Ben Goldacre
