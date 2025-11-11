@@ -157,12 +157,60 @@ int main() {
 }
 ```
 
+**Check which CPU core is running** — minimal example for debugging:
+
+```cpp
+#include <iostream>
+#include <format>
+#include <sched.h>
+
+int main() {
+    int cpu = sched_getcpu();
+    std::println("Running on CPU: {}", cpu);
+}
+```
+
 **Usage recommendations:**
 - Run these tests periodically as part of system health checks
 - Integrate into CI/CD pipelines for bare-metal deployments
 - Log results and monitor for drift over time
 - Consider temperature and load variations when interpreting results
 - Combine with stress testing to trigger environmental conditions
+
+### 🔥 Stress Testing with stress-ng
+
+Use stress-ng to trigger environmental conditions that may expose mercurial core behaviour:
+
+```bash
+# Install stress-ng
+sudo apt install stress-ng
+
+# CPU stress test with verification
+# Uses all CPUs with built-in result verification
+stress-ng --cpu 0 --verify --timeout 2m
+
+# Floating-point heavy workload (matrix operations)
+# More likely to expose numerical computation errors
+stress-ng --matrix 0 --timeout 2m
+
+# Combined stress test
+stress-ng --cpu 0 --matrix 0 --verify --timeout 5m
+
+# Target specific CPU cores
+stress-ng --cpu 4 --taskset 0,1,2,3 --verify --timeout 2m
+```
+
+**Why stress-ng helps:**
+- Increases temperature and power draw, potentially triggering marginal hardware
+- High instruction throughput exercises more silicon pathways
+- `--verify` flag checks computational correctness
+- Floating-point operations (matrix) particularly sensitive to CEEs
+
+**Recommended approach:**
+1. Run stress-ng with `--verify` as baseline health check
+2. Monitor for verification failures or unexpected results
+3. Correlate failures with specific cores using `taskset`
+4. Cross-reference with rasdaemon logs and system temperature
 
 ### Application-level Detection Strategies
 
