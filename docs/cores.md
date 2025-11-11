@@ -1,7 +1,17 @@
+---
+tags:
+  - cpp
+  - programming-languages
+  - operating-systems
+  - hardware
+  - reliability
+  - testing
+---
+
 # Detecting and Mitigating "Mercurial Cores" on Linux (C++ Focused)
 
 Based on: *Cores That Don't Count* — Hochschild et al., HotOS '21
-https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
+<https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf>
 
 ---
 
@@ -51,6 +61,7 @@ Mercurial cores are fundamentally difficult to detect because:
 ### 🔧 System-level Monitoring
 
 **Enable and monitor MCE logging (though CEEs often bypass these):**
+
 ```bash
 sudo modprobe mce
 sudo modprobe mce_inject   # optional for testing
@@ -58,7 +69,9 @@ dmesg | grep -i mce
 journalctl -k | grep "Machine check"
 ```
 
+
 **Install and configure rasdaemon** (RAS = Reliability, Availability, Serviceability):
+
 ```bash
 # Install hardware error monitoring daemon
 sudo apt install rasdaemon
@@ -120,6 +133,7 @@ int main() {
 }
 ```
 
+
 **Cross-core verification** — compute on one core, verify on another:
 
 ```cpp
@@ -157,6 +171,7 @@ int main() {
 }
 ```
 
+
 **Check which CPU core is running** — minimal example for debugging:
 
 ```cpp
@@ -169,6 +184,7 @@ int main() {
     std::println("Running on CPU: {}", cpu);
 }
 ```
+
 
 **Usage recommendations:**
 - Run these tests periodically as part of system health checks
@@ -200,6 +216,7 @@ stress-ng --cpu 0 --matrix 0 --verify --timeout 5m
 stress-ng --cpu 4 --taskset 0,1,2,3 --verify --timeout 2m
 ```
 
+
 **Why stress-ng helps:**
 - Increases temperature and power draw, potentially triggering marginal hardware
 - High instruction throughput exercises more silicon pathways
@@ -215,6 +232,7 @@ stress-ng --cpu 4 --taskset 0,1,2,3 --verify --timeout 2m
 ### Application-level Detection Strategies
 
 **1. Cross-replica consistency checks** (for distributed systems)
+
 ```cpp
 // Compare results across multiple replicas
 auto validate_computation(std::span<const Result> replicas) -> std::optional<Result> {
@@ -230,7 +248,9 @@ auto validate_computation(std::span<const Result> replicas) -> std::optional<Res
 }
 ```
 
+
 **2. Redundant computation** (factor of 2× overhead)
+
 ```cpp
 // Compute twice and compare
 auto checked_compute(const Input& data) -> std::optional<Result> {
@@ -241,7 +261,9 @@ auto checked_compute(const Input& data) -> std::optional<Result> {
 }
 ```
 
+
 **3. Invariant checking** (exploit domain knowledge)
+
 ```cpp
 // Use mathematical properties to validate results
 auto validate_fft(std::span<const Complex> input,
@@ -260,7 +282,9 @@ auto validate_fft(std::span<const Complex> input,
 }
 ```
 
-**4. Monitoring non-determinism**
+
+#### 4. Monitoring non-determinism
+
 ```cpp
 // Track unexpected variations in deterministic computations
 struct ComputationMonitor {
@@ -289,6 +313,7 @@ struct ComputationMonitor {
 - Substantial overhead (3× compute, synchronisation cost)
 
 **Core isolation** — remove suspect cores from scheduling:
+
 ```bash
 # Disable CPU core 7
 echo 0 | sudo tee /sys/devices/system/cpu/cpu7/online
@@ -305,6 +330,7 @@ lscpu --extended
 - Simpler pipelines and execution units = fewer failure modes
 
 **2. Critical path protection**: Apply expensive checks selectively
+
 ```cpp
 // Only validate critical operations
 enum class ValidationLevel { None, Basic, Paranoid };
@@ -324,7 +350,9 @@ auto encrypt_data(std::span<const std::byte> plaintext) -> std::vector<std::byte
 }
 ```
 
-**3. Checksums and error detection codes**
+
+#### 3. Checksums and error detection codes
+
 ```cpp
 // Add CRC32 to computational results
 struct ValidatedResult {
@@ -351,6 +379,7 @@ struct ValidatedResult {
 ### What to Measure
 
 **1. Result consistency** across runs and cores
+
 ```bash
 # Benchmark deterministic computation across all cores
 for core in $(seq 0 $(nproc --all)); do
@@ -361,7 +390,9 @@ done
 md5sum results_core_*.txt | sort | uniq -c
 ```
 
-**2. Core-specific failure rates**
+
+#### 2. Core-specific failure rates
+
 ```cpp
 // Track errors per core
 struct CoreMetrics {
@@ -388,7 +419,9 @@ void record_computation_result(bool validation_passed) {
 }
 ```
 
-**3. Environmental correlation**
+
+#### 3. Environmental correlation
+
 ```bash
 # Monitor CPU temperature and frequency during suspect behaviour
 watch -n 1 'paste <(cat /sys/class/thermal/thermal_zone*/type) \
@@ -406,17 +439,17 @@ watch -n 1 'grep "cpu MHz" /proc/cpuinfo'
 - Consider adding validation to critical sections
 - Test on diverse hardware configurations
 
-**2. Cryptographic operations**
+#### 2. Cryptographic operations
 - CEEs can cause deterministic encryption errors
 - Always validate critical crypto operations
 - Consider hardware alternatives (AES-NI) with TMR for high-security contexts
 
-**3. Numerical computations**
+#### 3. Numerical computations
 - Vector operations are vulnerable
 - Use invariant checking (conservation laws, symmetries)
 - Cross-validate critical results
 
-**4. Database and index operations**
+#### 4. Database and index operations
 - Non-deterministic query results are a red flag
 - Implement consistency checks across replicas
 - Hash-based validation for critical index operations
