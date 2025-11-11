@@ -69,7 +69,6 @@ dmesg | grep -i mce
 journalctl -k | grep "Machine check"
 ```
 
-
 **Install and configure rasdaemon** (RAS = Reliability, Availability, Serviceability):
 
 ```bash
@@ -133,7 +132,6 @@ int main() {
 }
 ```
 
-
 **Cross-core verification** — compute on one core, verify on another:
 
 ```cpp
@@ -171,7 +169,6 @@ int main() {
 }
 ```
 
-
 **Check which CPU core is running** — minimal example for debugging:
 
 ```cpp
@@ -184,7 +181,6 @@ int main() {
     std::println("Running on CPU: {}", cpu);
 }
 ```
-
 
 **Usage recommendations:**
 - Run these tests periodically as part of system health checks
@@ -215,7 +211,6 @@ stress-ng --cpu 0 --matrix 0 --verify --timeout 5m
 # Target specific CPU cores
 stress-ng --cpu 4 --taskset 0,1,2,3 --verify --timeout 2m
 ```
-
 
 **Why stress-ng helps:**
 - Increases temperature and power draw, potentially triggering marginal hardware
@@ -248,7 +243,6 @@ auto validate_computation(std::span<const Result> replicas) -> std::optional<Res
 }
 ```
 
-
 **2. Redundant computation** (factor of 2× overhead)
 
 ```cpp
@@ -260,7 +254,6 @@ auto checked_compute(const Input& data) -> std::optional<Result> {
     return (result1 == result2) ? std::optional{result1} : std::nullopt;
 }
 ```
-
 
 **3. Invariant checking** (exploit domain knowledge)
 
@@ -281,7 +274,6 @@ auto validate_fft(std::span<const Complex> input,
     return std::abs(time_energy - freq_energy / input.size()) < tolerance;
 }
 ```
-
 
 #### 4. Monitoring non-determinism
 
@@ -350,7 +342,6 @@ auto encrypt_data(std::span<const std::byte> plaintext) -> std::vector<std::byte
 }
 ```
 
-
 #### 3. Checksums and error detection codes
 
 ```cpp
@@ -390,7 +381,6 @@ done
 md5sum results_core_*.txt | sort | uniq -c
 ```
 
-
 #### 2. Core-specific failure rates
 
 ```cpp
@@ -418,7 +408,6 @@ void record_computation_result(bool validation_passed) {
     }
 }
 ```
-
 
 #### 3. Environmental correlation
 
