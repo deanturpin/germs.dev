@@ -13,8 +13,6 @@ tags:
 Based on: *Cores That Don't Count* — Hochschild et al., HotOS '21
 <https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf>
 
----
-
 ## 🧠 Overview
 
 Some CPU cores in the field silently produce **wrong results** instead of crashing — they "lie".
@@ -99,6 +97,7 @@ rasdaemon logs hardware errors including memory errors, PCIe errors, and MCE eve
 #include <thread>
 #include <cmath>
 #include <format>
+#include <ranges>
 #include <sched.h>
 
 double workload(int id) {
@@ -123,7 +122,7 @@ int main() {
     std::println("Detected {} logical CPUs", n);
 
     auto threads = std::vector<std::thread>{};
-    for (unsigned i = 0; i < n; ++i)
+    for (auto i : std::views::iota(0u, n))
         threads.emplace_back(test_core, i);
 
     for (auto &t : threads)
@@ -293,8 +292,6 @@ struct ComputationMonitor {
 };
 ```
 
----
-
 ## 🛡️ 2. Mitigation Strategies
 
 ### Hardware-level Approaches
@@ -363,8 +360,6 @@ struct ValidatedResult {
     }
 };
 ```
-
----
 
 ## 📊 3. Measurement and Focus Areas for C++ on Linux
 
@@ -444,8 +439,6 @@ watch -n 1 'grep "cpu MHz" /proc/cpuinfo'
 - Implement consistency checks across replicas
 - Hash-based validation for critical index operations
 
----
-
 ## 🎯 Practical Recommendations
 
 ### For Production C++ Systems
@@ -471,8 +464,6 @@ watch -n 1 'grep "cpu MHz" /proc/cpuinfo'
 - Short-lived processes with external validation
 - Applications with strong end-to-end checksums
 - Systems with comprehensive integration testing
-
----
 
 ## 📚 Further Reading
 
