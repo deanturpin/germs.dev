@@ -119,14 +119,15 @@ void test_core(int cpu) {
 }
 
 int main() {
-    unsigned n = std::thread::hardware_concurrency();
+    auto n = std::thread::hardware_concurrency();
     std::println("Detected {} logical CPUs", n);
 
-    std::vector<std::thread> threads;
+    auto threads = std::vector<std::thread>{};
     for (unsigned i = 0; i < n; ++i)
         threads.emplace_back(test_core, i);
 
-    for (auto &t : threads) t.join();
+    for (auto &t : threads)
+        t.join();
 
     std::println("✅ All cores tested — compare results for anomalies.");
 }
