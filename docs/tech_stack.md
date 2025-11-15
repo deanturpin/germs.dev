@@ -9,10 +9,11 @@ tags:
 # Current tech stack
 
 C++26,
-Ubuntu 25.10,
+Ubuntu 26.04,
 macOS 15.6.1,
 g++ 15.2.0,
 clang++ 19,
+Tailscale,
 clang-format,
 docker 28.0.1,
 GitHub Actions,

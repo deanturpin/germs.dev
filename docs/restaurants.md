@@ -18,6 +18,10 @@ tags:
 
 ## 2025
 
+### November
+
+- Crabtree, Horsham (££): spectacular sausage and mash, absolute monsters
+
 ### October
 
 - Furna (££££): quite pricey but does not dissapoint!
