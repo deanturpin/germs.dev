@@ -20,6 +20,7 @@ tags:
 
 ### November
 
+- The Coalshed (£££): went for a burger just to mix things up!
 - Crabtree, Horsham (££): spectacular sausage and mash, absolute monsters
 
 ### October
