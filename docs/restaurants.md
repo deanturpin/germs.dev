@@ -20,6 +20,7 @@ tags:
 
 ### November
 
+- Taro (££): best sushi in Brighton, yakitori maybe not as good Bincho but you won't get in there so go here instead
 - The Coalshed (£££): went for a burger just to mix things up!
 - Crabtree, Horsham (££): spectacular sausage and mash, absolute monsters
 
