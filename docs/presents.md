@@ -133,3 +133,13 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Prestat](https://www.prestat.co.uk/): chocolates
 - [Hotel Chocolat](https://www.hotelchocolat.com/uk/): chocolates
 - Card
+
+<!-- to sort
+https://www.hershesons.com/products/great-hair-dryer
+https://eirlysstudio.com/collections/black-friday-sale
+https://colorfulstandard.com/en-gb/collections/all-womens-apparel-accessories
+https://hayleymenzies.com/collections/cosmic-nomad
+https://queensofarchive.com/pages/holiday-shipping-dates
+https://www.instagram.com/myyazcom?igsh=MXhoaTFoOWx3cDB6eg%3D%3D
+-->
+
