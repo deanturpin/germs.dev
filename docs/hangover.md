@@ -1,8 +1,6 @@
 # Hangover supplements
 
-*Disclaimer: This is not medical advice. It has been compiled by Claude AI.*
-
-I've been looking into the ingredients across three popular hangover supplements to understand what's actually in them and whether there are any concerns about mixing them.
+Investigation into the common ingredients across popular hangover supplements to understand what's actually in them and whether there are any concerns about mixing them.
 
 ## The Products
 
