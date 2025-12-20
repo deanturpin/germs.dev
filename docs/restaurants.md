@@ -18,6 +18,13 @@ tags:
 
 ## 2025
 
+### December
+
+- Ivy Asia (£60): very slick dining, unexpecedly excellent sushi!
+- Aberdeen Seafood (££): curiously named where the New Club once was, but tasty Chinese food nonetheless
+- The Laughing Yak (££): tasty and spicy with free strokes from the local pooch
+- Piscos (££): great South American tucker and inappropriate Reggaeton videos
+
 ### November
 
 - Taro (££): best sushi in Brighton, yakitori maybe not as good Bincho but you won't get in there so go here instead
