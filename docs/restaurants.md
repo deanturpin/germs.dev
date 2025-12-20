@@ -22,9 +22,9 @@ tags:
 
 - Ivy Asia (£60): very slick dining, unexpecedly excellent sushi!
 - Aberdeen Seafood (££): curiously named where the New Club once was, but tasty Chinese food nonetheless
-- The Laughing Yak (££): tasty and spicy with free strokes from the local pooch
-- Piscos (££): great South American tucker and inappropriate Reggaeton videos
-- Mangal II (£££): PMG, the bread! Spicy good times
+- The Laughing Yak, Dalston (££): tasty and spicy with free strokes from the local pooch
+- Piscos, Dalston (££): great South American tucker and inappropriate Reggaeton videos
+- Mangal II, Dalston (£££): PMG, the bread! Spicy good times
 
 ### November
 
