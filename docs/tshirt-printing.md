@@ -32,3 +32,7 @@ Print-on-demand (PoD) services for creating charity fundraising merchandise.
 - [Sellfy](https://sellfy.com/)
 - E-commerce platform for digital and physical products
 - Print-on-demand integration
+
+## Related Resources
+
+- [Setting Up a Community Bank Account](https://github.com/deanturpin/charity): Guide for creating a community bank account for charity fundraising
