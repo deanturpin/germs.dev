@@ -2,14 +2,40 @@
 tags:
   - business
   - fundraising
+  - charity
   - startups
   - investment
+  - merchandise
 ---
 
-
-
-
 # Fundraising Resources
+
+## Merchandise and Print-on-Demand
+
+### UK-Based T-Shirt Printing Services
+
+#### Team Shirts
+- [Charity T-Shirts](https://www.teamshirts.co.uk/charity-t-shirts)
+- UK-based print-on-demand service
+- Dedicated charity fundraising options
+
+#### The T-Shirt Man
+- [Charity Services](https://thetshirtman.co.uk/services/charity/)
+- Specialist charity printing service
+
+#### Teemill
+- [Guide to Print-on-Demand Charity T-Shirt Fundraising](https://teemill.com/blog/guide-to-print-on-demand-charity-t-shirt-fundraising/)
+- Sustainable print-on-demand platform
+- Comprehensive guide for charity fundraising
+
+### Global E-Commerce Platforms
+
+#### Sellfy
+- [Sellfy](https://sellfy.com/)
+- E-commerce platform for digital and physical products
+- Print-on-demand integration
+
+## Charity Banking
 
 - Charity Bank (charity specialist, community accounts)
 - Triodos Bank (community accounts)
@@ -89,3 +115,7 @@ Business structure - You probably want to formalize this as:
 Community Interest Company (CIC)
 Limited company with charitable objects
 Or partner with an existing charity as fiscal sponsor
+
+## Related Resources
+
+- [Setting Up a Community Bank Account](https://github.com/deanturpin/charity): Detailed guide for creating a community bank account for charity fundraising
