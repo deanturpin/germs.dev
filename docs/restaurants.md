@@ -16,6 +16,12 @@ tags:
 | ££££ | £120 |
 | £££££ | £240 |
 
+## To Visit
+
+### Sweden
+
+- [Knystaforsens Fiskrökeri](https://guide.michelin.com/se/en/hallands/rydobruk/restaurant/knystaforsen), Rydöbruk, Halland
+
 ## 2025
 
 ### December
