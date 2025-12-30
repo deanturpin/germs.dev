@@ -48,7 +48,7 @@ jobs:
           cat docs/influential.md >> docs/README.md
           echo '___' >> docs/README.md
           echo "- Rendered on $(date) by GitHub Actions" >> docs/README.md
-          echo "- Last commit: ${{ github.event.head_commit.message }}" >> docs/README.md
+          printf '%s\n' "- Last commit: ${{ github.event.head_commit.message }}" >> docs/README.md
 
           # Build MkDocs site
           mkdocs build
