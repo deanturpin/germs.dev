@@ -22,6 +22,13 @@ tags:
 
 - [Knystaforsens Fiskrökeri](https://guide.michelin.com/se/en/hallands/rydobruk/restaurant/knystaforsen), Rydöbruk, Halland
 
+## 2026
+
+### January
+
+- Barley Mo (££): faultless Saturday pub lunch
+- Bincho (£££): you can't get walkins here... but we did and it was great! Best kimchi in town
+
 ## 2025
 
 ### December

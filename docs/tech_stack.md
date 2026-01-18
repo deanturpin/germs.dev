@@ -10,23 +10,23 @@ tags:
 
 C++26,
 Ubuntu 26.04,
-macOS 15.6.1,
+macOS 26.2,
 g++ 15.2.0,
 clang++ 19,
-clang-format,
 docker 28.0.1,
 GitHub Actions,
-Claude Code,
 Cloudflare,
 Fasthosts VPS,
-Qt 5.15.2 + 6,
-Wirehshark 4.6.0,
+Claude Code,
+XCode
+VS Code,
+Wirehshark 4.6.3,
 bash 5.3,
 vim 9.1,
-VS Code,
-CMake 4.1.1
+CMake 4.1.2
 Logic Pro 11.2.2,
-rekordbox 7.2.8 (four stems),
+Audio Unit v3,
+rekordbox 7.2.8,
 Asterisk 22.2.0,
 Ghostty 1.2.2
 
