@@ -48,6 +48,7 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 | Polestar 2 (Dual Motor) | ~1,500 | ~750 | Comfortable margin |
 | Peugeot e-3008 | ~1,250 | ~750 | Family SUV |
 | MINI Countryman Electric | ~1,200 | ~750 | Lower margin |
+| Cupra Tavascan VZ (AWD) | ~1,200 | ~750 | Endurance RWD: 1,000 kg |
 | Skoda Enyaq iV | ~1,000–1,200 | ~750 | Variant dependent |
 | VW ID.4 | ~1,000–1,200 | ~750 | GTX tows more |
 | Audi Q4 e-tron | ~1,000–1,200 | ~750 | ID.4 sibling |
@@ -55,6 +56,8 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 | Renault Megane E-Tech | ~900 | ~750 | Marginal |
 | Kia Niro EV | ~750 | ~300 | Light trailers only |
 | Renault 5 E-Tech | ~500 | ~500 | Micro-trailer only |
+| Cupra Born | 0 | 0 | Bike rack only |
+| Hyundai Inster | 0 | 0 | No towing |
 | VW ID.3 | 0 | 0 | Bike rack only |
 | MINI Electric | 0 | 0 | No towing |
 | Fiat 500e | 0 | 0 | No towing |
