@@ -22,8 +22,11 @@ Because I've either test driven, researched or just like the look of. Ordered in
 | Tesla/Model X | The biggest of the bunch but they do look quite similar to the uninitiated |
 | Tesla/Model Y | Slightly engorged Model 3, more roomy with a proper hatchback |
 | Tesla/Model 3 | Handles better than the Y and has a boot |
+| Cupra/Tavascan | Electric SUV, 77kWh, RWD 286PS or AWD 340PS, 324-353 miles range, £47-62k, can tow 1,000-1,200kg |
 | VW/iD3 | First EV I drove and almost bought it on the spot, but the tech is not a patch on the Model Y |
 | BMW/i3 | Inexplicably no longer in production, popular but I thought the steering was heavy |
+| Cupra/Born | Sporty hatchback on VW ID.3 platform, no towing capacity |
+| Renault/Megane E-Tech | 60kWh, 220hp, ~285 miles range, 130kW charging, heat pump standard, £33-37k, tows 900kg |
 | Abarth | Big heritage, that's all I know |
 | Peugeot/308 | Nice-looking small car, petrol version is very pleasant to drive |
 | Renault/Zoe | Very popular, certainly not a looker |
