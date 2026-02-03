@@ -16,9 +16,6 @@ This reflects how most TEROK builds will be used in practice.
 - **Length / Width / Height:** 4.4 m × 2.17 m × 2.0 m  
 - **Chassis:** Independent suspension
 
-➡️ **Practical requirement:** Tow vehicle should support **≥1,200 kg braked towing capacity**  
-➡️ **Comfortable margin:** **1,400 kg+**
-
 ---
 
 ## UK EV Towing Capacity Table
