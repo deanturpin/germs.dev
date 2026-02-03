@@ -43,6 +43,8 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 | [Volvo XC40 Recharge](https://duckduckgo.com/?q=Volvo+XC40+Recharge&iax=images&ia=images) (Twin Motor) | ~1,800 | 4.43 × 1.87 × 1.66 | Single-motor lower |
 | [Mercedes EQB](https://duckduckgo.com/?q=Mercedes+EQB&iax=images&ia=images) / [EQC](https://duckduckgo.com/?q=Mercedes+EQC&iax=images&ia=images) | ~1,700–1,800 | 4.68 × 1.83 × 1.67 | Variant dependent |
 | [Tesla Model Y](https://duckduckgo.com/?q=Tesla+Model+Y&iax=images&ia=images) (AWD) | ~1,600 | 4.75 × 1.98 × 1.62 | Popular family EV |
+| [SMART #3](https://duckduckgo.com/?q=SMART+%233&iax=images&ia=images) | 1,600 | 4.40 × 1.84 × 1.56 | Compact SUV, all trims |
+| [SMART #1](https://duckduckgo.com/?q=SMART+%231&iax=images&ia=images) | 1,600 | 4.27 × 1.82 × 1.64 | Smallest with 1,600 kg capacity |
 | [BMW i4](https://duckduckgo.com/?q=BMW+i4&iax=images&ia=images) | ~1,600 | 4.78 × 1.85 × 1.45 | Unusual for a saloon |
 | [Hyundai Ioniq 6](https://duckduckgo.com/?q=Hyundai+Ioniq+6&iax=images&ia=images) | ~1,500 | 4.86 × 1.88 × 1.50 | Aero-focused |
 | [Polestar 2](https://duckduckgo.com/?q=Polestar+2&iax=images&ia=images) (Dual Motor) | ~1,500 | 4.61 × 1.86 × 1.48 | Comfortable margin |
@@ -70,11 +72,12 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 
 These are **ideal** for a TEROK loaded to ~1,000 kg:
 
-- **Tesla Model Y (AWD)** – 1,600 kg  
-- **Hyundai Ioniq 5 (AWD)** – 1,800 kg  
-- **Kia EV6 (AWD)** – 1,800 kg  
+- **SMART #1** – 1,600 kg (smallest at 4.27m)
+- **SMART #3** – 1,600 kg
+- **Tesla Model Y (AWD)** – 1,600 kg
+- **Hyundai Ioniq 5 (AWD)** – 1,800 kg
+- **Kia EV6 (AWD)** – 1,800 kg
 - **Polestar 2 (Dual Motor)** – 1,500 kg  
-- **Skoda Enyaq iV (higher-spec)** – up to 1,200 kg  
 
 ---
 
@@ -101,6 +104,6 @@ With less margin, but viable given TEROK’s size and profile:
 
 ## Bottom line
 
-> **At ~1,000 kg fully laden, the TEROK dramatically widens your EV options.**  
-> Mid-size and even some compact SUVs become excellent tow cars — without needing oversized EVs.
+> **At ~1,000 kg fully laden, the TEROK dramatically widens your EV options.**
+> The SMART #1 (4.27m) proves you don't need a large SUV – compact EVs with proper towing homologation work brilliantly.
 
