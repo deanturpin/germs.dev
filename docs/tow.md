@@ -1,3 +1,12 @@
+---
+tags:
+  - automotive
+  - electric-vehicles
+  - caravans
+  - towing
+  - terok
+---
+
 # Towing a TEROK Caravan with an Electric Vehicle (UK)
 
 This post explains **which UK EVs can tow the [TEROK adventure caravan](https://www.terok.co.uk/)**, assuming a **realistic fully‑laden weight of ~1,000 kg** rather than the absolute chassis maximum.
