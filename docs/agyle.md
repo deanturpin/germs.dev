@@ -33,7 +33,7 @@ The agenda for a standup is strictly:
 
 ## Sprints
 
-- If you're not completing enough story points you can simple double your estimates
+- If you're not completing enough story points you can simply double your estimates
 
 ## Jira
 
