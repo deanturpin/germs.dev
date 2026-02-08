@@ -17,10 +17,12 @@ Because I've either test driven, researched or just like the look of. Ordered in
 | Make/Model | Notes |
 |-|-|
 | Porsche/Taycan | Big money, looks great |
+| Volvo/EX90 | Flagship 7-seat luxury SUV, 329-670hp options, 300+ miles range, 800V architecture for fast charging, £82,660+, tows 2,500kg |
 | Lotus/Electre | Slighty less money, also looks very fancy |
 | Jaguar/iPace | Feels more solid than a Tesla, tech a little lacking; feels like a grown up car |
 | Tesla/Model X | The biggest of the bunch but they do look quite similar to the uninitiated |
 | Tesla/Model Y | Slightly engorged Model 3, more roomy with a proper hatchback |
+| Volvo/EX40 | Compact SUV (formerly XC40 Recharge), 69-82kWh battery, 296-355 miles range, RWD or AWD, £44-58k, tows 1,800kg |
 | Tesla/Model 3 | Handles better than the Y and has a boot |
 | Cupra/Tavascan | Electric SUV, 77kWh, RWD 286PS or AWD 340PS, 324-353 miles range, £47-62k, can tow 1,000-1,200kg |
 | VW/iD3 | First EV I drove and almost bought it on the spot, but the tech is not a patch on the Model Y |
