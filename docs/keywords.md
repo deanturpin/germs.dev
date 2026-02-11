@@ -20,7 +20,7 @@ tags:
 - __OS__: Ubuntu, macOS, Alpine
 - __Database__: PostgreSQL, MariaDB
 - __Documentation__: MkDocs, Doxygen, Mermaid, Confluence, LaTeX, pandoc, regex
-- __Audio/Video__: Logic, Audacity, SIP, PCM, XMPP, ONVIF, AU, VST
+- __Audio/Video__: Logic, Audacity, SIP, PCM, XMPP, AU, VST
 - __Productivity__: Agile, Jira, Slack
 - __Education__: Computer Science BSc. 2:2 from Manchester University
 
