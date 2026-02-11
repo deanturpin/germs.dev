@@ -105,7 +105,3 @@ Practical advice for container and raised bed gardening.
 3. **Callus before planting** – succulent and cactus cuttings need time to seal the wound
 4. **Patience pays off** – propagation takes weeks to months, not days
 5. **Light matters** – match the plant's natural habitat (desert vs forest floor)
-
----
-
-*Last updated: February 2026*
