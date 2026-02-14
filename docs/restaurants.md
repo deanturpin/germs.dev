@@ -24,6 +24,10 @@ tags:
 
 ## 2026
 
+## February
+
+- Stem (£££): sister restaurant of Dilsk, gorgeous spot in the window on a sunny afternoon!
+
 ### January
 
 - Barley Mo (££): faultless Saturday pub lunch
