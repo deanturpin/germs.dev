@@ -9,9 +9,11 @@ tags:
 # Current tech stack
 
 C++26,
+go1.21.13
 Ubuntu 26.04,
+kernel 6.14.0-1017-azure,
 macOS 26.2,
-g++15
+g++ 15.2.0,
 docker 28.0.1,
 GitHub Actions,
 Cloudflare,
@@ -21,7 +23,7 @@ VSCode,
 Wirehshark 4.6.3,
 bash 5.3,
 vim 9.1,
-CMake 4.1.2
+CMake 3.31.6,
 Logic Pro 11.2.2,
 Audio Unit v3,
 rekordbox 7.2.9,

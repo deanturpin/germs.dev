@@ -8,7 +8,7 @@ tags:
 
 # Technical Skills and Keywords
 
-- __Languages__: C++26, Standard Library, Python, Bash; OOP, Functional
+- __Languages__: C++26, Standard Library, Python, Bash, Go; OOP, Functional
 - __Design__: Multithreading, data Structures, algorithms, low-latency, OOP, SOLID, RAII, design patterns
 - __Build__: VSCode, QtCreator, GNU Make, CMake, Copilot, Claude Code
 - __Source control__: Git, Subversion
