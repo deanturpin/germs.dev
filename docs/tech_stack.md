@@ -26,7 +26,7 @@ vim 9.1,
 CMake 3.31.6,
 Logic Pro 11.2.2,
 Audio Unit v3,
-rekordbox 7.2.9,
+rekordbox 7.2.10,
 Asterisk 22.2.0,
 Ghostty 1.2.2
 
