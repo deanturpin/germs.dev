@@ -15,7 +15,7 @@ tags:
 - __CI/CD__: GitLab, GitHub, Docker, Google Cloud, Cloudflare, Fasthosts VPS
 - __API__: CryptoCompare, MarketStack, Alpaca, OpenAI, gSOAP, REST, FIX
 - __UI__: Qt, JUCE
-- __Unit test/profiling__: TDD, Google Benchmark, Google Test, gprof
+- __Unit test/profiling__: TDD, Google Benchmark, Google Test, gprof, gcov
 - __Networking__: Wireshark, libpcap, Asterisk, OSI (TCP/UDP)
 - __OS__: Ubuntu, macOS, Alpine
 - __Database__: PostgreSQL, MariaDB
