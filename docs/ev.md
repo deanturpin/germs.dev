@@ -15,7 +15,7 @@ Observations and tips, with a focus on my own experiences owning a [Tesla Model 
 Because I've either test driven, researched or just like the look of. Ordered in rough order of cost.
 
 | Make/Model | Notes |
-|-|-|
+| ---------- | ----- |
 | Porsche/Taycan | Big money, looks great |
 | Volvo/EX90 | Flagship 7-seat luxury SUV, 329-670hp options, 300+ miles range, 800V architecture for fast charging, £82,660+, tows 2,500kg |
 | Lotus/Electre | Slighty less money, also looks very fancy |
@@ -25,10 +25,14 @@ Because I've either test driven, researched or just like the look of. Ordered in
 | Volvo/EX40 | Compact SUV (formerly XC40 Recharge), 69-82kWh battery, 296-355 miles range, RWD or AWD, £44-58k, tows 1,800kg |
 | Tesla/Model 3 | Handles better than the Y and has a boot |
 | Cupra/Tavascan | Electric SUV, 77kWh, RWD 286PS or AWD 340PS, 324-353 miles range, £47-62k, can tow 1,000-1,200kg |
+| Vauxhall/Grandland Electric | Mid-size SUV, 73kWh (325 miles) or 98kWh (435 miles coming), 210hp FWD, 160kW charging, £37-40k, practical family option |
 | VW/iD3 | First EV I drove and almost bought it on the spot, but the tech is not a patch on the Model Y |
+| Vauxhall/Astra Electric | Hatchback and estate options, practical family EV, from £34-35k |
 | BMW/i3 | Inexplicably no longer in production, popular but I thought the steering was heavy |
 | Cupra/Born | Sporty hatchback on VW ID.3 platform, no towing capacity |
 | Renault/Megane E-Tech | 60kWh, 220hp, ~285 miles range, 130kW charging, heat pump standard, £33-37k, tows 900kg |
+| Vauxhall/Corsa Electric | Small hatchback, 50-51kWh, 222-266 miles range, 136-156hp, £27-34k, affordable city EV |
+| Vauxhall/Mokka Electric | Compact SUV, 54kWh, 250 miles range, 156hp standard or 281hp GSe (0-62 in 5.9s), tows 1,000kg |
 | Abarth | Big heritage, that's all I know |
 | Peugeot/308 | Nice-looking small car, petrol version is very pleasant to drive |
 | Renault/Zoe | Very popular, certainly not a looker |
