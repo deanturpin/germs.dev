@@ -105,42 +105,14 @@ A very efficient allocation might be:
 
 ## 8. Specific 2026 Leave Plan Example
 
-Using **25 days annual leave** to create **53+ days off**:
+Using **25 days annual leave** to create **54+ days off**:
 
-### Easter Break ✈️
-- **Annual leave:** 7-10 April (Tue-Fri)
-- **Total time off:** 3-13 April = **11 days**
-- **Days used:** 4
-
-### May Extension 🌤️
-- **Annual leave:** 26-29 May (Tue-Fri)
-- **Total time off:** 23 May-1 June = **10 days**
-- **Days used:** 4
-
-### Summer Holiday ☀️
-- **Annual leave:** 24-28 August (Mon-Fri)
-- **Total time off:** 22 August-6 September = **16 days**
-- **Days used:** 5
-
-### Christmas & New Year 🎄
-- **Annual leave:** 29-31 Dec + 4-8 Jan 2027
-- **Total time off:** 25 Dec-10 Jan = **17 days**
-- **Days used:** 8
-
-### Flexible Reserve 📅
-- **Days remaining:** 4 days
-- For emergencies, long weekends, personal appointments
-
----
-
-### Summary Table
-
-| Period | Leave Days | Total Days Off |
-| ------ | ---------- | -------------- |
-| Easter | 4 | 11 |
-| May | 4 | 10 |
-| Summer | 5 | 16 |
-| Christmas/New Year | 8 | 17 |
-| Flexible | 4 | Variable |
-| **TOTAL** | **25** | **54+ days** |
+| Period | Annual Leave Dates | Total Time Off | Leave Days | Days Off |
+| ------ | ------------------ | -------------- | ---------- | -------- |
+| Easter ✈️ | 7-10 April (Tue-Fri) | 3-13 April | 4 | 11 |
+| May Extension 🌤️ | 26-29 May (Tue-Fri) | 23 May-1 June | 4 | 10 |
+| Summer Holiday ☀️ | 24-28 August (Mon-Fri) | 22 August-6 September | 5 | 16 |
+| Christmas & New Year 🎄 | 29-31 Dec + 4-8 Jan 2027 | 25 Dec-10 Jan | 8 | 17 |
+| Flexible Reserve 📅 | As needed | Variable | 4 | Variable |
+| **TOTAL** | — | — | **25** | **54+ days** |
 
