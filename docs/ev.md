@@ -31,7 +31,7 @@ Because I've either test driven, researched or just like the look of. Ordered in
 | BMW/i3 | Inexplicably no longer in production, popular but I thought the steering was heavy |
 | Cupra/Born | Sporty hatchback on VW ID.3 platform, no towing capacity |
 | Renault/Megane E-Tech | 60kWh, 220hp, ~285 miles range, 130kW charging, heat pump standard, £33-37k, tows 900kg |
-| Vauxhall/Corsa Electric | Small hatchback, 50-51kWh, 222-266 miles range, 136-156hp, £27-34k, affordable city EV |
+| Vauxhall/Corsa Electric | Small hatchback, 50-51kWh, 222-266 miles range, 136-156hp, £27-34k, affordable city EV, no towing capacity |
 | Vauxhall/Mokka Electric | Compact SUV, 54kWh, 250 miles range, 156hp standard or 281hp GSe (0-62 in 5.9s), tows 1,000kg |
 | Abarth | Big heritage, that's all I know |
 | Peugeot/308 | Nice-looking small car, petrol version is very pleasant to drive |
