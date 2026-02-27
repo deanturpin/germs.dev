@@ -61,7 +61,7 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 | [VW ID.4](https://duckduckgo.com/?q=VW+ID.4&iax=images&ia=images) | ~1,000–1,200 | 4.58 × 1.85 × 1.63 | GTX tows more |
 | [Audi Q4 e-tron](https://duckduckgo.com/?q=Audi+Q4+e-tron&iax=images&ia=images) | ~1,000–1,200 | 4.59 × 1.87 × 1.63 | ID.4 sibling |
 | [Ford Mustang Mach-E](https://duckduckgo.com/?q=Ford+Mustang+Mach-E&iax=images&ia=images) | ~750–1,000 | 4.71 × 1.88 × 1.60 | At limit |
-| [Renault Megane E-Tech](https://duckduckgo.com/?q=Renault+Megane+E-Tech&iax=images&ia=images) | ~900 | 4.20 × 1.77 × 1.50 | Marginal |
+| [Renault Megane E-Tech](https://duckduckgo.com/?q=Renault+Megane+E-Tech&iax=images&ia=images) | 900 | 4.20 × 1.77 × 1.50 | Below TEROK weight |
 | [Kia Niro EV](https://duckduckgo.com/?q=Kia+Niro+EV&iax=images&ia=images) | ~750 | 4.42 × 1.83 × 1.57 | Light trailers only |
 | [Renault 5 E-Tech](https://duckduckgo.com/?q=Renault+5+E-Tech&iax=images&ia=images) | ~500 | 3.92 × 1.77 × 1.50 | Micro-trailer only |
 | [Cupra Born](https://duckduckgo.com/?q=Cupra+Born&iax=images&ia=images) | 0 | 4.32 × 1.81 × 1.54 | Bike rack only |
