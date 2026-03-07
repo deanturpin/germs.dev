@@ -60,15 +60,6 @@ UK-available electric vehicles, sorted by **maximum braked towing capacity**.
 | [Skoda Enyaq iV](https://duckduckgo.com/?q=Skoda+Enyaq+iV&iax=images&ia=images) | ~1,000–1,200 | 4.65 × 1.88 × 1.62 | Variant dependent |
 | [VW ID.4](https://duckduckgo.com/?q=VW+ID.4&iax=images&ia=images) | ~1,000–1,200 | 4.58 × 1.85 × 1.63 | GTX tows more |
 | [Audi Q4 e-tron](https://duckduckgo.com/?q=Audi+Q4+e-tron&iax=images&ia=images) | ~1,000–1,200 | 4.59 × 1.87 × 1.63 | ID.4 sibling |
-| [Ford Mustang Mach-E](https://duckduckgo.com/?q=Ford+Mustang+Mach-E&iax=images&ia=images) | ~750–1,000 | 4.71 × 1.88 × 1.60 | At limit |
-| [Renault Megane E-Tech](https://duckduckgo.com/?q=Renault+Megane+E-Tech&iax=images&ia=images) | 900 | 4.20 × 1.77 × 1.50 | Below TEROK weight |
-| [Kia Niro EV](https://duckduckgo.com/?q=Kia+Niro+EV&iax=images&ia=images) | ~750 | 4.42 × 1.83 × 1.57 | Light trailers only |
-| [Renault 5 E-Tech](https://duckduckgo.com/?q=Renault+5+E-Tech&iax=images&ia=images) | ~500 | 3.92 × 1.77 × 1.50 | Micro-trailer only |
-| [Cupra Born](https://duckduckgo.com/?q=Cupra+Born&iax=images&ia=images) | 0 | 4.32 × 1.81 × 1.54 | Bike rack only |
-| [Hyundai Inster](https://duckduckgo.com/?q=Hyundai+Inster&iax=images&ia=images) | 0 | 3.83 × 1.61 × 1.58 | No towing |
-| [VW ID.3](https://duckduckgo.com/?q=VW+ID.3&iax=images&ia=images) | 0 | 4.26 × 1.81 × 1.56 | Bike rack only |
-| [MINI Electric](https://duckduckgo.com/?q=MINI+Cooper+Electric&iax=images&ia=images) | 0 | 3.86 × 1.73 × 1.43 | No towing |
-| [Fiat 500e](https://duckduckgo.com/?q=Fiat+500e&iax=images&ia=images) | 0 | 3.63 × 1.68 × 1.53 | No towing |
 
 ---
 
@@ -87,11 +78,13 @@ These are **ideal** for a TEROK loaded to ~1,000 kg:
 
 ---
 
-### ⭐ Smaller EVs that *still work*
+### ⭐ Minimum viable options
 
-With less margin, but viable given TEROK’s size and profile:
+These meet the 1,000 kg requirement but with minimal margin:
 
-- **MINI Countryman Electric** – 1,200 kg  
+- **MINI Countryman Electric** – 1,200 kg
+- **Cupra Tavascan VZ (AWD)** – 1,200 kg
+- **Skoda Enyaq iV / VW ID.4 / Audi Q4 e-tron** – 1,000-1,200 kg (variant dependent)  
 - **VW ID.4 / Audi Q4 e-tron (lower-spec)** – ~1,000–1,200 kg  
 - **Ford Mustang Mach‑E (AWD)** – ~1,000 kg  
 
