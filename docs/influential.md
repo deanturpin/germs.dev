@@ -10,6 +10,7 @@ tags:
 
 Technologies that have had a positive, lasting impact on me as a developer.
 
+- __2026__: OpenStreetMap API, PWA
 - __2025__: ghostty, FastHosts VPS, Claude Code, Vercel, Tailscale, private LLM
 - __2024__: gcc/clang from source, C++ modules, `constexpr` cmath, Dev Containers, Codespaces, ChatGPT voice, -Wnrvo
 - __2023__: Google Benchmark, Haskell, ChatGPT, AVX, Copilot
