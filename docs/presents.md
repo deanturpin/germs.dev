@@ -103,6 +103,10 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - The Octopus Ring
 - [The Great Frog](https://www.thegreatfroglondon.com/): slightly macabre, silver only
 
+## T-shirts
+
+- [And Out Come The Wolves](https://andoutcomethewolves.com/)
+
 ## Home
 
 - [Elephant candlestick](https://www.hi-werns.com/uk/Candle-holder-parrot-on-elephant-pink-blue-white/54381)
