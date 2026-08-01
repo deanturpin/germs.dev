@@ -8,7 +8,7 @@ tags:
 
 # Dean Turpin
 
-## Senior Integration Software Engineer | Team Lead
+## System Architect | Team Lead
 
 Welcome to my online logbook, maintained since 2009.
 
