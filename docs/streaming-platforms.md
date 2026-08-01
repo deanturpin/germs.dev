@@ -11,6 +11,17 @@ tags:
 
 # Streaming music platforms compared
 
+!!! tip "TL;DR"
+
+    - **Best value for money:** Apple Music — hi-res audio at the lowest major
+      price.
+    - **Best per-stream payout:** Qobuz, then Tidal — but check where your
+      listening actually lands.
+    - **Best for supporting artists directly:** Bandcamp, every day and
+      especially on Bandcamp Fridays.
+    - **Widest catalogue and discovery:** Spotify and YouTube, with significant
+      ethical caveats.
+
 A look at how the main music platforms stack up on price, what they pay
 artists, and the ethical questions worth thinking about before you subscribe.
 
@@ -178,16 +189,6 @@ There's a fundamental difference between *renting* access (all the streaming
 services) and *buying* music (Bandcamp, Beatport, Discogs). Streaming is
 convenient and cheap per-listen, but ownership and direct purchase put far more
 money in artists' pockets and don't disappear when you cancel a subscription.
-
-## Bottom line
-
-- **Best value for money:** Apple Music — hi-res audio at the lowest major price.
-- **Best per-stream payout:** Qobuz, then Tidal — but check where your listening
-  actually lands.
-- **Best for supporting artists directly:** Bandcamp, every day and especially on
-  Bandcamp Fridays.
-- **Widest catalogue and discovery:** Spotify and YouTube, with the ethical
-  caveats above.
 
 ---
 
