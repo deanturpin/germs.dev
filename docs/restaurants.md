@@ -24,6 +24,20 @@ tags:
 
 ## 2026
 
+## August
+
+- Kitgum (££): fourth (maybe...) incarnation of the East African / Gujarati restaurant and I would argue the best!
+- Kambi's (££): ended up here quite a lot this year! Very tasty Lebanese fair and decent portions
+
+## July
+
+- Tavus, Brighton Marina (££): very well-cooked Mediterranean cuisines with huge portions, we just shared three starters for lunch between two
+
+## June
+
+- Ginger Tiger and Golden Lion, Todmorden (£): well-presented Thai food in a very special place
+- The Shepherd's Rest Inn, Todmorden (££): excellent fish and chips, earned after a long walk across the hills
+
 ## February
 
 - Stem (£££): sister restaurant of Dilsk, gorgeous spot in the window on a sunny afternoon!
