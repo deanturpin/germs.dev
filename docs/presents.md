@@ -122,6 +122,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Sunglasses
 
+- [Bloobloom](https://bloobloom.com/gb/products/glasses/rider-sun/rider-in-olive)
 - [Ace and Tate](https://www.aceandtate.com/gb/)
 - [Cubitts](https://www.cubitts.com/)
 - [Kirk Originals](https://www.kirkoriginals.com/)

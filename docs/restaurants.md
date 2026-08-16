@@ -26,6 +26,8 @@ tags:
 
 ## August
 
+- Tavola Di Famiglia Osteria (££): excellent value, great pizza! Starters also excellent
+- Aberdeen Seafood (££): great Chinese seafood (fish and chips for me!)
 - Kitgum (££): fourth (maybe...) incarnation of the East African / Gujarati restaurant and I would argue the best!
 - Kambi's (££): ended up here quite a lot this year! Very tasty Lebanese fair and decent portions
 
