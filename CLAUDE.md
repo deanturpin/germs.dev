@@ -45,3 +45,15 @@ The CI pipeline automatically:
 - All content is in the `docs/` directory for MkDocs
 - The README.md is generated during build from key documentation files
 - Site is deployed to GitHub Pages automatically on push to main branch
+
+## SEO
+
+- MkDocs generates `sitemap.xml` from `site_url` on every build; no plugin
+  needed. Anything added to `docs/` appears in it automatically.
+- `docs/robots.txt` is copied verbatim to the site root and points at the
+  sitemap.
+- `overrides/main.html` (wired up by `theme.custom_dir`) adds the Open Graph
+  and Twitter card metadata Material leaves out, plus Person structured data
+  on the home page. Material already handles title, description and canonical.
+- A page can override the shared description with `description:` in its front
+  matter; otherwise `site_description` from `mkdocs.yml` is used.
