@@ -40,6 +40,8 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Buchan](https://buchan.store/products/cheetah-rain-jacket-water-reactive)
+- [COS](https://www.cos.com/en-gb/women/womenswear/coatsjackets/jackets/product/longline-teddy-jacket-dark-brown-1308060001)
 - [All Saints](https://www.allsaints.com/)
 - [Chris Simpson](https://picturesthatigoneanddone.com/collections/clothing)
 - [Colorful Standard](https://colorfulstandard.com)
@@ -61,6 +63,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Wolf and Badger](https://www.wolfandbadger.com/uk/)
 - [Worn On TV](https://wornontv.net/loot/nicholas/)
 - [YMC](https://www.youmustcreate.com/)
+- [JOY](https://www.joythestore.com/products/donalda-animal-teddy-funnel-neck-coat-green?utm_content=C%26C%20Womenswear%20Core%20Catalogue%20TOF%20%7C%20No%20overlay&utm_source=C%26C_Paid_Social%20&variant=56772398186883&utm_medium=C%26C_Paid_Meta&utm_campaign=JOY%20%7C%20A%2B%20Prospecting%20Combined%20%7C%20Conversions&fbclid=IwdGRzaAU0UJpleHRuA2FlbQEwAHBkb2YFYWRpZAAAL-PQeWNVc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeJrkfo5E_JyXZH63WM2xOra0hzGKHOotVCzizJKiR-DTE86RcNuT3jL9Ay0U_aem_hExuOi05HPoOp0VjkGX8bQ&campaign_id=52644639640677&ad_id=52655221377277&utm_id=52644639640677&utm_term=52646153653277&media_type=image&sfnsn=scwspwa)
 
 ## Makeup
 
@@ -119,6 +122,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 - [Eirlys Studio](https://eirlysstudio.com/): art boards
 - [Prescription](https://www.prescriptionart.com/products/pattern-up-soak-up-those-lies)
 - [Thicket Design](https://thicketdesign.com/shop)
+- [Foka Wolf](https://www.fokawolf.com/products/f-k-tradition-print-a3-print)
 
 ## Sunglasses
 

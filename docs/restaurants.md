@@ -24,11 +24,17 @@ tags:
 
 ## 2026
 
+## September
+
+- , Carcassone
+- Auberge des lices, Carcassone
+
 ## August
 
 - Bayte, St. Leonard's (£££): exceptional Venetian small plates
 - Tavola Di Famiglia Osteria (££): excellent value, great pizza! Starters also excellent
 - Aberdeen Seafood (££): great Chinese seafood (fish and chips for me!)
+- Crazy Goose (£££): excellent small plates from the Burnt Orange stable (weirdly no proper dessert menu!)
 - Kitgum (££): fourth (maybe...) incarnation of the East African / Gujarati restaurant and I would argue the best!
 - Kambi's (££): ended up here quite a lot this year! Very tasty Lebanese fair and decent portions
 
