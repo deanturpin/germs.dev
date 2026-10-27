@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Folk](https://www.folkclothing.com/products/folk-blouson-crimson-ripstop-nylon?variant=56157242294650)
 - [Buchan](https://buchan.store/products/cheetah-rain-jacket-water-reactive)
 - [COS](https://www.cos.com/en-gb/women/womenswear/coatsjackets/jackets/product/longline-teddy-jacket-dark-brown-1308060001)
 - [All Saints](https://www.allsaints.com/)
@@ -126,6 +127,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Sunglasses
 
+- [VZN](https://vznframes.com/collections/all?sort_by=manual)
 - [Bloobloom](https://bloobloom.com/gb/products/glasses/rider-sun/rider-in-olive)
 - [Ace and Tate](https://www.aceandtate.com/gb/)
 - [Cubitts](https://www.cubitts.com/)
