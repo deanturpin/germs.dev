@@ -1,0 +1,22 @@
+---
+layout: base.njk
+permalink: /search/
+title: Search
+summary: Search Dean Turpin's online logbook.
+---
+{# Pagefind indexes the built entries after 11ty runs; the index and its UI
+   are served from /search/ alongside this page #}
+<main class="listing">
+  <h1>Search</h1>
+  <div id="search"></div>
+  <noscript><p>Search needs JavaScript. The <a href="/entries/">A to Z</a> and <a href="/tags/">tags</a> work without it.</p></noscript>
+</main>
+<link rel="stylesheet" href="/search/pagefind-ui.css?v={{ build.version }}">
+<script src="/search/pagefind-ui.js?v={{ build.version }}"></script>
+<script>
+  addEventListener("DOMContentLoaded", () => {
+    const ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, resetStyles: false });
+    const q = new URLSearchParams(location.search).get("q");
+    if (q) ui.triggerSearch(q);
+  });
+</script>

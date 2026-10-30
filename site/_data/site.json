@@ -1,0 +1,14 @@
+{
+  "url": "https://germs.dev",
+  "title": "germs.dev",
+  "author": "Dean Turpin",
+  "description": "Dean Turpin's online logbook since 2009: C++, systems, audio, music production and whatever else is worth writing down.",
+  "locale": "en_GB",
+  "repo": "https://github.com/deanturpin/germs.dev",
+  "sameAs": [
+    "https://turpin.dev/",
+    "https://github.com/deanturpin",
+    "https://gitlab.com/deanturpin",
+    "https://www.linkedin.com/in/deanturpin"
+  ]
+}

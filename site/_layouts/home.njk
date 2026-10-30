@@ -1,0 +1,64 @@
+---
+layout: base.njk
+---
+{%- set recent = collections.entries | byUpdated(dates) | head(8) %}
+
+{# The opening: the name huge on the left, the latest changes on the right #}
+<header class="hero">
+  <div class="hero-text">
+    <div class="meter" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+    <h1>germs<span>.dev</span></h1>
+    <p class="tagline">Online logbook since 2009.</p>
+    <p class="lede">Notes, references and recipes kept by <a href="https://turpin.dev/">Dean Turpin</a>: C++ and systems, audio and music production, and whatever else is worth writing down.</p>
+    <form class="find" action="/search/" role="search" target="_self">
+      <label class="visually-hidden" for="q">Search the logbook</label>
+      <input id="q" name="q" type="search" placeholder="Search {{ collections.entries | length }} entries" autocomplete="off">
+      <button class="button" type="submit">Search</button>
+    </form>
+  </div>
+
+  <nav class="board" aria-label="Recently updated">
+    <h2>Recently updated</h2>
+    <ol>
+      {%- for item in recent %}
+      <li><a href="{{ item.url }}"><b>{{ item.data.title }}</b><span>{{ dates[item.inputPath].updated | shortDate }}</span></a></li>
+      {%- endfor %}
+    </ol>
+  </nav>
+</header>
+
+<main>
+  <section class="figures" aria-label="In numbers">
+    <div><b>{{ collections.entries | length }}</b><span>entries, each a markdown file</span></div>
+    <div><b>{{ collections.tagList | length }}</b><span>tags to browse them by</span></div>
+    <div><b>2009</b><span>the year the logbook started</span></div>
+    <div><b>{{ build.date | year - 2009 }}</b><span>years and several site engines later</span></div>
+  </section>
+
+  <h2 class="section-title" id="highlights">Highlights</h2>
+  <div class="features">
+    {%- for slug in ["projects", "keywords", "influential", "tech_stack", "streaming-platforms", "skills"] %}
+    {%- set item = collections.entries | bySlug(slug) %}
+    {%- if item %}
+    <article class="feature{% if loop.first %} dark{% elif loop.index == 2 %} wide{% endif %}">
+      <p class="kicker">/{{ slug }}/</p>
+      <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
+      {%- if item.data.summary %}<p>{{ item.data.summary }}</p>{% endif %}
+    </article>
+    {%- endif %}
+    {%- endfor %}
+  </div>
+
+  <h2 class="section-title" id="topics">Topics</h2>
+  <div class="panel prose topics">
+    {{ content | safe }}
+  </div>
+
+  <div class="panel-head">
+    <h2 class="section-title" id="tags">Most used tags</h2>
+    <a class="small" href="/tags/">All {{ collections.tagList | length }} tags</a>
+  </div>
+  <p class="chips cloud">
+    {%- for tag in collections.tagList | head(40) %}<a href="/tags/{{ tag.name | slug }}/">{{ tag.name }} <small>{{ tag.items | length }}</small></a>{% endfor %}
+  </p>
+</main>

@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+{# docs/tags.md supplies the heading and intro; the cloud is built from every
+   entry's front matter #}
+<main class="listing">
+  <div class="prose intro">{{ content | safe }}</div>
+  <p class="chips cloud">
+    {%- for tag in collections.tagList %}<a id="{{ tag.name | slug }}" href="/tags/{{ tag.name | slug }}/">{{ tag.name }} <small>{{ tag.items | length }}</small></a>{% endfor %}
+  </p>
+</main>

@@ -1,0 +1,9 @@
+{# One row per entry: title, its opening line, when it last changed #}
+<ol class="entries">
+  {%- for item in items %}
+  <li>
+    <a href="{{ item.url }}"><b>{{ item.data.title }}</b>{% if item.data.summary %}<span>{{ item.data.summary }}</span>{% endif %}</a>
+    {%- if dates[item.inputPath] %}<time datetime="{{ dates[item.inputPath].updated | isoDate }}">{{ dates[item.inputPath].updated | shortDate }}</time>{% endif %}
+  </li>
+  {%- endfor %}
+</ol>
