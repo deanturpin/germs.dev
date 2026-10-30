@@ -1,0 +1,19 @@
+---
+layout: base.njk
+permalink: /entries/
+title: Entries
+summary: Every entry in Dean Turpin's online logbook, A to Z.
+---
+<main class="listing">
+  <h1>Entries</h1>
+  <p class="small">All {{ collections.entries | length }}, A to Z. Or browse by <a href="/tags/">tag</a>, or <a href="/search/">search</a>.</p>
+  {%- set letters = [] %}
+  {%- for item in collections.entries %}{% set l = item.data.title | initial %}{% if l not in letters %}{% set letters = (letters.push(l), letters) %}{% endif %}{% endfor %}
+  <nav class="letters" aria-label="Jump to letter">{% for l in letters %}<a href="#letter-{{ l }}" target="_self">{{ l }}</a>{% endfor %}</nav>
+  {%- for l in letters %}
+  <h2 class="letter" id="letter-{{ l }}">{{ l }}</h2>
+  {%- set items = [] %}
+  {%- for item in collections.entries %}{% if (item.data.title | initial) == l %}{% set items = (items.push(item), items) %}{% endif %}{% endfor %}
+  {% include "entry-list.njk" %}
+  {%- endfor %}
+</main>

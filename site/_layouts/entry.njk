@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+{%- set stamp = dates[page.inputPath] %}
+<main class="entry">
+  <article class="prose" data-pagefind-body>
+    {{ content | safe }}
+  </article>
+  <aside class="meta" aria-label="About this entry">
+    {%- if stamp %}
+    <p><span>Updated</span> <time datetime="{{ stamp.updated | isoDate }}">{{ stamp.updated | shortDate }}</time></p>
+    {%- endif %}
+    {%- set entryTags = (tags or []) | reject("equalto", "all") %}
+    {%- if entryTags | length %}
+    <p class="chips">{% for tag in entryTags %}<a href="/tags/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}</p>
+    {%- endif %}
+    <p><a href="{{ site.repo }}/blob/main/{{ page.inputPath | replace('./', '') }}">Markdown source</a> · <a href="{{ site.repo }}/commits/main/{{ page.inputPath | replace('./', '') }}">History</a></p>
+  </aside>
+</main>

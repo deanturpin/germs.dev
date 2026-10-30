@@ -1,0 +1,13 @@
+{# The house menu: the logo shrunk to a home link (left off the home page, where
+   the full one sits below), the pages on the right, the current one underlined #}
+<nav class="nav" aria-label="Pages">
+  {%- if page.url != "/" %}
+  <a class="home" href="/" aria-label="germs.dev home"><span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>germs.dev</a>
+  {%- endif %}
+  <span class="links">
+    {%- for link in [["/entries/", "Entries"], ["/tags/", "Tags"], ["/search/", "Search"]] %}
+    <a href="{{ link[0] }}"{% if page.url == link[0] or (link[0] == "/tags/" and page.url.startsWith("/tags/")) %} aria-current="page"{% endif %}>{{ link[1] }}</a>
+    {%- endfor %}
+    <a href="https://turpin.dev/">turpin.dev</a>
+  </span>
+</nav>

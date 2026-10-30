@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "build": "eleventy && pagefind --site public --output-subdir search",
-    "dev": "eleventy --serve --port=5174"
+    "dev": "npm run build && eleventy --serve --port=5174"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",

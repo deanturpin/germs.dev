@@ -4,56 +4,54 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a MkDocs-based personal portfolio and technical blog site for Dean Turpin, deployed via GitHub Actions. The site is built from markdown files in the `docs/` directory.
+Dean Turpin's online logbook, kept since 2009. Every entry is a markdown file
+in `docs/`, and those files are the source of truth: the site is generated
+from them by 11ty and deployed to GitHub Pages by GitHub Actions. The look
+follows turpin.dev (`deanturpin/deanturpin.github.io`).
 
 ## Build and Deployment
 
-The project uses GitHub Actions with MkDocs to build static pages:
-
 ```bash
-# Install MkDocs locally
-pip install -r requirements.txt
-
-# Build site locally
-mkdocs build
-
-# Serve locally for development
-mkdocs serve
+npm install
+npm run build   # 11ty into public/, then the Pagefind search index
+npm run dev     # build, then serve on port 5174 with live reload
 ```
 
-The CI pipeline automatically:
-- Builds static site with MkDocs
-- Runs markdown linting
-- Deploys to GitHub Pages
+Pushing to `main` deploys: `.github/workflows/deploy.yml` lints the key
+pages, builds and publishes `public/`. It checks out the full history
+because entries are dated from git.
 
 ## Repository Structure
 
-- `docs/` - Contains 250+ markdown articles and documentation
-- `drafts/` - Work-in-progress posts
-- `.github/workflows/deploy.yml` - GitHub Actions CI/CD pipeline
-- `mkdocs.yml` - MkDocs configuration
-- Key pages in navigation:
-  - `docs/keywords.md` - Technical skills and tools
-  - `docs/projects.md` - C++ experience and side projects
-  - `docs/websites.md` - Online presence links
-  - `docs/tech_stack.md` - Current technology stack
-  - `docs/skills.md` - Skills timeline visualisation
-  - `docs/influential.md` - Influential resources
+- `docs/` - the entries, one markdown file each, served at `/<file name>/`.
+  Front matter is optional: `tags`, `title` (otherwise the first `#` heading)
+  and `description` (otherwise the first ordinary paragraph). `docs/index.md`
+  is the Topics panel on the home page and `docs/tags.md` the intro to the
+  tag cloud. `docs/README.md` is not published
+- `site/` - everything that dresses the entries
+  - `_layouts/` - `base.njk` (head, menu, footer), `home.njk`, `entry.njk`,
+    `tags.njk`
+  - `_includes/` - the menu and the entry list shared by listings
+  - `pages/` - pages that aren't entries (A to Z, tag pages, search, 404,
+    sitemap), added as virtual templates by `eleventy.config.js`
+  - `_data/` - `site.json` metadata, `dates.js` (created and updated dates
+    per entry from one `git log` pass, following renames and copies),
+    `build.js` (asset version)
+  - `assets/` - `style.css`, the Oswald face and the favicon
+- `drafts/` - work-in-progress posts, not published
 
-## Development Notes
+## Markdown handling
 
-- All content is in the `docs/` directory for MkDocs
-- The README.md is generated during build from key documentation files
-- Site is deployed to GitHub Pages automatically on push to main branch
+`eleventy.config.js` keeps MkDocs-era markdown working: links written as
+`daw.md`, `tags#cpp` or `/post/size` are pointed at the 11ty URLs, `!!! tip`
+admonitions become asides, and `mermaid` fences are drawn in the browser.
+Markdown is not run through a template engine, so `{{` in code is safe.
+Tags are freehand and grouped by slug, so `c++` and `cpp` share a page.
 
 ## SEO
 
-- MkDocs generates `sitemap.xml` from `site_url` on every build; no plugin
-  needed. Anything added to `docs/` appears in it automatically.
-- `docs/robots.txt` is copied verbatim to the site root and points at the
-  sitemap.
-- `overrides/main.html` (wired up by `theme.custom_dir`) adds the Open Graph
-  and Twitter card metadata Material leaves out, plus Person structured data
-  on the home page. Material already handles title, description and canonical.
-- A page can override the shared description with `description:` in its front
-  matter; otherwise `site_description` from `mkdocs.yml` is used.
+- `site/pages/sitemap.njk` builds `/sitemap.xml`, with each entry's
+  `lastmod` from git.
+- `docs/robots.txt` is copied to the site root and points at the sitemap.
+- `site/_layouts/base.njk` renders description, canonical, Open Graph and
+  Twitter card metadata, plus Person structured data on the home page.
