@@ -28,6 +28,7 @@ tags:
 
 - Hawksmoor, London
 - The Ambassador's Clubhouse, London
+- Bleecker Burger, London
 
 ## September
 
