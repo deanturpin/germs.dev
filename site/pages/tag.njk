@@ -1,0 +1,18 @@
+---
+layout: base.njk
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag.name | slug }}/"
+eleventyComputed:
+  title: "Tagged {{ tag.name }}"
+  summary: "{{ tag.items | length }} entries in Dean Turpin's logbook tagged {{ tag.name }}."
+---
+<main class="listing">
+  <p class="kicker"><a href="/tags/">Tags</a></p>
+  <h1>{{ tag.name }}</h1>
+  <p class="small">{{ tag.items | length }} {{ "entry" if tag.items | length == 1 else "entries" }}</p>
+  {%- set items = tag.items %}
+  {% include "entry-list.njk" %}
+</main>

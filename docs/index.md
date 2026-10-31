@@ -1,18 +1,11 @@
 ---
+title: Dean Turpin
 tags:
   - skills
   - programming-languages
   - cpp
   - tools
 ---
-
-# Dean Turpin
-
-## System Architect | Team Lead
-
-Welcome to my online logbook, maintained since 2009.
-
-[cpp](tags#cpp) | [tools](tags#tools) | [music-production](tags#music-production) | [hardware](tags#hardware) | [reviews](tags#reviews) | [programming-languages](tags#programming-languages) | [audio-tech](tags#audio-tech) | [operating-systems](tags#operating-systems) | [algorithms](tags#algorithms) | [containers](tags#containers)
 
 ## Programming & Development
 
@@ -37,5 +30,3 @@ Welcome to my online logbook, maintained since 2009.
 **Creative:** [photography](tags#photography), [cooking](tags#food), [travel recommendations](tags#travel)
 
 **Reviews:** [technology evaluations](tags#reviews), [equipment comparisons](tags#hardware)
-
-Browse by topic tags or use the search function to explore content.

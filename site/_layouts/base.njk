@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {%- set pageTitle = site.title if page.url == "/" else (title ~ " · " ~ site.title) %}
+    {%- set pageDescription = summary or site.description %}
+    <title>{{ pageTitle }}</title>
+
+    {# Search and social metadata: front matter wins, then the entry's own
+       opening paragraph, then the site default #}
+    <meta name="description" content="{{ pageDescription }}">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    <meta property="og:type" content="{{ 'website' if page.url == '/' else 'article' }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="{{ site.locale }}">
+    <meta property="og:title" content="{{ pageTitle }}">
+    <meta property="og:description" content="{{ pageDescription }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+    {# No artwork to show, so a text-only card rather than a broken image #}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ pageTitle }}">
+    <meta name="twitter:description" content="{{ pageDescription }}">
+
+    <meta name="theme-color" content="#0b7a58">
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    <link rel="preload" href="/assets/fonts/oswald.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/style.css?v={{ build.version }}">
+    {%- if page.url == "/" %}
+
+    {# Structured data so search engines tie the domain to a person, not a brand #}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "url": "{{ site.url }}/",
+      "jobTitle": "System Architect",
+      "description": "{{ site.description }}",
+      "sameAs": [{% for link in site.sameAs %}"{{ link }}"{% if not loop.last %}, {% endif %}{% endfor %}]
+    }
+    </script>
+    {%- endif %}
+</head>
+<body>
+{% include "nav.njk" %}
+{{ content | safe }}
+<footer>
+  <p>Dean Turpin's online logbook, curated since 2009. Written in markdown, <a href="{{ site.repo }}">kept on GitHub</a>.</p>
+  <p><a href="https://turpin.dev/">turpin.dev</a> · <a href="https://github.com/deanturpin">GitHub</a> · <a href="https://www.linkedin.com/in/deanturpin">LinkedIn</a></p>
+</footer>
+{%- if content.includes('class="mermaid"') %}
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true, theme: matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "neutral" });
+</script>
+{%- endif %}
+</body>
+</html>

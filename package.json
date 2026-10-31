@@ -1,0 +1,17 @@
+{
+  "name": "germs.dev",
+  "version": "1.0.0",
+  "description": "Dean Turpin's online logbook, built from the markdown in docs/",
+  "private": true,
+  "scripts": {
+    "build": "eleventy && pagefind --site public --output-subdir search",
+    "dev": "npm run build && eleventy --serve --port=5174"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "pagefind": "^1.4.0"
+  }
+}
