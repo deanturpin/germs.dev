@@ -24,6 +24,11 @@ tags:
 
 ## 2026
 
+## October
+
+- Hawksmoor, London
+- The Ambassador's Clubhouse, London
+
 ## September
 
 - , Carcassone
