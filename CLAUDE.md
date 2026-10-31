@@ -6,8 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Dean Turpin's online logbook, kept since 2009. Every entry is a markdown file
 in `docs/`, and those files are the source of truth: the site is generated
-from them by 11ty and deployed to GitHub Pages by GitHub Actions. The look
-follows turpin.dev (`deanturpin/deanturpin.github.io`).
+from them by 11ty and deployed to GitHub Pages by GitHub Actions. The layout
+and type follow turpin.dev (`deanturpin/deanturpin.github.io`), with its own
+green palette rather than turpin.dev's orange.
 
 ## Build and Deployment
 
@@ -37,7 +38,8 @@ because entries are dated from git.
   - `_data/` - `site.json` metadata, `dates.js` (created and updated dates
     per entry from one `git log` pass, following renames and copies),
     `build.js` (asset version)
-  - `assets/` - `style.css`, the Oswald face and the favicon
+  - `assets/` - `style.css` (colour tokens at the top), the Oswald face and
+    the favicon
 - `drafts/` - work-in-progress posts, not published
 
 ## Markdown handling
