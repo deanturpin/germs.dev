@@ -32,7 +32,6 @@ tags:
 
 ## September
 
-- , Carcassone
 - Auberge des lices, Carcassone
 
 ## August
