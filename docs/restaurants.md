@@ -26,9 +26,9 @@ tags:
 
 ## October
 
-- Hawksmoor, London (£££)
-- The Ambassador's Clubhouse, London (££££)
-- Bleecker Burger, London (££)
+- Hawksmoor, London (£££): had a lunchtime set menu and couldn't fault any of it
+- The Ambassador's Clubhouse, London (££££): really hard to get in so book in advance
+- Bleecker Burger, London (££): great burger, perfectly cooked
 
 ## September
 
