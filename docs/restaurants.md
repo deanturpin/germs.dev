@@ -26,9 +26,9 @@ tags:
 
 ## October
 
-- Hawksmoor, London
-- The Ambassador's Clubhouse, London
-- Bleecker Burger, London
+- Hawksmoor, London (£££)
+- The Ambassador's Clubhouse, London (££££)
+- Bleecker Burger, London (££)
 
 ## September
 
