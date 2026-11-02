@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Sugarhill Brighton](https://www.sugarhillbrighton.com/products/solana-knitted-bomber-leopard-palms): Solana knitted bomber, leopard palms
 - [Folk](https://www.folkclothing.com/products/folk-blouson-crimson-ripstop-nylon?variant=56157242294650)
 - [Buchan](https://buchan.store/products/cheetah-rain-jacket-water-reactive)
 - [COS](https://www.cos.com/en-gb/women/womenswear/coatsjackets/jackets/product/longline-teddy-jacket-dark-brown-1308060001)
