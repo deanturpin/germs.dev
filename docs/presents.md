@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Abercrombie & Fitch](https://www.abercrombie.com/shop/uk/p/collarless-mid-length-faux-fur-shearling-coat-63152370-1005): collarless mid-length faux fur shearling coat
 - [Sugarhill Brighton](https://www.sugarhillbrighton.com/products/solana-knitted-bomber-leopard-palms): Solana knitted bomber, leopard palms
 - [Folk](https://www.folkclothing.com/products/folk-blouson-crimson-ripstop-nylon?variant=56157242294650)
 - [Buchan](https://buchan.store/products/cheetah-rain-jacket-water-reactive)
