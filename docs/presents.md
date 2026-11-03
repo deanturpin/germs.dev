@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Oysho](https://www.oysho.com/gb/primaloft-waterrepellent-padded-jacket-l36539749): PrimaLoft water-repellent padded jacket
 - [Niihai](https://niihai.com/products/the-buckle-cardigan-dress-in-black): buckle cardigan dress in black
 - [Abercrombie & Fitch](https://www.abercrombie.com/shop/uk/p/collarless-mid-length-faux-fur-shearling-coat-63152370-1005): collarless mid-length faux fur shearling coat
 - [Sugarhill Brighton](https://www.sugarhillbrighton.com/products/solana-knitted-bomber-leopard-palms): Solana knitted bomber, leopard palms
