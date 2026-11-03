@@ -99,6 +99,10 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 - [South Lodge](https://www.exclusive.co.uk/the-spa-at-south-lodge/)
 
+## Health
+
+- [Hume Health](https://humehealth.com/en-gb): smart body composition scale and health tracker
+
 ## Jewellery
 
 - [7879](https://7879.co/): pure gold, most expensive, solid
