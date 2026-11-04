@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Vivere London](https://viverelondon.com/products/azra-cow-print-jacket): Azra cow print jacket
 - [Oysho](https://www.oysho.com/gb/primaloft-waterrepellent-padded-jacket-l36539749): PrimaLoft water-repellent padded jacket
 - [Niihai](https://niihai.com/products/the-buckle-cardigan-dress-in-black): buckle cardigan dress in black
 - [Abercrombie & Fitch](https://www.abercrombie.com/shop/uk/p/collarless-mid-length-faux-fur-shearling-coat-63152370-1005): collarless mid-length faux fur shearling coat
