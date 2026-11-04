@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Wild Swans](https://wild-swans.com/products/essentiel-antwerp-kamoo-cardigan-dusty-green): Essentiel Antwerp Kamoo cardigan, dusty green
 - [Vivere London](https://viverelondon.com/products/azra-cow-print-jacket): Azra cow print jacket
 - [Oysho](https://www.oysho.com/gb/primaloft-waterrepellent-padded-jacket-l36539749): PrimaLoft water-repellent padded jacket
 - [Niihai](https://niihai.com/products/the-buckle-cardigan-dress-in-black): buckle cardigan dress in black
