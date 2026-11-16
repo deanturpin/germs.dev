@@ -40,6 +40,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 
 ## Clothes
 
+- [Mint Velvet](https://mintvelvet.com/products/burgundy-funnel-neck-jacket): burgundy funnel neck jacket
 - [Wild Swans](https://wild-swans.com/products/essentiel-antwerp-kamoo-cardigan-dusty-green): Essentiel Antwerp Kamoo cardigan, dusty green
 - [Vivere London](https://viverelondon.com/products/azra-cow-print-jacket): Azra cow print jacket
 - [Oysho](https://www.oysho.com/gb/primaloft-waterrepellent-padded-jacket-l36539749): PrimaLoft water-repellent padded jacket
