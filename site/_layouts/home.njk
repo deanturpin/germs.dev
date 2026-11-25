@@ -28,6 +28,21 @@ layout: base.njk
 </header>
 
 <main>
+  {# Dean's apps, promoted above everything else, as on turpin.dev #}
+  <h2 class="section-title" id="apps">Apps by Dean</h2>
+  <div class="features apps">
+    <article class="feature dark">
+      <p class="kicker">voski.app</p>
+      <h3><a href="https://voski.app/">Voski</a></h3>
+      <p>A private, hands-free interpreter for two people sharing one phone. Speech, translation and voices all run on the device, offline. iPhone and Android.</p>
+    </article>
+    <article class="feature dark">
+      <p class="kicker">idapp.io</p>
+      <h3><a href="https://idapp.io/">idapp</a></h3>
+      <p>Music IDs without Shazam: a multi-platform song ID app.</p>
+    </article>
+  </div>
+
   <section class="figures" aria-label="In numbers">
     <div><b>{{ collections.entries | length }}</b><span>entries, each a markdown file</span></div>
     <div><b>{{ collections.tagList | length }}</b><span>tags to browse them by</span></div>
