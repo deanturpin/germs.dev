@@ -37,6 +37,7 @@ Inspiration for presents. Some of the shops are in Brighton, UK.
 ### Other Shoes
 
 - [GH Bass](https://www.ghbass-eu.com/)
+- [Mahabis](https://mahabis.com/products/curve-slippers): curve slippers
 
 ## Clothes
 
